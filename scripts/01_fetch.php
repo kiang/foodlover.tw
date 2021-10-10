@@ -21,7 +21,7 @@ foreach($areas AS $city => $zones) {
             $category = str_replace('/', '_', $category);
             $rawFile = $cityPath . '/' . $zone . '-' . $category . '.json';
             $json = json_decode(file_get_contents($zoneUrl), true);
-            file_put_contents($rawFile, json_encode($rawJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            file_put_contents($rawFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
             foreach($json AS $item) {
                 ++$count;
                 $keys = array_keys($item);
