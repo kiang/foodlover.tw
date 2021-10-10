@@ -1,7 +1,8 @@
 <?php
+$basePath = dirname(__DIR__);
 $categories = ['餐飲', '夜市/市場攤販', '糕餅', '觀光工廠', '百貨美食街',];
 $areas = json_decode(file_get_contents(__DIR__ . '/city.json'), true);
-$rawPath = __DIR__ . '/raw';
+$rawPath = $basePath . '/raw';
 
 $pool = [];
 $count = 0;
@@ -19,10 +20,8 @@ foreach($areas AS $city => $zones) {
             $zoneUrl .= 'area=' . urlencode($zone);
             $category = str_replace('/', '_', $category);
             $rawFile = $cityPath . '/' . $zone . '-' . $category . '.json';
-            if(!file_exists($rawFile)) {
-                file_put_contents($rawFile, file_get_contents($zoneUrl));
-            }
-            $json = json_decode(file_get_contents($rawFile), true);
+            $json = json_decode(file_get_contents($zoneUrl), true);
+            file_put_contents($rawFile, json_encode($rawJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
             foreach($json AS $item) {
                 ++$count;
                 $keys = array_keys($item);
