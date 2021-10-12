@@ -1211,6 +1211,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "池上鄉農會觀光工廠金色豐收館",
+                "category": "觀光工廠",
+                "area": "池上鄉",
+                "market_address": "台東縣池上鄉新興村7鄰85-6號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.203812,
+                    23.11213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "賴老師的家企業社",
                 "category": "餐飲",
                 "area": "池上鄉",

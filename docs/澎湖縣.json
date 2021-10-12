@@ -769,6 +769,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "口福小吃部",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市陽明里文林路２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.576323,
+                    23.571977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "好朋友素食屋",
                 "category": "餐飲",
                 "area": "馬公市",

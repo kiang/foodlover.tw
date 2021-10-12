@@ -8283,6 +8283,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "摩哦的店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區磚??里玉山路２００．２０２．２０６．２０６之１號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426311,
+                    23.472235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "川流不息饌堂",
                 "category": "餐飲",
                 "area": "西區",

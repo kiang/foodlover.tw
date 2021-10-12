@@ -17395,6 +17395,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "花田盛事有限公司",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區普慶里普忠路６１８、６２０、６２２、６２６、６２８、６３０、６３２號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.249956,
+                    24.956636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "送子鳥國際有限公司",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -44657,6 +44674,23 @@
                 "coordinates": [
                     121.29596735596,
                     25.009673428398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "欣葉國際餐飲股份有限公司桃園分公司",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區同安里同德五街６１、６５、６７、６９、７１號１０樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30057,
+                    25.014473
                 ]
             }
         },
