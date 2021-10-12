@@ -14,7 +14,7 @@ foreach($areas AS $city => $zones) {
     }
     foreach($zones AS $zone) {
         foreach($categories AS $category) {
-            $zoneUrl = 'https://foodlover.tw/goodfood/query/shop/v2?shop=&zone=&';
+            $zoneUrl = 'https://foodlover.tw/goodfood/query/shop/v2?shop=&zone=&pay_tool=%E4%BF%A1%E7%94%A8%E5%8D%A1&pay_tool=%E8%A1%8C%E5%8B%95%E6%94%AF%E4%BB%98&pay_tool=%E9%9B%BB%E5%AD%90%E7%A5%A8%E8%AD%89';
             $zoneUrl .= 'category=' . urlencode($category) . '&';
             $zoneUrl .= 'city=' . urlencode($city) . '&';
             $zoneUrl .= 'area=' . urlencode($zone);
