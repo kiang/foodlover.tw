@@ -60,7 +60,7 @@ $docsPath = $basePath . '/docs';
 if(!file_exists($docsPath)) {
     mkdir($docsPath, 0777, true);
 }
-$paylist = [];
+$paylist = $categories = [];
 foreach ($docs as $city => $points) {
     $fc = [
         'type' => 'FeatureCollection',
@@ -71,6 +71,9 @@ foreach ($docs as $city => $points) {
             $point['longitude'],
             $point['latitude'],
         ];
+        unset($point['index']);
+        unset($point['zone']);
+        unset($point['city']);
         unset($point['longitude']);
         unset($point['latitude']);
         foreach($point['pay_list'] AS $pay) {
@@ -78,6 +81,12 @@ foreach ($docs as $city => $points) {
                 $paylist[$pay] = 0;
             }
             ++$paylist[$pay];
+        }
+        foreach($point['category'] AS $cat) {
+            if(!isset($categories[$cat])) {
+                $categories[$cat] = 0;
+            }
+            ++$categories[$cat];
         }
         foreach($point AS $k => $v) {
             if(is_array($v)) {
@@ -95,3 +104,5 @@ foreach ($docs as $city => $points) {
     }
     file_put_contents($docsPath . '/' . $city . '.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
+print_r($categories);
+print_r($paylist);
