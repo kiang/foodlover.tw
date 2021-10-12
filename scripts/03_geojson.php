@@ -68,8 +68,8 @@ foreach ($docs as $city => $points) {
     ];
     foreach ($points as $point) {
         $coordinates = [
-            $point['longitude'],
-            $point['latitude'],
+            floatval($point['longitude']),
+            floatval($point['latitude']),
         ];
         unset($point['index']);
         unset($point['zone']);
