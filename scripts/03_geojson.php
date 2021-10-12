@@ -23,6 +23,9 @@ while ($line = fgetcsv($fh, 2048)) {
 $fh = fopen($basePath . '/raw/ref.csv', 'r');
 fgetcsv($fh, 2048);
 while ($line = fgetcsv($fh, 2048)) {
+    if(isset($line[4]) && false !== strpos($line[4], 'TOWN 欄位不相同')) {
+        continue;
+    }
     if (!empty($line[3])) {
         $ref[$line[0]] = [$line[2], $line[3]];
     }
