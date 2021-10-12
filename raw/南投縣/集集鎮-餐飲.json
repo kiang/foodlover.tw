@@ -1,28 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "享耀早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路１０９號一樓"
-    },
-    {
-        "index": 2,
-        "shop": "紅紫雅行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮林尾里林尾路４００號"
-    },
-    {
-        "index": 3,
         "shop": "芮欣茶行",
         "category": [
             "餐飲"
@@ -30,10 +8,21 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里吳厝里民生路９１號"
+        "market_address": "南投縣集集鎮吳厝里吳厝里民生路９１號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 4,
+        "index": 2,
         "shop": "八方集集麵食館",
         "category": [
             "餐飲"
@@ -41,43 +30,15 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里集集街１１號"
+        "market_address": "南投縣集集鎮集集里集集街１１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 5,
-        "shop": "路可小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里集集街２號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "洽成商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里集集街８５號１樓"
-    },
-    {
-        "index": 7,
-        "shop": "福興飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路１５１號"
-    },
-    {
-        "index": 8,
+        "index": 3,
         "shop": "南軒小館",
         "category": [
             "餐飲"
@@ -85,65 +46,14 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路２００之１號"
+        "market_address": "南投縣集集鎮吳厝里民生路２００之１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 9,
-        "shop": "鑫玉茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮田寮里龍泉巷１５號"
-    },
-    {
-        "index": 10,
-        "shop": "吉鑫飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路６７－１號"
-    },
-    {
-        "index": 11,
-        "shop": "集富園餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里八張街１８１號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "祥霖美食料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮田寮里龍泉巷１―２９號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "湘集牛肉麵水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路１９０號１樓"
-    },
-    {
-        "index": 14,
+        "index": 4,
         "shop": "隆豪茶行",
         "category": [
             "餐飲"
@@ -151,21 +61,17 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路１１１號１樓"
+        "market_address": "南投縣集集鎮吳厝里民生路１１１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 15,
-        "shop": "香榭雅筑咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里１鄰民權路２６０號１樓"
-    },
-    {
-        "index": 16,
+        "index": 5,
         "shop": "潮客時尚茶飲",
         "category": [
             "餐飲"
@@ -173,21 +79,13 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里吳厝里民生路７１號１樓"
+        "market_address": "南投縣集集鎮吳厝里吳厝里民生路７１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 17,
-        "shop": "集集吃飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民權路２５６號"
-    },
-    {
-        "index": 18,
+        "index": 6,
         "shop": "峰古早味傳統美食",
         "category": [
             "餐飲"
@@ -195,263 +93,13 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮和平里民生路１７５號"
+        "market_address": "南投縣集集鎮和平里民生路１７５號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 19,
-        "shop": "集集咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里玉映巷２９號"
-    },
-    {
-        "index": 20,
-        "shop": "集集冰城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里吳厝里１０鄰民生路１９８―１號"
-    },
-    {
-        "index": 21,
-        "shop": "金燕子餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里集鹿路２號"
-    },
-    {
-        "index": 22,
-        "shop": "青石餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里成功路２２８號"
-    },
-    {
-        "index": 23,
-        "shop": "漂流木景觀花園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里集鹿路１８４號"
-    },
-    {
-        "index": 24,
-        "shop": "不一樣小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里１７鄰民生路１６５號"
-    },
-    {
-        "index": 25,
-        "shop": "六十年代麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里集民街２０號"
-    },
-    {
-        "index": 26,
-        "shop": "集集嘉義雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路９５號"
-    },
-    {
-        "index": 27,
-        "shop": "玉燕小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮和平里民生路２０１號"
-    },
-    {
-        "index": 28,
-        "shop": "老丁牛肉麵水餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路１１９號"
-    },
-    {
-        "index": 29,
-        "shop": "方永裕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里集集街８號"
-    },
-    {
-        "index": 30,
-        "shop": "八張漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民生路１６―１８號"
-    },
-    {
-        "index": 31,
-        "shop": "誠基和食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里民生路１０４號"
-    },
-    {
-        "index": 32,
-        "shop": "美鳳泰式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路２１２號"
-    },
-    {
-        "index": 33,
-        "shop": "石年傑",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里集集街３０號"
-    },
-    {
-        "index": 34,
-        "shop": "來來食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民生路５巷１９號"
-    },
-    {
-        "index": 35,
-        "shop": "陳翰修",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里０１２鄰民生路１７０號"
-    },
-    {
-        "index": 36,
-        "shop": "集集北方麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路１１９號"
-    },
-    {
-        "index": 37,
-        "shop": "集吉早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里民生路１２２號"
-    },
-    {
-        "index": 38,
-        "shop": "阿霞牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮田寮里００１鄰龍泉巷２４―７號"
-    },
-    {
-        "index": 39,
-        "shop": "新天地飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里名水路二段２０１號對面"
-    },
-    {
-        "index": 40,
-        "shop": "豐富鮮果行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里吳厝里民生路１６２號"
-    },
-    {
-        "index": 41,
-        "shop": "嘉美便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民權路１１２號１樓"
-    },
-    {
-        "index": 42,
+        "index": 7,
         "shop": "老爹飲料店",
         "category": [
             "餐飲"
@@ -459,164 +107,15 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路１９２號"
+        "market_address": "南投縣集集鎮吳厝里民生路１９２號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 43,
-        "shop": "陳宥怡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路２０６號"
-    },
-    {
-        "index": 44,
-        "shop": "石記米糕商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里民生路１３２號"
-    },
-    {
-        "index": 45,
-        "shop": "越南家鄉味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路６３－１３號"
-    },
-    {
-        "index": 46,
-        "shop": "鹿港??魠魚??集集店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里吳厝里１０鄰民生路１８６號"
-    },
-    {
-        "index": 47,
-        "shop": "天然素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路２５２號"
-    },
-    {
-        "index": 48,
-        "shop": "琳家元居",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路８９號"
-    },
-    {
-        "index": 49,
-        "shop": "昌億小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民生路１５－１５號"
-    },
-    {
-        "index": 50,
-        "shop": "好口味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路８３號１樓"
-    },
-    {
-        "index": 51,
-        "shop": "阿妹冰茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里民生路１３９號"
-    },
-    {
-        "index": 52,
-        "shop": "德利茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮玉映里民生路１１２號"
-    },
-    {
-        "index": 53,
-        "shop": "麗珠小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里民生路１５－２８號"
-    },
-    {
-        "index": 54,
-        "shop": "吉村食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮吳厝里民生路１９４號"
-    },
-    {
-        "index": 55,
-        "shop": "天香自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮集集里市前街９號"
-    },
-    {
-        "index": 56,
-        "shop": "八張小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "集集鎮",
-        "market_address": "南投縣集集鎮八張里文心街２９１巷１１號"
-    },
-    {
-        "index": 57,
+        "index": 8,
         "shop": "和風山寨",
         "category": [
             "餐飲"
@@ -624,6 +123,9 @@
         "zone": "中彰投",
         "city": "南投縣",
         "area": "集集鎮",
-        "market_address": "南投縣集集鎮和平里１鄰民生路２８９號"
+        "market_address": "南投縣集集鎮和平里１鄰民生路２８９號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

@@ -2,19 +2,29 @@
     {
         "index": 1,
         "shop": "新百祿燕窩觀光工廠",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "南區",
-        "market_address": "台南市南區新和路38號"
+        "market_address": "台南市南區新和路38號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 2,
         "shop": "黑橋牌香腸博物館",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "南區",
-        "market_address": "台南市南區新忠路2號"
+        "market_address": "台南市南區新忠路2號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

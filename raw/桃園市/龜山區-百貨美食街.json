@@ -1,11 +1,20 @@
 [
     {
         "index": 1,
-        "shop": "環球購物中心股份有限公司林口分公司",
-        "category": "百貨美食街",
+        "shop": "Global Mall 桃園A8",
+        "category": [
+            "百貨美食街"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區文化里復興一路８號"
+        "market_address": "桃園市龜山區文化里復興一路８號",
+        "pay_list": [
+            "悠遊卡",
+            "信用卡",
+            "橘子支付",
+            "悠遊付",
+            "Pi 拍錢包"
+        ]
     }
 ]

@@ -8,7 +8,10 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里中山路２１１號１樓"
+        "market_address": "雲林縣西螺鎮漢光里中山路２１１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 2,
@@ -19,21 +22,13 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮中和里延平路１３０號１樓"
+        "market_address": "雲林縣西螺鎮中和里延平路１３０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 3,
-        "shop": "吉士美麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里福興路１６２號１樓"
-    },
-    {
-        "index": 4,
         "shop": "正莊食品店",
         "category": [
             "糕餅"
@@ -41,10 +36,18 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮光華里平和路１８２號"
+        "market_address": "雲林縣西螺鎮光華里平和路１８２號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 5,
+        "index": 4,
         "shop": "義華食品行",
         "category": [
             "糕餅"
@@ -52,65 +55,13 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里中山路１８１號"
+        "market_address": "雲林縣西螺鎮正興里中山路１８１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 6,
-        "shop": "永香珍玩具食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里光復西路１７３號"
-    },
-    {
-        "index": 7,
-        "shop": "福成珍餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮福興里福興路１８５號１Ｆ"
-    },
-    {
-        "index": 8,
-        "shop": "游馨珍餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮永安里市後街２４巷３號"
-    },
-    {
-        "index": 9,
-        "shop": "美味香食品店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮光華里建興路２５５號"
-    },
-    {
-        "index": 10,
-        "shop": "莊義珍豆餡工廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮永安里大同路２２３號"
-    },
-    {
-        "index": 11,
+        "index": 5,
         "shop": "沐崧創意烘焙",
         "category": [
             "糕餅"
@@ -118,87 +69,13 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里平和南路３０９號１樓"
+        "market_address": "雲林縣西螺鎮漢光里平和南路３０９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 12,
-        "shop": "合豐珍麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里１３鄰菜市街６６號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "采合工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮廣福里００９鄰大同路６７號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "劉家烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮振興里振興１５１號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "勝昌食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮福田里社口６８－４１號"
-    },
-    {
-        "index": 16,
-        "shop": "農食運轉有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮中興里新興路２５８號１樓"
-    },
-    {
-        "index": 17,
-        "shop": "寬品企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里自強路１３４號３樓"
-    },
-    {
-        "index": 18,
-        "shop": "上誼有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里光復西路８２之１號２樓"
-    },
-    {
-        "index": 19,
+        "index": 6,
         "shop": "曾家莊食品廠有限公司",
         "category": [
             "糕餅"
@@ -206,94 +83,25 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里福安街１１１號１樓、１１３號１樓"
+        "market_address": "雲林縣西螺鎮正興里福安街１１１號１樓、１１３號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 20,
-        "shop": "養生十舖生物科技有限公司",
+        "index": 7,
+        "shop": "農食運轉有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里建興路３９巷３６號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "五洲食品廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮永安里大同路１７１號"
-    },
-    {
-        "index": 22,
-        "shop": "大樹林食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮振興里振興２４６號"
-    },
-    {
-        "index": 23,
-        "shop": "旺慶食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮正興里０１３鄰光復西路１５５巷２８號１樓"
-    },
-    {
-        "index": 24,
-        "shop": "蕭凱嶸",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮光華里延平路２１３號"
-    },
-    {
-        "index": 25,
-        "shop": "銘琪商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮漢光里０１２鄰光復西路１８１號騎樓"
-    },
-    {
-        "index": 26,
-        "shop": "花園藝術烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮大園里００２鄰大同路５４巷３號"
-    },
-    {
-        "index": 27,
-        "shop": "黃記食品店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "西螺鎮",
-        "market_address": "雲林縣西螺鎮中興里西興路１６５號"
+        "market_address": "雲林縣西螺鎮中興里新興路２５８號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "街口",
+            "LINE Pay Money"
+        ]
     }
 ]

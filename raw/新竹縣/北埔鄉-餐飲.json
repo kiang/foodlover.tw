@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "興融飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村０１３鄰北埔街６９號１樓"
-    },
-    {
-        "index": 2,
         "shop": "創勝商行",
         "category": [
             "餐飲"
@@ -19,10 +8,15 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１５２號１樓"
+        "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１５２號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 3,
+        "index": 2,
         "shop": "寶蓮商行",
         "category": [
             "餐飲"
@@ -30,10 +24,14 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村北埔街４２號１樓"
+        "market_address": "新竹縣北埔鄉北埔村北埔街４２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 4,
+        "index": 3,
         "shop": "蕪芷企業社",
         "category": [
             "餐飲"
@@ -41,10 +39,14 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉外坪村００８鄰六股２０―１號"
+        "market_address": "新竹縣北埔鄉外坪村００８鄰六股２０―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 5,
+        "index": 4,
         "shop": "大豐收庭苑餐館",
         "category": [
             "餐飲"
@@ -52,10 +54,14 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００７鄰中正路３０之１號"
+        "market_address": "新竹縣北埔鄉北埔村００７鄰中正路３０之１號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 6,
+        "index": 5,
         "shop": "一等香麵食館",
         "category": [
             "餐飲"
@@ -63,54 +69,15 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００７鄰中山路４４號"
+        "market_address": "新竹縣北埔鄉北埔村００７鄰中山路４４號",
+        "pay_list": [
+            "街口",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 7,
-        "shop": "山吹舍工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村００４鄰公園街１６巷１１號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "幸運草良口冰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００９鄰城門街７６號１樓"
-    },
-    {
-        "index": 9,
-        "shop": "老時光商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村００４鄰公園街１８巷１０號"
-    },
-    {
-        "index": 10,
-        "shop": "梅亭飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉外坪村８鄰六股１１之７號"
-    },
-    {
-        "index": 11,
+        "index": 6,
         "shop": "福美軒飲食店",
         "category": [
             "餐飲"
@@ -118,21 +85,16 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興街１３２號"
+        "market_address": "新竹縣北埔鄉南興街１３２號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 12,
-        "shop": "上品擂茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００６鄰南興街８９號"
-    },
-    {
-        "index": 13,
+        "index": 7,
         "shop": "泥磚屋小吃店",
         "category": [
             "餐飲"
@@ -140,10 +102,15 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村１鄰長春街１１３號"
+        "market_address": "新竹縣北埔鄉埔尾村１鄰長春街１１３號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 14,
+        "index": 8,
         "shop": "鄒記菜包",
         "category": [
             "餐飲"
@@ -151,65 +118,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００９鄰中正路４９號１樓"
+        "market_address": "新竹縣北埔鄉北埔村００９鄰中正路４９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 15,
-        "shop": "快樂號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰正德街３１號"
-    },
-    {
-        "index": 16,
-        "shop": "口味福飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村９鄰北埔街８０號"
-    },
-    {
-        "index": 17,
-        "shop": "逢春飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔街９６號"
-    },
-    {
-        "index": 18,
-        "shop": "振豐早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村９鄰１０４號"
-    },
-    {
-        "index": 19,
-        "shop": "香草山企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村００６鄰中山路１７６號"
-    },
-    {
-        "index": 20,
+        "index": 9,
         "shop": "北埔印象庭園景觀",
         "category": [
             "餐飲"
@@ -217,10 +132,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉水磜村麻布樹排５０號"
+        "market_address": "新竹縣北埔鄉水磜村麻布樹排５０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 21,
+        "index": 10,
         "shop": "山水屋咖啡簡餐",
         "category": [
             "餐飲"
@@ -228,10 +146,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南坑村００９鄰大南坑７─７號"
+        "market_address": "新竹縣北埔鄉南坑村００９鄰大南坑７─７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 22,
+        "index": 11,
         "shop": "拾樂坊",
         "category": [
             "餐飲"
@@ -239,21 +160,14 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村００２鄰中正路７６號１樓"
+        "market_address": "新竹縣北埔鄉埔尾村００２鄰中正路７６號１樓",
+        "pay_list": [
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 23,
-        "shop": "北埔美芝城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村９鄰北埔街７４號"
-    },
-    {
-        "index": 24,
+        "index": 12,
         "shop": "北埔廟前粄條",
         "category": [
             "餐飲"
@@ -261,32 +175,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村北埔街１３號１樓"
+        "market_address": "新竹縣北埔鄉南興村北埔街１３號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 25,
-        "shop": "油條王子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰中山路１２巷１５弄４號"
-    },
-    {
-        "index": 26,
-        "shop": "秀巒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村２鄰秀巒街３７巷１０號"
-    },
-    {
-        "index": 27,
+        "index": 13,
         "shop": "笠竹園茶餐",
         "category": [
             "餐飲"
@@ -294,65 +189,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１１０號"
+        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１１０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 28,
-        "shop": "北埔口客家菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村１鄰南興街１６８號"
-    },
-    {
-        "index": 29,
-        "shop": "愛上咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村９鄰公園街２９號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "唐山擂茶客家菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１１６號"
-    },
-    {
-        "index": 31,
-        "shop": "小鎮藝舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰廟前街３９號"
-    },
-    {
-        "index": 32,
-        "shop": "北埔食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村５鄰北埔街４號"
-    },
-    {
-        "index": 33,
+        "index": 14,
         "shop": "北埔擂茶堂",
         "category": [
             "餐飲"
@@ -360,32 +203,15 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村１０鄰廟前街４―１號１樓"
+        "market_address": "新竹縣北埔鄉南興村１０鄰廟前街４―１號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 34,
-        "shop": "家正飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村正德街３２號"
-    },
-    {
-        "index": 35,
-        "shop": "傅饌餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉水磜村麻布樹排６號"
-    },
-    {
-        "index": 36,
+        "index": 15,
         "shop": "化石先生股份有限公司綠世界店",
         "category": [
             "餐飲"
@@ -393,10 +219,15 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉大湖村７鄰２１號"
+        "market_address": "新竹縣北埔鄉大湖村７鄰２１號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 37,
+        "index": 16,
         "shop": "光君茶業有限公司",
         "category": [
             "餐飲"
@@ -404,10 +235,16 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉水磜村麻布樹排３１號"
+        "market_address": "新竹縣北埔鄉水磜村麻布樹排３１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 38,
+        "index": 17,
         "shop": "勝珍軒商號",
         "category": [
             "餐飲"
@@ -415,87 +252,13 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１４２號１、２樓"
+        "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１４２號１、２樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 39,
-        "shop": "彬娜花園企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉外坪村００８鄰六股１１―４號"
-    },
-    {
-        "index": 40,
-        "shop": "百年古厝",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉大湖村７鄰２１號"
-    },
-    {
-        "index": 41,
-        "shop": "彭氏小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村２鄰中正路７０號１樓"
-    },
-    {
-        "index": 42,
-        "shop": "桂香小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村埔心街９７之３號"
-    },
-    {
-        "index": 43,
-        "shop": "吉豐咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村００５鄰北埔街１０號"
-    },
-    {
-        "index": 44,
-        "shop": "北埔林家外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉水磜村００７鄰水磜子４０號"
-    },
-    {
-        "index": 45,
-        "shop": "六木珈琲焙煎所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村北埔街６號１樓"
-    },
-    {
-        "index": 46,
+        "index": 18,
         "shop": "北埔糧行",
         "category": [
             "餐飲"
@@ -503,296 +266,57 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村１１鄰南興街６５號"
+        "market_address": "新竹縣北埔鄉南興村１１鄰南興街６５號",
+        "pay_list": [
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 47,
-        "shop": "友家麵店",
+        "index": 19,
+        "shop": "唐山擂茶客家菜",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村中正路４３號"
+        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１１６號",
+        "pay_list": [
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 48,
-        "shop": "小邱飯店",
+        "index": 20,
+        "shop": "小鎮藝舖",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔公有市場圓樓固定攤位６號攤"
+        "market_address": "新竹縣北埔鄉南興村６鄰廟前街３９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 49,
-        "shop": "永新大湯圓",
+        "index": 21,
+        "shop": "北埔食堂",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村南興街５７號"
+        "market_address": "新竹縣北埔鄉北埔村５鄰北埔街４號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 50,
-        "shop": "張記麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村中正路３９號"
-    },
-    {
-        "index": 51,
-        "shop": "呆老頭杏仁茶專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村北埔街２６號"
-    },
-    {
-        "index": 52,
-        "shop": "陳媽媽黃金包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村廟前街４號前馬路"
-    },
-    {
-        "index": 53,
-        "shop": "鴻源早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村０１３鄰北埔街９７號"
-    },
-    {
-        "index": 54,
-        "shop": "百年餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村北埔街２３號"
-    },
-    {
-        "index": 55,
-        "shop": "榕樹下",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村８鄰城門街５９號"
-    },
-    {
-        "index": 56,
-        "shop": "北埔素食粄條",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村城門街８６號"
-    },
-    {
-        "index": 57,
-        "shop": "南外飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南坑村８鄰１８―５號"
-    },
-    {
-        "index": 58,
-        "shop": "古厝食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰北埔街９號"
-    },
-    {
-        "index": 59,
-        "shop": "美粥到廣東粥麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１２８號"
-    },
-    {
-        "index": 60,
-        "shop": "順口小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村７鄰南興街１０８號"
-    },
-    {
-        "index": 61,
-        "shop": "廣進擂茶館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村五鄰北埔街３巷１號"
-    },
-    {
-        "index": 62,
-        "shop": "天水號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村１２鄰北埔街３５號"
-    },
-    {
-        "index": 63,
-        "shop": "南軒雅廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南埔村１鄰南埔９―６號"
-    },
-    {
-        "index": 64,
-        "shop": "民歌擂茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰北埔街４１號"
-    },
-    {
-        "index": 65,
-        "shop": "競茶道",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉北埔村６鄰北埔街１８號"
-    },
-    {
-        "index": 66,
-        "shop": "水果村",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村１３鄰城門街６２號"
-    },
-    {
-        "index": 67,
-        "shop": "老街擂茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰廟前街２９號"
-    },
-    {
-        "index": 68,
-        "shop": "竹語茶蘆",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南埔村４鄰３８號"
-    },
-    {
-        "index": 69,
-        "shop": "客家本色飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉埔尾村４鄰埔心街２８號"
-    },
-    {
-        "index": 70,
-        "shop": "一口菜包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰廟前街３３號"
-    },
-    {
-        "index": 71,
-        "shop": "老街粄條",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村６鄰廟前街３１號"
-    },
-    {
-        "index": 72,
-        "shop": "山中露營咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉外坪村６鄰??寮坪３―１號１樓"
-    },
-    {
-        "index": 73,
+        "index": 22,
         "shop": "北昇休閒山莊",
         "category": [
             "餐飲"
@@ -800,17 +324,10 @@
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉水磜村８鄰１０―３號"
-    },
-    {
-        "index": 74,
-        "shop": "新陶華飲食店（外燴）",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "北埔鄉",
-        "market_address": "新竹縣北埔鄉南興村０１３鄰北埔街８７號"
+        "market_address": "新竹縣北埔鄉水磜村８鄰１０―３號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     }
 ]

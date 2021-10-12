@@ -1,50 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "多一樣茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路２６號"
-    },
-    {
-        "index": 2,
-        "shop": "微笑早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路５１號"
-    },
-    {
-        "index": 3,
-        "shop": "加油站小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路８號"
-    },
-    {
-        "index": 4,
-        "shop": "路邊攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路４２號"
-    },
-    {
-        "index": 5,
         "shop": "紅屋頂餐飲",
         "category": [
             "餐飲"
@@ -52,10 +8,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村７９號"
+        "market_address": "金門縣金湖鎮新湖里漁村７９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 6,
+        "index": 2,
         "shop": "經典義大利餐廳",
         "category": [
             "餐飲"
@@ -63,175 +22,16 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１７號"
+        "market_address": "金門縣金湖鎮新市里復興路１７號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 7,
-        "shop": "米迪商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路４號"
-    },
-    {
-        "index": 8,
-        "shop": "親青小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里夏興４８號"
-    },
-    {
-        "index": 9,
-        "shop": "金湯咖啡養生餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路６１號"
-    },
-    {
-        "index": 10,
-        "shop": "五哥牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村１０７號"
-    },
-    {
-        "index": 11,
-        "shop": "金一食商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港六路２３１號"
-    },
-    {
-        "index": 12,
-        "shop": "愛家麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里國順街１０號"
-    },
-    {
-        "index": 13,
-        "shop": "日嚐商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前２－９號"
-    },
-    {
-        "index": 14,
-        "shop": "上校私房菜館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里小徑１１２號"
-    },
-    {
-        "index": 15,
-        "shop": "滷滷小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１３６號"
-    },
-    {
-        "index": 16,
-        "shop": "泓亭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路７―１號"
-    },
-    {
-        "index": 17,
-        "shop": "承悅企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里太湖路二段２０５號"
-    },
-    {
-        "index": 18,
-        "shop": "晟鼎商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路２５號"
-    },
-    {
-        "index": 19,
-        "shop": "牛酢牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路２６號"
-    },
-    {
-        "index": 20,
-        "shop": "小島賣派郎烘培工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里山外４２號二樓"
-    },
-    {
-        "index": 21,
-        "shop": "奕起早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港三路１５３號"
-    },
-    {
-        "index": 22,
+        "index": 3,
         "shop": "高岳商行",
         "category": [
             "餐飲"
@@ -239,76 +39,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路７８―１號"
+        "market_address": "金門縣金湖鎮新市里復興路７８―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 23,
-        "shop": "四川滷味麻辣燙",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路１７號"
-    },
-    {
-        "index": 24,
-        "shop": "田園小廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里山外９０號"
-    },
-    {
-        "index": 25,
-        "shop": "福山小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路４６號"
-    },
-    {
-        "index": 26,
-        "shop": "清雲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路１１號"
-    },
-    {
-        "index": 27,
-        "shop": "岳陽商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外村下莊新生街３１號"
-    },
-    {
-        "index": 28,
-        "shop": "新超群商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外村山外４８－１號"
-    },
-    {
-        "index": 29,
+        "index": 4,
         "shop": "鬥牛士",
         "category": [
             "餐飲"
@@ -316,208 +53,27 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路６８號"
+        "market_address": "金門縣金湖鎮新市里復興路６８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 30,
-        "shop": "南聲小吃店",
+        "index": 5,
+        "shop": "情趣大亨小籠包",
         "category": [
             "餐飲"
         ],
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１－２１號"
+        "market_address": "金門縣金湖鎮山外里黃海路１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 31,
-        "shop": "椰林美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路４１號"
-    },
-    {
-        "index": 32,
-        "shop": "美而美速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場１２號"
-    },
-    {
-        "index": 33,
-        "shop": "美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路３７號"
-    },
-    {
-        "index": 34,
-        "shop": "吾愛吾家商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里林森路３５號"
-    },
-    {
-        "index": 35,
-        "shop": "麗光冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里成功９３號"
-    },
-    {
-        "index": 36,
-        "shop": "阿芬海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮溪湖里復國墩２５號"
-    },
-    {
-        "index": 37,
-        "shop": "新天地海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮溪湖里復國墩３１號"
-    },
-    {
-        "index": 38,
-        "shop": "海夜城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村５１號"
-    },
-    {
-        "index": 39,
-        "shop": "沁園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里新頭６６號"
-    },
-    {
-        "index": 40,
-        "shop": "陽明菜館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里陽明１號"
-    },
-    {
-        "index": 41,
-        "shop": "憶夢園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮南雄１７號"
-    },
-    {
-        "index": 42,
-        "shop": "綠園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外村南雄１６號"
-    },
-    {
-        "index": 43,
-        "shop": "順興",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里下莊光武路２３號"
-    },
-    {
-        "index": 44,
-        "shop": "情趣大亨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路１號"
-    },
-    {
-        "index": 45,
-        "shop": "九九海陸餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９號"
-    },
-    {
-        "index": 46,
-        "shop": "梨琳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場２２號"
-    },
-    {
-        "index": 47,
-        "shop": "歐香商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路７３號"
-    },
-    {
-        "index": 48,
+        "index": 6,
         "shop": "念念不忘",
         "category": [
             "餐飲"
@@ -525,65 +81,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路１２號"
+        "market_address": "金門縣金湖鎮新市里自強路１２號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 49,
-        "shop": "億佳商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路１０號"
-    },
-    {
-        "index": 50,
-        "shop": "豫平冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路１號"
-    },
-    {
-        "index": 51,
-        "shop": "紅龍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前５－１０號"
-    },
-    {
-        "index": 52,
-        "shop": "津味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路４４號"
-    },
-    {
-        "index": 53,
-        "shop": "輝煌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路１６號"
-    },
-    {
-        "index": 54,
+        "index": 7,
         "shop": "三言兩語鮮茶咖啡美食館",
         "category": [
             "餐飲"
@@ -591,32 +95,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１１６號"
+        "market_address": "金門縣金湖鎮新市里復興路１１６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 55,
-        "shop": "東方飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路２４號"
-    },
-    {
-        "index": 56,
-        "shop": "椰林廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路１２號"
-    },
-    {
-        "index": 57,
+        "index": 8,
         "shop": "呷天下飲食店",
         "category": [
             "餐飲"
@@ -624,21 +109,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路５號"
+        "market_address": "金門縣金湖鎮新市里自強路５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 58,
-        "shop": "懶得找店山外分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路２４號"
-    },
-    {
-        "index": 59,
+        "index": 9,
         "shop": "巴布小館",
         "category": [
             "餐飲"
@@ -646,87 +123,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路９２號"
+        "market_address": "金門縣金湖鎮新市里復興路９２號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 60,
-        "shop": "呱呱叫小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場１０號"
-    },
-    {
-        "index": 61,
-        "shop": "山海咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港三路１４３號"
-    },
-    {
-        "index": 62,
-        "shop": "珍賀家商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中興路７號"
-    },
-    {
-        "index": 63,
-        "shop": "拉拉私人廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里信義新村８８－４１號"
-    },
-    {
-        "index": 64,
-        "shop": "鐵蛋複合式餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路１３號"
-    },
-    {
-        "index": 65,
-        "shop": "魚太郎食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里復興西路１８號"
-    },
-    {
-        "index": 66,
-        "shop": "四川小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路２１號"
-    },
-    {
-        "index": 67,
+        "index": 10,
         "shop": "航空熱炒店",
         "category": [
             "餐飲"
@@ -734,10 +138,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里山外４９５－３號"
+        "market_address": "金門縣金湖鎮山外里山外４９５－３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 68,
+        "index": 11,
         "shop": "老屋子蚵嗲",
         "category": [
             "餐飲"
@@ -745,10 +152,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里成功１２５－１號"
+        "market_address": "金門縣金湖鎮正義里成功１２５－１號",
+        "pay_list": [
+            "橘子支付"
+        ]
     },
     {
-        "index": 69,
+        "index": 12,
         "shop": "稚善堂企業行",
         "category": [
             "餐飲"
@@ -756,32 +166,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里瓊林４２號"
+        "market_address": "金門縣金湖鎮瓊林里瓊林４２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 70,
-        "shop": "黃家大院商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３１號"
-    },
-    {
-        "index": 71,
-        "shop": "金幸福小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里新頭７４號"
-    },
-    {
-        "index": 72,
+        "index": 13,
         "shop": "浯日咖啡",
         "category": [
             "餐飲"
@@ -789,10 +180,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里復興西路８號"
+        "market_address": "金門縣金湖鎮山外里復興西路８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 73,
+        "index": 14,
         "shop": "金拌麵小吃店",
         "category": [
             "餐飲"
@@ -800,142 +194,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里瓊徑路１７號"
+        "market_address": "金門縣金湖鎮瓊林里瓊徑路１７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 74,
-        "shop": "飽又好小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場６５號"
-    },
-    {
-        "index": 75,
-        "shop": "好媽媽健康素食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路４５號"
-    },
-    {
-        "index": 76,
-        "shop": "如荷咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里環島南路四段２８２號"
-    },
-    {
-        "index": 77,
-        "shop": "不知名燒烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路４號"
-    },
-    {
-        "index": 78,
-        "shop": "井上食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里安民１－３號"
-    },
-    {
-        "index": 79,
-        "shop": "金食膳堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里太湖路二段４巷１號"
-    },
-    {
-        "index": 80,
-        "shop": "黑嚕嚕複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路５―２號"
-    },
-    {
-        "index": 81,
-        "shop": "九色醬燒雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路一段６號"
-    },
-    {
-        "index": 82,
-        "shop": "山外陽春麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港二路２１３號"
-    },
-    {
-        "index": 83,
-        "shop": "一品馨小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里環島南路塔后段１巷１９號"
-    },
-    {
-        "index": 84,
-        "shop": "海六企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路８―３號"
-    },
-    {
-        "index": 85,
-        "shop": "早安美味堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村１０７號"
-    },
-    {
-        "index": 86,
+        "index": 15,
         "shop": "好日子輕食咖啡",
         "category": [
             "餐飲"
@@ -943,65 +208,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮溪湖里復國墩３１―１號"
+        "market_address": "金門縣金湖鎮溪湖里復國墩３１―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 87,
-        "shop": "樂食麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后１２６―１０號"
-    },
-    {
-        "index": 88,
-        "shop": "大樹哥小食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路２３號"
-    },
-    {
-        "index": 89,
-        "shop": "小徑茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里小徑１２６號"
-    },
-    {
-        "index": 90,
-        "shop": "永元旭商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里太湖路二段２０３號"
-    },
-    {
-        "index": 91,
-        "shop": "金古味食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路８４號"
-    },
-    {
-        "index": 92,
+        "index": 16,
         "shop": "欣輝商店",
         "category": [
             "餐飲"
@@ -1009,43 +222,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里瓊徑路１３號"
+        "market_address": "金門縣金湖鎮瓊林里瓊徑路１３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 93,
-        "shop": "阿傑便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊１５號"
-    },
-    {
-        "index": 94,
-        "shop": "四知味羊肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮蓮庵里三谿橋２０－５號"
-    },
-    {
-        "index": 95,
-        "shop": "如荷自在咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里環島北路三段３０３號"
-    },
-    {
-        "index": 96,
+        "index": 17,
         "shop": "利秝企業社",
         "category": [
             "餐飲"
@@ -1053,32 +236,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路１─６號"
+        "market_address": "金門縣金湖鎮山外里黃海路１─６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 97,
-        "shop": "大翔美式炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路２５號"
-    },
-    {
-        "index": 98,
-        "shop": "健僑商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１３６號"
-    },
-    {
-        "index": 99,
+        "index": 18,
         "shop": "都可飲料店",
         "category": [
             "餐飲"
@@ -1086,43 +250,15 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路６５號"
+        "market_address": "金門縣金湖鎮新市里復興路６５號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 100,
-        "shop": "李翰章早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路１０５號"
-    },
-    {
-        "index": 101,
-        "shop": "滷哈哈加熱坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１８號"
-    },
-    {
-        "index": 102,
-        "shop": "黑宅手作廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里信義新村８８－４１號"
-    },
-    {
-        "index": 103,
+        "index": 19,
         "shop": "許師傅燒臘快餐",
         "category": [
             "餐飲"
@@ -1130,65 +266,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村１００號"
+        "market_address": "金門縣金湖鎮新湖里漁村１００號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 104,
-        "shop": "田中央美食自助餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊１２１號２樓"
-    },
-    {
-        "index": 105,
-        "shop": "吉星商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后２９－５號"
-    },
-    {
-        "index": 106,
-        "shop": "金門中正早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３７號"
-    },
-    {
-        "index": 107,
-        "shop": "貓在家手創工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里山外４―１號"
-    },
-    {
-        "index": 108,
-        "shop": "榮強小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路４號"
-    },
-    {
-        "index": 109,
+        "index": 20,
         "shop": "全焦點餐館",
         "category": [
             "餐飲"
@@ -1196,109 +280,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３９―１號"
+        "market_address": "金門縣金湖鎮新市里中正路３９―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 110,
-        "shop": "喜鄉園蔬食養生料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路１１號"
-    },
-    {
-        "index": 111,
-        "shop": "百樂門麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里下莊新生街３２號"
-    },
-    {
-        "index": 112,
-        "shop": "金大發早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里環島南路塔后段２２號"
-    },
-    {
-        "index": 113,
-        "shop": "薩諾瓦義式廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里太湖路二段３巷６號"
-    },
-    {
-        "index": 114,
-        "shop": "不良燒烤啤酒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里尚義３９－１號"
-    },
-    {
-        "index": 115,
-        "shop": "速鮮小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場６５號"
-    },
-    {
-        "index": 116,
-        "shop": "台灣味餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮蓮庵里西村２１－１號"
-    },
-    {
-        "index": 117,
-        "shop": "幸福早點來早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路６３號"
-    },
-    {
-        "index": 118,
-        "shop": "貳柒食室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里環島北路三段１５－１３號"
-    },
-    {
-        "index": 119,
+        "index": 21,
         "shop": "藝耕咖啡館",
         "category": [
             "餐飲"
@@ -1306,10 +295,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后４３號"
+        "market_address": "金門縣金湖鎮新湖里塔后４３號",
+        "pay_list": [
+            "橘子支付"
+        ]
     },
     {
-        "index": 120,
+        "index": 22,
         "shop": "萬臨商行",
         "category": [
             "餐飲"
@@ -1317,10 +309,17 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊５號、６號"
+        "market_address": "金門縣金湖鎮新市里武德新莊５號、６號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 121,
+        "index": 23,
         "shop": "食為天餐廳",
         "category": [
             "餐飲"
@@ -1328,32 +327,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里太湖路二段２１７號"
+        "market_address": "金門縣金湖鎮新市里太湖路二段２１７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 122,
-        "shop": "好姐妹便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場６５號"
-    },
-    {
-        "index": 123,
-        "shop": "陳記燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊自強路２８號"
-    },
-    {
-        "index": 124,
+        "index": 24,
         "shop": "玖頤玖捌企業社",
         "category": [
             "餐飲"
@@ -1361,32 +342,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路２０號"
+        "market_address": "金門縣金湖鎮山外里黃海路２０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 125,
-        "shop": "新時代小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路１號"
-    },
-    {
-        "index": 126,
-        "shop": "芭拉蒂早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路７８―１號"
-    },
-    {
-        "index": 127,
+        "index": 25,
         "shop": "青聖商行",
         "category": [
             "餐飲"
@@ -1394,21 +356,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路８―４號"
+        "market_address": "金門縣金湖鎮新市里中正路８―４號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 128,
-        "shop": "金海瑞小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊１３號"
-    },
-    {
-        "index": 129,
+        "index": 26,
         "shop": "雄峰冷飲店",
         "category": [
             "餐飲"
@@ -1416,43 +370,15 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９號"
+        "market_address": "金門縣金湖鎮山外里黃海路９號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 130,
-        "shop": "再閣來小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路１０號"
-    },
-    {
-        "index": 131,
-        "shop": "哈妮布里工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港三路２２５號六樓之２"
-    },
-    {
-        "index": 132,
-        "shop": "愛麵子美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后１２６―１０號"
-    },
-    {
-        "index": 133,
+        "index": 27,
         "shop": "珍味鍋小吃店",
         "category": [
             "餐飲"
@@ -1460,54 +386,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９１號"
+        "market_address": "金門縣金湖鎮山外里黃海路９１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 134,
-        "shop": "大鍋湯風味小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路８―３號"
-    },
-    {
-        "index": 135,
-        "shop": "飛豹商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村１１９號"
-    },
-    {
-        "index": 136,
-        "shop": "江捷小吃坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路１９號"
-    },
-    {
-        "index": 137,
-        "shop": "紅廚便當專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里國順街２７號"
-    },
-    {
-        "index": 138,
+        "index": 28,
         "shop": "舊識咖啡",
         "category": [
             "餐飲"
@@ -1515,65 +401,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后２０８－６３號"
+        "market_address": "金門縣金湖鎮新湖里塔后２０８－６３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 139,
-        "shop": "咩咩茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３２號"
-    },
-    {
-        "index": 140,
-        "shop": "金門戰地美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里新頭９９號"
-    },
-    {
-        "index": 141,
-        "shop": "夢享家企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里林兜６９號"
-    },
-    {
-        "index": 142,
-        "shop": "沙鹿便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后１２６－１０號"
-    },
-    {
-        "index": 143,
-        "shop": "柏渝商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１１號"
-    },
-    {
-        "index": 144,
+        "index": 29,
         "shop": "瀚冠小吃店",
         "category": [
             "餐飲"
@@ -1581,21 +416,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路２４號"
+        "market_address": "金門縣金湖鎮新市里中正路２４號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 145,
-        "shop": "太武山文物坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里太武山１１０號"
-    },
-    {
-        "index": 146,
+        "index": 30,
         "shop": "八二三咖啡藝廊",
         "category": [
             "餐飲"
@@ -1603,120 +430,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里安民１－１１號"
+        "market_address": "金門縣金湖鎮山外里安民１－１１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 147,
-        "shop": "饌記商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路７２號"
-    },
-    {
-        "index": 148,
-        "shop": "海峽三番商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里夏興８６號"
-    },
-    {
-        "index": 149,
-        "shop": "君悅商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里夏興１００－２號"
-    },
-    {
-        "index": 150,
-        "shop": "辣匠麻辣燙火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后２０８－９１號"
-    },
-    {
-        "index": 151,
-        "shop": "喬瑜企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里林兜７６號"
-    },
-    {
-        "index": 152,
-        "shop": "峰上溫記賴家食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里峯上４６－１號"
-    },
-    {
-        "index": 153,
-        "shop": "老爹牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊２６號"
-    },
-    {
-        "index": 154,
-        "shop": "佳億美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１２４號"
-    },
-    {
-        "index": 155,
-        "shop": "阿美商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路７７號"
-    },
-    {
-        "index": 156,
-        "shop": "品客小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路９號"
-    },
-    {
-        "index": 157,
+        "index": 31,
         "shop": "鴻美餐館",
         "category": [
             "餐飲"
@@ -1724,131 +444,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里安民２號"
+        "market_address": "金門縣金湖鎮山外里安民２號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 158,
-        "shop": "曉紅早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港一路２０１號"
-    },
-    {
-        "index": 159,
-        "shop": "香噴噴臭臭鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３號"
-    },
-    {
-        "index": 160,
-        "shop": "新盛美商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊３４號"
-    },
-    {
-        "index": 161,
-        "shop": "佑昇商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮正義里成功１７１號"
-    },
-    {
-        "index": 162,
-        "shop": "雷奇實業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里漁村６２－１號"
-    },
-    {
-        "index": 163,
-        "shop": "張記牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路６號"
-    },
-    {
-        "index": 164,
-        "shop": "富誠商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路３號"
-    },
-    {
-        "index": 165,
-        "shop": "鮮采小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里國順街３５號"
-    },
-    {
-        "index": 166,
-        "shop": "禾佳工坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里前山門３０１號"
-    },
-    {
-        "index": 167,
-        "shop": "金許園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路３８號"
-    },
-    {
-        "index": 168,
-        "shop": "古早味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場７７號"
-    },
-    {
-        "index": 169,
+        "index": 32,
         "shop": "好口味",
         "category": [
             "餐飲"
@@ -1856,43 +458,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路２８號"
+        "market_address": "金門縣金湖鎮新湖里市港路２８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 170,
-        "shop": "易廚精緻餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后１２１號"
-    },
-    {
-        "index": 171,
-        "shop": "阿鴻小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里自強路１９號"
-    },
-    {
-        "index": 172,
-        "shop": "吮指小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路４號"
-    },
-    {
-        "index": 173,
+        "index": 33,
         "shop": "竹鮮居",
         "category": [
             "餐飲"
@@ -1900,76 +472,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路７號"
+        "market_address": "金門縣金湖鎮新市里復興路７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 174,
-        "shop": "木棉道小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１１５－３號"
-    },
-    {
-        "index": 175,
-        "shop": "口味好",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路３號"
-    },
-    {
-        "index": 176,
-        "shop": "喝一杯小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前６２之３號１樓"
-    },
-    {
-        "index": 177,
-        "shop": "乾杯現調飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路５６號"
-    },
-    {
-        "index": 178,
-        "shop": "這一家便當專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港路９號"
-    },
-    {
-        "index": 179,
-        "shop": "綠圍裙飲品工坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１１５號"
-    },
-    {
-        "index": 180,
+        "index": 34,
         "shop": "彤馨茶舖",
         "category": [
             "餐飲"
@@ -1977,54 +486,15 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路５４號"
+        "market_address": "金門縣金湖鎮新市里復興路５４號",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 181,
-        "shop": "尚鮮餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前４８－１號"
-    },
-    {
-        "index": 182,
-        "shop": "白雪食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路１０１號"
-    },
-    {
-        "index": 183,
-        "shop": "甘棠企業有限公司門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮蓮庵里惠民富康農莊１７號"
-    },
-    {
-        "index": 184,
-        "shop": "福生食品有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里國順街２５號"
-    },
-    {
-        "index": 185,
+        "index": 35,
         "shop": "靖祁有限公司",
         "category": [
             "餐飲"
@@ -2032,186 +502,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路５３號"
+        "market_address": "金門縣金湖鎮新市里復興路５３號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 186,
-        "shop": "金根本文化創意有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前９５號"
-    },
-    {
-        "index": 187,
-        "shop": "金王餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里市港三路１６３號"
-    },
-    {
-        "index": 188,
-        "shop": "鴻的私家廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里山外街１９號"
-    },
-    {
-        "index": 189,
-        "shop": "北京城餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里塔后１１７號"
-    },
-    {
-        "index": 190,
-        "shop": "小賴餐廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮瓊林里瓊徑路１００號"
-    },
-    {
-        "index": 191,
-        "shop": "香巴佬",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９０－５號"
-    },
-    {
-        "index": 192,
-        "shop": "食在好臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新湖里湖前４８－１號旁鐵皮屋"
-    },
-    {
-        "index": 193,
-        "shop": "阿榮塩水煙燻雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９０－５號"
-    },
-    {
-        "index": 194,
-        "shop": "金青雜貨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路５號"
-    },
-    {
-        "index": 195,
-        "shop": "爸氣",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路９０－５號"
-    },
-    {
-        "index": 196,
-        "shop": "復安商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮溪湖里復國墩３１號"
-    },
-    {
-        "index": 197,
-        "shop": "雪利冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路３１號"
-    },
-    {
-        "index": 198,
-        "shop": "家家",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里菜市場１８號"
-    },
-    {
-        "index": 199,
-        "shop": "和興",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路５６號"
-    },
-    {
-        "index": 200,
-        "shop": "陳記傳統美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮山外里黃海路３９號"
-    },
-    {
-        "index": 201,
-        "shop": "祥哥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里中正路８－４號"
-    },
-    {
-        "index": 202,
+        "index": 36,
         "shop": "薡茶山外店",
         "category": [
             "餐飲"
@@ -2219,17 +517,9 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里復興路１３２號"
-    },
-    {
-        "index": 203,
-        "shop": "三媽臭臭鍋金門金湖店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金湖鎮",
-        "market_address": "金門縣金湖鎮新市里武德新莊１４７號１樓"
+        "market_address": "金門縣金湖鎮新市里復興路１３２號",
+        "pay_list": [
+            "歐付寶"
+        ]
     }
 ]

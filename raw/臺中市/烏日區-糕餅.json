@@ -1,61 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "美冠西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里２鄰信義街１１７號"
-    },
-    {
-        "index": 2,
-        "shop": "巧珍珍餅行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區九德里長春街１４２巷１號"
-    },
-    {
-        "index": 3,
-        "shop": "歡迎棄標企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里中山路３段１２０號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "苡喬烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區榮泉里榮和路１６８號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "康加美商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區溪埧里溪南路１段７６６號１樓"
-    },
-    {
-        "index": 6,
         "shop": "小蜜蜂商行",
         "category": [
             "糕餅"
@@ -63,143 +8,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里僑仁街１６號１樓"
+        "market_address": "臺中市烏日區仁德里僑仁街１６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 7,
-        "shop": "楷喵手作烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區湖日里榮泰街１５２巷２９號"
-    },
-    {
-        "index": 8,
-        "shop": "大棋食品商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里三榮路１段４２３號"
-    },
-    {
-        "index": 9,
-        "shop": "東京樂園烘焙工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區五光里五光路２２１號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "日日烘焙食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區九德里中山路一段６３８巷２６號１樓"
-    },
-    {
-        "index": 11,
-        "shop": "西摩尼尼商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里建國路４０３號３樓"
-    },
-    {
-        "index": 12,
-        "shop": "饗胖手感烘焙工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區榮泉里三榮十五路２６號"
-    },
-    {
-        "index": 13,
-        "shop": "茂盛餅行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里中山路２段２２２號"
-    },
-    {
-        "index": 14,
-        "shop": "好樂村食品商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區榮泉里中山路３段６２６號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "唐宋食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里興祥街５６巷３６號１樓"
-    },
-    {
-        "index": 16,
-        "shop": "紅屋食品商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區螺潭里０１１鄰溪南路二段１６９巷２號"
-    },
-    {
-        "index": 17,
-        "shop": "超越蛋糕麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里信義街１７０號"
-    },
-    {
-        "index": 18,
-        "shop": "日新食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里中山路１段３４７號１樓"
-    },
-    {
-        "index": 19,
+        "index": 2,
         "shop": "古舍穀香養生食品坊",
         "category": [
             "糕餅"
@@ -207,65 +22,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里光日路４０６號２樓"
+        "market_address": "臺中市烏日區烏日里光日路４０６號２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 20,
-        "shop": "東榮手作烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區溪埧里００１鄰溪南路１段６０７號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "二月森食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里學田路８巷４２號"
-    },
-    {
-        "index": 22,
-        "shop": "明道食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里中山路１段４９５巷４１號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "佳琦食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里建國路３９３號１樓"
-    },
-    {
-        "index": 24,
-        "shop": "連育食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區仁德里１３鄰信義街２０７號１樓"
-    },
-    {
-        "index": 25,
+        "index": 3,
         "shop": "柴窯火腿製造所股份有限公司",
         "category": [
             "糕餅"
@@ -273,10 +36,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區前竹里中山路一段２２９巷２５弄１２號"
+        "market_address": "臺中市烏日區前竹里中山路一段２２９巷２５弄１２號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 26,
+        "index": 4,
         "shop": "六月初一股份有限公司",
         "category": [
             "糕餅"
@@ -284,66 +50,28 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區北里里太明路６７巷１９號"
+        "market_address": "臺中市烏日區北里里太明路６７巷１９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 27,
-        "shop": "丰丹嚴選本舖股份有限公司台中高鐵營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
-    },
-    {
-        "index": 28,
-        "shop": "富士榮股份有限公司烏日營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區溪埧里溪南路１段３７６號１樓"
-    },
-    {
-        "index": 29,
+        "index": 5,
         "shop": "黑沃餐飲股份有限公司林新營業處",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區榮泉里榮和路１６８號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "統一多拿滋股份有限公司烏日高鐵門市部",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
+        "market_address": "臺中市烏日區榮泉里榮和路１６８號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 31,
-        "shop": "梧棲小鎮企業有限公司台中烏日門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里新興路３３２－１號１樓"
-    },
-    {
-        "index": 32,
+        "index": 6,
         "shop": "吳寶春食品股份有限公司台中高鐵店",
         "category": [
             "糕餅"
@@ -351,109 +79,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓"
+        "market_address": "臺中市烏日區三和里站區二路８號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 33,
-        "shop": "卷卷有限公司烏日店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里學田路８巷４０號"
-    },
-    {
-        "index": 34,
-        "shop": "裕珍馨食品股份有限公司台中烏日高鐵門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓"
-    },
-    {
-        "index": 35,
-        "shop": "沃農士食品股份有限公司高鐵台中店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
-    },
-    {
-        "index": 36,
-        "shop": "法布甜股份有限公司台中高鐵門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
-    },
-    {
-        "index": 37,
-        "shop": "花灑果食有限公司台中高鐵營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
-    },
-    {
-        "index": 38,
-        "shop": "太陽堂老店食品有限公司台中高鐵營業處",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓"
-    },
-    {
-        "index": 39,
-        "shop": "鮮豐食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區前竹里中山路一段２６５巷１７號"
-    },
-    {
-        "index": 40,
-        "shop": "宥傑企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里民生街７號"
-    },
-    {
-        "index": 41,
-        "shop": "東豐食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區前竹里中山路一段和平巷６９號"
-    },
-    {
-        "index": 42,
+        "index": 7,
         "shop": "金布丹中央山脈生物科技有限公司",
         "category": [
             "糕餅"
@@ -461,10 +93,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里中山路三段２９７號１樓"
+        "market_address": "臺中市烏日區三和里中山路三段２９７號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 43,
+        "index": 8,
         "shop": "桂香新綠有限公司",
         "category": [
             "糕餅"
@@ -472,10 +107,61 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號"
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 44,
+        "index": 9,
+        "shop": "裕珍馨食品股份有限公司台中烏日高鐵門市",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "沃農士食品股份有限公司高鐵台中店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "法布甜股份有限公司台中高鐵門市",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 12,
         "shop": "卷卷有限公司",
         "category": [
             "糕餅"
@@ -483,10 +169,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里００５鄰學田路８巷６８號１樓"
+        "market_address": "臺中市烏日區三和里００５鄰學田路８巷６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "歐付寶"
+        ]
     },
     {
-        "index": 45,
+        "index": 13,
         "shop": "胖先生食品股份有限公司高鐵分公司",
         "category": [
             "糕餅"
@@ -494,95 +185,23 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓"
+        "market_address": "臺中市烏日區三和里站區二路８號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 46,
-        "shop": "回頭客商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里中山路二段市場巷５號"
-    },
-    {
-        "index": 47,
-        "shop": "綠手作",
+        "index": 14,
+        "shop": "花灑果食有限公司台中高鐵營業所",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區九德里中山路１段４１８號１樓"
-    },
-    {
-        "index": 48,
-        "shop": "線瘋手作烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里公園路３１７號"
-    },
-    {
-        "index": 49,
-        "shop": "德朵葡式蛋塔",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里中山路２段２５９號１樓"
-    },
-    {
-        "index": 50,
-        "shop": "漢記商店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區學田里６鄰學田路５６６號"
-    },
-    {
-        "index": 51,
-        "shop": "專屬甜蜜訂製蛋糕工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里日新街１１號１樓"
-    },
-    {
-        "index": 52,
-        "shop": "幸福甜心蛋糕坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里民權街９０號"
-    },
-    {
-        "index": 53,
-        "shop": "森永食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區溪埧里４鄰溪南路１段６６６號"
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "悠遊付"
+        ]
     }
 ]

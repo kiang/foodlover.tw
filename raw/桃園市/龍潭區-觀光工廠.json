@@ -1,20 +1,16 @@
 [
     {
         "index": 1,
-        "shop": "雄獅文具想像力製造所",
-        "category": "觀光工廠",
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區中原路二段188號"
-    },
-    {
-        "index": 2,
         "shop": "手信霧隱城",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龍潭區",
-        "market_address": "桃園市龍潭區民豐一街99號"
+        "market_address": "桃園市龍潭區民豐一街99號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

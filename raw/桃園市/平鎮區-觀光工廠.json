@@ -2,19 +2,29 @@
     {
         "index": 1,
         "shop": "蛋寶生技不老村",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區金陵路三段105號"
+        "market_address": "桃園市平鎮區金陵路三段105號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 2,
         "shop": "葡萄王健康活力能量館",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區金陵路二段402號"
+        "market_address": "桃園市平鎮區金陵路二段402號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

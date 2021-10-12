@@ -1,94 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "連興美食小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區詒福里東關路六段６１６號"
-    },
-    {
-        "index": 2,
-        "shop": "眾群餐飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１２鄰中興街６３號１樓"
-    },
-    {
-        "index": 3,
-        "shop": "新盛全味美速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區福隆里１９鄰東坑路２７０號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "豐勢牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里豐勢路６７２號"
-    },
-    {
-        "index": 5,
-        "shop": "巧味鮮飯麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里三民街１４８號"
-    },
-    {
-        "index": 6,
-        "shop": "大少商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里第五橫街１―２號"
-    },
-    {
-        "index": 7,
-        "shop": "宇泊商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２７３號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "晴菘食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里三民街１３６號１樓"
-    },
-    {
-        "index": 9,
         "shop": "郡庭小吃店",
         "category": [
             "餐飲"
@@ -96,10 +8,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街１０４號１樓"
+        "market_address": "臺中市東勢區東安里第三橫街１０４號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 10,
+        "index": 2,
         "shop": "興盛早午餐",
         "category": [
             "餐飲"
@@ -107,21 +22,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里新盛街１５５號１樓"
+        "market_address": "臺中市東勢區新盛里新盛街１５５號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 11,
-        "shop": "久豐小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里豐勢路６５６號１樓"
-    },
-    {
-        "index": 12,
+        "index": 3,
         "shop": "港茶茶飲專門店",
         "category": [
             "餐飲"
@@ -129,10 +37,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路３２２號１樓"
+        "market_address": "臺中市東勢區延平里豐勢路３２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 13,
+        "index": 4,
         "shop": "號食咖啡商行",
         "category": [
             "餐飲"
@@ -140,54 +52,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里第一橫街１６８號１樓"
+        "market_address": "臺中市東勢區延平里第一橫街１６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 14,
-        "shop": "筑吉商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路８號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "二餘草堂咖啡工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里新盛六街１１３號１樓"
-    },
-    {
-        "index": 16,
-        "shop": "晴客茶研工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里三民街６０號１樓"
-    },
-    {
-        "index": 17,
-        "shop": "黑龍丸商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里三民街１４５號１樓"
-    },
-    {
-        "index": 18,
+        "index": 5,
         "shop": "東勢牛稼莊飲食店",
         "category": [
             "餐飲"
@@ -195,142 +67,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里新豐街７號１樓"
+        "market_address": "臺中市東勢區粵寧里新豐街７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 19,
-        "shop": "雪果宅企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里豐勢路３４號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "哈咖食光日式咖哩食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里新豐街１１７號"
-    },
-    {
-        "index": 21,
-        "shop": "石角車頭輕食咖啡坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里豐勢路３２號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "心饗便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎路五段４５３號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "享食創意壽司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里忠孝街２６號１樓"
-    },
-    {
-        "index": 24,
-        "shop": "一串錢牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里第五橫街１―２號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "育品早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里三民街１２５號１樓"
-    },
-    {
-        "index": 26,
-        "shop": "冬瓜屋飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２３６號１樓"
-    },
-    {
-        "index": 27,
-        "shop": "石岡勝宜鳳檸茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里豐勢路２６號１樓"
-    },
-    {
-        "index": 28,
-        "shop": "蔬食代餐飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里第五橫街中和巷１―６號１樓"
-    },
-    {
-        "index": 29,
-        "shop": "睦澤珈琲商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶東里慶東街慶成三巷１１號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "新晨豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里豐勢路３４２―１號１樓"
-    },
-    {
-        "index": 31,
+        "index": 6,
         "shop": "良善閣鮮果茶飲店",
         "category": [
             "餐飲"
@@ -338,10 +81,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路９４號"
+        "market_address": "臺中市東勢區東安里中山路９４號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 32,
+        "index": 7,
         "shop": "鐵馬道飲食文化企業社",
         "category": [
             "餐飲"
@@ -349,32 +97,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里新豐街９３號１樓"
+        "market_address": "臺中市東勢區粵寧里新豐街９３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 33,
-        "shop": "我家商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路５２號１樓"
-    },
-    {
-        "index": 34,
-        "shop": "信龍茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路５７號１樓"
-    },
-    {
-        "index": 35,
+        "index": 8,
         "shop": "東奇二哥的店",
         "category": [
             "餐飲"
@@ -382,131 +111,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２０７號１樓"
+        "market_address": "臺中市東勢區延平里豐勢路２０７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 36,
-        "shop": "金寶蒸餃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里勢林街２４５號１樓"
-    },
-    {
-        "index": 37,
-        "shop": "松之富複合式食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１２７號１樓"
-    },
-    {
-        "index": 38,
-        "shop": "台西鵝肉快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里東蘭路３３之１附１號"
-    },
-    {
-        "index": 39,
-        "shop": "懶得煮快餐便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１５６號１樓"
-    },
-    {
-        "index": 40,
-        "shop": "惡咖咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街３２號１樓"
-    },
-    {
-        "index": 41,
-        "shop": "阿木大衆餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路６９號"
-    },
-    {
-        "index": 42,
-        "shop": "山城餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路７段４１號"
-    },
-    {
-        "index": 43,
-        "shop": "春青行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街９９號"
-    },
-    {
-        "index": 44,
-        "shop": "秘密咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里新豐街７號"
-    },
-    {
-        "index": 45,
-        "shop": "美術咖啡廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里泰昌三街６０號１樓"
-    },
-    {
-        "index": 46,
-        "shop": "圓樓客家冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里泰昌街９３號１樓"
-    },
-    {
-        "index": 47,
+        "index": 9,
         "shop": "芳歆企業社",
         "category": [
             "餐飲"
@@ -514,32 +125,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里三民街４１號１樓"
+        "market_address": "臺中市東勢區延平里三民街４１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 48,
-        "shop": "春風素食房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第四橫街２８號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "映月山房食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶東里慶東街慶成六巷１８號１樓"
-    },
-    {
-        "index": 50,
+        "index": 10,
         "shop": "脆餅旺茶行",
         "category": [
             "餐飲"
@@ -547,21 +144,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２１８號"
+        "market_address": "臺中市東勢區延平里豐勢路２１８號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 51,
-        "shop": "金豪小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里勢林街１９０巷１７號１樓"
-    },
-    {
-        "index": 52,
+        "index": 11,
         "shop": "台灣第一味茶飲店",
         "category": [
             "餐飲"
@@ -569,44 +162,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２９１號"
+        "market_address": "臺中市東勢區延平里豐勢路２９１號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 53,
-        "shop": "一之香自助餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路３３２號"
-    },
-    {
-        "index": 54,
-        "shop": "里趣咖啡屋",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區興隆里東蘭路８０－７號"
-    },
-    {
-        "index": 55,
-        "shop": "東香咖啡茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎路五段雪山一村１之９號"
-    },
-    {
-        "index": 56,
+        "index": 12,
         "shop": "啾摩茶行",
         "category": [
             "餐飲"
@@ -614,10 +180,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路５１號１樓"
+        "market_address": "臺中市東勢區東安里中山路５１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 57,
+        "index": 13,
         "shop": "東勢茶飲站",
         "category": [
             "餐飲"
@@ -625,32 +198,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區東安里１３鄰中山路５８號１樓"
+        "market_address": "臺中市東勢區東安里１３鄰中山路５８號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 58,
-        "shop": "羅文鍵快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路４２號"
-    },
-    {
-        "index": 59,
-        "shop": "東勢鯉魚手作坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里本街鯉魚巷１９號１樓"
-    },
-    {
-        "index": 60,
+        "index": 14,
         "shop": "食這味小火鍋",
         "category": [
             "餐飲"
@@ -658,98 +214,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２１９號１樓、２２１號１樓"
+        "market_address": "臺中市東勢區延平里豐勢路２１９號１樓、２２１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 61,
-        "shop": "阿助牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街３８號１樓"
-    },
-    {
-        "index": 62,
-        "shop": "香港肥羅燒腊店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里１７鄰東關路７段１１號"
-    },
-    {
-        "index": 63,
-        "shop": "安麗燒烤小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里第七橫街２８號"
-    },
-    {
-        "index": 64,
-        "shop": "庭園美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區興隆里東蘭路８８―８號"
-    },
-    {
-        "index": 65,
-        "shop": "就是果汁餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１１鄰第五橫街１號１樓"
-    },
-    {
-        "index": 66,
-        "shop": "怒騾子麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里忠孝街２號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "桔尼食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里三民街４１號１樓"
-    },
-    {
-        "index": 68,
-        "shop": "八坊商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里００４鄰豐勢路４３５號１樓"
-    },
-    {
-        "index": 69,
+        "index": 15,
         "shop": "八方東勢美食店",
         "category": [
             "餐飲"
@@ -757,109 +228,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第四橫街２７號"
+        "market_address": "臺中市東勢區東安里第四橫街２７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 70,
-        "shop": "利宏商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶福里３鄰慶福街１２號１樓"
-    },
-    {
-        "index": 71,
-        "shop": "金晟小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１２鄰豐勢路中盛巷４號"
-    },
-    {
-        "index": 72,
-        "shop": "楓清涼冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里本街１７５號"
-    },
-    {
-        "index": 73,
-        "shop": "恩雨早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎路５段５００號"
-    },
-    {
-        "index": 74,
-        "shop": "豐收早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路７８號１樓"
-    },
-    {
-        "index": 75,
-        "shop": "津味小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１１鄰豐勢路中盛巷２５號"
-    },
-    {
-        "index": 76,
-        "shop": "福湧樓小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里６鄰豐勢路９２６巷２４―１號"
-    },
-    {
-        "index": 77,
-        "shop": "捌捌捌快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里三民街６２號１樓"
-    },
-    {
-        "index": 78,
-        "shop": "水漣天飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里豐勢路３４３號"
-    },
-    {
-        "index": 79,
+        "index": 16,
         "shop": "東奇早點",
         "category": [
             "餐飲"
@@ -867,253 +243,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里三民街７３號"
+        "market_address": "臺中市東勢區延平里三民街７３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
     },
     {
-        "index": 80,
-        "shop": "弟弟多摩咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里１１鄰中山路３４號１樓"
-    },
-    {
-        "index": 81,
-        "shop": "佳旺餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街３８―５號１樓"
-    },
-    {
-        "index": 82,
-        "shop": "瑞香小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東坑路５１號１樓"
-    },
-    {
-        "index": 83,
-        "shop": "長緹複合式餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里１８鄰豐勢路２－１號１樓"
-    },
-    {
-        "index": 84,
-        "shop": "盛東小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１１鄰第五橫街７號"
-    },
-    {
-        "index": 85,
-        "shop": "長春餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里新豐街１３５號"
-    },
-    {
-        "index": 86,
-        "shop": "客家人小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街１１１號"
-    },
-    {
-        "index": 87,
-        "shop": "大杉林小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里豐勢路１０號"
-    },
-    {
-        "index": 88,
-        "shop": "貴賓樓客家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里豐勢路９２２－２號１樓"
-    },
-    {
-        "index": 89,
-        "shop": "月牙泉茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路４７１號１至２樓"
-    },
-    {
-        "index": 90,
-        "shop": "巧屋飲食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里泰昌二街９３號"
-    },
-    {
-        "index": 91,
-        "shop": "一福味自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路１０２號"
-    },
-    {
-        "index": 92,
-        "shop": "阿木大眾餐館企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路６９號"
-    },
-    {
-        "index": 93,
-        "shop": "玉荷堂國際開發有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里１０鄰中新街西新巷６３―３號"
-    },
-    {
-        "index": 94,
-        "shop": "甲得商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里豐勢路４４３號１樓"
-    },
-    {
-        "index": 95,
-        "shop": "齊心咖啡製造所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎路五段４５９巷１號"
-    },
-    {
-        "index": 96,
-        "shop": "聖帕商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里９鄰豐勢路３３４號"
-    },
-    {
-        "index": 97,
-        "shop": "廚匠異國料理店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區茂興里東蘭路２０４－３號"
-    },
-    {
-        "index": 98,
-        "shop": "富甲牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里東關路７段４７０號"
-    },
-    {
-        "index": 99,
-        "shop": "和德昌股份有限公司東勢中正分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里東關路７段５０８號"
-    },
-    {
-        "index": 100,
-        "shop": "竹豐小棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里１２鄰文新街２號"
-    },
-    {
-        "index": 101,
-        "shop": "佳品小吃店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街５４號１樓"
-    },
-    {
-        "index": 102,
+        "index": 17,
         "shop": "億新小吃店",
         "category": [
             "餐飲"
@@ -1121,818 +257,27 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區南平里豐勢路３５０號前面"
+        "market_address": "臺中市東勢區南平里豐勢路３５０號前面",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 103,
-        "shop": "早安美芝城",
+        "index": 18,
+        "shop": "阿木大眾餐館企業有限公司",
         "category": [
-            "夜市\/市場攤販",
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里三民街１１８號左側"
+        "market_address": "臺中市東勢區東安里中山路６９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 104,
-        "shop": "東豐庭園咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區下新里粵寧街中路巷１５－１０號"
-    },
-    {
-        "index": 105,
-        "shop": "傳統自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里１４鄰第四橫街６４號"
-    },
-    {
-        "index": 106,
-        "shop": "津品園餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區茂興里１４鄰石城街１６０號１樓"
-    },
-    {
-        "index": 107,
-        "shop": "橋頭保小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里６鄰新豐街２１號"
-    },
-    {
-        "index": 108,
-        "shop": "翔翔小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里８鄰三民街２１８號"
-    },
-    {
-        "index": 109,
-        "shop": "立泰餐盒料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上城里東關路五段９１１號１樓"
-    },
-    {
-        "index": 110,
-        "shop": "越南美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里東蘭路１９―１１號"
-    },
-    {
-        "index": 111,
-        "shop": "上新便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里忠孝街１３５號"
-    },
-    {
-        "index": 112,
-        "shop": "石城便當社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰興里石城街３１５號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "１２３小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路９３號"
-    },
-    {
-        "index": 114,
-        "shop": "双久堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里豐勢路３６４號"
-    },
-    {
-        "index": 115,
-        "shop": "水云茶堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里新豐街３５－１號"
-    },
-    {
-        "index": 116,
-        "shop": "一家人早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街９６號"
-    },
-    {
-        "index": 117,
-        "shop": "千樂早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里三民街２１號１樓"
-    },
-    {
-        "index": 118,
-        "shop": "亮亮行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里忠孝街１１號１樓"
-    },
-    {
-        "index": 119,
-        "shop": "智毓快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里第一橫街１２６號"
-    },
-    {
-        "index": 120,
-        "shop": "山夯人寿司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２９５號"
-    },
-    {
-        "index": 121,
-        "shop": "下城麻辣臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１７６號"
-    },
-    {
-        "index": 122,
-        "shop": "采恩農園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區隆興里東坑路８１７－１１號"
-    },
-    {
-        "index": 123,
-        "shop": "鑫發小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里第五橫街１９號"
-    },
-    {
-        "index": 124,
-        "shop": "曾秋淵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區茂興里石圍墻段石圍墻小段８０４－４．－５地號土地上之建物（東勢區茂興里東蘭路２１５之１２號旁）"
-    },
-    {
-        "index": 125,
-        "shop": "一福味麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里中山路１０４號"
-    },
-    {
-        "index": 126,
-        "shop": "雨香好平價小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里豐勢路６７２號"
-    },
-    {
-        "index": 127,
-        "shop": "大口吃便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１９５號"
-    },
-    {
-        "index": 128,
-        "shop": "好姐妹美食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里豐勢路３３１號"
-    },
-    {
-        "index": 129,
-        "shop": "顏淑芬",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路１號（館外左側攤販）"
-    },
-    {
-        "index": 130,
-        "shop": "陳嘉棋",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路１號（假日黃金市集）"
-    },
-    {
-        "index": 131,
-        "shop": "七嘴八舌滷味東勢店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街９２號"
-    },
-    {
-        "index": 132,
-        "shop": "胖老爹美式炸雞東勢店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街４６號"
-    },
-    {
-        "index": 133,
-        "shop": "傳統火雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里豐勢路５７０號"
-    },
-    {
-        "index": 134,
-        "shop": "品佳小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里２鄰東蘭路３４―７號"
-    },
-    {
-        "index": 135,
-        "shop": "日香小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里文新街１８０號一樓"
-    },
-    {
-        "index": 136,
-        "shop": "清美小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路中盛巷２７號"
-    },
-    {
-        "index": 137,
-        "shop": "清福飲食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里１２鄰第三橫街１００號"
-    },
-    {
-        "index": 138,
-        "shop": "啓勝行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里勢林街２４７號"
-    },
-    {
-        "index": 139,
-        "shop": "南投意麵小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里三民街１４３號旁"
-    },
-    {
-        "index": 140,
-        "shop": "建築師咖啡",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區下新里東蘭路西門巷３―６號１樓"
-    },
-    {
-        "index": 141,
-        "shop": "素食麵早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里三民街１４３號旁（鐵皮屋處）"
-    },
-    {
-        "index": 142,
-        "shop": "喜香根食神廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２５８號"
-    },
-    {
-        "index": 143,
-        "shop": "老祖早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里勢林街２４５號"
-    },
-    {
-        "index": 144,
-        "shop": "鵝肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路六段１００５號"
-    },
-    {
-        "index": 145,
-        "shop": "東勢鮮蝦大餛飩",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里三民街１４７號"
-    },
-    {
-        "index": 146,
-        "shop": "苙淇火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１０８號"
-    },
-    {
-        "index": 147,
-        "shop": "皓皓小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里００３鄰本街３６９―１號"
-    },
-    {
-        "index": 148,
-        "shop": "印尼風味台灣小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里４鄰豐勢路２０６號"
-    },
-    {
-        "index": 149,
-        "shop": "大方小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里第二橫街５０號"
-    },
-    {
-        "index": 150,
-        "shop": "山東餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里５鄰豐勢路２５０號"
-    },
-    {
-        "index": 151,
-        "shop": "菊園小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里１４鄰東蘭路４３－１５號隔壁"
-    },
-    {
-        "index": 152,
-        "shop": "老趙排骨牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路中盛巷２０號"
-    },
-    {
-        "index": 153,
-        "shop": "阿秋早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里本街１５號"
-    },
-    {
-        "index": 154,
-        "shop": "鴻均小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶福里東關路４段１２９８號"
-    },
-    {
-        "index": 155,
-        "shop": "早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區福隆里１８鄰東坑路３１３號騎樓"
-    },
-    {
-        "index": 156,
-        "shop": "青島餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區福隆里３鄰東坑路２２６號"
-    },
-    {
-        "index": 157,
-        "shop": "吉祥小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶福里東關路四段２１５號"
-    },
-    {
-        "index": 158,
-        "shop": "莊麗燕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里１２鄰東蘭路３５號"
-    },
-    {
-        "index": 159,
-        "shop": "客家風味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里１鄰勢林街２４９號"
-    },
-    {
-        "index": 160,
-        "shop": "林羅炳煌",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里東蘭路３９－１號左邊"
-    },
-    {
-        "index": 161,
-        "shop": "楊玉端",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里１０鄰豐勢路５７５號"
-    },
-    {
-        "index": 162,
-        "shop": "和興小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區下城里上城街２０３號"
-    },
-    {
-        "index": 163,
-        "shop": "雞樂炸雞連鎖專賣店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里１０鄰第一橫街２１２號１樓"
-    },
-    {
-        "index": 164,
-        "shop": "千佳早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里５鄰新盛街２４９―１號"
-    },
-    {
-        "index": 165,
-        "shop": "東工美又美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路六段９６５號一樓之６"
-    },
-    {
-        "index": 166,
-        "shop": "喵喵早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里豐勢路８２號"
-    },
-    {
-        "index": 167,
-        "shop": "浪伯早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里１鄰東關路７段６號"
-    },
-    {
-        "index": 168,
-        "shop": "來坐小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１３６號"
-    },
-    {
-        "index": 169,
-        "shop": "英麵食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里５鄰豐勢路３６６號"
-    },
-    {
-        "index": 170,
-        "shop": "阿伶牛肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里１４鄰第一橫街２１號１樓"
-    },
-    {
-        "index": 171,
-        "shop": "古早排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里１０鄰東崎街２９０－２號"
-    },
-    {
-        "index": 172,
-        "shop": "快樂的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里１０鄰東崎街２９０－９號"
-    },
-    {
-        "index": 173,
-        "shop": "昱安早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里東關路７段５９８號１樓"
-    },
-    {
-        "index": 174,
-        "shop": "美又美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區下城里上城街９５號"
-    },
-    {
-        "index": 175,
-        "shop": "活力早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路六段９４３號"
-    },
-    {
-        "index": 176,
+        "index": 19,
         "shop": "佳大北平烤鴨",
         "category": [
             "餐飲"
@@ -1940,186 +285,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路六段１０８９號"
+        "market_address": "臺中市東勢區新盛里東關路六段１０８９號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 177,
-        "shop": "茶噹噹東勢店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里１１鄰中山路５２號"
-    },
-    {
-        "index": 178,
-        "shop": "日昇美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里２鄰東蘭路１８－７號"
-    },
-    {
-        "index": 179,
-        "shop": "洞庭春牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里９鄰第三橫街１４３號"
-    },
-    {
-        "index": 180,
-        "shop": "東勢廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里９鄰忠孝街３０號"
-    },
-    {
-        "index": 181,
-        "shop": "三番家魷魚??",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２１６號１樓"
-    },
-    {
-        "index": 182,
-        "shop": "春天小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里１鄰三民街１２號"
-    },
-    {
-        "index": 183,
-        "shop": "圓滿小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里９鄰粵寧街１０號"
-    },
-    {
-        "index": 184,
-        "shop": "阿舜師現炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里６鄰新豐街２巷８號"
-    },
-    {
-        "index": 185,
-        "shop": "林家北京烤鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里５鄰新豐街９２號"
-    },
-    {
-        "index": 186,
-        "shop": "原火車頭羊肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里２鄰東蘭路１９―１２號"
-    },
-    {
-        "index": 187,
-        "shop": "佳甄商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里豐勢路４０１號１樓"
-    },
-    {
-        "index": 188,
-        "shop": "頂好馨臭臭鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里５鄰忠孝街１５號１樓"
-    },
-    {
-        "index": 189,
-        "shop": "中正薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里２鄰東關路七段２３９號"
-    },
-    {
-        "index": 190,
-        "shop": "六呆咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區下新里１６鄰粵寧街中路巷２０－６號"
-    },
-    {
-        "index": 191,
-        "shop": "佳佳飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里公園路５０號"
-    },
-    {
-        "index": 192,
-        "shop": "花花茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里７鄰豐勢路３２５號"
-    },
-    {
-        "index": 193,
+        "index": 20,
         "shop": "大碗公冰品店",
         "category": [
             "餐飲"
@@ -2127,98 +300,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路３３號１樓"
+        "market_address": "臺中市東勢區廣興里中山路３３號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 194,
-        "shop": "東蘭早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里８鄰東蘭路４２―３號"
-    },
-    {
-        "index": 195,
-        "shop": "有巢小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區詒福里東關路六段６３２巷６１號"
-    },
-    {
-        "index": 196,
-        "shop": "明月小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎街３３２號１樓"
-    },
-    {
-        "index": 197,
-        "shop": "醉天地餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里１２鄰東蘭路２６－３號１樓"
-    },
-    {
-        "index": 198,
-        "shop": "一品園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里中興街６０號"
-    },
-    {
-        "index": 199,
-        "shop": "粥行萬里",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里００８鄰三民街２２６號１樓"
-    },
-    {
-        "index": 200,
-        "shop": "泓美商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里００５鄰三民街１４０號"
-    },
-    {
-        "index": 201,
-        "shop": "億隆飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里第三橫街２０巷１號１樓"
-    },
-    {
-        "index": 202,
+        "index": 21,
         "shop": "惠佳小吃店",
         "category": [
             "餐飲"
@@ -2226,187 +314,194 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里００１鄰豐勢路３５號"
+        "market_address": "臺中市東勢區延平里００１鄰豐勢路３５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 203,
-        "shop": "台越美食",
+        "index": 22,
+        "shop": "甲得商行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區南平里７鄰豐勢路３１７號"
+        "market_address": "臺中市東勢區東安里豐勢路４４３號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 204,
-        "shop": "阿寶早餐店",
+        "index": 23,
+        "shop": "廚匠異國料理店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區上新里１鄰三民街５６號"
+        "market_address": "臺中市東勢區茂興里東蘭路２０４－３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 205,
-        "shop": "天福農莊",
+        "index": 24,
+        "shop": "富甲牛排館",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區慶福里東關路四段２７１號"
+        "market_address": "臺中市東勢區中寧里東關路７段４７０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 206,
-        "shop": "億隆飯店",
+        "index": 25,
+        "shop": "玉荷堂國際開發有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路中盛巷２２號"
+        "market_address": "臺中市東勢區廣興里１０鄰中新街西新巷６３―３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 207,
-        "shop": "素食小吃店",
+        "index": 26,
+        "shop": "聖帕商行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區北興里豐勢路５６９號"
+        "market_address": "臺中市東勢區延平里９鄰豐勢路３３４號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 208,
-        "shop": "老黑輪肉圓店",
+        "index": 27,
+        "shop": "和德昌股份有限公司東勢中正分公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里６鄰豐勢路４６３號"
+        "market_address": "臺中市東勢區中寧里東關路７段５０８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 209,
-        "shop": "一滴水拉麵館",
+        "index": 28,
+        "shop": "胖老爹美式炸雞東勢店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１１６號１樓"
+        "market_address": "臺中市東勢區東安里第五橫街４６號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 210,
-        "shop": "路邊臭豆腐",
+        "index": 29,
+        "shop": "齊心咖啡製造所",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東坑路８３號騎樓"
+        "market_address": "臺中市東勢區泰昌里東崎路五段４５９巷１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 211,
-        "shop": "第三街小吃店",
+        "index": 30,
+        "shop": "陳嘉棋",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "東勢區",
+        "market_address": "臺中市東勢區廣興里中山路１號（假日黃金市集）",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "弟弟多摩咖啡店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里９鄰第三橫街１３９號"
+        "market_address": "臺中市東勢區廣興里１１鄰中山路３４號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 212,
-        "shop": "萬里香茶坊",
+        "index": 32,
+        "shop": "大杉林小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里１４鄰東蘭路３９－７號"
+        "market_address": "臺中市東勢區新盛里豐勢路１０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 213,
-        "shop": "鄉村漢堡",
+        "index": 33,
+        "shop": "月牙泉茶坊",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里８鄰三民街１９８號"
+        "market_address": "臺中市東勢區中寧里豐勢路４７１號１至２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 214,
-        "shop": "冠鈞小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里０１３鄰第五橫街４０號"
-    },
-    {
-        "index": 215,
-        "shop": "福利社小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里東關路六段１０１７號"
-    },
-    {
-        "index": 216,
-        "shop": "松香小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區福隆里東和街２３２巷２號"
-    },
-    {
-        "index": 217,
-        "shop": "阿玉早餐店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里９鄰三民街２４８號"
-    },
-    {
-        "index": 218,
-        "shop": "利豐餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里１鄰中新街西新巷７８－２１號"
-    },
-    {
-        "index": 219,
+        "index": 34,
         "shop": "林記水餃館",
         "category": [
             "餐飲"
@@ -2414,592 +509,9 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路５０號１樓"
-    },
-    {
-        "index": 220,
-        "shop": "竹田家飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里中山路４８號１樓"
-    },
-    {
-        "index": 221,
-        "shop": "喜悅素食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里本街１９０號"
-    },
-    {
-        "index": 222,
-        "shop": "囍臨門小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里１８鄰豐勢路６號"
-    },
-    {
-        "index": 223,
-        "shop": "正宗土鵝肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里１２鄰第三橫街１２５號"
-    },
-    {
-        "index": 224,
-        "shop": "朱哥小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里１４鄰東蘭路３９－８號１樓"
-    },
-    {
-        "index": 225,
-        "shop": "鄉村漢堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里１４鄰東蘭路４３－１５號１樓"
-    },
-    {
-        "index": 226,
-        "shop": "山東早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里忠孝街２４號"
-    },
-    {
-        "index": 227,
-        "shop": "風味早餐店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里１０鄰第一橫街２１６號"
-    },
-    {
-        "index": 228,
-        "shop": "佳芋戶曉商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里東關路７段６３６號"
-    },
-    {
-        "index": 229,
-        "shop": "毓香牛肉麵店新盛分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里１７鄰東關路７段５３號"
-    },
-    {
-        "index": 230,
-        "shop": "全盛食補薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里２鄰東關路７段８３號１樓"
-    },
-    {
-        "index": 231,
-        "shop": "云饌休閒庭園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區慶福里東關路四段９９９號"
-    },
-    {
-        "index": 232,
-        "shop": "山城餐飲",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎街３７９號"
-    },
-    {
-        "index": 233,
-        "shop": "茹意酸檸檬飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里東崎街３６６號１樓"
-    },
-    {
-        "index": 234,
-        "shop": "冠軍日式炭火燒肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里１０鄰文化街２號"
-    },
-    {
-        "index": 235,
-        "shop": "本街剉冰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里１４鄰本街４５號"
-    },
-    {
-        "index": 236,
-        "shop": "美佳早點",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里３鄰東崎路五段３８９號"
-    },
-    {
-        "index": 237,
-        "shop": "來來小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１２８號１樓"
-    },
-    {
-        "index": 238,
-        "shop": "你好小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路１７８號１樓"
-    },
-    {
-        "index": 239,
-        "shop": "臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２０４號"
-    },
-    {
-        "index": 240,
-        "shop": "珍味小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路中盛巷１２號"
-    },
-    {
-        "index": 241,
-        "shop": "老鄰居小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里豐勢路中盛巷２４號１樓"
-    },
-    {
-        "index": 242,
-        "shop": "御品園鮮肉湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里６鄰第一橫街１４３號１樓"
-    },
-    {
-        "index": 243,
-        "shop": "小泉茶吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區南平里１鄰三民街９７號"
-    },
-    {
-        "index": 244,
-        "shop": "１９６小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里６鄰第一橫街１９６號"
-    },
-    {
-        "index": 245,
-        "shop": "一品香快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里０１４鄰本街７５號"
-    },
-    {
-        "index": 246,
-        "shop": "呂記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里５鄰豐勢路１８３號"
-    },
-    {
-        "index": 247,
-        "shop": "東口小店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里第五橫街中和巷１６號"
-    },
-    {
-        "index": 248,
-        "shop": "山東餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１１鄰豐勢路中盛巷３號"
-    },
-    {
-        "index": 249,
-        "shop": "巨林美而美店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里６鄰豐勢路４６７號"
-    },
-    {
-        "index": 250,
-        "shop": "正宗餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里１１鄰豐勢路中盛巷７號"
-    },
-    {
-        "index": 251,
-        "shop": "水餃大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里東蘭路６號"
-    },
-    {
-        "index": 252,
-        "shop": "一品便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區興隆里１２鄰東蘭路１５３－２號"
-    },
-    {
-        "index": 253,
-        "shop": "佳霖餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東新里勢林街６－１號"
-    },
-    {
-        "index": 254,
-        "shop": "美又美早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里４鄰東蘭路１－２號"
-    },
-    {
-        "index": 255,
-        "shop": "永豐肉丸店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區北興里８鄰勢林街２３３一１號"
-    },
-    {
-        "index": 256,
-        "shop": "明億便當專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里１鄰中新街３號"
-    },
-    {
-        "index": 257,
-        "shop": "鮮易寶早餐連鎖店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區粵寧里４鄰東蘭路１－４號"
-    },
-    {
-        "index": 258,
-        "shop": "檳園食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區茂興里石城街１５之１號對面"
-    },
-    {
-        "index": 259,
-        "shop": "嘉賓商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里７鄰豐勢路２５４號"
-    },
-    {
-        "index": 260,
-        "shop": "香港肥羅燒腊店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第三橫街９８號"
-    },
-    {
-        "index": 261,
-        "shop": "明記鴨莊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區泰昌里１０鄰泰昌街１８０號"
-    },
-    {
-        "index": 262,
-        "shop": "蓮華素食自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區廣興里三民街１９８號"
-    },
-    {
-        "index": 263,
-        "shop": "家之味飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里１３鄰第五橫街５０號"
-    },
-    {
-        "index": 264,
-        "shop": "味豐小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里豐勢路３８７號"
-    },
-    {
-        "index": 265,
-        "shop": "永和豆奶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里豐勢路３９９號"
-    },
-    {
-        "index": 266,
-        "shop": "芳鄰冷熱飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里豐勢路２５號"
-    },
-    {
-        "index": 267,
-        "shop": "全心素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里三民街３號１樓"
-    },
-    {
-        "index": 268,
-        "shop": "美美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區延平里東關路７段６９號"
-    },
-    {
-        "index": 269,
-        "shop": "統帥餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區新盛里豐勢路２４號"
-    },
-    {
-        "index": 270,
-        "shop": "黃牛肉水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區上新里第一橫街１５７號"
-    },
-    {
-        "index": 271,
-        "shop": "良哥麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區中寧里中興街６５號"
-    },
-    {
-        "index": 272,
-        "shop": "老黑輪肉丸店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "東勢區",
-        "market_address": "臺中市東勢區東安里第五橫街６６，６８號"
+        "market_address": "臺中市東勢區廣興里中山路５０號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     }
 ]

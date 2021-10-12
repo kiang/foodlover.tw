@@ -2,10 +2,15 @@
     {
         "index": 1,
         "shop": "巧克力共和國",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "八德區",
-        "market_address": "桃園市八德區瑞興里4鄰巧克力街177號"
+        "market_address": "桃園市八德區瑞興里4鄰巧克力街177號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

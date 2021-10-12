@@ -1,105 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "福興美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路８６號"
-    },
-    {
-        "index": 2,
-        "shop": "雅達香",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１８鄰中山路２１６號１樓"
-    },
-    {
-        "index": 3,
-        "shop": "阿賢海鮮小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００８鄰中龍街１８７號"
-    },
-    {
-        "index": 4,
-        "shop": "後龍早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里中華路５２－１號"
-    },
-    {
-        "index": 5,
-        "shop": "光華城堡小吃坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１５鄰光華路５３４號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "巧合園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里１鄰中華路５２―２號１樓"
-    },
-    {
-        "index": 7,
-        "shop": "府城便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００１鄰中北街２５５―２號"
-    },
-    {
-        "index": 8,
-        "shop": "好食農村小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１２鄰中山路９００巷１３號"
-    },
-    {
-        "index": 9,
-        "shop": "好望角李媽媽人文餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中和里１２鄰崎頂１２７－１５號"
-    },
-    {
-        "index": 10,
         "shop": "和廣企業社",
         "category": [
             "餐飲"
@@ -107,10 +8,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００１鄰中北街２５０―７號"
+        "market_address": "苗栗縣後龍鎮中龍里００１鄰中北街２５０―７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 11,
+        "index": 2,
         "shop": "傑森手搖飲企業社",
         "category": [
             "餐飲"
@@ -118,21 +26,18 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００１鄰中華路１５１―１號１樓"
+        "market_address": "苗栗縣後龍鎮中龍里００１鄰中華路１５１―１號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 12,
-        "shop": "元采便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號"
-    },
-    {
-        "index": 13,
+        "index": 3,
         "shop": "丞欣飲料店",
         "category": [
             "餐飲"
@@ -140,10 +45,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里０１１鄰三民路１３０―１號"
+        "market_address": "苗栗縣後龍鎮中龍里０１１鄰三民路１３０―１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 14,
+        "index": 4,
         "shop": "金豐玉漿芋圓製造所",
         "category": [
             "餐飲"
@@ -151,98 +59,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００７鄰中市街２３１―３號"
+        "market_address": "苗栗縣後龍鎮中龍里００７鄰中市街２３１―３號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 15,
-        "shop": "滿福牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１５鄰成功路２１３號"
-    },
-    {
-        "index": 16,
-        "shop": "老余牛家莊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮埔頂里０２０鄰中華路１０２１號"
-    },
-    {
-        "index": 17,
-        "shop": "來鑫企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里００８鄰三好路５４巷４號２樓"
-    },
-    {
-        "index": 18,
-        "shop": "好口味海鮮小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮外埔里００９鄰外埔１３３號"
-    },
-    {
-        "index": 19,
-        "shop": "兩口一家企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００１鄰中華路６０號"
-    },
-    {
-        "index": 20,
-        "shop": "抬基殿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里００５鄰光華路５０９巷１２號"
-    },
-    {
-        "index": 21,
-        "shop": "小米冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００８鄰中山路６７號"
-    },
-    {
-        "index": 22,
-        "shop": "上恩咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里公有第一零售市場第８號攤位"
-    },
-    {
-        "index": 23,
+        "index": 5,
         "shop": "老喬小吃店",
         "category": [
             "餐飲"
@@ -250,87 +73,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里０１１鄰中華路５０－３號"
+        "market_address": "苗栗縣後龍鎮北龍里０１１鄰中華路５０－３號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 24,
-        "shop": "黃屋牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里０１６鄰十班坑１５５―１０號"
-    },
-    {
-        "index": 25,
-        "shop": "金品飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１９鄰中山路９３號"
-    },
-    {
-        "index": 26,
-        "shop": "阿正羊肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮豐富里１６鄰高鐵六路６８號１樓"
-    },
-    {
-        "index": 27,
-        "shop": "民生快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里７鄰砂崙湖７８－９號"
-    },
-    {
-        "index": 28,
-        "shop": "珊珍飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里中華路１５４之１號"
-    },
-    {
-        "index": 29,
-        "shop": "美華飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里４鄰三民路１４６號"
-    },
-    {
-        "index": 30,
-        "shop": "亭亭印尼小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里００５鄰中正路７３―２號１樓"
-    },
-    {
-        "index": 31,
+        "index": 6,
         "shop": "豪活力早餐店",
         "category": [
             "餐飲"
@@ -338,109 +87,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００７鄰中正路１２６號"
+        "market_address": "苗栗縣後龍鎮北龍里００７鄰中正路１２６號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 32,
-        "shop": "阿雲小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１１鄰中山路４７８號１樓"
-    },
-    {
-        "index": 33,
-        "shop": "壹玖柒酒熱炒小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里００５鄰光華路４８１號"
-    },
-    {
-        "index": 34,
-        "shop": "黑輪伯餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里００２鄰大庄９６―３號"
-    },
-    {
-        "index": 35,
-        "shop": "德國小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里４鄰中正路７２號"
-    },
-    {
-        "index": 36,
-        "shop": "一條龍飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里６鄰中華路６５―４號"
-    },
-    {
-        "index": 37,
-        "shop": "合豐燒烤便當專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮校椅里５鄰造豐路３１３號１樓"
-    },
-    {
-        "index": 38,
-        "shop": "惠子早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１８鄰中山路２２０號"
-    },
-    {
-        "index": 39,
-        "shop": "美實家早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號"
-    },
-    {
-        "index": 40,
-        "shop": "汪崇輝",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里０１２鄰三民路１２０號"
-    },
-    {
-        "index": 41,
+        "index": 7,
         "shop": "合口味飲食店",
         "category": [
             "餐飲"
@@ -448,10 +101,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００７鄰中華路２４號１樓"
+        "market_address": "苗栗縣後龍鎮北龍里００７鄰中華路２４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 42,
+        "index": 8,
         "shop": "燕妮冷飲店",
         "category": [
             "餐飲"
@@ -459,87 +115,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１２鄰三民路１２１號１樓"
+        "market_address": "苗栗縣後龍鎮中龍里１２鄰三民路１２１號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 43,
-        "shop": "維真快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１５鄰成功路２１３號１樓"
-    },
-    {
-        "index": 44,
-        "shop": "長青餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮埔頂里１９鄰中華路７１３之１號"
-    },
-    {
-        "index": 45,
-        "shop": "文玲飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里７鄰勝利路１３號１樓"
-    },
-    {
-        "index": 46,
-        "shop": "睿揚食品商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１１鄰中華路１５４―３號"
-    },
-    {
-        "index": 47,
-        "shop": "彭家滷肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里１６鄰十班坑１５５―１２號"
-    },
-    {
-        "index": 48,
-        "shop": "阿砲伯米糕食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０２０鄰中山路２０１號"
-    },
-    {
-        "index": 49,
-        "shop": "佳錡美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００６鄰中華路１２８－３號１樓"
-    },
-    {
-        "index": 50,
+        "index": 9,
         "shop": "天使魚手作坊",
         "category": [
             "餐飲"
@@ -547,21 +135,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮海寶里０１１鄰１３０―１號"
+        "market_address": "苗栗縣後龍鎮海寶里０１１鄰１３０―１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 51,
-        "shop": "九一八咖啡坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００６鄰車站街１５２號"
-    },
-    {
-        "index": 52,
+        "index": 10,
         "shop": "麥味登龍坑早餐店",
         "category": [
             "餐飲"
@@ -569,131 +151,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里０１６鄰十班坑１５６―５６號１樓"
+        "market_address": "苗栗縣後龍鎮龍坑里０１６鄰十班坑１５６―５６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 53,
-        "shop": "吃百二早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１８鄰光華路４２６號"
-    },
-    {
-        "index": 54,
-        "shop": "後龍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００６鄰中山路８８―５號"
-    },
-    {
-        "index": 55,
-        "shop": "鎂菊早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１５鄰自強街５８號１樓"
-    },
-    {
-        "index": 56,
-        "shop": "幸福小棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里００７鄰勝利路６０號１樓"
-    },
-    {
-        "index": 57,
-        "shop": "舞根豆芽商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中和里０１８鄰崎頂１７０―３號１樓"
-    },
-    {
-        "index": 58,
-        "shop": "八通海產快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里００５鄰光華路５０３號"
-    },
-    {
-        "index": 59,
-        "shop": "福海海鮮快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里０１１鄰中華路５０―７號"
-    },
-    {
-        "index": 60,
-        "shop": "老胡牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１９鄰自強街７號１樓"
-    },
-    {
-        "index": 61,
-        "shop": "玉榮水餃小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里０１１鄰中華路１５４―４號１樓"
-    },
-    {
-        "index": 62,
-        "shop": "牛師父御膳牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮南龍里２４鄰重德新村１１９號"
-    },
-    {
-        "index": 63,
-        "shop": "帝一小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里１１鄰中華路４６―４６號１樓"
-    },
-    {
-        "index": 64,
+        "index": 11,
         "shop": "橙品飲品",
         "category": [
             "餐飲"
@@ -701,54 +167,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里７鄰成功路９號"
+        "market_address": "苗栗縣後龍鎮北龍里７鄰成功路９號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 65,
-        "shop": "金港灣飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮海埔里８鄰海埔１２５―７號１樓"
-    },
-    {
-        "index": 66,
-        "shop": "雲和鍋貼水餃專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１鄰中北街２５１﹒２５１―１號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "謝家傳統小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１３鄰中龍街１９９號"
-    },
-    {
-        "index": 68,
-        "shop": "上品茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里８鄰中山路６９號"
-    },
-    {
-        "index": 69,
+        "index": 12,
         "shop": "卡哇伊飲料店",
         "category": [
             "餐飲"
@@ -756,10 +183,33 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１鄰中華路１５１號"
+        "market_address": "苗栗縣後龍鎮中龍里１鄰中華路１５１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 70,
+        "index": 13,
+        "shop": "雲和鍋貼水餃專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "後龍鎮",
+        "market_address": "苗栗縣後龍鎮中龍里１鄰中北街２５１﹒２５１―１號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 14,
         "shop": "興隆小吃店",
         "category": [
             "餐飲"
@@ -767,10 +217,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里１０鄰中華路６４―１０號"
+        "market_address": "苗栗縣後龍鎮北龍里１０鄰中華路６４―１０號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 71,
+        "index": 15,
         "shop": "好來香小吃店",
         "category": [
             "餐飲"
@@ -778,208 +231,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮校椅里５鄰造豐路２４７號"
+        "market_address": "苗栗縣後龍鎮校椅里５鄰造豐路２４７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 72,
-        "shop": "承記小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里１１鄰中華路５０－１３號１樓"
-    },
-    {
-        "index": 73,
-        "shop": "妙鸞小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里６鄰市興３號１樓"
-    },
-    {
-        "index": 74,
-        "shop": "張記本港海產小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里５鄰光華路５１７號"
-    },
-    {
-        "index": 75,
-        "shop": "北方小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１０鄰三民路１２８號"
-    },
-    {
-        "index": 76,
-        "shop": "後龍第一家魷魚焿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００１鄰中華路５１―５號"
-    },
-    {
-        "index": 77,
-        "shop": "麥味登勝利店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮南龍里１８鄰勝利街２５０－３７號"
-    },
-    {
-        "index": 78,
-        "shop": "港味強記燒臘店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里０１３鄰１９８號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "龍頭台菜海鮮餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１５鄰光華路５１６號"
-    },
-    {
-        "index": 80,
-        "shop": "三媽臭臭鍋後龍店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里２０鄰中山路１９５號"
-    },
-    {
-        "index": 81,
-        "shop": "東門餐館８８熱炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里６鄰館前街７號"
-    },
-    {
-        "index": 82,
-        "shop": "麥加饅頭賣點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１８鄰中山路２１８號"
-    },
-    {
-        "index": 83,
-        "shop": "後龍排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里中正路３５號１樓Ａ房"
-    },
-    {
-        "index": 84,
-        "shop": "安心食品服務股份有限公司高鐵苗栗門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮校椅里６鄰高鐵三路２６８號"
-    },
-    {
-        "index": 85,
-        "shop": "悠旅生活事業股份有限公司苗栗高鐵門市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮校椅里６鄰高鐵三路２６８號"
-    },
-    {
-        "index": 86,
-        "shop": "蜻蜓美式炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００１鄰中正路９３號"
-    },
-    {
-        "index": 87,
-        "shop": "名富商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號"
-    },
-    {
-        "index": 88,
-        "shop": "可利滋茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里７鄰成功路１９號１樓"
-    },
-    {
-        "index": 89,
-        "shop": "太興活海鮮飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮海埔里８鄰海埔１３１―８號"
-    },
-    {
-        "index": 90,
+        "index": 16,
         "shop": "台灣水牛城",
         "category": [
             "餐飲"
@@ -987,76 +246,28 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里１７鄰十班坑１８１－１１號"
+        "market_address": "苗栗縣後龍鎮龍坑里１７鄰十班坑１８１－１１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 91,
-        "shop": "阿水飲食店",
+        "index": 17,
+        "shop": "可利滋茶舖",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里８鄰中龍街１８３－２號"
+        "market_address": "苗栗縣後龍鎮北龍里７鄰成功路１９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 92,
-        "shop": "正口味便餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里１６鄰１５６－６８號旁邊"
-    },
-    {
-        "index": 93,
-        "shop": "明仙小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮校椅里５鄰造豐路２４７號"
-    },
-    {
-        "index": 94,
-        "shop": "十班坑小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮龍坑里１６鄰十班坑１５９－２號"
-    },
-    {
-        "index": 95,
-        "shop": "旺角美食飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中和里崎頂段４０７－０００１地號"
-    },
-    {
-        "index": 96,
-        "shop": "王家小食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮東明里１０鄰下浮尾１３５－９號"
-    },
-    {
-        "index": 97,
+        "index": 18,
         "shop": "粉粿姨手感甜點",
         "category": [
             "餐飲"
@@ -1064,272 +275,27 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里三民路１２０號前面廣場（慈雲亭）"
+        "market_address": "苗栗縣後龍鎮中龍里三民路１２０號前面廣場（慈雲亭）",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
     },
     {
-        "index": 98,
-        "shop": "劉霈淳",
+        "index": 19,
+        "shop": "名富商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里公有第二市場小吃類原１０號舖位"
-    },
-    {
-        "index": 99,
-        "shop": "寶寶粉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里三民路１２０號前面"
-    },
-    {
-        "index": 100,
-        "shop": "陳麗雲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里三民路１２０號"
-    },
-    {
-        "index": 101,
-        "shop": "攤販",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮慈雲宮前攤販集中場"
-    },
-    {
-        "index": 102,
-        "shop": "榮生自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１鄰中華路１５１之１號"
-    },
-    {
-        "index": 103,
-        "shop": "三美冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里７鄰勝利路２９號"
-    },
-    {
-        "index": 104,
-        "shop": "甜心小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里３鄰正賢路１８－１號"
-    },
-    {
-        "index": 105,
-        "shop": "麥味登早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里００６鄰中華路１２８－４號"
-    },
-    {
-        "index": 106,
-        "shop": "天泉布丁豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里１０鄰三民路１２８號"
-    },
-    {
-        "index": 107,
-        "shop": "黎明小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里０１５鄰成功路後龍國小西側"
-    },
-    {
-        "index": 108,
-        "shop": "正宗永和豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里２０鄰中山路１７９號"
-    },
-    {
-        "index": 109,
-        "shop": "金港灣小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮海埔里８鄰海埔１２５－１１號左側"
-    },
-    {
-        "index": 110,
-        "shop": "新苗溫馨小棧",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮新民里１３鄰西社１２６―１５號"
-    },
-    {
-        "index": 111,
-        "shop": "台灣小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮大庄里１６鄰中山路２５０號"
-    },
-    {
-        "index": 112,
-        "shop": "美吉龍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里６鄰中華路６５－２號"
-    },
-    {
-        "index": 113,
-        "shop": "東海小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮東明里１０鄰下浮尾１３７－２號前面"
-    },
-    {
-        "index": 114,
-        "shop": "桂娛早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮中龍里４鄰中市街２３２―１號"
-    },
-    {
-        "index": 115,
-        "shop": "曆新小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮新民里８鄰東社８９－１號"
-    },
-    {
-        "index": 116,
-        "shop": "巧品盒餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮新民里１２鄰中心路１２２－１號"
-    },
-    {
-        "index": 117,
-        "shop": "福興美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里中正路３５－２號１樓Ｂ房"
-    },
-    {
-        "index": 118,
-        "shop": "東陽担仔麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮復興里４鄰４９－７號"
-    },
-    {
-        "index": 119,
-        "shop": "林家牛肉麵小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮東明里１３５號左棟"
-    },
-    {
-        "index": 120,
-        "shop": "巧口福小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮溪洲里８鄰勝利路５９－１號"
-    },
-    {
-        "index": 121,
-        "shop": "老實鋪小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "後龍鎮",
-        "market_address": "苗栗縣後龍鎮北龍里１０鄰中北街７０－７號"
+        "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     }
 ]

@@ -2,37 +2,43 @@
     {
         "index": 1,
         "shop": "雅聞峇里海岸觀光工廠",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "斗六市",
-        "market_address": "雲林縣斗六市榴中里中興路333號"
+        "market_address": "雲林縣斗六市榴中里中興路333號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 2,
-        "shop": "塔吉特千層蛋糕大使館",
-        "category": "觀光工廠",
+        "shop": "朝露魚舖觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "斗六市",
-        "market_address": "雲林縣斗六市榴中里工業路118號"
+        "market_address": "雲林縣斗六市斗工六路6號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 3,
-        "shop": "朝露魚舖觀光工廠",
-        "category": "觀光工廠",
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "斗六市",
-        "market_address": "雲林縣斗六市斗工六路6號"
-    },
-    {
-        "index": 4,
         "shop": "大同醬油黑金釀造館",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "斗六市",
-        "market_address": "雲林縣斗六市斗工二路39號"
+        "market_address": "雲林縣斗六市斗工二路39號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

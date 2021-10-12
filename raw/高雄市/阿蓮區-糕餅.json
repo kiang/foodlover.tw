@@ -1,61 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "新味軒餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區阿蓮里中正路６１６號"
-    },
-    {
-        "index": 2,
-        "shop": "東晨烘培屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里０１４鄰中正路４７１號"
-    },
-    {
-        "index": 3,
-        "shop": "瑞美西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區阿蓮里民族路８６號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "全欣藝術蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里２３鄰中正路５１３號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "陳師傅烘焙屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里２３鄰中正路５１９號１樓"
-    },
-    {
-        "index": 6,
         "shop": "惠昌食品有限公司",
         "category": [
             "糕餅"
@@ -63,10 +8,13 @@
         "zone": "高屏",
         "city": "高雄市",
         "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區清蓮里中正路６３８巷３７號１樓"
+        "market_address": "高雄市阿蓮區清蓮里中正路６３８巷３７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 7,
+        "index": 2,
         "shop": "千德國際有限公司",
         "category": [
             "糕餅"
@@ -74,17 +22,10 @@
         "zone": "高屏",
         "city": "高雄市",
         "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里民族路１９巷１３號２樓"
-    },
-    {
-        "index": 8,
-        "shop": "欣晴手感麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區和蓮里中正路６６３號"
+        "market_address": "高雄市阿蓮區南蓮里民族路１９巷１３號２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     }
 ]

@@ -1,11 +1,45 @@
 [
     {
         "index": 1,
-        "shop": "朕華國際股份有限公司",
-        "category": "百貨美食街",
+        "shop": "​棧貳庫 KW2",
+        "category": [
+            "百貨美食街"
+        ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鼓山區",
-        "market_address": "804高雄市鼓山區大順一路115號"
+        "market_address": "高雄市鼓山區蓬萊路１７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "好市多 大順店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鼓山區",
+        "market_address": "高雄市鼓山區龍子里大順一路１１１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "義享時尚廣場",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鼓山區",
+        "market_address": "804高雄市鼓山區大順一路115號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     }
 ]

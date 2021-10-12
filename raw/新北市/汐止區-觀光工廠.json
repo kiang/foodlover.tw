@@ -2,10 +2,15 @@
     {
         "index": 1,
         "shop": "香帥蛋糕芋製所",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區汐萬路一段211巷26號"
+        "market_address": "新北市汐止區汐萬路一段211巷26號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

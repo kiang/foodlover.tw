@@ -1,50 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "小馬哥牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２鄰至公路１３５號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "邱家粄條",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１３鄰玉興街２１號"
-    },
-    {
-        "index": 3,
-        "shop": "新禾快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里７鄰天雲街３６號"
-    },
-    {
-        "index": 4,
-        "shop": "梅霖飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里１０鄰光復路１９１號"
-    },
-    {
-        "index": 5,
         "shop": "醉一醉啤酒屋",
         "category": [
             "夜市\/市場攤販",
@@ -53,132 +9,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２６鄰橋頭南１號２樓"
+        "market_address": "苗栗縣苗栗市嘉盛里２６鄰橋頭南１號２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 6,
-        "shop": "文杰魯味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２鄰至公路１４８號"
-    },
-    {
-        "index": 7,
-        "shop": "米淇義式餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１９鄰縣府路６９號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "小香港麵店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１０鄰中山路２７３號"
-    },
-    {
-        "index": 9,
-        "shop": "海山小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里１鄰為民街３５號"
-    },
-    {
-        "index": 10,
-        "shop": "林記夜市城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里６鄰中正路１０１９號"
-    },
-    {
-        "index": 11,
-        "shop": "廣緣素食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０７號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "閒人居茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路５９號"
-    },
-    {
-        "index": 13,
-        "shop": "龍華小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里金龍街１２２號"
-    },
-    {
-        "index": 14,
-        "shop": "薑母鴨小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１１鄰水流娘２４－４號"
-    },
-    {
-        "index": 15,
-        "shop": "浩成鵝肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２５鄰豐年路５０號"
-    },
-    {
-        "index": 16,
-        "shop": "大興小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２１２號"
-    },
-    {
-        "index": 17,
+        "index": 2,
         "shop": "都日本料理",
         "category": [
             "餐飲"
@@ -186,266 +23,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２１鄰北安街１５１號"
+        "market_address": "苗栗縣苗栗市福麗里２１鄰北安街１５１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 18,
-        "shop": "永茂小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里光復路９３號"
-    },
-    {
-        "index": 19,
-        "shop": "鄉園客家小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０３７鄰華民路４５號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "上苗速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１７鄰長安街１１２號"
-    },
-    {
-        "index": 21,
-        "shop": "永興海鮮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路２２９、２３１號"
-    },
-    {
-        "index": 22,
-        "shop": "香榭屋美食廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１７鄰長安街１０４號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "國隆海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里正發路２５３號"
-    },
-    {
-        "index": 24,
-        "shop": "陳記火鍋城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里５鄰光復路４７號"
-    },
-    {
-        "index": 25,
-        "shop": "葉家粥美食天地",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里中正路１１８０號１樓"
-    },
-    {
-        "index": 26,
-        "shop": "螢夜城小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路１７２號"
-    },
-    {
-        "index": 27,
-        "shop": "哆啦商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００１鄰府前路１９７號"
-    },
-    {
-        "index": 28,
-        "shop": "泰白花泰式飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里００９鄰中正路８０４號"
-    },
-    {
-        "index": 29,
-        "shop": "越食越氏美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中正路１３６號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "燒夜串燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里０１３鄰光復路１９６號"
-    },
-    {
-        "index": 31,
-        "shop": "水易企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里中華路８３之１號１樓"
-    },
-    {
-        "index": 32,
-        "shop": "芳賴泰式小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里中華路４２３號１樓"
-    },
-    {
-        "index": 33,
-        "shop": "山姆夾心早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路９５號"
-    },
-    {
-        "index": 34,
-        "shop": "大衛商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１鄰福星街７５巷３號２樓"
-    },
-    {
-        "index": 35,
-        "shop": "緬泰美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里００８鄰中山路７２７號"
-    },
-    {
-        "index": 36,
-        "shop": "瑞來餐飲店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里北苗公有零售市場飲食類店第３７號攤舖位"
-    },
-    {
-        "index": 37,
-        "shop": "淳淬吃冰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路１０號１樓"
-    },
-    {
-        "index": 38,
-        "shop": "猫狸村手作料理",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２９鄰府前路４３號"
-    },
-    {
-        "index": 39,
-        "shop": "路加的茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中正路１６７號１樓"
-    },
-    {
-        "index": 40,
-        "shop": "潘氏企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里００３鄰橫車路３１２號"
-    },
-    {
-        "index": 41,
+        "index": 3,
         "shop": "柒柒茶鋪",
         "category": [
             "餐飲"
@@ -453,10 +38,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００１鄰至公路１５６號１樓"
+        "market_address": "苗栗縣苗栗市福麗里００１鄰至公路１５６號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 42,
+        "index": 4,
         "shop": "君君商行",
         "category": [
             "餐飲"
@@ -464,21 +52,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２１鄰正發路３５號１樓"
+        "market_address": "苗栗縣苗栗市北苗里２１鄰正發路３５號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 43,
-        "shop": "地久天長食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３３鄰大埔街２９號１樓"
-    },
-    {
-        "index": 44,
+        "index": 5,
         "shop": "天誠工作室",
         "category": [
             "餐飲"
@@ -486,10 +68,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路１４２號１樓"
+        "market_address": "苗栗縣苗栗市建功里忠孝路１４２號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "Pi 拍錢包",
+            "台灣pay"
+        ]
     },
     {
-        "index": 45,
+        "index": 6,
         "shop": "阿咪滷味店",
         "category": [
             "餐飲"
@@ -497,56 +85,28 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里光復路１６８號１樓"
+        "market_address": "苗栗縣苗栗市玉苗里光復路１６８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 46,
-        "shop": "釜山韓式炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里０１０鄰日新街４０號１樓"
-    },
-    {
-        "index": 47,
-        "shop": "花鳥和食商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里自治路１５５號"
-    },
-    {
-        "index": 48,
-        "shop": "開闊地方咖啡工作室",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里育賢路６６號"
-    },
-    {
-        "index": 49,
+        "index": 7,
         "shop": "烏色咖啡",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１１鄰安泰４號１樓"
+        "market_address": "苗栗縣苗栗市福安里１１鄰安泰４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 50,
+        "index": 8,
         "shop": "友食遇麵食館",
         "category": [
             "餐飲"
@@ -554,10 +114,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２鄰中華路１６２之１號"
+        "market_address": "苗栗縣苗栗市福星里２鄰中華路１６２之１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 51,
+        "index": 9,
         "shop": "帥哥下麵",
         "category": [
             "餐飲"
@@ -565,110 +128,32 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里新庄街１９號"
+        "market_address": "苗栗縣苗栗市維新里新庄街１９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 52,
+        "index": 10,
         "shop": "大發商業社",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６３１號"
+        "market_address": "苗栗縣苗栗市青苗里中正路６３１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 53,
-        "shop": "喜慶客家饌",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里２６鄰玉清街２８２號１樓"
-    },
-    {
-        "index": 54,
-        "shop": "慢慢咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００９鄰至公路３４３號１樓"
-    },
-    {
-        "index": 55,
-        "shop": "倆寶湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里０１０鄰中正路８５９號１樓"
-    },
-    {
-        "index": 56,
-        "shop": "那由多海鮮食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３１鄰文發路６６號"
-    },
-    {
-        "index": 57,
-        "shop": "貢鍋共鍋麻辣火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１５鄰建中街６１巷８號１樓"
-    },
-    {
-        "index": 58,
-        "shop": "天川樂鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里１鄰為民街３０號１樓"
-    },
-    {
-        "index": 59,
-        "shop": "食尚韓餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里饒平街３６號１樓"
-    },
-    {
-        "index": 60,
-        "shop": "峇泰殿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００９鄰中正路８４３號１樓"
-    },
-    {
-        "index": 61,
+        "index": 11,
         "shop": "鋒聲水起商行",
         "category": [
             "餐飲"
@@ -676,43 +161,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里６鄰新倉街４號"
+        "market_address": "苗栗縣苗栗市建功里６鄰新倉街４號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 62,
-        "shop": "信的魯肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里００１鄰日新街３１號１樓"
-    },
-    {
-        "index": 63,
-        "shop": "九龍廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里００１鄰光復路１２９號１樓"
-    },
-    {
-        "index": 64,
-        "shop": "帝王冰飲室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里００３鄰日新街３７號"
-    },
-    {
-        "index": 65,
+        "index": 12,
         "shop": "細阿哥蓋飯",
         "category": [
             "餐飲"
@@ -720,43 +175,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路６０９號"
+        "market_address": "苗栗縣苗栗市青苗里中山路６０９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 66,
-        "shop": "芳霖滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里為公路１５４號"
-    },
-    {
-        "index": 67,
-        "shop": "參拾號餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里信泰５２號２樓"
-    },
-    {
-        "index": 68,
-        "shop": "香初早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里中華路５１６號１樓"
-    },
-    {
-        "index": 69,
+        "index": 13,
         "shop": "睿生飲食店",
         "category": [
             "餐飲"
@@ -764,43 +189,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２１鄰和平路１３８巷３８號１樓"
+        "market_address": "苗栗縣苗栗市福麗里０２１鄰和平路１３８巷３８號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 70,
-        "shop": "珍味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里民族路６６巷３８號１樓"
-    },
-    {
-        "index": 71,
-        "shop": "京禾麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里５鄰玉清路１１３之２號"
-    },
-    {
-        "index": 72,
-        "shop": "花田小農懷舊米食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里５鄰玉清路１１３之２號"
-    },
-    {
-        "index": 73,
+        "index": 14,
         "shop": "鑫旺號食品行",
         "category": [
             "餐飲"
@@ -808,10 +205,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６３７號１樓"
+        "market_address": "苗栗縣苗栗市青苗里中正路６３７號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 74,
+        "index": 15,
         "shop": "山野蔬食",
         "category": [
             "餐飲"
@@ -819,21 +221,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里中山路２６５之１號１樓"
+        "market_address": "苗栗縣苗栗市建功里中山路２６５之１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 75,
-        "shop": "筷樂享食餐飲企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００８鄰至公路２７９號"
-    },
-    {
-        "index": 76,
+        "index": 16,
         "shop": "盛全商行",
         "category": [
             "餐飲"
@@ -841,32 +235,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００６鄰國華路９７３號"
+        "market_address": "苗栗縣苗栗市福麗里００６鄰國華路９７３號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 77,
-        "shop": "元山小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓"
-    },
-    {
-        "index": 78,
-        "shop": "地標商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里６鄰北安街５１號１樓"
-    },
-    {
-        "index": 79,
+        "index": 17,
         "shop": "欣富貴海鮮餐廳",
         "category": [
             "餐飲"
@@ -874,54 +251,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里３５鄰國華路２１１號"
+        "market_address": "苗栗縣苗栗市福星里３５鄰國華路２１１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 80,
-        "shop": "清香冷泡茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里０１５鄰中正路１３５９號"
-    },
-    {
-        "index": 81,
-        "shop": "二分之三工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中正路５２號"
-    },
-    {
-        "index": 82,
-        "shop": "鈺銓商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３７鄰和平路４６號１樓"
-    },
-    {
-        "index": 83,
-        "shop": "天喜好食小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路７７號"
-    },
-    {
-        "index": 84,
+        "index": 18,
         "shop": "星勝企業社",
         "category": [
             "餐飲"
@@ -929,76 +266,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００１鄰中正路９４４號"
+        "market_address": "苗栗縣苗栗市恭敬里００１鄰中正路９４４號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 85,
-        "shop": "林群咖啡廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２１鄰民族路１０１巷９號"
-    },
-    {
-        "index": 86,
-        "shop": "老神戶牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００６鄰中正路１００１號"
-    },
-    {
-        "index": 87,
-        "shop": "老家生活文化實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００６鄰建台街１巷１３號"
-    },
-    {
-        "index": 88,
-        "shop": "星陽光冷熱冰城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里玉清街９之２號"
-    },
-    {
-        "index": 89,
-        "shop": "廣聚源廣東料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００６鄰中正路１０１３號１樓"
-    },
-    {
-        "index": 90,
-        "shop": "小胖與二哥創意料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里０１５鄰中正路１２９９號１樓"
-    },
-    {
-        "index": 91,
+        "index": 19,
         "shop": "炸吧商行",
         "category": [
             "餐飲"
@@ -1006,43 +280,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里１２鄰中正路５８５號１樓"
+        "market_address": "苗栗縣苗栗市青苗里１２鄰中正路５８５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 92,
-        "shop": "吃一夏商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里中正路７２８號"
-    },
-    {
-        "index": 93,
-        "shop": "鄉知味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里建華街１６號"
-    },
-    {
-        "index": 94,
-        "shop": "華軒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里９鄰國華路１２３２號"
-    },
-    {
-        "index": 95,
+        "index": 20,
         "shop": "詮品餐坊",
         "category": [
             "餐飲"
@@ -1050,32 +294,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路２２號１樓"
+        "market_address": "苗栗縣苗栗市北苗里英才路２２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 96,
-        "shop": "陳意十足滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０３７鄰金鳳街５７號"
-    },
-    {
-        "index": 97,
-        "shop": "傅傳小籠包企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里５鄰福星街２１０號"
-    },
-    {
-        "index": 98,
+        "index": 21,
         "shop": "力量健康餐盒",
         "category": [
             "餐飲"
@@ -1083,186 +308,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２６鄰英才路３４號１樓"
+        "market_address": "苗栗縣苗栗市北苗里２６鄰英才路３４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 99,
-        "shop": "我家飯糰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里７鄰社寮街５３號"
-    },
-    {
-        "index": 100,
-        "shop": "春日早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００１鄰至公路１９２號"
-    },
-    {
-        "index": 101,
-        "shop": "義民小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里義民街４２號１樓"
-    },
-    {
-        "index": 102,
-        "shop": "泰祖魷魚焿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里００８鄰中山路７５５號"
-    },
-    {
-        "index": 103,
-        "shop": "知福小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１１００號１樓"
-    },
-    {
-        "index": 104,
-        "shop": "饗御美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１５１號"
-    },
-    {
-        "index": 105,
-        "shop": "吻鑽音樂廣場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２３鄰爲公路３０９號２樓"
-    },
-    {
-        "index": 106,
-        "shop": "胡記自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１０鄰西勢美北１號"
-    },
-    {
-        "index": 107,
-        "shop": "橋頭小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中正路１３５號１樓"
-    },
-    {
-        "index": 108,
-        "shop": "傳家堡餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里長安街７９巷１８－１號"
-    },
-    {
-        "index": 109,
-        "shop": "山都力小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里１１鄰中正路４３０號"
-    },
-    {
-        "index": 110,
-        "shop": "翠翠飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里００３鄰光復路５６號"
-    },
-    {
-        "index": 111,
-        "shop": "御膳房小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路４５號"
-    },
-    {
-        "index": 112,
-        "shop": "魚樂香小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０１４鄰自治路３３３號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "嘉盛早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１５鄰為公路３７７號"
-    },
-    {
-        "index": 114,
-        "shop": "迷庭複合式餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００５鄰新苗街７５號１樓"
-    },
-    {
-        "index": 115,
+        "index": 22,
         "shop": "喆鑫館",
         "category": [
             "餐飲"
@@ -1270,54 +322,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路９８號"
+        "market_address": "苗栗縣苗栗市建功里府前路９８號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 116,
-        "shop": "飛翔西式早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０７３號１樓"
-    },
-    {
-        "index": 117,
-        "shop": "淺草咖哩蛋包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路９６號１樓"
-    },
-    {
-        "index": 118,
-        "shop": "天使早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１１００號"
-    },
-    {
-        "index": 119,
-        "shop": "日日鮮自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路４６４之１號１樓"
-    },
-    {
-        "index": 120,
+        "index": 23,
         "shop": "天涯海餃專賣店",
         "category": [
             "餐飲"
@@ -1325,55 +336,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１３鄰中正路１３３號"
+        "market_address": "苗栗縣苗栗市上苗里１３鄰中正路１３３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 121,
-        "shop": "賴桑串燒居酒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６４０號１樓"
-    },
-    {
-        "index": 122,
-        "shop": "姍園姐咖啡",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０３６鄰金龍街１８０號"
-    },
-    {
-        "index": 123,
-        "shop": "峴煮鵝肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０１３鄰至公路４７９號１樓"
-    },
-    {
-        "index": 124,
-        "shop": "鼎軒御膳餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００２鄰恭敬路１３號１樓"
-    },
-    {
-        "index": 125,
+        "index": 24,
         "shop": "杰哥排餐店",
         "category": [
             "餐飲"
@@ -1381,54 +350,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００７鄰中山路５３７號"
+        "market_address": "苗栗縣苗栗市中苗里００７鄰中山路５３７號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 126,
-        "shop": "雅妃早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１１鄰恭敬路２０２號１樓"
-    },
-    {
-        "index": 127,
-        "shop": "吉月坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１９鄰長春街１９號１樓"
-    },
-    {
-        "index": 128,
-        "shop": "牛媽媽傳統美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路１號１樓"
-    },
-    {
-        "index": 129,
-        "shop": "轉餃遇到麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里自治路５２巷７號１樓"
-    },
-    {
-        "index": 130,
+        "index": 25,
         "shop": "錢進來商行",
         "category": [
             "餐飲"
@@ -1436,21 +364,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰府前路１１０號１樓"
+        "market_address": "苗栗縣苗栗市建功里２２鄰府前路１１０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 131,
-        "shop": "懷玲食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里福星街７５巷１號"
-    },
-    {
-        "index": 132,
+        "index": 26,
         "shop": "沂呈商行",
         "category": [
             "餐飲"
@@ -1458,43 +379,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路９９號１樓"
+        "market_address": "苗栗縣苗栗市建功里府前路９９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 133,
-        "shop": "江姐黑豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０５７號１樓"
-    },
-    {
-        "index": 134,
-        "shop": "炸饗山海工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路１５巷１７號１樓"
-    },
-    {
-        "index": 135,
-        "shop": "吉酷食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里北安街２２２號１、２樓"
-    },
-    {
-        "index": 136,
+        "index": 27,
         "shop": "源恆火鍋店",
         "category": [
             "餐飲"
@@ -1502,65 +393,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里０１５鄰光復路７７號１、２樓"
+        "market_address": "苗栗縣苗栗市綠苗里０１５鄰光復路７７號１、２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 137,
-        "shop": "藍家大院商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里００１鄰至公路５７６號"
-    },
-    {
-        "index": 138,
-        "shop": "姐妹快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路４０６號"
-    },
-    {
-        "index": 139,
-        "shop": "祐恆麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里大埔街３５號"
-    },
-    {
-        "index": 140,
-        "shop": "冰冰小姐義式手作冰淇淋專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰民族路６８之３號"
-    },
-    {
-        "index": 141,
-        "shop": "大首戶飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里水流娘２４―２號１樓"
-    },
-    {
-        "index": 142,
+        "index": 28,
         "shop": "丁悅早餐店",
         "category": [
             "餐飲"
@@ -1568,21 +407,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號１樓"
+        "market_address": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 143,
-        "shop": "有食間餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰莊敬街１５５－１號１樓"
-    },
-    {
-        "index": 144,
+        "index": 29,
         "shop": "饌譽食館",
         "category": [
             "餐飲"
@@ -1590,43 +421,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里００１鄰光復路１３３號"
+        "market_address": "苗栗縣苗栗市大同里００１鄰光復路１３３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 145,
-        "shop": "伊豆豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０９５號"
-    },
-    {
-        "index": 146,
-        "shop": "湯宸美食商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里復興路四段９０號１樓"
-    },
-    {
-        "index": 147,
-        "shop": "望福小食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里自治路１４３號"
-    },
-    {
-        "index": 148,
+        "index": 30,
         "shop": "噢嗨喲早餐屋",
         "category": [
             "餐飲"
@@ -1634,54 +435,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里為公路３５２號１樓"
+        "market_address": "苗栗縣苗栗市清華里為公路３５２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 149,
-        "shop": "森手串居酒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００６鄰中正路１０２１號１樓"
-    },
-    {
-        "index": 150,
-        "shop": "侯食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里１４鄰育英街南苑２７號"
-    },
-    {
-        "index": 151,
-        "shop": "山城企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１６３號１樓"
-    },
-    {
-        "index": 152,
-        "shop": "娜娜越南小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里縣府路１３０號１樓"
-    },
-    {
-        "index": 153,
+        "index": 31,
         "shop": "聯友漢堡店",
         "category": [
             "餐飲"
@@ -1689,32 +449,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路５６５號１樓"
+        "market_address": "苗栗縣苗栗市青苗里中正路５６５號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 154,
-        "shop": "蓁竑蛋黃麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００６鄰寶樹路１０號１樓"
-    },
-    {
-        "index": 155,
-        "shop": "外星球餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１０鄰中正路１１２４號１樓"
-    },
-    {
-        "index": 156,
+        "index": 32,
         "shop": "好食好時台式居酒屋",
         "category": [
             "餐飲"
@@ -1722,10 +465,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６７３號１樓"
+        "market_address": "苗栗縣苗栗市青苗里中正路６７３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 157,
+        "index": 33,
         "shop": "匠云茶",
         "category": [
             "餐飲"
@@ -1733,21 +479,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里華民路７６號１樓"
+        "market_address": "苗栗縣苗栗市北苗里華民路７６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 158,
-        "shop": "老八自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１２鄰華岡２３號１樓"
-    },
-    {
-        "index": 159,
+        "index": 34,
         "shop": "香滿樓鬆餅屋",
         "category": [
             "餐飲"
@@ -1755,43 +493,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里００７鄰光復路２１號１樓"
+        "market_address": "苗栗縣苗栗市高苗里００７鄰光復路２１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 160,
-        "shop": "杰奇商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１２鄰華岡７０號１樓"
-    },
-    {
-        "index": 161,
-        "shop": "壹餐經典便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路５２２號"
-    },
-    {
-        "index": 162,
-        "shop": "豐庭快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６６６號"
-    },
-    {
-        "index": 163,
+        "index": 35,
         "shop": "有大福牛肉麵店",
         "category": [
             "餐飲"
@@ -1799,10 +507,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里０１９鄰大同路３９號１樓"
+        "market_address": "苗栗縣苗栗市綠苗里０１９鄰大同路３９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 164,
+        "index": 36,
         "shop": "原肉饗食小吃店",
         "category": [
             "餐飲"
@@ -1810,10 +521,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里７鄰為公路１８５號１樓、１８７號１樓"
+        "market_address": "苗栗縣苗栗市清華里７鄰為公路１８５號１樓、１８７號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 165,
+        "index": 37,
         "shop": "有緣人客家小館",
         "category": [
             "餐飲"
@@ -1821,54 +536,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００９鄰郵電街６巷１７號１樓"
+        "market_address": "苗栗縣苗栗市中苗里００９鄰郵電街６巷１７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 166,
-        "shop": "雙響炮平價合菜熱炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路４２４號１樓"
-    },
-    {
-        "index": 167,
-        "shop": "山田雜糧粥品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里長春街２０號１樓"
-    },
-    {
-        "index": 168,
-        "shop": "阿丹早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里０１６鄰光復路１０５號１樓"
-    },
-    {
-        "index": 169,
-        "shop": "定家企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２９鄰府前路２９號１樓"
-    },
-    {
-        "index": 170,
+        "index": 38,
         "shop": "良旭早午餐",
         "category": [
             "餐飲"
@@ -1876,65 +550,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號１樓"
+        "market_address": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 171,
-        "shop": "名品早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１０鄰東海街８號、１０號"
-    },
-    {
-        "index": 172,
-        "shop": "旺旺冰城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１１鄰為公路１００號"
-    },
-    {
-        "index": 173,
-        "shop": "咪妮家早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里光復路１００號１樓"
-    },
-    {
-        "index": 174,
-        "shop": "滿福杯印尼小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里站前３號"
-    },
-    {
-        "index": 175,
-        "shop": "阿嬌姐麵飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里光復路８２號１樓"
-    },
-    {
-        "index": 176,
+        "index": 39,
         "shop": "寶來小吃店",
         "category": [
             "餐飲"
@@ -1942,10 +564,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路６２２號"
+        "market_address": "苗栗縣苗栗市青苗里中山路６２２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 177,
+        "index": 40,
         "shop": "高樂餐坊",
         "category": [
             "餐飲"
@@ -1953,21 +578,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３２鄰英才路２２號１樓"
+        "market_address": "苗栗縣苗栗市北苗里３２鄰英才路２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 178,
-        "shop": "有間食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路６１３號"
-    },
-    {
-        "index": 179,
+        "index": 41,
         "shop": "首坡里商行",
         "category": [
             "餐飲"
@@ -1975,32 +593,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里北安街１７８號"
+        "market_address": "苗栗縣苗栗市北苗里北安街１７８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 180,
-        "shop": "安和早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２３鄰中華路３９９號"
-    },
-    {
-        "index": 181,
-        "shop": "蘭卡威早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里玉清街９―２號"
-    },
-    {
-        "index": 182,
+        "index": 42,
         "shop": "屋亭碳烤店",
         "category": [
             "餐飲"
@@ -2008,10 +608,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里００４鄰國華路９８０號１樓"
+        "market_address": "苗栗縣苗栗市文山里００４鄰國華路９８０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 183,
+        "index": 43,
         "shop": "素庭餐點",
         "category": [
             "餐飲"
@@ -2019,10 +623,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２３鄰縣府路１２０號１樓"
+        "market_address": "苗栗縣苗栗市建功里２３鄰縣府路１２０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 184,
+        "index": 44,
         "shop": "蒲公英小吃店",
         "category": [
             "餐飲"
@@ -2030,10 +637,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１７１號１樓"
+        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１７１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 185,
+        "index": 45,
         "shop": "八方雲集苗栗中正店",
         "category": [
             "餐飲"
@@ -2041,43 +655,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里１鄰中正路９１１號"
+        "market_address": "苗栗縣苗栗市勝利里１鄰中正路９１１號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 186,
-        "shop": "集可吉早餐吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２９鄰中華東街１５８號１樓"
-    },
-    {
-        "index": 187,
-        "shop": "蘭園快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里長春街１號１樓"
-    },
-    {
-        "index": 188,
-        "shop": "水牛企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里８鄰文發路１７２號１樓"
-    },
-    {
-        "index": 189,
+        "index": 46,
         "shop": "承毅小吃店",
         "category": [
             "餐飲"
@@ -2085,76 +671,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３０鄰自治路６０號"
+        "market_address": "苗栗縣苗栗市北苗里３０鄰自治路６０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 190,
-        "shop": "鑫鮮屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路６２６號１樓"
-    },
-    {
-        "index": 191,
-        "shop": "品鮮屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里大埔街７３號１樓"
-    },
-    {
-        "index": 192,
-        "shop": "小羊咩牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００１鄰中正路９３８號"
-    },
-    {
-        "index": 193,
-        "shop": "函軒會館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２７鄰英才路６２１號"
-    },
-    {
-        "index": 194,
-        "shop": "蓬萊生態農場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１６鄰中華東街３９８號７樓之２"
-    },
-    {
-        "index": 195,
-        "shop": "吃八斗飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１１鄰東海街２５號１樓"
-    },
-    {
-        "index": 196,
+        "index": 47,
         "shop": "喜茶冷飲店",
         "category": [
             "餐飲"
@@ -2162,21 +685,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路５９６號"
+        "market_address": "苗栗縣苗栗市青苗里中山路５９６號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 197,
-        "shop": "清安粉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里米市街１１６號１樓"
-    },
-    {
-        "index": 198,
+        "index": 48,
         "shop": "坐唄複合式餐飲",
         "category": [
             "餐飲"
@@ -2184,32 +701,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里１０鄰東海街２號１樓"
+        "market_address": "苗栗縣苗栗市恭敬里１０鄰東海街２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 199,
-        "shop": "初口甜點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里８鄰玉清路１４２－１號"
-    },
-    {
-        "index": 200,
-        "shop": "植感咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路５５號１樓"
-    },
-    {
-        "index": 201,
+        "index": 49,
         "shop": "好喫火鍋",
         "category": [
             "餐飲"
@@ -2217,32 +716,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里自治路２１５號"
+        "market_address": "苗栗縣苗栗市北苗里自治路２１５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 202,
-        "shop": "金典美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３２鄰英才路２２號１樓"
-    },
-    {
-        "index": 203,
-        "shop": "奕臻廚坊小舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路２４８號１樓"
-    },
-    {
-        "index": 204,
+        "index": 50,
         "shop": "青禾鍋物",
         "category": [
             "餐飲"
@@ -2250,21 +730,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里縣府路１２６號１樓"
+        "market_address": "苗栗縣苗栗市建功里縣府路１２６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 205,
-        "shop": "阿達小火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里中正路２５０號"
-    },
-    {
-        "index": 206,
+        "index": 51,
         "shop": "鏮福餐館",
         "category": [
             "餐飲"
@@ -2272,10 +744,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２７鄰府東路２號１樓"
+        "market_address": "苗栗縣苗栗市建功里２７鄰府東路２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 207,
+        "index": 52,
         "shop": "弘苙商行",
         "category": [
             "餐飲"
@@ -2283,54 +759,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里２鄰中正路４７５號２樓"
+        "market_address": "苗栗縣苗栗市中苗里２鄰中正路４７５號２樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 208,
-        "shop": "夢想酵素餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰忠貞路３５―１號"
-    },
-    {
-        "index": 209,
-        "shop": "豐洋食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路７７號１樓"
-    },
-    {
-        "index": 210,
-        "shop": "宜泰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０３９鄰國福路３巷３３號"
-    },
-    {
-        "index": 211,
-        "shop": "新宏饌企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里１７鄰嘉福街１０３巷３１號１樓"
-    },
-    {
-        "index": 212,
+        "index": 53,
         "shop": "騰田百元熱炒店",
         "category": [
             "餐飲"
@@ -2338,187 +775,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里玉清路２０５號"
+        "market_address": "苗栗縣苗栗市玉華里玉清路２０５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 213,
-        "shop": "金志小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里光復路８０號１樓"
-    },
-    {
-        "index": 214,
-        "shop": "阿弟古麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路４６２號１樓"
-    },
-    {
-        "index": 215,
-        "shop": "山川日式食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號"
-    },
-    {
-        "index": 216,
-        "shop": "阿忠小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１５４號"
-    },
-    {
-        "index": 217,
-        "shop": "月牙泉咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰民族路６０號"
-    },
-    {
-        "index": 218,
-        "shop": "玫瑰園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３鄰忠孝路１９４號１樓"
-    },
-    {
-        "index": 219,
-        "shop": "臻閣小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里１鄰中正路９０７號"
-    },
-    {
-        "index": 220,
-        "shop": "振光飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１２鄰鳳形５一３１號"
-    },
-    {
-        "index": 221,
-        "shop": "知林家式牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３４鄰大埔街７１號"
-    },
-    {
-        "index": 222,
-        "shop": "茗祥餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里聯大２號"
-    },
-    {
-        "index": 223,
-        "shop": "喜臨門餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６１７號１樓"
-    },
-    {
-        "index": 224,
-        "shop": "美吉商行",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里４鄰玉清街８０號"
-    },
-    {
-        "index": 225,
-        "shop": "三好自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里８鄰中山路６３４號"
-    },
-    {
-        "index": 226,
-        "shop": "帝王食補薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路１６８號"
-    },
-    {
-        "index": 227,
-        "shop": "進盛號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里６鄰至公路２１２號"
-    },
-    {
-        "index": 228,
-        "shop": "風馬牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里新東街６鄰１３號１Ｆ"
-    },
-    {
-        "index": 229,
+        "index": 54,
         "shop": "西山庄鱺魚美食坊",
         "category": [
             "餐飲"
@@ -2526,56 +789,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里３鄰文山６３―６號１樓"
+        "market_address": "苗栗縣苗栗市文山里３鄰文山６３―６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 230,
-        "shop": "天天來自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２００號"
-    },
-    {
-        "index": 231,
-        "shop": "大遠東豆漿大王",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里７鄰爲公路２０３號"
-    },
-    {
-        "index": 232,
-        "shop": "新榕園冷熱飲室",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里成功路１６號１樓"
-    },
-    {
-        "index": 233,
-        "shop": "瑞乃軒早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里８鄰中正路１１０６號"
-    },
-    {
-        "index": 234,
+        "index": 55,
         "shop": "品園冷熱飲食店",
         "category": [
             "夜市\/市場攤販",
@@ -2584,132 +804,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１６鄰府東路１４號"
+        "market_address": "苗栗縣苗栗市建功里１６鄰府東路１４號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 235,
-        "shop": "東興牛肉麵小吃",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里９鄰中山路５９４號"
-    },
-    {
-        "index": 236,
-        "shop": "快餐車麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里７鄰光復路２３號"
-    },
-    {
-        "index": 237,
-        "shop": "老山東飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１８鄰爲公路７３９號"
-    },
-    {
-        "index": 238,
-        "shop": "宏美紅糖剉冰冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１０鄰光復路１８８號"
-    },
-    {
-        "index": 239,
-        "shop": "陸大飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２鄰三西街６２號"
-    },
-    {
-        "index": 240,
-        "shop": "勝發飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里爲公路２７號"
-    },
-    {
-        "index": 241,
-        "shop": "慶明冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里８鄰中山路７１３號"
-    },
-    {
-        "index": 242,
-        "shop": "發興飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里５鄰中正路６３０號"
-    },
-    {
-        "index": 243,
-        "shop": "北風冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１５鄰為公路９３號"
-    },
-    {
-        "index": 244,
-        "shop": "胖胖豬豬血湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路４９號"
-    },
-    {
-        "index": 245,
-        "shop": "牛霸牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里中正路２９３號"
-    },
-    {
-        "index": 246,
+        "index": 56,
         "shop": "睿仲商行",
         "category": [
             "餐飲"
@@ -2717,10 +818,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里０１０鄰中正路８８６號１樓"
+        "market_address": "苗栗縣苗栗市高苗里０１０鄰中正路８８６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 247,
+        "index": 57,
         "shop": "大廚快餐亭",
         "category": [
             "餐飲"
@@ -2728,21 +834,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１２鄰中華路１４５號１樓"
+        "market_address": "苗栗縣苗栗市北苗里１２鄰中華路１４５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 248,
-        "shop": "萱典早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里正發路２７號１樓"
-    },
-    {
-        "index": 249,
+        "index": 58,
         "shop": "蘇打樹蔬食餐廳",
         "category": [
             "餐飲"
@@ -2750,43 +848,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里大埔街５６號"
+        "market_address": "苗栗縣苗栗市建功里大埔街５６號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 250,
-        "shop": "麥味登文華早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０２５鄰正發路１８７號１樓"
-    },
-    {
-        "index": 251,
-        "shop": "喬米食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１６鄰縣府路８４號１樓"
-    },
-    {
-        "index": 252,
-        "shop": "盈丰早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里００７鄰文發路１２７號１樓"
-    },
-    {
-        "index": 253,
+        "index": 59,
         "shop": "尋品旬品咖啡",
         "category": [
             "餐飲"
@@ -2794,32 +863,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里０１７鄰大同路１１８號１樓、地下１樓"
+        "market_address": "苗栗縣苗栗市高苗里０１７鄰大同路１１８號１樓、地下１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 254,
-        "shop": "旺記小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路５９號１樓"
-    },
-    {
-        "index": 255,
-        "shop": "井澤蔬食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１０鄰中山路２６５－１號１樓"
-    },
-    {
-        "index": 256,
+        "index": 60,
         "shop": "民涵晨食館",
         "category": [
             "餐飲"
@@ -2827,175 +878,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里中華路２４８號１樓"
+        "market_address": "苗栗縣苗栗市福星里中華路２４８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 257,
-        "shop": "玖吧小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里０３２鄰自治路１６９號"
-    },
-    {
-        "index": 258,
-        "shop": "老時光麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里中正路９８８號１樓"
-    },
-    {
-        "index": 259,
-        "shop": "阿亮伯企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１３鄰恭敬路１８１號"
-    },
-    {
-        "index": 260,
-        "shop": "彭記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０６７號１樓"
-    },
-    {
-        "index": 261,
-        "shop": "紅蕃茄早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里０２２鄰金鳳街４２號１樓"
-    },
-    {
-        "index": 262,
-        "shop": "欣口味平價快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰至公路１１５號"
-    },
-    {
-        "index": 263,
-        "shop": "金陽便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里０２２鄰金陽街１７號１樓"
-    },
-    {
-        "index": 264,
-        "shop": "臭多多素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里和平路１０１號１樓"
-    },
-    {
-        "index": 265,
-        "shop": "尖山小籠湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中山路５１號１樓"
-    },
-    {
-        "index": 266,
-        "shop": "大灶頭客家美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉新里豪美街４６號"
-    },
-    {
-        "index": 267,
-        "shop": "辛巴小吃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰英明街６６號３樓"
-    },
-    {
-        "index": 268,
-        "shop": "菁採生活茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里為公路１３３號"
-    },
-    {
-        "index": 269,
-        "shop": "麥味登豪榮店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里００６鄰豪榮３號１樓"
-    },
-    {
-        "index": 270,
-        "shop": "五三番平價火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里正發路５３號"
-    },
-    {
-        "index": 271,
-        "shop": "響食早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１０６６號１樓"
-    },
-    {
-        "index": 272,
+        "index": 61,
         "shop": "北海道火鍋店",
         "category": [
             "餐飲"
@@ -3003,10 +892,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路３０５號"
+        "market_address": "苗栗縣苗栗市北苗里英才路３０５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 273,
+        "index": 62,
         "shop": "尋茶飲料店",
         "category": [
             "餐飲"
@@ -3014,66 +907,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里０１５鄰天雲街１巷８號１樓"
+        "market_address": "苗栗縣苗栗市新苗里０１５鄰天雲街１巷８號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 274,
-        "shop": "泰一咖啡坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０１９鄰新東街１１８號１樓"
-    },
-    {
-        "index": 275,
-        "shop": "東林咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里和興街３１號１樓"
-    },
-    {
-        "index": 276,
-        "shop": "芋多多飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中山路６２號"
-    },
-    {
-        "index": 277,
-        "shop": "巴馬克企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里５鄰中正路２８９巷１０弄９號１樓"
-    },
-    {
-        "index": 278,
-        "shop": "鼎億實業社",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里中山北路１０５―１號"
-    },
-    {
-        "index": 279,
+        "index": 63,
         "shop": "娸娸廚房",
         "category": [
             "餐飲"
@@ -3081,10 +924,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０３９鄰金鳳街６４號"
+        "market_address": "苗栗縣苗栗市勝利里０３９鄰金鳳街６４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 280,
+        "index": 64,
         "shop": "多多娜娜餐館",
         "category": [
             "餐飲"
@@ -3092,10 +939,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００９鄰中山路４８７號１樓"
+        "market_address": "苗栗縣苗栗市中苗里００９鄰中山路４８７號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 281,
+        "index": 65,
         "shop": "東海咖啡",
         "category": [
             "餐飲"
@@ -3103,21 +953,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００７鄰日新街１號"
+        "market_address": "苗栗縣苗栗市新苗里００７鄰日新街１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 282,
-        "shop": "熹熹食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１鄰恭敬路２１５號"
-    },
-    {
-        "index": 283,
+        "index": 66,
         "shop": "彌而蔬食人文珈琲館",
         "category": [
             "餐飲"
@@ -3125,10 +970,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里新東街１９７號"
+        "market_address": "苗栗縣苗栗市維新里新東街１９７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 284,
+        "index": 67,
         "shop": "大排檔小吃店",
         "category": [
             "餐飲"
@@ -3136,10 +985,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０１４鄰祥發街５５號"
+        "market_address": "苗栗縣苗栗市文山里０１４鄰祥發街５５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 285,
+        "index": 68,
         "shop": "五八咖啡簡餐",
         "category": [
             "餐飲"
@@ -3147,98 +999,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新英里１５鄰新英１１０－５號１樓"
+        "market_address": "苗栗縣苗栗市新英里１５鄰新英１１０－５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 286,
-        "shop": "胖媽越式小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里３鄰中正路３０號１樓"
-    },
-    {
-        "index": 287,
-        "shop": "找餐殿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３７鄰英才路５９號"
-    },
-    {
-        "index": 288,
-        "shop": "寶煲飽火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路８８９號１樓"
-    },
-    {
-        "index": 289,
-        "shop": "實粹行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰莊敬街８號１樓"
-    },
-    {
-        "index": 290,
-        "shop": "三恆一素企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰饒平街２４號１樓"
-    },
-    {
-        "index": 291,
-        "shop": "日勝小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０５之１號１樓"
-    },
-    {
-        "index": 292,
-        "shop": "六十八番美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里２１鄰至公路６８號１樓"
-    },
-    {
-        "index": 293,
-        "shop": "赫綵企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里００９鄰天雲街５７號１樓"
-    },
-    {
-        "index": 294,
+        "index": 69,
         "shop": "巧果茶行",
         "category": [
             "餐飲"
@@ -3246,76 +1014,18 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２５號１樓"
+        "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２５號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 295,
-        "shop": "豐莉蓁雪花冰甜品屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０１號１樓"
-    },
-    {
-        "index": 296,
-        "shop": "麥味登嘉福店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里嘉福街３號"
-    },
-    {
-        "index": 297,
-        "shop": "開源企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０８９號"
-    },
-    {
-        "index": 298,
-        "shop": "草食堂素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰大埔街５０號１樓"
-    },
-    {
-        "index": 299,
-        "shop": "千輝燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路５８８號１樓"
-    },
-    {
-        "index": 300,
-        "shop": "阿妹的私房菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１５鄰爲公路３７５號"
-    },
-    {
-        "index": 301,
+        "index": 70,
         "shop": "飛騰冷飲店",
         "category": [
             "餐飲"
@@ -3323,54 +1033,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里３１鄰新東街１４０號１樓"
+        "market_address": "苗栗縣苗栗市勝利里３１鄰新東街１４０號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 302,
-        "shop": "董家肉丸肉羹專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里８鄰中山路７４５號１Ｆ"
-    },
-    {
-        "index": 303,
-        "shop": "吃尚寶早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路７５號１樓"
-    },
-    {
-        "index": 304,
-        "shop": "阿宏隨意小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２９鄰民族路２２１號１樓"
-    },
-    {
-        "index": 305,
-        "shop": "火車頭早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里３鄰爲公路６６號"
-    },
-    {
-        "index": 306,
+        "index": 71,
         "shop": "八方雲集為公店",
         "category": [
             "餐飲"
@@ -3378,54 +1049,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里３鄰爲公路６２號１樓"
+        "market_address": "苗栗縣苗栗市上苗里３鄰爲公路６２號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 307,
-        "shop": "插電貓元氣早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里２１鄰至公路８０號"
-    },
-    {
-        "index": 308,
-        "shop": "荷香園複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里聯大２號"
-    },
-    {
-        "index": 309,
-        "shop": "季衡小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里２１鄰自治路４５３號１樓"
-    },
-    {
-        "index": 310,
-        "shop": "同心園企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３０鄰鳳形１１―１號"
-    },
-    {
-        "index": 311,
+        "index": 72,
         "shop": "文化小館",
         "category": [
             "餐飲"
@@ -3433,43 +1064,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２３鄰自治路５９號１樓"
+        "market_address": "苗栗縣苗栗市建功里２３鄰自治路５９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 312,
-        "shop": "九龍小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里９鄰中正路２７７號１樓"
-    },
-    {
-        "index": 313,
-        "shop": "東霖早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１５鄰爲公路８３號"
-    },
-    {
-        "index": 314,
-        "shop": "小羊館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里１２鄰楊屋９號"
-    },
-    {
-        "index": 315,
+        "index": 73,
         "shop": "長縉冷飲站",
         "category": [
             "餐飲"
@@ -3477,54 +1078,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２２２號１樓"
+        "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２２２號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 316,
-        "shop": "九鼎豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１１５號"
-    },
-    {
-        "index": 317,
-        "shop": "嘉濱小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０３５鄰勝利路９８號"
-    },
-    {
-        "index": 318,
-        "shop": "長城燒腊小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１９鄰為公路４１４號１樓"
-    },
-    {
-        "index": 319,
-        "shop": "道鼎來牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２１鄰中華路３３６號"
-    },
-    {
-        "index": 320,
+        "index": 74,
         "shop": "水來發茶行",
         "category": [
             "餐飲"
@@ -3532,21 +1098,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰府前路８６－２號１樓"
+        "market_address": "苗栗縣苗栗市建功里２２鄰府前路８６－２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 321,
-        "shop": "鴻利燒臘店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１３９號１樓"
-    },
-    {
-        "index": 322,
+        "index": 75,
         "shop": "小胡麵店",
         "category": [
             "餐飲"
@@ -3554,21 +1116,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里４鄰中正路５０３巷３０號"
+        "market_address": "苗栗縣苗栗市中苗里４鄰中正路５０３巷３０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 323,
-        "shop": "喜洋洋冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰莊敬街１４３巷１６號１樓"
-    },
-    {
-        "index": 324,
+        "index": 76,
         "shop": "玉清漢堡",
         "category": [
             "餐飲"
@@ -3576,21 +1130,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２鄰建功街２０－１號１Ｆ"
+        "market_address": "苗栗縣苗栗市建功里２鄰建功街２０－１號１Ｆ",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 325,
-        "shop": "家常便飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１０鄰中華路５８８號１樓"
-    },
-    {
-        "index": 326,
+        "index": 77,
         "shop": "長龍冷飲站",
         "category": [
             "餐飲"
@@ -3598,10 +1145,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０５號"
+        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０５號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 327,
+        "index": 78,
         "shop": "苗福飲食店",
         "category": [
             "餐飲"
@@ -3609,43 +1165,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１４鄰３８３號"
+        "market_address": "苗栗縣苗栗市嘉盛里１４鄰３８３號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 328,
-        "shop": "曾健康麵食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里８鄰中正路２５６號１樓"
-    },
-    {
-        "index": 329,
-        "shop": "小玉越南河粉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里１７鄰博愛街９９號"
-    },
-    {
-        "index": 330,
-        "shop": "小熊屋早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里６鄰新東街５７號１樓"
-    },
-    {
-        "index": 331,
+        "index": 79,
         "shop": "迷你咖啡館",
         "category": [
             "餐飲"
@@ -3653,10 +1180,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００９鄰至公路３４３號"
+        "market_address": "苗栗縣苗栗市福麗里００９鄰至公路３４３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 332,
+        "index": 80,
         "shop": "馥蜜茶飲專賣店",
         "category": [
             "餐飲"
@@ -3664,10 +1194,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１７３號１樓"
+        "market_address": "苗栗縣苗栗市建功里府前路１７３號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 333,
+        "index": 81,
         "shop": "醇蔓茶飲專賣店",
         "category": [
             "餐飲"
@@ -3675,10 +1212,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２１號１樓"
+        "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２１號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 334,
+        "index": 82,
         "shop": "栗寶早餐店",
         "category": [
             "餐飲"
@@ -3686,65 +1230,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１０７８號"
+        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１０７８號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 335,
-        "shop": "華味餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００８鄰新苗街７８號１樓"
-    },
-    {
-        "index": 336,
-        "shop": "阿發西式小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２７鄰國華路９９３號"
-    },
-    {
-        "index": 337,
-        "shop": "巧麟早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號（學生第一餐廳）"
-    },
-    {
-        "index": 338,
-        "shop": "瑪斯利亞雜貨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里２鄰中山路３９號１樓"
-    },
-    {
-        "index": 339,
-        "shop": "禾饌風味小吃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１２９號１樓"
-    },
-    {
-        "index": 340,
+        "index": 83,
         "shop": "宜美複合式早餐店",
         "category": [
             "餐飲"
@@ -3752,32 +1246,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里５鄰新苗街６９號１樓"
+        "market_address": "苗栗縣苗栗市新苗里５鄰新苗街６９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 341,
-        "shop": "聿廚師餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００９鄰東海街１６號１樓"
-    },
-    {
-        "index": 342,
-        "shop": "雨淇小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里爲公路１４８號１樓"
-    },
-    {
-        "index": 343,
+        "index": 84,
         "shop": "帝王生魚片店",
         "category": [
             "餐飲"
@@ -3785,65 +1260,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２１鄰民族路１０１巷９號１樓"
+        "market_address": "苗栗縣苗栗市福麗里０２１鄰民族路１０１巷９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 344,
-        "shop": "老銅鑼蛋餅店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１９鄰中山路６９２號１樓"
-    },
-    {
-        "index": 345,
-        "shop": "金項獎音樂餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２８鄰和興街５號"
-    },
-    {
-        "index": 346,
-        "shop": "第一佳早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里５鄰新苗街６７號１樓"
-    },
-    {
-        "index": 347,
-        "shop": "欣旺土虱店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中山路６２號１樓"
-    },
-    {
-        "index": 348,
-        "shop": "享食美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１９鄰府東路８７號１樓"
-    },
-    {
-        "index": 349,
+        "index": 85,
         "shop": "國成美食坊",
         "category": [
             "餐飲"
@@ -3851,10 +1274,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路１２號１樓"
+        "market_address": "苗栗縣苗栗市建功里忠孝路１２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 350,
+        "index": 86,
         "shop": "找餐輕食館",
         "category": [
             "餐飲"
@@ -3862,32 +1288,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路５８９號１樓"
+        "market_address": "苗栗縣苗栗市青苗里中山路５８９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 351,
-        "shop": "鄉村漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里７鄰為公路２１３號１樓"
-    },
-    {
-        "index": 352,
-        "shop": "翁記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里１３鄰新苗街６１巷４０號"
-    },
-    {
-        "index": 353,
+        "index": 87,
         "shop": "磨爾咖啡店",
         "category": [
             "餐飲"
@@ -3895,54 +1302,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里民族路６８―２號１樓"
+        "market_address": "苗栗縣苗栗市建功里民族路６８―２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 354,
-        "shop": "大眾美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里１５鄰光復路７３號１樓"
-    },
-    {
-        "index": 355,
-        "shop": "鍋霸小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路７５號"
-    },
-    {
-        "index": 356,
-        "shop": "富有快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里爲民街１２７號１樓"
-    },
-    {
-        "index": 357,
-        "shop": "渼津早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里２鄰文發路９６號"
-    },
-    {
-        "index": 358,
+        "index": 88,
         "shop": "成翊企業社",
         "category": [
             "餐飲"
@@ -3950,21 +1317,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里饒平街２４號"
+        "market_address": "苗栗縣苗栗市建功里饒平街２４號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 359,
-        "shop": "親子食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路２１號１樓"
-    },
-    {
-        "index": 360,
+        "index": 89,
         "shop": "水噹噹茶行",
         "category": [
             "餐飲"
@@ -3972,76 +1332,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１０鄰爲公路１５６號"
+        "market_address": "苗栗縣苗栗市清華里１０鄰爲公路１５６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 361,
-        "shop": "緣祐臻食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里９鄰中正路２６７號１樓"
-    },
-    {
-        "index": 362,
-        "shop": "吳家廣州羊肉爐小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２２鄰中華路２２３號"
-    },
-    {
-        "index": 363,
-        "shop": "龍川早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路４５號１樓"
-    },
-    {
-        "index": 364,
-        "shop": "三哥小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路２１０號"
-    },
-    {
-        "index": 365,
-        "shop": "溪水食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里１４鄰僑育街８２號"
-    },
-    {
-        "index": 366,
-        "shop": "秋蓉早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里北安街１６１號１樓"
-    },
-    {
-        "index": 367,
+        "index": 90,
         "shop": "幼安歡喜兒咖啡屋",
         "category": [
             "餐飲"
@@ -4049,186 +1350,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１１鄰中山路７２６巷３號"
+        "market_address": "苗栗縣苗栗市玉苗里１１鄰中山路７２６巷３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 368,
-        "shop": "苗栗雞腿王便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里７鄰中正路１０２７號１樓"
-    },
-    {
-        "index": 369,
-        "shop": "五福香雞桶仔雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里６鄰中正路２３０號"
-    },
-    {
-        "index": 370,
-        "shop": "典茶飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１０鄰為公路１８４號１樓"
-    },
-    {
-        "index": 371,
-        "shop": "小紅麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１８鄰府前路６１―１號"
-    },
-    {
-        "index": 372,
-        "shop": "廟口串燒町",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里１鄰玉清街９―２號"
-    },
-    {
-        "index": 373,
-        "shop": "喜徠美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００６鄰中正路１０１８號"
-    },
-    {
-        "index": 374,
-        "shop": "張記東山鴨頭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里３鄰為公路７０號１樓"
-    },
-    {
-        "index": 375,
-        "shop": "福記麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里００４鄰博愛街１８號"
-    },
-    {
-        "index": 376,
-        "shop": "雞蛋花早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里中山路７６５號"
-    },
-    {
-        "index": 377,
-        "shop": "金雲早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰自治路５５６號１樓"
-    },
-    {
-        "index": 378,
-        "shop": "小伽漢堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２０鄰為公路２０６號"
-    },
-    {
-        "index": 379,
-        "shop": "倈倈店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市０１４鄰至公路５０４號１樓"
-    },
-    {
-        "index": 380,
-        "shop": "春輝外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里０１８鄰新東街３０５號"
-    },
-    {
-        "index": 381,
-        "shop": "瘋靡食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰忠貞路３４號"
-    },
-    {
-        "index": 382,
-        "shop": "蓮莊餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里０２１鄰聯大２號１樓"
-    },
-    {
-        "index": 383,
-        "shop": "桂鈴餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００４鄰中正路９６４號１樓"
-    },
-    {
-        "index": 384,
+        "index": 91,
         "shop": "龍鳳客棧",
         "category": [
             "餐飲"
@@ -4236,153 +1364,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０３７鄰民族路１０８號"
+        "market_address": "苗栗縣苗栗市福麗里０３７鄰民族路１０８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 385,
-        "shop": "阿呆鳥小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里８鄰玉清路１９７號１樓"
-    },
-    {
-        "index": 386,
-        "shop": "這一家早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里００７鄰光復路１６１號"
-    },
-    {
-        "index": 387,
-        "shop": "水鹵饌滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１１０６號"
-    },
-    {
-        "index": 388,
-        "shop": "鳳城燒腊快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里１鄰玉清街９―２號"
-    },
-    {
-        "index": 389,
-        "shop": "集食行樂餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰至公路１３１號１樓"
-    },
-    {
-        "index": 390,
-        "shop": "喜司特餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２３鄰忠孝路９號１樓"
-    },
-    {
-        "index": 391,
-        "shop": "阿貴自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１２鄰華岡１３號"
-    },
-    {
-        "index": 392,
-        "shop": "國盛好吃鴨肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰忠孝路６９號１樓"
-    },
-    {
-        "index": 393,
-        "shop": "水野日式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２８鄰民族路１６０號１樓"
-    },
-    {
-        "index": 394,
-        "shop": "壹食堂飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰忠孝路６７號１樓"
-    },
-    {
-        "index": 395,
-        "shop": "布魚漾食府",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３９鄰正發路７２號１樓"
-    },
-    {
-        "index": 396,
-        "shop": "盧卡餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１９鄰府東路６７號１樓"
-    },
-    {
-        "index": 397,
-        "shop": "蔡宏滄小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１５鄰中華路６０６號１樓"
-    },
-    {
-        "index": 398,
+        "index": 92,
         "shop": "山城酒藏商行",
         "category": [
             "餐飲"
@@ -4390,109 +1378,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰英明街６６號"
+        "market_address": "苗栗縣苗栗市北苗里８鄰英明街６６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 399,
-        "shop": "偉萍薑母鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里２３鄰為公路３１３號１樓"
-    },
-    {
-        "index": 400,
-        "shop": "大忠食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰為公路５２８號１樓"
-    },
-    {
-        "index": 401,
-        "shop": "一級棒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１８鄰中山北路２２５號１樓"
-    },
-    {
-        "index": 402,
-        "shop": "霄餚食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰至公路１４１―１號１樓"
-    },
-    {
-        "index": 403,
-        "shop": "君豪小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１０鄰中正路１１５２號１樓"
-    },
-    {
-        "index": 404,
-        "shop": "阿桃小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里０１１鄰坪頂西８４號"
-    },
-    {
-        "index": 405,
-        "shop": "北苗站小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１５鄰為公路７７號１樓"
-    },
-    {
-        "index": 406,
-        "shop": "漾屋花草茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１９鄰香格２８號１樓"
-    },
-    {
-        "index": 407,
-        "shop": "艾思義式料理坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里自治路９４號１樓"
-    },
-    {
-        "index": 408,
+        "index": 93,
         "shop": "六八飲料店",
         "category": [
             "餐飲"
@@ -4500,21 +1393,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里０１７鄰中山路４１１號"
+        "market_address": "苗栗縣苗栗市中苗里０１７鄰中山路４１１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 409,
-        "shop": "阿婆古早麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里豐年路２０號"
-    },
-    {
-        "index": 410,
+        "index": 94,
         "shop": "卡薩窯烤披薩店",
         "category": [
             "餐飲"
@@ -4522,109 +1407,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２１鄰民族路９５號"
+        "market_address": "苗栗縣苗栗市福麗里０２１鄰民族路９５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 411,
-        "shop": "三環麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３０鄰文峯街５１號１樓"
-    },
-    {
-        "index": 412,
-        "shop": "伍貳零平價熱炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰為公路５２０號１樓"
-    },
-    {
-        "index": 413,
-        "shop": "原味優品拉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰民族路５２號"
-    },
-    {
-        "index": 414,
-        "shop": "喜悅小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里００４鄰１７號"
-    },
-    {
-        "index": 415,
-        "shop": "吳家水晶餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里８鄰米市街８９號"
-    },
-    {
-        "index": 416,
-        "shop": "中央食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里中正路３１１號"
-    },
-    {
-        "index": 417,
-        "shop": "阿文小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里３鄰為公路６４號１樓"
-    },
-    {
-        "index": 418,
-        "shop": "小米早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００６鄰至公路２４８號１樓"
-    },
-    {
-        "index": 419,
-        "shop": "皇廚客菜海鮮館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里水流娘２４―２號"
-    },
-    {
-        "index": 420,
+        "index": 95,
         "shop": "晴園簡餐",
         "category": [
             "餐飲"
@@ -4632,208 +1421,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００８鄰中正路４８８號２、３樓"
+        "market_address": "苗栗縣苗栗市中苗里００８鄰中正路４８８號２、３樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 421,
-        "shop": "栗鄉糯米飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１９鄰中山路６７４號１樓"
-    },
-    {
-        "index": 422,
-        "shop": "岑媽咪月子料理坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維祥里１鄰維祥街４７號"
-    },
-    {
-        "index": 423,
-        "shop": "南苗鍋燒麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里６鄰中正路１０１６號"
-    },
-    {
-        "index": 424,
-        "shop": "日泓小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里８鄰新苗街６８號１樓"
-    },
-    {
-        "index": 425,
-        "shop": "我家麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里８鄰中山路６４４號"
-    },
-    {
-        "index": 426,
-        "shop": "亟品海苔御飯卷",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路３０號１樓"
-    },
-    {
-        "index": 427,
-        "shop": "阿梅小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里４鄰恭敬路３７號１樓"
-    },
-    {
-        "index": 428,
-        "shop": "湯記麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里４鄰恭敬路４３號１樓"
-    },
-    {
-        "index": 429,
-        "shop": "大妹餛飩肉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里１１鄰米市街８４號１樓"
-    },
-    {
-        "index": 430,
-        "shop": "陽光早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里７鄰恭敬路７８號１樓"
-    },
-    {
-        "index": 431,
-        "shop": "田媽媽牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里８鄰豐年路１０２號１樓"
-    },
-    {
-        "index": 432,
-        "shop": "將軍山小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新英里１５鄰１０８－１號"
-    },
-    {
-        "index": 433,
-        "shop": "金城當歸鴨肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１８鄰中華路１８７號"
-    },
-    {
-        "index": 434,
-        "shop": "湯家肉圓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路１２８號"
-    },
-    {
-        "index": 435,
-        "shop": "英才早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路１２號１樓"
-    },
-    {
-        "index": 436,
-        "shop": "台妹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里新都街１０１號"
-    },
-    {
-        "index": 437,
-        "shop": "品味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里社寮街３號"
-    },
-    {
-        "index": 438,
-        "shop": "媽媽越南小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１鄰安和街１２號"
-    },
-    {
-        "index": 439,
+        "index": 96,
         "shop": "紹帆冷飲店",
         "category": [
             "餐飲"
@@ -4841,231 +1435,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１２１號１樓"
+        "market_address": "苗栗縣苗栗市建功里府前路１２１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 440,
-        "shop": "香蓮早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里６鄰至公路２６０號１樓"
-    },
-    {
-        "index": 441,
-        "shop": "榕园永和豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路７１號１樓"
-    },
-    {
-        "index": 442,
-        "shop": "阿蘭姊小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里１６鄰新苗街６１巷４９號"
-    },
-    {
-        "index": 443,
-        "shop": "吳記麵飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１０６４號"
-    },
-    {
-        "index": 444,
-        "shop": "享珍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２３鄰中華路３９９號"
-    },
-    {
-        "index": 445,
-        "shop": "劉家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３４鄰府前路１４２號"
-    },
-    {
-        "index": 446,
-        "shop": "楓悅餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里８鄰國華路１７３號"
-    },
-    {
-        "index": 447,
-        "shop": "山東蔥油餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里６鄰新東街５３號１樓"
-    },
-    {
-        "index": 448,
-        "shop": "嘉田自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里１３鄰正發路２５１號１樓"
-    },
-    {
-        "index": 449,
-        "shop": "喜朵新洋食館",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路４７號１樓"
-    },
-    {
-        "index": 450,
-        "shop": "皇香小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰府前路１１４號"
-    },
-    {
-        "index": 451,
-        "shop": "柚子的家小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里６鄰中正路９９１號"
-    },
-    {
-        "index": 452,
-        "shop": "迪化街紅麵線小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路８５號１樓"
-    },
-    {
-        "index": 453,
-        "shop": "久久牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里３鄰國華路６３５號"
-    },
-    {
-        "index": 454,
-        "shop": "六年庚班風味美食舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１７５號１樓"
-    },
-    {
-        "index": 455,
-        "shop": "禾薰香草餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路５２號"
-    },
-    {
-        "index": 456,
-        "shop": "順興餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１３７號"
-    },
-    {
-        "index": 457,
-        "shop": "佳羿餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里國華路９７３號"
-    },
-    {
-        "index": 458,
-        "shop": "福滿園餐飲便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里８鄰中正路１１０２號"
-    },
-    {
-        "index": 459,
-        "shop": "傅媽媽中西式餐點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里１２鄰中山路９７２號"
-    },
-    {
-        "index": 460,
+        "index": 97,
         "shop": "八方飲冰室茶集",
         "category": [
             "餐飲"
@@ -5073,109 +1453,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里為公路１５２號１樓"
+        "market_address": "苗栗縣苗栗市清華里為公路１５２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 461,
-        "shop": "苗栗小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里１鄰中正路９０９號"
-    },
-    {
-        "index": 462,
-        "shop": "洋津小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里勝利路２４７號１樓"
-    },
-    {
-        "index": 463,
-        "shop": "領先池上飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３７鄰民族路９６號１樓"
-    },
-    {
-        "index": 464,
-        "shop": "鴻鳴餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里新東街２７６號"
-    },
-    {
-        "index": 465,
-        "shop": "巧味飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里至公路１４０號"
-    },
-    {
-        "index": 466,
-        "shop": "加提餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３７鄰文峯街３巷３號４樓之１"
-    },
-    {
-        "index": 467,
-        "shop": "集品茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里府前路１６６號１樓"
-    },
-    {
-        "index": 468,
-        "shop": "府前丐幫滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１３５號１樓"
-    },
-    {
-        "index": 469,
-        "shop": "摩亞漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里至公路１７８號"
-    },
-    {
-        "index": 470,
+        "index": 98,
         "shop": "壹參零餐坊",
         "category": [
             "餐飲"
@@ -5183,10 +1468,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２９鄰中華東街１３０號"
+        "market_address": "苗栗縣苗栗市福星里２９鄰中華東街１３０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 471,
+        "index": 99,
         "shop": "源森飲食店",
         "category": [
             "餐飲"
@@ -5194,21 +1483,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２９鄰自治路９０號１樓"
+        "market_address": "苗栗縣苗栗市北苗里２９鄰自治路９０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 472,
-        "shop": "香竹軒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１９鄰成功路６巷１號１樓"
-    },
-    {
-        "index": 473,
+        "index": 100,
         "shop": "笑喝喝茶行",
         "category": [
             "餐飲"
@@ -5216,32 +1497,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號"
+        "market_address": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 474,
-        "shop": "御秀小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３７鄰民族路１０２號１樓"
-    },
-    {
-        "index": 475,
-        "shop": "小瑄瑄冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里７鄰國華路７２１號１樓"
-    },
-    {
-        "index": 476,
+        "index": 101,
         "shop": "香鄉小吃店",
         "category": [
             "餐飲"
@@ -5249,87 +1515,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里５鄰中正路５２５號１樓"
+        "market_address": "苗栗縣苗栗市中苗里５鄰中正路５２５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 477,
-        "shop": "藝鼎軒餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２２鄰國華路３５６號"
-    },
-    {
-        "index": 478,
-        "shop": "美多美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里２１鄰至公路７６號１樓"
-    },
-    {
-        "index": 479,
-        "shop": "廣之香薑母鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２５鄰爲公路６１４號"
-    },
-    {
-        "index": 480,
-        "shop": "豐禾自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里３鄰嘉福街２５１巷２號"
-    },
-    {
-        "index": 481,
-        "shop": "青霞早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里７鄰光復路１７５號"
-    },
-    {
-        "index": 482,
-        "shop": "元家香北平烤鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路１６４號１樓"
-    },
-    {
-        "index": 483,
-        "shop": "佛光素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里３鄰至公路５９８―１５號"
-    },
-    {
-        "index": 484,
+        "index": 102,
         "shop": "大碗公餐飲",
         "category": [
             "餐飲"
@@ -5337,65 +1530,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里６鄰中正路１０３６號１樓"
+        "market_address": "苗栗縣苗栗市恭敬里６鄰中正路１０３６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 485,
-        "shop": "首烏之家店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里玉清街１６巷１號"
-    },
-    {
-        "index": 486,
-        "shop": "愛之味餐亭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２鄰至公路１１７號１樓"
-    },
-    {
-        "index": 487,
-        "shop": "牛井小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里６鄰中正路２１２號"
-    },
-    {
-        "index": 488,
-        "shop": "上品云餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路１９６號"
-    },
-    {
-        "index": 489,
-        "shop": "紫蝴蝶餐點坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１９鄰長安街１８１號"
-    },
-    {
-        "index": 490,
+        "index": 103,
         "shop": "王甫尹餐館",
         "category": [
             "餐飲"
@@ -5403,32 +1544,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路２１２號１樓"
+        "market_address": "苗栗縣苗栗市建功里忠孝路２１２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 491,
-        "shop": "苗栗牛肚大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１４鄰至公路４４０號"
-    },
-    {
-        "index": 492,
-        "shop": "萬客來自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００４鄰中正路９８４號"
-    },
-    {
-        "index": 493,
+        "index": 104,
         "shop": "鴻興餃子館",
         "category": [
             "餐飲"
@@ -5436,109 +1559,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１６鄰府東路１２號"
+        "market_address": "苗栗縣苗栗市建功里１６鄰府東路１２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 494,
-        "shop": "王品牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００２鄰至公路１０７號１樓"
-    },
-    {
-        "index": 495,
-        "shop": "阿昌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２８鄰北安街１６６號"
-    },
-    {
-        "index": 496,
-        "shop": "豪江燒腊快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里７鄰光復路１３４號"
-    },
-    {
-        "index": 497,
-        "shop": "品客快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里中華路１６０號１樓"
-    },
-    {
-        "index": 498,
-        "shop": "三媽臭臭鍋南苗店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里１鄰中正路９２６號１樓"
-    },
-    {
-        "index": 499,
-        "shop": "帥鍋小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２０鄰莊敬街７７巷１４號１樓"
-    },
-    {
-        "index": 500,
-        "shop": "米食館小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３２鄰忠孝路１０號"
-    },
-    {
-        "index": 501,
-        "shop": "仙味便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２８鄰福星７７－８號"
-    },
-    {
-        "index": 502,
-        "shop": "山城客家米食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里１８鄰復興路１段５１１巷１０號"
-    },
-    {
-        "index": 503,
+        "index": 105,
         "shop": "聖地牙哥飲料店",
         "category": [
             "餐飲"
@@ -5546,329 +1573,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１鄰爲公路３７號１樓"
+        "market_address": "苗栗縣苗栗市北苗里１鄰爲公路３７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 504,
-        "shop": "紅樂坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３２鄰縣府路１３８號１樓"
-    },
-    {
-        "index": 505,
-        "shop": "答夜餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里９鄰中山路７６０號２樓"
-    },
-    {
-        "index": 506,
-        "shop": "大口壽司店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里２５鄰自治路３８６號"
-    },
-    {
-        "index": 507,
-        "shop": "發雲小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里１９鄰中正路６８３號"
-    },
-    {
-        "index": 508,
-        "shop": "佶品排骨飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰忠孝路６５號１樓"
-    },
-    {
-        "index": 509,
-        "shop": "三媽臭臭鍋苗栗店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２鄰至公路１４３號１樓"
-    },
-    {
-        "index": 510,
-        "shop": "新寶地小吃坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里１１鄰橫車路２９９號"
-    },
-    {
-        "index": 511,
-        "shop": "家庭廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里３３鄰忠孝路２０６號１樓"
-    },
-    {
-        "index": 512,
-        "shop": "水上人家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里１４鄰天雲街３號"
-    },
-    {
-        "index": 513,
-        "shop": "宏井飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里６鄰豐年路１７４號１樓"
-    },
-    {
-        "index": 514,
-        "shop": "苗栗麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１９鄰自治路１７２號"
-    },
-    {
-        "index": 515,
-        "shop": "徐媽媽小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里６鄰中正路２４８號"
-    },
-    {
-        "index": 516,
-        "shop": "紅雅冰城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里５鄰至公路２０３號１樓"
-    },
-    {
-        "index": 517,
-        "shop": "生活雅集咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里４鄰電臺１８號"
-    },
-    {
-        "index": 518,
-        "shop": "客來刀削麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里６鄰至公路２７０號１樓"
-    },
-    {
-        "index": 519,
-        "shop": "大碗公餐飲府前店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１９鄰府前路１４４號１樓"
-    },
-    {
-        "index": 520,
-        "shop": "珍美小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里１０鄰光復路西勢美南１０６號"
-    },
-    {
-        "index": 521,
-        "shop": "愛家聖愛商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里００８鄰中正路１０６６號１樓"
-    },
-    {
-        "index": 522,
-        "shop": "聖凱冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里８鄰中正路１０６２號"
-    },
-    {
-        "index": 523,
-        "shop": "隨心園冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里３鄰日新街８號１Ｆ"
-    },
-    {
-        "index": 524,
-        "shop": "美味霖複合式早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路２０２號１樓"
-    },
-    {
-        "index": 525,
-        "shop": "布朗奇食光",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰精武街２２號１樓"
-    },
-    {
-        "index": 526,
-        "shop": "小木屋水晶餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里５鄰新苗街５９號"
-    },
-    {
-        "index": 527,
-        "shop": "漢王食補薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰爲公路４８２號"
-    },
-    {
-        "index": 528,
-        "shop": "吉祥豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２３鄰忠孝路２７號１樓"
-    },
-    {
-        "index": 529,
-        "shop": "北苗臭臭鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里爲公路２０２號１樓"
-    },
-    {
-        "index": 530,
-        "shop": "鴻鼎餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里４鄰中正路９５９號"
-    },
-    {
-        "index": 531,
-        "shop": "潤輝商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１６鄰爲公路４４號１樓"
-    },
-    {
-        "index": 532,
-        "shop": "時代飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１４鄰民族路２５３號１樓"
-    },
-    {
-        "index": 533,
+        "index": 106,
         "shop": "展望餐廳股份有限公司",
         "category": [
             "餐飲"
@@ -5876,76 +1587,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路１８號"
+        "market_address": "苗栗縣苗栗市建功里忠孝路１８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 534,
-        "shop": "向日葵義式有限公司苗栗分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號"
-    },
-    {
-        "index": 535,
-        "shop": "悠旅生活事業股份有限公司苗栗國華門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里國華路１１２８號"
-    },
-    {
-        "index": 536,
-        "shop": "三商餐飲股份有限公司苗福門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號"
-    },
-    {
-        "index": 537,
-        "shop": "王品餐飲股份有限公司陶板屋苗栗中山店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里０１０鄰中山路４７５號"
-    },
-    {
-        "index": 538,
-        "shop": "江技舊記有限公司新苗營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００９鄰新苗街８８號１樓"
-    },
-    {
-        "index": 539,
-        "shop": "珍新有限公司苗栗門市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號"
-    },
-    {
-        "index": 540,
+        "index": 107,
         "shop": "王品餐飲股份有限公司品田苗栗家樂福店",
         "category": [
             "餐飲"
@@ -5953,109 +1601,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號"
+        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 541,
-        "shop": "爭鮮股份有限公司苗栗家門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號"
-    },
-    {
-        "index": 542,
-        "shop": "一級棒小吃店北苗分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里北苗段０７２７地號"
-    },
-    {
-        "index": 543,
-        "shop": "雙米餐飲有限公司苗栗家樂福門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號１樓"
-    },
-    {
-        "index": 544,
-        "shop": "彭爸餐飲聯大店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號"
-    },
-    {
-        "index": 545,
-        "shop": "國揚餐廳有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里縣府路１１９號"
-    },
-    {
-        "index": 546,
-        "shop": "廣膳企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里５鄰中正路２８９巷１３號"
-    },
-    {
-        "index": 547,
-        "shop": "沂合鑫有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０２７鄰民族路１７２號１樓"
-    },
-    {
-        "index": 548,
-        "shop": "竣全有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１６鄰國華路９８２號"
-    },
-    {
-        "index": 549,
-        "shop": "范家宴客家美食有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里玉清一街１號"
-    },
-    {
-        "index": 550,
+        "index": 108,
         "shop": "千璽會館有限公司",
         "category": [
             "餐飲"
@@ -6063,55 +1616,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０１６鄰國華路９４７號"
+        "market_address": "苗栗縣苗栗市福麗里０１６鄰國華路９４７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 551,
-        "shop": "一涓白有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里００２鄰中正路７８９號１樓"
-    },
-    {
-        "index": 552,
-        "shop": "江技舊記有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里０１６鄰新苗街６１巷３９號１樓"
-    },
-    {
-        "index": 553,
-        "shop": "浩呈有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里玉清路１５０巷９號"
-    },
-    {
-        "index": 554,
-        "shop": "青舍有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０１４鄰自治路３２７號１樓"
-    },
-    {
-        "index": 555,
+        "index": 109,
         "shop": "上頂牛排有限公司",
         "category": [
             "餐飲"
@@ -6119,10 +1631,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里４鄰國華路９６０號"
+        "market_address": "苗栗縣苗栗市文山里４鄰國華路９６０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 556,
+        "index": 110,
         "shop": "逸恆餐飲有限公司",
         "category": [
             "餐飲"
@@ -6130,344 +1645,150 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里０２１鄰府前路１７７號１樓"
+        "market_address": "苗栗縣苗栗市建功里０２１鄰府前路１７７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 557,
-        "shop": "海德食品有限公司",
+        "index": 111,
+        "shop": "劉家小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里１０鄰中山路５９７、５９９號"
+        "market_address": "苗栗縣苗栗市福麗里３４鄰府前路１４２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 558,
-        "shop": "日宇盛餐飲事業有限公司",
+        "index": 112,
+        "shop": "喜朵新洋食館",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市北苗里英才路４７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 113,
+        "shop": "久久牛排館",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２６鄰英才路４０號"
+        "market_address": "苗栗縣苗栗市文聖里３鄰國華路６３５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 559,
-        "shop": "川品商行",
+        "index": 114,
+        "shop": "六年庚班風味美食舖",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０７１號"
+        "market_address": "苗栗縣苗栗市建功里府前路１７５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 560,
-        "shop": "楷芸商行",
+        "index": 115,
+        "shop": "巧味飲品",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里００１鄰至公路１３８號１樓"
+        "market_address": "苗栗縣苗栗市福麗里至公路１４０號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 561,
-        "shop": "好室商行",
+        "index": 116,
+        "shop": "集品茶舖",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２８鄰府東路１１３、１１５號１樓"
+        "market_address": "苗栗縣苗栗市福麗里府前路１６６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 562,
-        "shop": "吉豐商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號"
-    },
-    {
-        "index": 563,
-        "shop": "振輝小吃",
+        "index": 117,
+        "shop": "王品餐飲股份有限公司陶板屋苗栗中山店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里３７鄰民族路１３６號１樓"
+        "market_address": "苗栗縣苗栗市中苗里０１０鄰中山路４７５號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 564,
-        "shop": "栗莎咖啡行",
+        "index": 118,
+        "shop": "爭鮮股份有限公司苗栗家門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２５鄰民族路７０之１號"
+        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 565,
-        "shop": "統營商行",
+        "index": 119,
+        "shop": "雙米餐飲有限公司苗栗家樂福門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１３８號１樓"
+        "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 566,
-        "shop": "牛發發餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里忠孝路６１號"
-    },
-    {
-        "index": 567,
-        "shop": "加加小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路８３號"
-    },
-    {
-        "index": 568,
-        "shop": "御饌鼎皇小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里０１４鄰中正路１１９４號１樓"
-    },
-    {
-        "index": 569,
-        "shop": "相成飲品屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號１樓"
-    },
-    {
-        "index": 570,
-        "shop": "養心文化餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里長安街８１號"
-    },
-    {
-        "index": 571,
-        "shop": "二五九美式炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路５７號"
-    },
-    {
-        "index": 572,
-        "shop": "炬楙商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府東路９１號"
-    },
-    {
-        "index": 573,
-        "shop": "庫比咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里０２１鄰八甲１９９－８號１樓"
-    },
-    {
-        "index": 574,
-        "shop": "海上鮮海鮮快炒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰英才路２０１號"
-    },
-    {
-        "index": 575,
-        "shop": "十方茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１１２號１樓"
-    },
-    {
-        "index": 576,
-        "shop": "大方蔥抓餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１５鄰中正路１３１５號"
-    },
-    {
-        "index": 577,
-        "shop": "那布勒斯洋食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里英才路３０號"
-    },
-    {
-        "index": 578,
-        "shop": "永興屋複合餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰英明街１８號１樓"
-    },
-    {
-        "index": 579,
-        "shop": "嗎嗎咪呀",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１９鄰自治路５２巷９號１樓"
-    },
-    {
-        "index": 580,
-        "shop": "羅伯咖啡有限公司苗栗分公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里００８鄰中正路５６０號１樓"
-    },
-    {
-        "index": 581,
-        "shop": "和德昌股份有限公司苗栗中山分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中山路６００及６００之１號１－３樓、６０２號２樓、６０２之１號２樓"
-    },
-    {
-        "index": 582,
-        "shop": "新東小吃",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１６鄰爲公路５５５號"
-    },
-    {
-        "index": 583,
-        "shop": "日本瓦庭園小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市新英里１５鄰新英１１９－１號"
-    },
-    {
-        "index": 584,
-        "shop": "優的早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里１１鄰大同路１５０號"
-    },
-    {
-        "index": 585,
-        "shop": "集可吉早餐吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里８鄰至公路５１號"
-    },
-    {
-        "index": 586,
-        "shop": "弘爺漢堡南苗店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里５鄰中正路１２８２號"
-    },
-    {
-        "index": 587,
+        "index": 120,
         "shop": "美而美漢堡店",
         "category": [
             "餐飲"
@@ -6475,587 +1796,74 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里光復路９７號"
+        "market_address": "苗栗縣苗栗市綠苗里光復路９７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 588,
-        "shop": "永和豆漿",
+        "index": 121,
+        "shop": "沂合鑫有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１５鄰建中街４５號"
+        "market_address": "苗栗縣苗栗市福麗里０２７鄰民族路１７２號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 589,
-        "shop": "中華豆漿早點",
+        "index": 122,
+        "shop": "范家宴客家美食有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１０鄰中華路５６０號"
+        "market_address": "苗栗縣苗栗市玉華里玉清一街１號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 590,
-        "shop": "艾美斯小吃店",
+        "index": 123,
+        "shop": "一涓白有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路７９號"
+        "market_address": "苗栗縣苗栗市新苗里００２鄰中正路７８９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 591,
-        "shop": "新東速食店",
+        "index": 124,
+        "shop": "青舍有限公司",
         "category": [
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里１５鄰新東街１５５號"
+        "market_address": "苗栗縣苗栗市文山里０１４鄰自治路３２７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 592,
-        "shop": "126固定攤位",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里６鄰市場"
-    },
-    {
-        "index": 593,
-        "shop": "喜慶客家饌",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里８鄰玉清路１９７號對面"
-    },
-    {
-        "index": 594,
-        "shop": "瑞來餐飲店高架橋店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里高架橋Ｃ０５號攤舖"
-    },
-    {
-        "index": 595,
-        "shop": "烏色咖啡",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里縣府路１０２號"
-    },
-    {
-        "index": 596,
-        "shop": "福星小棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里中華路３６３號"
-    },
-    {
-        "index": 597,
-        "shop": "參拾號餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路１號地下室"
-    },
-    {
-        "index": 598,
-        "shop": "好媽媽企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里縣府路８８號"
-    },
-    {
-        "index": 599,
-        "shop": "澔之泉文創人文茶飲坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號"
-    },
-    {
-        "index": 600,
-        "shop": "潘家小食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里中正路１４８３號（旁）"
-    },
-    {
-        "index": 601,
-        "shop": "阿土豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２２鄰大埔街３３號"
-    },
-    {
-        "index": 602,
-        "shop": "雙冬蚵仔煎",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１０鄰中正路１１４號"
-    },
-    {
-        "index": 603,
-        "shop": "吉品粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里１３鄰光復路９６號"
-    },
-    {
-        "index": 604,
-        "shop": "一口香",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中山路４９之４號"
-    },
-    {
-        "index": 605,
-        "shop": "四海豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里中正路１３７號"
-    },
-    {
-        "index": 606,
-        "shop": "陳記魯味",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里中正路３６０之１號"
-    },
-    {
-        "index": 607,
-        "shop": "盛興小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里建功街８－１號"
-    },
-    {
-        "index": 608,
-        "shop": "美廉速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２１鄰府前路１６５號１樓"
-    },
-    {
-        "index": 609,
-        "shop": "美又美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里４鄰建功街９號"
-    },
-    {
-        "index": 610,
-        "shop": "愛玲小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里００２鄰民生街２７號"
-    },
-    {
-        "index": 611,
-        "shop": "台南牛肉拉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里中華路１６８號"
-    },
-    {
-        "index": 612,
-        "shop": "苗栗美式炸雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市綠苗里０１５鄰光復路７３號"
-    },
-    {
-        "index": 613,
-        "shop": "瑞麟美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里至公路４１５―１號"
-    },
-    {
-        "index": 614,
-        "shop": "臺園自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１８鄰爲公路７０３號１樓"
-    },
-    {
-        "index": 615,
-        "shop": "偉昇快炒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福星里２鄰中華路１５２號"
-    },
-    {
-        "index": 616,
-        "shop": "瑞軒小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里１１鄰新光街１號１樓"
-    },
-    {
-        "index": 617,
-        "shop": "勝昌早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里１０鄰建臺街２５號"
-    },
-    {
-        "index": 618,
-        "shop": "衛生福利部苗栗醫院販賣部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里為公路７４７號行政大樓１樓"
-    },
-    {
-        "index": 619,
-        "shop": "麵麵聚到",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里００７鄰光復路１７１號"
-    },
-    {
-        "index": 620,
-        "shop": "伊品餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里聯大２號"
-    },
-    {
-        "index": 621,
-        "shop": "阿貴自助餐聯大店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號"
-    },
-    {
-        "index": 622,
-        "shop": "李茶桔兒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號"
-    },
-    {
-        "index": 623,
-        "shop": "滷味之家",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里聯大１號"
-    },
-    {
-        "index": 624,
-        "shop": "阿梅飲食店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里社寮街１２１號"
-    },
-    {
-        "index": 625,
-        "shop": "一元小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里光復路７鄰１２４號"
-    },
-    {
-        "index": 626,
-        "shop": "苗栗早餐店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里２０鄰至公路７９號"
-    },
-    {
-        "index": 627,
-        "shop": "俊俊小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里１７鄰坪頂東１７―１號"
-    },
-    {
-        "index": 628,
-        "shop": "甜心氷果飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１２鄰中正路１４７８號"
-    },
-    {
-        "index": 629,
-        "shop": "味珍飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里７鄰中華路５４３號"
-    },
-    {
-        "index": 630,
-        "shop": "謝對妹",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里７鄰為公路１９５巷７弄２號１樓"
-    },
-    {
-        "index": 631,
-        "shop": "５２８蔥抓餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里９鄰中華路５８１―１號"
-    },
-    {
-        "index": 632,
-        "shop": "宏宴飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２５鄰至公路４７７號１樓"
-    },
-    {
-        "index": 633,
-        "shop": "小青蛙小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里１０鄰光復路１９５號"
-    },
-    {
-        "index": 634,
-        "shop": "大明滴水坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維祥里１６鄰經國路２段４８５號"
-    },
-    {
-        "index": 635,
-        "shop": "邀悅膳館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里１２鄰玉清路２９３號右邊"
-    },
-    {
-        "index": 636,
-        "shop": "新竹正宗鴨肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２３鄰忠孝路１３號１Ｆ"
-    },
-    {
-        "index": 637,
-        "shop": "活力素食早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里７鄰中山路７７８號"
-    },
-    {
-        "index": 638,
-        "shop": "三顧茅廬麻辣魯味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里２４鄰府前路１０３號"
-    },
-    {
-        "index": 639,
-        "shop": "幃勝商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里８鄰英才路１８５號１樓"
-    },
-    {
-        "index": 640,
+        "index": 125,
         "shop": "文昌冷飲站",
         "category": [
             "餐飲"
@@ -7063,274 +1871,414 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里玉清街１６巷１號旁"
+        "market_address": "苗栗縣苗栗市玉華里玉清街１６巷１號旁",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 641,
-        "shop": "擔仔麵",
+        "index": 126,
+        "shop": "海德食品有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里４鄰建功街１３號"
+        "market_address": "苗栗縣苗栗市青苗里１０鄰中山路５９７、５９９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 642,
-        "shop": "大麵店小吃",
+        "index": 127,
+        "shop": "川品商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里１５鄰新東街１３９號"
+        "market_address": "苗栗縣苗栗市勝利里０２２鄰中正路１０７１號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 643,
-        "shop": "忠水煎包",
+        "index": 128,
+        "shop": "楷芸商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里爲公路６０號前面"
+        "market_address": "苗栗縣苗栗市福麗里００１鄰至公路１３８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 644,
-        "shop": "苗栗王當歸鴨",
+        "index": 129,
+        "shop": "好室商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里３６鄰自治路８２巷４９號"
+        "market_address": "苗栗縣苗栗市建功里２８鄰府東路１１３、１１５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 645,
-        "shop": "元福小吃",
+        "index": 130,
+        "shop": "加加小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里中華路５２０號"
+        "market_address": "苗栗縣苗栗市建功里府東路８３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 646,
-        "shop": "集客棧",
+        "index": 131,
+        "shop": "相成飲品屋",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里中華路９８號"
+        "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 647,
-        "shop": "喜相逢小吃店",
+        "index": 132,
+        "shop": "養心文化餐飲事業",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里爲公路４９７號"
+        "market_address": "苗栗縣苗栗市上苗里長安街８１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 648,
-        "shop": "品今鼎精緻早點",
+        "index": 133,
+        "shop": "十方茶行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１０鄰為公路１３２―３號１樓"
+        "market_address": "苗栗縣苗栗市建功里府前路１１２號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 649,
-        "shop": "謝屋麵店",
+        "index": 134,
+        "shop": "那布勒斯洋食館",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１５鄰紫園街７９巷７號"
+        "market_address": "苗栗縣苗栗市北苗里英才路３０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 650,
-        "shop": "招財小吃店",
+        "index": 135,
+        "shop": "和德昌股份有限公司苗栗中山分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里２１鄰中華路６４１號１樓"
+        "market_address": "苗栗縣苗栗市青苗里中山路６００及６００之１號１－３樓、６０２號２樓、６０２之１號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 651,
-        "shop": "老江麵店",
+        "index": 136,
+        "shop": "澔之泉文創人文茶飲坊",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉華里２１鄰玉維路３３巷６―１號"
+        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 652,
-        "shop": "肥而上菜",
+        "index": 137,
+        "shop": "吉豐商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
+    },
+    {
+        "index": 138,
+        "shop": "栗莎咖啡行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１５鄰中正路１２９９號右側"
+        "market_address": "苗栗縣苗栗市建功里２５鄰民族路７０之１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 653,
-        "shop": "弘爺漢堡店",
+        "index": 139,
+        "shop": "統營商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里中正路９６４號右側"
+        "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１３８號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 654,
-        "shop": "老媽子小吃",
+        "index": 140,
+        "shop": "二五九美式炸雞店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里國華路４６５號１樓"
+        "market_address": "苗栗縣苗栗市青苗里至公路５７號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 655,
-        "shop": "小橘子早午餐",
+        "index": 141,
+        "shop": "炬楙商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市建功里府東路９１號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 142,
+        "shop": "５２８蔥抓餅",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里１１鄰大同路１４８號"
+        "market_address": "苗栗縣苗栗市福安里９鄰中華路５８１―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 656,
-        "shop": "巧芫麵館",
+        "index": 143,
+        "shop": "邀悅膳館",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里２５鄰自治路２巷２４號"
+        "market_address": "苗栗縣苗栗市玉華里１２鄰玉清路２９３號右邊",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 657,
-        "shop": "小嗦嗦小吃",
+        "index": 144,
+        "shop": "新寶地小吃坊",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里１１鄰坪頂西７９號"
+        "market_address": "苗栗縣苗栗市文山里１１鄰橫車路２９９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 658,
-        "shop": "大東早點店",
+        "index": 145,
+        "shop": "宏井飯店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市南勢里１４鄰坪頂西３９―１號"
+        "market_address": "苗栗縣苗栗市福星里６鄰豐年路１７４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 659,
-        "shop": "鐵皮屋小吃店",
+        "index": 146,
+        "shop": "大碗公餐飲府前店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路８７號旁"
+        "market_address": "苗栗縣苗栗市福麗里１９鄰府前路１４４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 660,
-        "shop": "東方美漢堡店",
+        "index": 147,
+        "shop": "聖凱冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉清里育英街６８號"
+        "market_address": "苗栗縣苗栗市恭敬里８鄰中正路１０６２號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 661,
-        "shop": "阿南小吃",
+        "index": 148,
+        "shop": "三商餐飲股份有限公司苗福門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市高苗里２鄰天雲街２４號"
+        "market_address": "苗栗縣苗栗市文聖里００３鄰國華路５９９號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 662,
-        "shop": "緣生緣漢堡專賣店",
+        "index": 149,
+        "shop": "竣全有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰爲公路４５４號"
+        "market_address": "苗栗縣苗栗市福麗里１６鄰國華路９８２號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 663,
-        "shop": "南星冷飲店",
+        "index": 150,
+        "shop": "江技舊記有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１６鄰府東路２－６號"
+        "market_address": "苗栗縣苗栗市新苗里０１６鄰新苗街６１巷３９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 664,
-        "shop": "新華早點",
+        "index": 151,
+        "shop": "浩呈有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１２鄰長安街１４１號"
+        "market_address": "苗栗縣苗栗市玉華里玉清路１５０巷９號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 665,
+        "index": 152,
         "shop": "如意麵店",
         "category": [
             "餐飲"
@@ -7338,87 +2286,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里９鄰爲公路３６２號"
+        "market_address": "苗栗縣苗栗市清華里９鄰爲公路３６２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 666,
-        "shop": "九里香水餃牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里１０鄰中正路１０１號"
-    },
-    {
-        "index": 667,
-        "shop": "南京牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰爲公路４７０號１樓"
-    },
-    {
-        "index": 668,
-        "shop": "爲公早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里１６鄰爲公路３９１號"
-    },
-    {
-        "index": 669,
-        "shop": "中華活鱉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里中華路１５１號"
-    },
-    {
-        "index": 670,
-        "shop": "茗茶冰鎮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里６鄰至公路２２６號"
-    },
-    {
-        "index": 671,
-        "shop": "美好美三明治",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市水源里１９鄰中正路１３５６號"
-    },
-    {
-        "index": 672,
-        "shop": "葉山牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里１１鄰至公路２６號"
-    },
-    {
-        "index": 673,
+        "index": 153,
         "shop": "水芙蓉小吃店",
         "category": [
             "餐飲"
@@ -7426,337 +2300,9 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市上苗里８鄰社寮街６７號"
-    },
-    {
-        "index": 674,
-        "shop": "水餃大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里１４鄰中正路１１７２號"
-    },
-    {
-        "index": 675,
-        "shop": "一二三客家美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里２１鄰北安街１２３號"
-    },
-    {
-        "index": 676,
-        "shop": "卡儂飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路２９號右側"
-    },
-    {
-        "index": 677,
-        "shop": "發又發小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里府前路９５號"
-    },
-    {
-        "index": 678,
-        "shop": "上品屋好口味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里０１９鄰民生街５４號"
-    },
-    {
-        "index": 679,
-        "shop": "巷口麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維祥里７鄰玉維路文德巷１－１號"
-    },
-    {
-        "index": 680,
-        "shop": "國華水餃小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里國華路７４５號"
-    },
-    {
-        "index": 681,
-        "shop": "麥味登餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里正發路１８７號"
-    },
-    {
-        "index": 682,
-        "shop": "美又美早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里至公路５７６號"
-    },
-    {
-        "index": 683,
-        "shop": "姊妹早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里１７鄰正發路１３０號"
-    },
-    {
-        "index": 684,
-        "shop": "土魠魚小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里７鄰爲公路２１５號"
-    },
-    {
-        "index": 685,
-        "shop": "老伯母傳統米食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市維新里１７鄰新東街２４１號"
-    },
-    {
-        "index": 686,
-        "shop": "小市集的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里民族路９３號旁"
-    },
-    {
-        "index": 687,
-        "shop": "阿雪小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰為公路５２４號"
-    },
-    {
-        "index": 688,
-        "shop": "上林美好美早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里１６鄰府東路１１號１樓"
-    },
-    {
-        "index": 689,
-        "shop": "文山美喬美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里文發路１３２號"
-    },
-    {
-        "index": 690,
-        "shop": "美福堡漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市建功里８鄰中正路２６０號"
-    },
-    {
-        "index": 691,
-        "shop": "小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰府前路１８３號"
-    },
-    {
-        "index": 692,
-        "shop": "中藥烏骨雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市嘉盛里２３鄰爲公路４７４號"
-    },
-    {
-        "index": 693,
-        "shop": "麥軒早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市玉苗里１３鄰光復路２０８號"
-    },
-    {
-        "index": 694,
-        "shop": "巧沛東方美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里中正路４２１號"
-    },
-    {
-        "index": 695,
-        "shop": "瑞麟美而美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里５鄰中正路５２７號１樓"
-    },
-    {
-        "index": 696,
-        "shop": "美而梅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市北苗里１９鄰蕉嶺街２９號１樓"
-    },
-    {
-        "index": 697,
-        "shop": "弘爺漢堡北苗店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市清華里１０鄰爲公路１６４號"
-    },
-    {
-        "index": 698,
-        "shop": "ＱＱ珍珠奶茶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市大同里１鄰光復路１３５號"
-    },
-    {
-        "index": 699,
-        "shop": "養生大補館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里８鄰中山路６１６號"
-    },
-    {
-        "index": 700,
-        "shop": "彭粉嬌",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１鄰至公路１２０號"
-    },
-    {
-        "index": 701,
-        "shop": "茶國世界",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市恭敬里５鄰恭敬路７２號"
-    },
-    {
-        "index": 702,
-        "shop": "美又美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福麗里１１鄰至公路３５７號１樓"
-    },
-    {
-        "index": 703,
-        "shop": "可可自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市勝利里００６鄰中正路１０１７號"
+        "market_address": "苗栗縣苗栗市上苗里８鄰社寮街６７號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

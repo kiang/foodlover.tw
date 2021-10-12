@@ -1,72 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "美柑飲食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路３５８號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "頂級餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區廣福里三豐路三段６８６巷４２弄１１號１樓"
-    },
-    {
-        "index": 3,
-        "shop": "香園餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段３３３號"
-    },
-    {
-        "index": 4,
-        "shop": "萬枝早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路７５號"
-    },
-    {
-        "index": 5,
-        "shop": "忠興小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里中興街１２８號"
-    },
-    {
-        "index": 6,
-        "shop": "后翼餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路二段７２號１樓"
-    },
-    {
-        "index": 7,
         "shop": "昕依商行",
         "category": [
             "餐飲"
@@ -74,10 +8,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義里里內東路３７１號１樓"
+        "market_address": "臺中市后里區義里里內東路３７１號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 8,
+        "index": 2,
         "shop": "愛豐耀商行",
         "category": [
             "餐飲"
@@ -85,21 +22,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路四段５２號１樓"
+        "market_address": "臺中市后里區后里里三豐路四段５２號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 9,
-        "shop": "承馨茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路一段７２２號１樓"
-    },
-    {
-        "index": 10,
+        "index": 3,
         "shop": "好時好食早餐店",
         "category": [
             "餐飲"
@@ -107,54 +36,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里大圳路４２７號１樓"
+        "market_address": "臺中市后里區墩北里大圳路４２７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 11,
-        "shop": "品采商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路一段４６５號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "一米麥商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路四段１５８號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "元暉食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路三段９６１號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "得鈺茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路一段４７７號１樓"
-    },
-    {
-        "index": 15,
+        "index": 4,
         "shop": "泰鶴火鍋店",
         "category": [
             "餐飲"
@@ -162,43 +55,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２４７―１號１樓"
+        "market_address": "臺中市后里區墩北里民生路２４７―１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 16,
-        "shop": "禾翌商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段３５０號"
-    },
-    {
-        "index": 17,
-        "shop": "傅媽咪咖哩專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２００號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "后里嗨小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路３１巷１號１樓"
-    },
-    {
-        "index": 19,
+        "index": 5,
         "shop": "富順茶坊",
         "category": [
             "餐飲"
@@ -206,43 +69,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４７９號１樓"
+        "market_address": "臺中市后里區后里里甲后路１段４７９號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 20,
-        "shop": "山上人家商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區仁里里圳寮路４７巷１１號"
-    },
-    {
-        "index": 21,
-        "shop": "海一商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１５２號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "庭延小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里南村路４００巷１９號１樓"
-    },
-    {
-        "index": 23,
+        "index": 6,
         "shop": "香蜜冷飲店",
         "category": [
             "餐飲"
@@ -250,32 +83,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路三３段９９７號１樓"
+        "market_address": "臺中市后里區后里里三豐路三３段９９７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 24,
-        "shop": "后冠美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５２５號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "九合餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路１６０號１樓"
-    },
-    {
-        "index": 26,
+        "index": 7,
         "shop": "花飲品商行",
         "category": [
             "餐飲"
@@ -283,65 +97,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里大圳路５３８號１樓"
+        "market_address": "臺中市后里區墩北里大圳路５３８號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 27,
-        "shop": "美達香烤鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７９８號１樓"
-    },
-    {
-        "index": 28,
-        "shop": "裕祥小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里三豐路３段１０８２巷３７號"
-    },
-    {
-        "index": 29,
-        "shop": "博田食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里公安路１４１－１號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "統賀商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區太平里四月路４２―２８號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "喜樂家庭便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區廣福里內東路７２號"
-    },
-    {
-        "index": 32,
+        "index": 8,
         "shop": "小熊早餐",
         "category": [
             "餐飲"
@@ -349,21 +111,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義里里內東路２８９號１樓"
+        "market_address": "臺中市后里區義里里內東路２８９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 33,
-        "shop": "享耀餐飲食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區聯合里十三張路２０１號１樓"
-    },
-    {
-        "index": 34,
+        "index": 9,
         "shop": "一盞企業社",
         "category": [
             "餐飲"
@@ -371,10 +125,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區厚里里文明路１１８號１樓"
+        "market_address": "臺中市后里區厚里里文明路１１８號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 35,
+        "index": 10,
         "shop": "三灃商行",
         "category": [
             "餐飲"
@@ -382,10 +141,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路８１號１樓"
+        "market_address": "臺中市后里區墩西里公安路８１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 36,
+        "index": 11,
         "shop": "巧咕咕滷味販賣店",
         "category": [
             "餐飲"
@@ -393,10 +159,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里公安路１段２８６－１號１樓"
+        "market_address": "臺中市后里區墩東里公安路１段２８６－１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 37,
+        "index": 12,
         "shop": "真好喝商行",
         "category": [
             "餐飲"
@@ -404,10 +173,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１３２號１樓"
+        "market_address": "臺中市后里區后里里三豐路４段１３２號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 38,
+        "index": 13,
         "shop": "春坂商行",
         "category": [
             "餐飲"
@@ -415,21 +187,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２１８號１樓"
+        "market_address": "臺中市后里區墩東里民生路２１８號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 39,
-        "shop": "鹿行艸地巷弄裡的冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２２７巷６６號１樓"
-    },
-    {
-        "index": 40,
+        "index": 14,
         "shop": "旬粹商行",
         "category": [
             "餐飲"
@@ -437,54 +201,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３６３－１號"
+        "market_address": "臺中市后里區義德里甲后路１段３６３－１號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 41,
-        "shop": "鑫園食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里福德路２０２巷３９號１樓"
-    },
-    {
-        "index": 42,
-        "shop": "開伙小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路１０１號１樓"
-    },
-    {
-        "index": 43,
-        "shop": "逸凡商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里內東路３０７號１樓"
-    },
-    {
-        "index": 44,
-        "shop": "窩特企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１０６６號１樓"
-    },
-    {
-        "index": 45,
+        "index": 15,
         "shop": "依家人早午餐",
         "category": [
             "餐飲"
@@ -492,65 +216,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里文化路１７０號１樓"
+        "market_address": "臺中市后里區墩北里文化路１７０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 46,
-        "shop": "芊漾企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路５６－５號"
-    },
-    {
-        "index": 47,
-        "shop": "豐榆早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路２１―７號１樓"
-    },
-    {
-        "index": 48,
-        "shop": "瑪格薩里小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路三段１１１８號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "奧司卡早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段８５８號１樓"
-    },
-    {
-        "index": 50,
-        "shop": "大嗑餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段４５６巷１８號１樓"
-    },
-    {
-        "index": 51,
+        "index": 16,
         "shop": "潔一茶行",
         "category": [
             "餐飲"
@@ -558,21 +230,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３３７號１樓"
+        "market_address": "臺中市后里區義德里甲后路１段３３７號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 52,
-        "shop": "貓仔坑咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里福音路８６號１樓"
-    },
-    {
-        "index": 53,
+        "index": 17,
         "shop": "紅鍋匠四川麻辣火鍋",
         "category": [
             "餐飲"
@@ -580,87 +246,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路２１５號"
+        "market_address": "臺中市后里區厚里里成功路２１５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 54,
-        "shop": "飛鳥魚咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區廣福里寺山路２８號１樓"
-    },
-    {
-        "index": 55,
-        "shop": "亮宅早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區月眉里安眉路１３３號"
-    },
-    {
-        "index": 56,
-        "shop": "澄品氏早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２５５號１樓"
-    },
-    {
-        "index": 57,
-        "shop": "一米鐵板燒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路三段７５５號１樓"
-    },
-    {
-        "index": 58,
-        "shop": "培子羊肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段２５７號１樓"
-    },
-    {
-        "index": 59,
-        "shop": "佳品餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里大圳路７０２號１樓"
-    },
-    {
-        "index": 60,
-        "shop": "美食園自助餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區舊社里三重二路３５號１樓"
-    },
-    {
-        "index": 61,
+        "index": 18,
         "shop": "大鮮美食工坊",
         "category": [
             "餐飲"
@@ -668,10 +260,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里平安路７７號１樓"
+        "market_address": "臺中市后里區墩東里平安路７７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 62,
+        "index": 19,
         "shop": "火少爺專業炒飯",
         "category": [
             "餐飲"
@@ -679,10 +274,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段１２９號１樓"
+        "market_address": "臺中市后里區義里里甲后路１段１２９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 63,
+        "index": 20,
         "shop": "公安商行",
         "category": [
             "餐飲"
@@ -690,10 +288,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路５０號"
+        "market_address": "臺中市后里區墩西里公安路５０號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 64,
+        "index": 21,
         "shop": "全日食食坊",
         "category": [
             "餐飲"
@@ -701,10 +302,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路８１號１樓"
+        "market_address": "臺中市后里區墩西里公安路８１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 65,
+        "index": 22,
         "shop": "八意商行",
         "category": [
             "餐飲"
@@ -712,10 +316,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５２６號１樓"
+        "market_address": "臺中市后里區后里里甲后路１段５２６號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 66,
+        "index": 23,
         "shop": "金名小吃店",
         "category": [
             "餐飲"
@@ -723,32 +332,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２號１樓"
+        "market_address": "臺中市后里區后里里三豐路４段２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 67,
-        "shop": "柒種日子工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里四村路８５號１樓"
-    },
-    {
-        "index": 68,
-        "shop": "亞樂咖啡美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里四村路４１―３號１樓"
-    },
-    {
-        "index": 69,
+        "index": 24,
         "shop": "大三環自助餐",
         "category": [
             "餐飲"
@@ -756,10 +346,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路３６０號"
+        "market_address": "臺中市后里區厚里里成功路３６０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 70,
+        "index": 25,
         "shop": "裕珍餐飲料理店",
         "category": [
             "餐飲"
@@ -767,32 +360,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里三光路８９號１樓"
+        "market_address": "臺中市后里區墩北里三光路８９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 71,
-        "shop": "皇后早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文化路２９號１樓"
-    },
-    {
-        "index": 72,
-        "shop": "傳辰阿嬤的豬血湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路１４９―３號１樓"
-    },
-    {
-        "index": 73,
+        "index": 26,
         "shop": "沐莯小館",
         "category": [
             "餐飲"
@@ -800,10 +379,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里成功路６２號１樓"
+        "market_address": "臺中市后里區后里里成功路６２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 74,
+        "index": 27,
         "shop": "華哥牛排店",
         "category": [
             "餐飲"
@@ -811,43 +394,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街３３號１樓"
+        "market_address": "臺中市后里區后里里復興街３３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 75,
-        "shop": "黑品茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５７２號１樓"
-    },
-    {
-        "index": 76,
-        "shop": "頂順餐飲小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里昭宗路４號"
-    },
-    {
-        "index": 77,
-        "shop": "新樂天飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里文化路１３８號"
-    },
-    {
-        "index": 78,
+        "index": 28,
         "shop": "豆香飲料店",
         "category": [
             "餐飲"
@@ -855,10 +409,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路６５號１樓"
+        "market_address": "臺中市后里區墩東里民生路６５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 79,
+        "index": 29,
         "shop": "壤壤之初工作坊",
         "category": [
             "餐飲"
@@ -866,32 +423,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里三豐路３段９３１號１樓"
+        "market_address": "臺中市后里區墩東里三豐路３段９３１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 80,
-        "shop": "築饌餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路３段２９５巷１弄１７號１樓"
-    },
-    {
-        "index": 81,
-        "shop": "湯記麻辣麵線館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７５６號"
-    },
-    {
-        "index": 82,
+        "index": 30,
         "shop": "松柏茶行",
         "category": [
             "餐飲"
@@ -899,54 +437,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里四村路１０６號"
+        "market_address": "臺中市后里區墩東里四村路１０６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 83,
-        "shop": "青葉快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里文化路８７號１樓"
-    },
-    {
-        "index": 84,
-        "shop": "樂活月眉早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段５４２號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "王子廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２３鄰文明路３１巷１號１樓"
-    },
-    {
-        "index": 86,
-        "shop": "來客晨食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里９鄰甲后路１段６８６號"
-    },
-    {
-        "index": 87,
+        "index": 31,
         "shop": "后申冷飲店",
         "category": [
             "餐飲"
@@ -954,32 +455,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路５６號"
+        "market_address": "臺中市后里區墩西里公安路５６號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 88,
-        "shop": "春米點心美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路３段１０３號２樓"
-    },
-    {
-        "index": 89,
-        "shop": "佳玲早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１０８０號１樓"
-    },
-    {
-        "index": 90,
+        "index": 32,
         "shop": "壹陸吧茶行",
         "category": [
             "餐飲"
@@ -987,120 +471,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４１５號１樓"
+        "market_address": "臺中市后里區后里里甲后路１段４１５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 91,
-        "shop": "阿美肉蛋告吐司店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２８６號１樓"
-    },
-    {
-        "index": 92,
-        "shop": "菲力屋牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路１９５號１樓"
-    },
-    {
-        "index": 93,
-        "shop": "宏昇薑母鴨小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２３２號"
-    },
-    {
-        "index": 94,
-        "shop": "婷婷快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里成功路４６６號"
-    },
-    {
-        "index": 95,
-        "shop": "赫康茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３９３號１樓"
-    },
-    {
-        "index": 96,
-        "shop": "早安餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３３１巷１號"
-    },
-    {
-        "index": 97,
-        "shop": "濃珈琲咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里中山路９９號１樓"
-    },
-    {
-        "index": 98,
-        "shop": "金泓茶飲行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街５３號１樓"
-    },
-    {
-        "index": 99,
-        "shop": "手作功夫茶飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里００４鄰民生路１５１號"
-    },
-    {
-        "index": 100,
-        "shop": "築野食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里成功路１０５巷１２號１樓"
-    },
-    {
-        "index": 101,
+        "index": 33,
         "shop": "后綜茶行",
         "category": [
             "餐飲"
@@ -1108,32 +489,21 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里三豐路３段８８３號１樓"
+        "market_address": "臺中市后里區墩東里三豐路３段８８３號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 102,
-        "shop": "馥藝商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區太平里５鄰四月路五哩巷１７８號１樓"
-    },
-    {
-        "index": 103,
-        "shop": "竣達飲品專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路８２號"
-    },
-    {
-        "index": 104,
+        "index": 34,
         "shop": "后里南海茶道行",
         "category": [
             "餐飲"
@@ -1141,10 +511,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里２１鄰民生路６３號１樓"
+        "market_address": "臺中市后里區墩東里２１鄰民生路６３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "街口"
+        ]
     },
     {
-        "index": 105,
+        "index": 35,
         "shop": "龍佳晨食館",
         "category": [
             "餐飲"
@@ -1152,21 +529,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區中和里１鄰公安路１０３―１號１樓"
+        "market_address": "臺中市后里區中和里１鄰公安路１０３―１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 106,
-        "shop": "玉膳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里１０鄰甲后路１段１１８６號"
-    },
-    {
-        "index": 107,
+        "index": 36,
         "shop": "尚品小吃部",
         "category": [
             "餐飲"
@@ -1174,10 +543,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里５鄰甲后路１段４２５號"
+        "market_address": "臺中市后里區后里里５鄰甲后路１段４２５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 108,
+        "index": 37,
         "shop": "集元小吃店",
         "category": [
             "餐飲"
@@ -1185,32 +557,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段７００號"
+        "market_address": "臺中市后里區后里里甲后路１段７００號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 109,
-        "shop": "客來旺便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段４０２號"
-    },
-    {
-        "index": 110,
-        "shop": "萬味便當社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里富春路１３５―３９號１樓"
-    },
-    {
-        "index": 111,
+        "index": 38,
         "shop": "三井茶行",
         "category": [
             "餐飲"
@@ -1218,76 +572,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段９７５號１樓"
+        "market_address": "臺中市后里區后里里三豐路３段９７５號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 112,
-        "shop": "香織咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里成功路４７３號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "順口餐飲小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里０１６鄰福德路１１３巷３２號１樓"
-    },
-    {
-        "index": 114,
-        "shop": "義誠美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里舊圳路１２―１號１樓"
-    },
-    {
-        "index": 115,
-        "shop": "益安福融茶館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里１４鄰安眉路８６―１號"
-    },
-    {
-        "index": 116,
-        "shop": "豪佳飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段９號"
-    },
-    {
-        "index": 117,
-        "shop": "甲后小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里３鄰成功路３０１號"
-    },
-    {
-        "index": 118,
+        "index": 39,
         "shop": "亞周行",
         "category": [
             "餐飲"
@@ -1295,10 +591,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區太平里四月路３８號１樓"
+        "market_address": "臺中市后里區太平里四月路３８號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 119,
+        "index": 40,
         "shop": "香華早餐店",
         "category": [
             "餐飲"
@@ -1306,10 +605,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路６７號"
+        "market_address": "臺中市后里區墩東里文明路６７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 120,
+        "index": 41,
         "shop": "橘祥合院商行",
         "category": [
             "餐飲"
@@ -1317,21 +619,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區仁里里圳寮路３５號１樓"
+        "market_address": "臺中市后里區仁里里圳寮路３５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 121,
-        "shop": "順合津快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里５鄰民生路９２―３號１樓"
-    },
-    {
-        "index": 122,
+        "index": 42,
         "shop": "魔果茶飲專賣店",
         "category": [
             "餐飲"
@@ -1339,131 +633,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５４８號１樓"
+        "market_address": "臺中市后里區后里里甲后路１段５４８號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 123,
-        "shop": "慈圓健康素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里３鄰三豐路４段５８號"
-    },
-    {
-        "index": 124,
-        "shop": "頂香餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區月眉里安眉路１１２－６號１樓"
-    },
-    {
-        "index": 125,
-        "shop": "小腳印雞腳凍舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里南村路４３４號"
-    },
-    {
-        "index": 126,
-        "shop": "麗園小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里１０鄰甲后路２段７８９號"
-    },
-    {
-        "index": 127,
-        "shop": "岩葉拉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里４鄰文明路１０３號１樓"
-    },
-    {
-        "index": 128,
-        "shop": "雲上太陽早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２６５號１樓"
-    },
-    {
-        "index": 129,
-        "shop": "萬盛茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段６４６號１樓"
-    },
-    {
-        "index": 130,
-        "shop": "佳香麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里１５鄰復興街５９巷１―１號"
-    },
-    {
-        "index": 131,
-        "shop": "后池小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里８鄰公安路１３５號"
-    },
-    {
-        "index": 132,
-        "shop": "后里鄭爌肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段９５５號"
-    },
-    {
-        "index": 133,
-        "shop": "聖欣餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里福德路１６１巷２５號"
-    },
-    {
-        "index": 134,
+        "index": 43,
         "shop": "富樂砂鍋",
         "category": [
             "餐飲"
@@ -1471,109 +651,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里復興街２８號１樓、２樓"
+        "market_address": "臺中市后里區墩東里復興街２８號１樓、２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 135,
-        "shop": "惠民商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３１３號"
-    },
-    {
-        "index": 136,
-        "shop": "利昌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里１７鄰甲后路２段５０８號"
-    },
-    {
-        "index": 137,
-        "shop": "文月生活館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里８鄰大圳路４２５號１樓"
-    },
-    {
-        "index": 138,
-        "shop": "古泰小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里２鄰中山路８４號"
-    },
-    {
-        "index": 139,
-        "shop": "管江胡麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路６２號一樓"
-    },
-    {
-        "index": 140,
-        "shop": "柒號咖啡專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里１７鄰三豐路４段１９７號"
-    },
-    {
-        "index": 141,
-        "shop": "亞森外燴美食料理店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里１３鄰南村路７９巷５號"
-    },
-    {
-        "index": 142,
-        "shop": "暢心園茶藝行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里四村路４９號１樓"
-    },
-    {
-        "index": 143,
-        "shop": "生門企業股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段６７０號１樓"
-    },
-    {
-        "index": 144,
+        "index": 44,
         "shop": "悅滿溢股份有限公司",
         "category": [
             "餐飲"
@@ -1581,66 +666,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里福音路８６號１樓"
+        "market_address": "臺中市后里區墩北里福音路８６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 145,
-        "shop": "路易莎職人咖啡股份有限公司美光營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段３６９號"
-    },
-    {
-        "index": 146,
-        "shop": "三商餐飲股份有限公司台中后里門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７５５號"
-    },
-    {
-        "index": 147,
-        "shop": "宇茶有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路一段４８７號１樓"
-    },
-    {
-        "index": 148,
-        "shop": "后里豬血財有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路１３３號１樓"
-    },
-    {
-        "index": 149,
-        "shop": "立祥事業有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１５巷３１號１樓"
-    },
-    {
-        "index": 150,
+        "index": 45,
         "shop": "東達餐飲有限公司",
         "category": [
             "餐飲"
@@ -1648,1661 +680,73 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里４鄰成功路４９２巷２號、４７６巷１號、４７８號"
+        "market_address": "臺中市后里區墩東里４鄰成功路４９２巷２號、４７６巷１號、４７８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 151,
-        "shop": "榮宴品饌有限公司",
+        "index": 46,
+        "shop": "萬盛茶行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路３號１樓"
+        "market_address": "臺中市后里區后里里甲后路１段６４６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 152,
-        "shop": "丹鳳自助餐店",
+        "index": 47,
+        "shop": "路易莎職人咖啡股份有限公司美光營業所",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩北里大圳路５７６號"
+        "market_address": "臺中市后里區后里里三豐路４段３６９號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 153,
-        "shop": "享福餐飲行",
+        "index": 48,
+        "shop": "三商餐飲股份有限公司台中后里門市部",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩南里舊社路４―３１號"
+        "market_address": "臺中市后里區厚里里甲后路１段７５５號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 154,
-        "shop": "后里席林湯餃",
+        "index": 49,
+        "shop": "立祥事業有限公司",
         "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路一段５１３號１樓"
-    },
-    {
-        "index": 155,
-        "shop": "后里浪人鐵板燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里四村路９９號１樓"
-    },
-    {
-        "index": 156,
-        "shop": "硬漢瑞可商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４９８號１樓"
-    },
-    {
-        "index": 157,
-        "shop": "豐后厘茶飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１３１號１樓"
-    },
-    {
-        "index": 158,
-        "shop": "洄饗商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路３段５０９號"
-    },
-    {
-        "index": 159,
-        "shop": "永翊商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路一段４１３號１樓"
-    },
-    {
-        "index": 160,
-        "shop": "霹靂多多冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段２７８號１樓"
-    },
-    {
-        "index": 161,
-        "shop": "后豐早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路３段２２１號１樓"
-    },
-    {
-        "index": 162,
-        "shop": "集安小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里公安路１４３―１號１樓"
-    },
-    {
-        "index": 163,
-        "shop": "香之樹企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１０６６號１樓"
-    },
-    {
-        "index": 164,
-        "shop": "尚品茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５０３號、５０５號１樓"
-    },
-    {
-        "index": 165,
-        "shop": "后甲冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段６００號１樓"
-    },
-    {
-        "index": 166,
-        "shop": "大宗餐盒食品工廠",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區泰安里福興路１２４－２號"
-    },
-    {
-        "index": 167,
-        "shop": "鄉村漢堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里１０鄰公安路１２８－４號"
-    },
-    {
-        "index": 168,
-        "shop": "小當家餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里昭宗路４號"
-    },
-    {
-        "index": 169,
-        "shop": "１５合順飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里三光路３２號"
-    },
-    {
-        "index": 170,
-        "shop": "猴伯小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里三光路１０１號"
-    },
-    {
-        "index": 171,
-        "shop": "瑞麟美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里文化路７４號"
-    },
-    {
-        "index": 172,
-        "shop": "和風冰飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里三光路５１號"
-    },
-    {
-        "index": 173,
-        "shop": "中和早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里中和路１號"
-    },
-    {
-        "index": 174,
-        "shop": "腳丫子ｔｅａ吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２０９號"
-    },
-    {
-        "index": 175,
-        "shop": "內埔早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２２３號"
-    },
-    {
-        "index": 176,
-        "shop": "富林漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２３７－２號"
-    },
-    {
-        "index": 177,
-        "shop": "蒜花田茶亭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２９１號"
-    },
-    {
-        "index": 178,
-        "shop": "茶顏悅舍",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里７鄰四村路１１４號"
-    },
-    {
-        "index": 179,
-        "shop": "后里第一家炸雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文化路２號"
-    },
-    {
-        "index": 180,
-        "shop": "國峰茶站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里中山路１４２號"
-    },
-    {
-        "index": 181,
-        "shop": "進味珍包子饅頭店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２１７號"
-    },
-    {
-        "index": 182,
-        "shop": "伊德咖啡飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段８１２號"
-    },
-    {
-        "index": 183,
-        "shop": "富林漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路９１６號"
-    },
-    {
-        "index": 184,
-        "shop": "新幹線小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里１鄰安眉路３７－２１號"
-    },
-    {
-        "index": 185,
-        "shop": "潮洲牛雜湯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里６鄰三豐路３段７７９號"
-    },
-    {
-        "index": 186,
-        "shop": "茶世界茶攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段６０號"
-    },
-    {
-        "index": 187,
-        "shop": "草本一族",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段９４７號"
-    },
-    {
-        "index": 188,
-        "shop": "品客小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里６鄰三豐路３段８０７號"
-    },
-    {
-        "index": 189,
-        "shop": "香蕉樹冷飲餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街８５號"
-    },
-    {
-        "index": 190,
-        "shop": "后里國中肉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街２３號"
-    },
-    {
-        "index": 191,
-        "shop": "青葉快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段５１５號"
-    },
-    {
-        "index": 192,
-        "shop": "方潔小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段３３９號"
-    },
-    {
-        "index": 193,
-        "shop": "大陸小林小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里１７鄰甲后路２段４２５號"
-    },
-    {
-        "index": 194,
-        "shop": "月眉榕樹下豬血湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里１７鄰甲后路２段３８３號"
-    },
-    {
-        "index": 195,
-        "shop": "來來冰棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段３５５巷１１號"
-    },
-    {
-        "index": 196,
-        "shop": "汶萊咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里１鄰四村路５１號"
-    },
-    {
-        "index": 197,
-        "shop": "富林漢堡專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里４鄰甲后路１段３０５號"
-    },
-    {
-        "index": 198,
-        "shop": "桂芳早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里１３鄰甲后路１段３１０號"
-    },
-    {
-        "index": 199,
-        "shop": "助瑩魠魚粳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街１０６號"
-    },
-    {
-        "index": 200,
-        "shop": "虱目魚小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里５鄰甲后路１段２８９號"
-    },
-    {
-        "index": 201,
-        "shop": "早安美芝城后里文明店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里４鄰文明路１７８號"
-    },
-    {
-        "index": 202,
-        "shop": "夏一跳速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里文明路１２２號"
-    },
-    {
-        "index": 203,
-        "shop": "茶世界文明店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里１鄰文明路１１０號"
-    },
-    {
-        "index": 204,
-        "shop": "珍味複合式早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里１５鄰甲后路１段１０５號"
-    },
-    {
-        "index": 205,
-        "shop": "雅味早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里００１鄰甲后路１段３７８號"
-    },
-    {
-        "index": 206,
-        "shop": "鄉之味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３５５巷１６號前面"
-    },
-    {
-        "index": 207,
-        "shop": "后里第一排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里８鄰甲后路１段５９０號"
-    },
-    {
-        "index": 208,
-        "shop": "鳳凰山觀光農園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區仁里里４鄰圳寮路４７巷７號"
-    },
-    {
-        "index": 209,
-        "shop": "大杯王冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里９鄰公安路８３－１號"
-    },
-    {
-        "index": 210,
-        "shop": "成功早中餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里１７鄰成功路１７號"
-    },
-    {
-        "index": 211,
-        "shop": "阿平小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２２３－１號"
-    },
-    {
-        "index": 212,
-        "shop": "瑞麟美又美文明店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路８０號"
-    },
-    {
-        "index": 213,
-        "shop": "越台小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路二段２６號１樓"
-    },
-    {
-        "index": 214,
-        "shop": "禾夏綠豆沙專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路一段７６２號１樓"
-    },
-    {
-        "index": 215,
-        "shop": "春日部綠豆沙專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路五段５６９號"
-    },
-    {
-        "index": 216,
-        "shop": "公路小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路五段５６９號"
-    },
-    {
-        "index": 217,
-        "shop": "傑富冰飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路四段１４９號１樓"
-    },
-    {
-        "index": 218,
-        "shop": "張瑞芬",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里四村路１０５號１樓"
-    },
-    {
-        "index": 219,
-        "shop": "嘉安商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文化路１６號１樓"
-    },
-    {
-        "index": 220,
-        "shop": "客來素蔬食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路７８號１樓"
-    },
-    {
-        "index": 221,
-        "shop": "兩兄妹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段４１８號"
-    },
-    {
-        "index": 222,
-        "shop": "禾呷鐵板燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路９６號１樓"
-    },
-    {
-        "index": 223,
-        "shop": "小熊燒后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路９２號騎樓"
-    },
-    {
-        "index": 224,
-        "shop": "好食雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里平安路９７號右側騎樓"
-    },
-    {
-        "index": 225,
-        "shop": "后里港式鮮肉包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段４１８號"
-    },
-    {
-        "index": 226,
-        "shop": "民生麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２５３號１樓"
-    },
-    {
-        "index": 227,
-        "shop": "陳記當歸鴨麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段４１８號"
-    },
-    {
-        "index": 228,
-        "shop": "享巷吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２４９號"
-    },
-    {
-        "index": 229,
-        "shop": "亞米鍋燒麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路９８號１樓"
-    },
-    {
-        "index": 230,
-        "shop": "蔬香世家早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１１２０號"
-    },
-    {
-        "index": 231,
-        "shop": "雙醬咖哩",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３９９號"
-    },
-    {
-        "index": 232,
-        "shop": "江孟憲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里成功路１７６號旁"
-    },
-    {
-        "index": 233,
-        "shop": "紘立騰飲品店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街８２號"
-    },
-    {
-        "index": 234,
-        "shop": "紫畇食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里成功路３６９號"
-    },
-    {
-        "index": 235,
-        "shop": "上后里湯包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３８０號１樓"
-    },
-    {
-        "index": 236,
-        "shop": "瑜軒食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里成功路４２６號"
-    },
-    {
-        "index": 237,
-        "shop": "巧味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路６９巷３４號"
-    },
-    {
-        "index": 238,
-        "shop": "佳炘找餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街４９號"
-    },
-    {
-        "index": 239,
-        "shop": "李鳳如",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路２段２８號"
-    },
-    {
-        "index": 240,
-        "shop": "黃馨穎",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路３０３號"
-    },
-    {
-        "index": 241,
-        "shop": "李哥燒臘快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１１０８號"
-    },
-    {
-        "index": 242,
-        "shop": "虎哥排骨酥麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路５６－７號"
-    },
-    {
-        "index": 243,
-        "shop": "禾豐商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５３８號"
-    },
-    {
-        "index": 244,
-        "shop": "城境早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２１４號１樓"
-    },
-    {
-        "index": 245,
-        "shop": "手工蛋餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段５１８號"
-    },
-    {
-        "index": 246,
-        "shop": "素餐車餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路２６號１樓"
-    },
-    {
-        "index": 247,
-        "shop": "黑皮廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路２１―３號１樓"
-    },
-    {
-        "index": 248,
-        "shop": "長興筒仔米糕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路３段２４７號"
-    },
-    {
-        "index": 249,
-        "shop": "佳味鮮自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里１鄰公安路１０３―１號"
-    },
-    {
-        "index": 250,
-        "shop": "黃雅婷",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５０８號"
-    },
-    {
-        "index": 251,
-        "shop": "欣樂飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４６３號"
-    },
-    {
-        "index": 252,
-        "shop": "嘉福小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３９７號１樓"
-    },
-    {
-        "index": 253,
-        "shop": "奕誌食品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４０３號"
-    },
-    {
-        "index": 254,
-        "shop": "井太郎牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４０７號"
-    },
-    {
-        "index": 255,
-        "shop": "九條牛后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４９０號"
-    },
-    {
-        "index": 256,
-        "shop": "温素佩",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區泰安里福興路１４號"
-    },
-    {
-        "index": 257,
-        "shop": "月眉早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段４３５號１樓"
-    },
-    {
-        "index": 258,
-        "shop": "后里四季食補",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路１段９９３號"
-    },
-    {
-        "index": 259,
-        "shop": "廣味燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３７６號"
-    },
-    {
-        "index": 260,
-        "shop": "金燕快餐中心",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段６３號１樓"
-    },
-    {
-        "index": 261,
-        "shop": "福仁包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里三光路７５號１樓"
-    },
-    {
-        "index": 262,
-        "shop": "膳禾軒私房料理溯源餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路２６５巷１１號"
-    },
-    {
-        "index": 263,
-        "shop": "旅月漫漫",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段５３６號１樓前面"
-    },
-    {
-        "index": 264,
-        "shop": "林氏會",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里中山路１３號１樓"
-    },
-    {
-        "index": 265,
-        "shop": "老劉牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２６號"
-    },
-    {
-        "index": 266,
-        "shop": "米奇牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路五段５６９號"
-    },
-    {
-        "index": 267,
-        "shop": "裕達摩餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４２１號"
-    },
-    {
-        "index": 268,
-        "shop": "非凡小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段３４２號"
-    },
-    {
-        "index": 269,
-        "shop": "客庄美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段４５６巷２０號"
-    },
-    {
-        "index": 270,
-        "shop": "豪嘉宜早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段２３６號１樓"
-    },
-    {
-        "index": 271,
-        "shop": "三方六食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５５２號"
-    },
-    {
-        "index": 272,
-        "shop": "向陽快餐便當社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段８２號"
-    },
-    {
-        "index": 273,
-        "shop": "小林餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里１鄰文化路７３號"
-    },
-    {
-        "index": 274,
-        "shop": "玉永早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區太平里太平路３２－６號"
-    },
-    {
-        "index": 275,
-        "shop": "馨園飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３５５巷３６弄１號"
-    },
-    {
-        "index": 276,
-        "shop": "風鼓崎豬血湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段６４１號"
-    },
-    {
-        "index": 277,
-        "shop": "芋湖豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４５５號"
-    },
-    {
-        "index": 278,
-        "shop": "雪芙蓉水餃專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路１段９１７號"
-    },
-    {
-        "index": 279,
-        "shop": "大千美味餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２５８號"
-    },
-    {
-        "index": 280,
-        "shop": "三媽美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段４５６巷１０號"
-    },
-    {
-        "index": 281,
-        "shop": "永光實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１０６０號"
-    },
-    {
-        "index": 282,
-        "shop": "小米愛上豬",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７８０號"
-    },
-    {
-        "index": 283,
-        "shop": "后里甲后楊桃汁",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７５８號"
-    },
-    {
-        "index": 284,
-        "shop": "半圭藝術咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里南村路３５３號"
-    },
-    {
-        "index": 285,
-        "shop": "泰安餐飲中心",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里三豐路５段５３３號"
-    },
-    {
-        "index": 286,
-        "shop": "楓之林牛乳大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街１２０號"
-    },
-    {
-        "index": 287,
-        "shop": "泰安便當社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里１鄰泉州路９號"
-    },
-    {
-        "index": 288,
-        "shop": "東昶行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２５９號"
-    },
-    {
-        "index": 289,
-        "shop": "巷口鍋燒麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里福音路５８號"
-    },
-    {
-        "index": 290,
-        "shop": "后里廟口店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段７１６巷６號"
-    },
-    {
-        "index": 291,
-        "shop": "心意食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３９２號"
-    },
-    {
-        "index": 292,
-        "shop": "浙東餃子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區廣福里寺山路１２號"
-    },
-    {
-        "index": 293,
-        "shop": "陶火虹",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里福音路３８號１樓"
-    },
-    {
-        "index": 294,
-        "shop": "栗子咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２１３號１樓"
-    },
-    {
-        "index": 295,
-        "shop": "大和川日式和食館后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路６６號１樓"
-    },
-    {
-        "index": 296,
-        "shop": "岳之家",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段３５５巷３號"
-    },
-    {
-        "index": 297,
-        "shop": "天晴烤肉趣",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段７９６號"
-    },
-    {
-        "index": 298,
-        "shop": "鑫華小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里公安路一段３２３號１樓"
-    },
-    {
-        "index": 299,
-        "shop": "三豐健康蔬食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１０２號"
-    },
-    {
-        "index": 300,
-        "shop": "昌遠早餐店",
-        "category": [
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區仁里里圳寮路９６―１號"
+        "market_address": "臺中市后里區后里里三豐路４段１５巷３１號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 301,
+        "index": 50,
         "shop": "美式炸雞",
         "category": [
             "餐飲"
@@ -3310,32 +754,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１１４０號"
+        "market_address": "臺中市后里區后里里三豐路３段１１４０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 302,
-        "shop": "七嘴八舌后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３９１號"
-    },
-    {
-        "index": 303,
-        "shop": "吉星小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區月眉里雲頭路４５號旁"
-    },
-    {
-        "index": 304,
+        "index": 51,
         "shop": "喵阿姨早餐窩",
         "category": [
             "餐飲"
@@ -3343,76 +768,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路７１號"
+        "market_address": "臺中市后里區墩西里公安路７１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 305,
-        "shop": "上海鍋貼",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里中山路６４號"
-    },
-    {
-        "index": 306,
-        "shop": "王記食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里復興街５５號１樓"
-    },
-    {
-        "index": 307,
-        "shop": "Ｓｐａｃｅ空間咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里圳寮路１４０號"
-    },
-    {
-        "index": 308,
-        "shop": "達仁小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里四村路７４號１樓"
-    },
-    {
-        "index": 309,
-        "shop": "怪咖小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路６３號１樓"
-    },
-    {
-        "index": 310,
-        "shop": "花媽湯翅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里０１７鄰三豐路４段５２號１樓"
-    },
-    {
-        "index": 311,
+        "index": 52,
         "shop": "美成商行",
         "category": [
             "餐飲"
@@ -3420,241 +782,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段３０２號１樓"
+        "market_address": "臺中市后里區義里里甲后路１段３０２號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "台灣pay",
+            "icash pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 312,
-        "shop": "麥軒活力站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里１７鄰甲后路１段８８７號"
-    },
-    {
-        "index": 313,
-        "shop": "月眉便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里１７鄰甲后路８８０號"
-    },
-    {
-        "index": 314,
-        "shop": "月眉杯樂店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路９０５號"
-    },
-    {
-        "index": 315,
-        "shop": "吃香喝辣快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里５鄰甲后路１段７７０號"
-    },
-    {
-        "index": 316,
-        "shop": "甲后早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里２鄰甲后路２段５２８號"
-    },
-    {
-        "index": 317,
-        "shop": "麻辣大腸麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里５鄰甲后路１段７７２號"
-    },
-    {
-        "index": 318,
-        "shop": "明心素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里１鄰中山路９０號"
-    },
-    {
-        "index": 319,
-        "shop": "威任飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路８０號"
-    },
-    {
-        "index": 320,
-        "shop": "老實屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里１１鄰三豐路３段１８１號"
-    },
-    {
-        "index": 321,
-        "shop": "弘爺學園店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里３鄰甲后路１段７４１號"
-    },
-    {
-        "index": 322,
-        "shop": "神州窯烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里１０鄰甲后路２７７號"
-    },
-    {
-        "index": 323,
-        "shop": "小林鵝肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里４鄰甲后路１段３０７號"
-    },
-    {
-        "index": 324,
-        "shop": "木野御丼食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里５鄰甲后路１段７４０號"
-    },
-    {
-        "index": 325,
-        "shop": "阿元全羊餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里安眉路臨１３９－６１號"
-    },
-    {
-        "index": 326,
-        "shop": "韻茶園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里１２鄰三豐路２５－２號１樓"
-    },
-    {
-        "index": 327,
-        "shop": "璉興快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１８２號"
-    },
-    {
-        "index": 328,
-        "shop": "美林閣早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區中和里１２鄰公安路１４７－５號"
-    },
-    {
-        "index": 329,
-        "shop": "後庄食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２６８號北側鐵皮屋"
-    },
-    {
-        "index": 330,
-        "shop": "新港生炒鴨肉??",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里文化路８５號"
-    },
-    {
-        "index": 331,
-        "shop": "珍珍小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里５鄰三豐路３段１１３８號"
-    },
-    {
-        "index": 332,
-        "shop": "橋邊平價快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區廣福里１０鄰三豐路３段７７０巷１號"
-    },
-    {
-        "index": 333,
+        "index": 53,
         "shop": "池上飯包",
         "category": [
             "餐飲"
@@ -3662,330 +801,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區厚里里２鄰甲后路１段８４６號左邊"
+        "market_address": "臺中市后里區厚里里２鄰甲后路１段８４６號左邊",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 334,
-        "shop": "明宏小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里１鄰甲后路１段３８８號"
-    },
-    {
-        "index": 335,
-        "shop": "這一家早餐晨食館專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里４鄰中興街１４９號１樓"
-    },
-    {
-        "index": 336,
-        "shop": "台北組小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段１０９８號"
-    },
-    {
-        "index": 337,
-        "shop": "豐原排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里１６鄰甲后路１段３９５號"
-    },
-    {
-        "index": 338,
-        "shop": "珍位廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里３鄰甲后路１段５５０號"
-    },
-    {
-        "index": 339,
-        "shop": "利眾醉鵝鹽水鵝",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里甲后路１段８７１號"
-    },
-    {
-        "index": 340,
-        "shop": "招牌什錦麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區眉山里甲后路２段５４６號"
-    },
-    {
-        "index": 341,
-        "shop": "珍香食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段１９３號"
-    },
-    {
-        "index": 342,
-        "shop": "陳韋汎",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里甲后路１段５９５號"
-    },
-    {
-        "index": 343,
-        "shop": "陳建忠",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里９鄰甲后路１段５４７號"
-    },
-    {
-        "index": 344,
-        "shop": "林美玉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區泰安里泰安舊火車站右側"
-    },
-    {
-        "index": 345,
-        "shop": "后里臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里５鄰甲后路１段４０９號"
-    },
-    {
-        "index": 346,
-        "shop": "政豐茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３９３號"
-    },
-    {
-        "index": 347,
-        "shop": "加家早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里中山路５０號１樓"
-    },
-    {
-        "index": 348,
-        "shop": "古長庭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５１２號"
-    },
-    {
-        "index": 349,
-        "shop": "賞味家早餐舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里５鄰四村路５０號１樓"
-    },
-    {
-        "index": 350,
-        "shop": "富林漢堡后里三豐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里５鄰三豐路８０―２號"
-    },
-    {
-        "index": 351,
-        "shop": "黑寶小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路３８－１號"
-    },
-    {
-        "index": 352,
-        "shop": "后里傳統米食舖",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區仁里里４鄰圳寮路６７號"
-    },
-    {
-        "index": 353,
-        "shop": "雞大爺炸食后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里５鄰甲后路１段７５２號"
-    },
-    {
-        "index": 354,
-        "shop": "娃娃小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路２０３號"
-    },
-    {
-        "index": 355,
-        "shop": "炸時代",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路一段３５５巷３號"
-    },
-    {
-        "index": 356,
-        "shop": "牛兄弟鐵板燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里００１鄰甲后路１段４４２號"
-    },
-    {
-        "index": 357,
-        "shop": "料亭日本料理店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段３３８號"
-    },
-    {
-        "index": 358,
-        "shop": "欣哥麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段９７號"
-    },
-    {
-        "index": 359,
-        "shop": "特味越南簡餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段３１２號"
-    },
-    {
-        "index": 360,
-        "shop": "美食小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段２９９號"
-    },
-    {
-        "index": 361,
-        "shop": "后里平價牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段１４７號"
-    },
-    {
-        "index": 362,
-        "shop": "米家早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路一段６７號１樓"
-    },
-    {
-        "index": 363,
+        "index": 54,
         "shop": "廟口意麵",
         "category": [
             "餐飲"
@@ -3993,98 +815,248 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５１６號"
+        "market_address": "臺中市后里區后里里甲后路１段５１６號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 364,
-        "shop": "友一腳庫飯",
+        "index": 55,
+        "shop": "豐后厘茶飲企業社",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路４段２７６號"
+        "market_address": "臺中市后里區后里里三豐路４段１３１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 365,
-        "shop": "后里大碗公冰品店",
+        "index": 56,
+        "shop": "洄饗商行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５００號"
+        "market_address": "臺中市后里區墩南里三豐路３段５０９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 366,
-        "shop": "勝記平價快炒",
+        "index": 57,
+        "shop": "霹靂多多冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里００３鄰文明路７６號"
+        "market_address": "臺中市后里區公館里三豐路５段２７８號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 367,
-        "shop": "原沏茶舖",
+        "index": 58,
+        "shop": "尚品茶飲",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區眉山里７鄰甲后路２段４７１號"
+        "market_address": "臺中市后里區后里里甲后路１段５０３號、５０５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 368,
-        "shop": "鄭順誠",
+        "index": 59,
+        "shop": "后甲冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩西里２鄰公安路４６號"
+        "market_address": "臺中市后里區后里里甲后路１段６００號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 369,
-        "shop": "蔡美珠",
+        "index": 60,
+        "shop": "旅月漫漫",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路１３９號"
+        "market_address": "臺中市后里區眉山里甲后路２段５３６號１樓前面",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 370,
-        "shop": "阿榮爌肉飯",
+        "index": 61,
+        "shop": "瑜軒食品行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區眉山里１７鄰甲后路８３５號"
+        "market_address": "臺中市后里區墩東里成功路４２６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 371,
-        "shop": "１７６巷食堂",
+        "index": 62,
+        "shop": "后里席林湯餃",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區墩東里２５鄰福德路１７６巷１號"
+        "market_address": "臺中市后里區后里里甲后路一段５１３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 372,
+        "index": 63,
+        "shop": "永翊商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區后里里甲后路一段４１３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "集安小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區中和里公安路１４３―１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "信用卡",
+            "iPASS 一卡通"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "弘爺學園店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區厚里里３鄰甲后路１段７４１號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "政豐茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區后里里甲后路１段３９３號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "加家早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區墩西里中山路５０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "生門企業股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區后里里甲后路１段６７０號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "iPASS 一卡通"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "亞米鍋燒麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "后里區",
+        "market_address": "臺中市后里區墩東里文明路９８號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 70,
         "shop": "回味燒臘快餐",
         "category": [
             "餐飲"
@@ -4092,285 +1064,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段９４９號"
+        "market_address": "臺中市后里區后里里三豐路３段９４９號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 373,
-        "shop": "欣欣早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里３鄰三豐路５段２８６號"
-    },
-    {
-        "index": 374,
-        "shop": "越南小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里５鄰甲后路１段２８５號"
-    },
-    {
-        "index": 375,
-        "shop": "麥可漢堡早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里中山路３９號"
-    },
-    {
-        "index": 376,
-        "shop": "大眾小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義德里甲后路１段４５６巷１６弄１號"
-    },
-    {
-        "index": 377,
-        "shop": "大興小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里大興路５５號"
-    },
-    {
-        "index": 378,
-        "shop": "如是我聞海苔飯捲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２鄰文明路４８號"
-    },
-    {
-        "index": 379,
-        "shop": "小寶嫩雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路１７號騎樓"
-    },
-    {
-        "index": 380,
-        "shop": "羅斯特炸雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里四村路１１２號"
-    },
-    {
-        "index": 381,
-        "shop": "弘爺漢堡七星店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里南村路２號"
-    },
-    {
-        "index": 382,
-        "shop": "食分食點複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里公安路４２號"
-    },
-    {
-        "index": 383,
-        "shop": "古早味現炒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩南里三豐路３段７４９號"
-    },
-    {
-        "index": 384,
-        "shop": "福音活力吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里３鄰福音路４６號"
-    },
-    {
-        "index": 385,
-        "shop": "大立豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里２鄰甲后路１段１８號"
-    },
-    {
-        "index": 386,
-        "shop": "天慈素食后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段６０２號"
-    },
-    {
-        "index": 387,
-        "shop": "堡寶寶早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段５０９號"
-    },
-    {
-        "index": 388,
-        "shop": "夏之味早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２７６號"
-    },
-    {
-        "index": 389,
-        "shop": "朱會鴻早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１３４號"
-    },
-    {
-        "index": 390,
-        "shop": "后里麻醬麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段３８３號"
-    },
-    {
-        "index": 391,
-        "shop": "阿富海產小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區厚里里成功路２２７號"
-    },
-    {
-        "index": 392,
-        "shop": "唐山茶館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里７鄰福音路１３０號"
-    },
-    {
-        "index": 393,
-        "shop": "小皇仙飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里民生路１２３號"
-    },
-    {
-        "index": 394,
-        "shop": "綉霞外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區義里里甲后路１段２７８巷１７弄１號"
-    },
-    {
-        "index": 395,
-        "shop": "瀚億餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里２鄰三豐路４段９３號"
-    },
-    {
-        "index": 396,
-        "shop": "娜嚕灣飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里成功路１５１號"
-    },
-    {
-        "index": 397,
-        "shop": "鮮２８早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區太平里四月路３６―２號"
-    },
-    {
-        "index": 398,
+        "index": 71,
         "shop": "漢王薑母鴨后里店",
         "category": [
             "餐飲"
@@ -4378,193 +1079,9 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段６８０號"
-    },
-    {
-        "index": 399,
-        "shop": "純古老豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里９鄰甲后路１段６７０號"
-    },
-    {
-        "index": 400,
-        "shop": "開心麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里文明路１２５號"
-    },
-    {
-        "index": 401,
-        "shop": "瑞麟美又美內埔店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里５鄰文化路１７號"
-    },
-    {
-        "index": 402,
-        "shop": "巨林美而美后里店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２０鄰文明路２００號１樓"
-    },
-    {
-        "index": 403,
-        "shop": "乖乖迷你火??店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２４鄰文明路３５號"
-    },
-    {
-        "index": 404,
-        "shop": "春利小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區公館里３鄰三豐路４６１號"
-    },
-    {
-        "index": 405,
-        "shop": "后里川味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里７鄰平安路６４號"
-    },
-    {
-        "index": 406,
-        "shop": "大眾香菇肉??",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２０鄰成功路３５１號"
-    },
-    {
-        "index": 407,
-        "shop": "茶噹噹內埔店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里四村路１４２號"
-    },
-    {
-        "index": 408,
-        "shop": "四季紅茶專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里３鄰四村路１０１，１０３號"
-    },
-    {
-        "index": 409,
-        "shop": "協力香雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里甲后路１段４３５號"
-    },
-    {
-        "index": 410,
-        "shop": "泉州蝦仁扁食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩北里民生路２４８號"
-    },
-    {
-        "index": 411,
-        "shop": "永和四海豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區后里里三豐路３段９５９號"
-    },
-    {
-        "index": 412,
-        "shop": "伊豆咖啡簡餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里２４鄰文明路３７號"
-    },
-    {
-        "index": 413,
-        "shop": "大順肉丸店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里福音路４５號"
-    },
-    {
-        "index": 414,
-        "shop": "紅豆飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩東里四村路１２０號"
-    },
-    {
-        "index": 415,
-        "shop": "蘭亭飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "后里區",
-        "market_address": "臺中市后里區墩西里中山路９６號"
+        "market_address": "臺中市后里區后里里甲后路１段６８０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

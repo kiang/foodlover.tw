@@ -1,51 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "德歡烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區成德里凌雲路１段１３２號"
-    },
-    {
-        "index": 2,
-        "shop": "日安烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里成泰路二段２０６號１樓"
-    },
-    {
-        "index": 3,
-        "shop": "佤徠商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區德泰里成泰路１段３２巷４７號５樓"
-    },
-    {
-        "index": 4,
-        "shop": "新進興號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區成德里凌雲路１段１８號"
-    },
-    {
-        "index": 5,
         "shop": "麥之田食品屋",
         "category": [
             "糕餅"
@@ -53,43 +8,13 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區興珍里五工二路１０６巷５號（３樓）"
+        "market_address": "新北市五股區興珍里五工二路１０６巷５號（３樓）",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 6,
-        "shop": "瑞興龜餅坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區成德里凌雲路１段４８號"
-    },
-    {
-        "index": 7,
-        "shop": "亭心園西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區水碓里水碓路１６巷１號"
-    },
-    {
-        "index": 8,
-        "shop": "布果蛋糕坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里中興路４段３７號"
-    },
-    {
-        "index": 9,
+        "index": 2,
         "shop": "采宣烘焙工坊",
         "category": [
             "糕餅"
@@ -97,7 +22,115 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區五股里成泰路２段１０２號３樓"
+        "market_address": "新北市五股區五股里成泰路２段１０２號３樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "樂金食品股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五工六路１５號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "勇信貿易股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五權路４６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "貝克利有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五工五路２４號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "新北市慈泰庇護工場",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五權路７巷８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "橘村屋食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五工五路３１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "壯元食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區五工三路１１６巷１４號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "布果蛋糕坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區五股里中興路４段３７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
         "index": 10,
@@ -108,7 +141,10 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區工商路１４９號"
+        "market_address": "新北市五股區工商路１４９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 11,
@@ -119,65 +155,17 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區福德里成泰路１段８７－１號６樓"
+        "market_address": "新北市五股區福德里成泰路１段８７－１號６樓",
+        "pay_list": [
+            "橘子支付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
         "index": 12,
-        "shop": "喜來芳股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區中興路１段７９號"
-    },
-    {
-        "index": 13,
-        "shop": "樂金食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五工六路１５號"
-    },
-    {
-        "index": 14,
-        "shop": "聖騏食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五工三路１０３號"
-    },
-    {
-        "index": 15,
-        "shop": "勇信貿易股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路４６號"
-    },
-    {
-        "index": 16,
-        "shop": "七味之友有限公司五股辦事處",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五工五路４６號"
-    },
-    {
-        "index": 17,
         "shop": "緣泰企業有限公司",
         "category": [
             "糕餅"
@@ -185,193 +173,9 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區興珍里中興路１段４６巷２５號"
-    },
-    {
-        "index": 18,
-        "shop": "新興實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路８號"
-    },
-    {
-        "index": 19,
-        "shop": "貝克利有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五工五路２４號"
-    },
-    {
-        "index": 20,
-        "shop": "米豐食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路４２－１號"
-    },
-    {
-        "index": 21,
-        "shop": "豬寶有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里成泰路２段１４７巷２５號２樓"
-    },
-    {
-        "index": 22,
-        "shop": "雙虹食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里中興路一段１２８巷１０號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "橘村屋食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五工五路３１號"
-    },
-    {
-        "index": 24,
-        "shop": "順益行銷有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里工商路８５巷１８弄１２號２樓"
-    },
-    {
-        "index": 25,
-        "shop": "壯元食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五工三路１１６巷１４號"
-    },
-    {
-        "index": 26,
-        "shop": "未來手感烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區成德里凌雲路一段６６號"
-    },
-    {
-        "index": 27,
-        "shop": "美食家點心坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區成州里西雲路２９０號"
-    },
-    {
-        "index": 28,
-        "shop": "喜來芳股份有限公司國祥食品分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五工路１４１號"
-    },
-    {
-        "index": 29,
-        "shop": "林政雍",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區民義里五福路２號（Ａ１４）"
-    },
-    {
-        "index": 30,
-        "shop": "賴明田",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區民義里五福路２號（Ａ１９）"
-    },
-    {
-        "index": 31,
-        "shop": "黃文煥",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區民義里五福路２號Ａ５０"
-    },
-    {
-        "index": 32,
-        "shop": "新北市慈育庇護工場",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路７巷６號之１"
-    },
-    {
-        "index": 33,
-        "shop": "新北市慈泰庇護工場",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路７巷８號１樓"
-    },
-    {
-        "index": 34,
-        "shop": "吉士達麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里工商路８５巷８號１樓"
+        "market_address": "新北市五股區興珍里中興路１段４６巷２５號",
+        "pay_list": [
+            "街口"
+        ]
     }
 ]

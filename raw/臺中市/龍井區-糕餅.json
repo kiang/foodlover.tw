@@ -1,28 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "九宮酪二吋創意甜點",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里新興路１巷２號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "曼菓企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里工業路１０７巷１５號１樓"
-    },
-    {
-        "index": 3,
         "shop": "沐軒烘焙坊",
         "category": [
             "糕餅"
@@ -30,10 +8,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區龍津里中央路１段１３７號１樓"
+        "market_address": "臺中市龍井區龍津里中央路１段１３７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 4,
+        "index": 2,
         "shop": "樂典甜坊",
         "category": [
             "糕餅"
@@ -41,120 +22,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新庄里學園路６－２號１樓"
+        "market_address": "臺中市龍井區新庄里學園路６－２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 5,
-        "shop": "郁麒微創企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里工業路１０５號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "泉香珍餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍泉里沙田路五段２１１號"
-    },
-    {
-        "index": 7,
-        "shop": "東佳食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里５鄰新興路３巷２號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "震宇食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里高園路１９６號１樓"
-    },
-    {
-        "index": 9,
-        "shop": "風土城堡烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍津里中央路１段１３７號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "韻馳企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里工業路１０７巷１５號１樓"
-    },
-    {
-        "index": 11,
-        "shop": "蓓可力烘焙屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區山腳里１６鄰沙田路６段２８９號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "奇畝烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區田中里龍北路１７７號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "廷好烘培坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里臺灣大道５段３巷４６號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "馥藝烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里國際街１７５號１樓"
-    },
-    {
-        "index": 15,
+        "index": 3,
         "shop": "哞哞屋烘焙食品",
         "category": [
             "糕餅"
@@ -162,10 +36,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新東里６鄰新興路東興巷４０號１樓"
+        "market_address": "臺中市龍井區新東里６鄰新興路東興巷４０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 16,
+        "index": 4,
         "shop": "騰懿食品行",
         "category": [
             "糕餅"
@@ -173,109 +50,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區山腳里０１３鄰沙田路６段１２８號"
+        "market_address": "臺中市龍井區山腳里０１３鄰沙田路６段１２８號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 17,
-        "shop": "康泉烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里００９鄰國際街１３６號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "新寶食品工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里１５鄰台西南路２５６巷３０弄２號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "百昱淑甲宇春食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區三德里中央路２段１１２號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "美佳食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍津里中圳路４２７號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "葡萄樹食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里００２鄰臺灣大道五段３巷３５，３７號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "點心魔法師股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里藝術街４２號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "岳欣工業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區忠和里１４鄰台西南路２５１巷３５號"
-    },
-    {
-        "index": 24,
-        "shop": "禾津國際有限公司東海營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里都會南街７號"
-    },
-    {
-        "index": 25,
-        "shop": "頤品貿易有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍泉里龍社二街２８號１樓"
-    },
-    {
-        "index": 26,
+        "index": 5,
         "shop": "美式口食品有限公司",
         "category": [
             "糕餅"
@@ -283,43 +65,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新東里２１鄰遊園南路３１７號１樓"
+        "market_address": "臺中市龍井區新東里２１鄰遊園南路３１７號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 27,
-        "shop": "葡萄樹食品股份有限公司新興分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里新興路４１－１號１樓"
-    },
-    {
-        "index": 28,
-        "shop": "陽光菓子食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區三德里００７鄰中央路２段１６２號"
-    },
-    {
-        "index": 29,
-        "shop": "烘焙喵．研究所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍泉里南社路２段１０１號１樓"
-    },
-    {
-        "index": 30,
+        "index": 6,
         "shop": "惡魔家",
         "category": [
             "糕餅",
@@ -328,51 +81,9 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "吉美西點麪包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里８鄰國際街１６９號"
-    },
-    {
-        "index": 32,
-        "shop": "熱蘭遮城雜貨店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區東海里藝術街６２號"
-    },
-    {
-        "index": 33,
-        "shop": "英格蘭西點麵包",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區龍津里中央路１段１８１號"
-    },
-    {
-        "index": 34,
-        "shop": "晶美食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "龍井區",
-        "market_address": "臺中市龍井區新東里１３鄰新興路５７―２號"
+        "market_address": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號１樓",
+        "pay_list": [
+            "街口"
+        ]
     }
 ]

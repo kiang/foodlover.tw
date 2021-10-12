@@ -1,217 +1,37 @@
 [
     {
         "index": 1,
-        "shop": "艾蒂爾精緻生活館",
+        "shop": "天天賺商行",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里斗中路１段１１５號"
+        "market_address": "彰化縣田中鎮南路里中州路一段２８９號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
     },
     {
         "index": 2,
-        "shop": "天天賺商行",
+        "shop": "潭大吉商行",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "田中鎮",
-        "market_address": "彰化縣田中鎮南路里中州路一段２８９號"
+        "market_address": "彰化縣田中鎮西路里中正路４４７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
         "index": 3,
-        "shop": "潭大吉商行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里中正路４４７號"
-    },
-    {
-        "index": 4,
-        "shop": "雅米食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮北路里新福路３號"
-    },
-    {
-        "index": 5,
-        "shop": "晨芸小舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮中路里福安路３５號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "撿便宜零食小舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮梅州里中州路一段３８０號１樓"
-    },
-    {
-        "index": 7,
-        "shop": "英雄本舖烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮三民里斗中路２段２３０巷１１３弄３８號"
-    },
-    {
-        "index": 8,
-        "shop": "祥福餅行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮東路里復興路７９９號１樓"
-    },
-    {
-        "index": 9,
-        "shop": "巧鑫商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮新庄里中山街２１３巷３號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "今日屋商號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮中路里中州路１段６４號"
-    },
-    {
-        "index": 11,
-        "shop": "新幸福糖菓行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里員集路二段４１３號１號"
-    },
-    {
-        "index": 12,
-        "shop": "吉田餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里員集路２段４０５號"
-    },
-    {
-        "index": 13,
-        "shop": "玉瑤餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮碧峰里中南路２段５９１號"
-    },
-    {
-        "index": 14,
-        "shop": "香草布里烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里員集路二段４３９號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "奇皇麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里３鄰中正路臨３５５號１樓"
-    },
-    {
-        "index": 16,
-        "shop": "饌第一食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮北路里復興路４９５號１樓"
-    },
-    {
-        "index": 17,
-        "shop": "千巧谷牛樂園有限公司田中門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮北路里復興路７２６號"
-    },
-    {
-        "index": 18,
-        "shop": "正福堂國際食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮大崙里大安路二段３１６巷１２３號"
-    },
-    {
-        "index": 19,
-        "shop": "進發環球有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮三民里斗中路２段７３９號"
-    },
-    {
-        "index": 20,
         "shop": "耶呷呷食品有限公司",
         "category": [
             "糕餅"
@@ -219,84 +39,28 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "田中鎮",
-        "market_address": "彰化縣田中鎮三安里同安路３３１巷９５號１樓"
+        "market_address": "彰化縣田中鎮三安里同安路３３１巷９５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 21,
+        "index": 4,
         "shop": "城原堂商行",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里斗中路一段１０６號１樓、１０８號１、２樓"
-    },
-    {
-        "index": 22,
-        "shop": "進發環球有限公司高鐵田中分公司",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "田中鎮",
-        "market_address": "彰化縣田中鎮龍潭里站區路二段９９號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "來發麵行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮北路里中山街２９１號"
-    },
-    {
-        "index": 24,
-        "shop": "聯發行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮東路里新生街２１１巷１８號"
-    },
-    {
-        "index": 25,
-        "shop": "昇東瀅商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮西路里建國路５２號１樓"
-    },
-    {
-        "index": 26,
-        "shop": "進發食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮三光里２鄰民光路１段３９０巷２２３弄３５之１號"
-    },
-    {
-        "index": 27,
-        "shop": "泉發製麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田中鎮",
-        "market_address": "彰化縣田中鎮三民里斗中路２段５４６巷８０號"
+        "market_address": "彰化縣田中鎮西路里斗中路一段１０６號１樓、１０８號１、２樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     }
 ]

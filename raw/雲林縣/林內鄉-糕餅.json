@@ -1,61 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "昭榮食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉重興村重興１４２之７號"
-    },
-    {
-        "index": 2,
-        "shop": "鮮點烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉林中村２２鄰中西路１５號１樓"
-    },
-    {
-        "index": 3,
-        "shop": "長興餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉林中村中正路１２８號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "阿益雞蛋糕烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉烏麻村０１５鄰長源路５５號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "昶青食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉烏塗村和興路８號"
-    },
-    {
-        "index": 6,
         "shop": "教芋部商行",
         "category": [
             "糕餅"
@@ -63,10 +8,17 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "林內鄉",
-        "market_address": "雲林縣林內鄉烏塗村００１鄰鹽讚７８號"
+        "market_address": "雲林縣林內鄉烏塗村００１鄰鹽讚７８號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 7,
+        "index": 2,
         "shop": "永光餅行",
         "category": [
             "糕餅"
@@ -74,17 +26,14 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "林內鄉",
-        "market_address": "雲林縣林內鄉林南村中正路１８９號"
-    },
-    {
-        "index": 8,
-        "shop": "馨香脆科技手工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "林內鄉",
-        "market_address": "雲林縣林內鄉林中村中正路２６４號"
+        "market_address": "雲林縣林內鄉林南村中正路１８９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     }
 ]

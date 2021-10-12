@@ -1,28 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "康久菓子工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２５５巷６弄２號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "勁心企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區三和里春亭二街１５號１樓"
-    },
-    {
-        "index": 3,
         "shop": "大雅芳烘焙坊",
         "category": [
             "糕餅"
@@ -30,22 +8,28 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區二和里學府路９６號１樓"
+        "market_address": "臺中市大雅區二和里學府路９６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 4,
+        "index": 2,
         "shop": "豆爭青咖啡",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里中清東路２７１號１樓"
+        "market_address": "臺中市大雅區大雅里中清東路２７１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 5,
+        "index": 3,
         "shop": "福久菓子坊",
         "category": [
             "糕餅"
@@ -53,198 +37,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大楓里雅楓街９９巷１弄２號１樓"
+        "market_address": "臺中市大雅區大楓里雅楓街９９巷１弄２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 6,
-        "shop": "怡香齋壽桃壽麵專賣店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里１５鄰中清路３段１１７６號"
-    },
-    {
-        "index": 7,
-        "shop": "蕾莉莎洋菓子",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里學府路３４０號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "聯豐食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里９鄰神林南路２１巷１４號２樓"
-    },
-    {
-        "index": 9,
-        "shop": "歐迪麵包工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里學府路２５０巷１０４號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "福爾摩莎麵包食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區雅楓里１２鄰神林南路１４３號１樓、１４５號１樓、１４７號１樓"
-    },
-    {
-        "index": 11,
-        "shop": "佳家食品廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區員林里中清路四段１８２巷９９號"
-    },
-    {
-        "index": 12,
-        "shop": "雅徠屋素食麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里大雅路７３號"
-    },
-    {
-        "index": 13,
-        "shop": "品悅麵包屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區三和里雅潭路４段１０２號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "國翔食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里中山三路８號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "欣夏法式手創烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２９７巷２號"
-    },
-    {
-        "index": 16,
-        "shop": "昱順生物科技股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區二和里０１９鄰雅潭路四段６６０號７樓之２"
-    },
-    {
-        "index": 17,
-        "shop": "鄭紀食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區四德里龍善三街１７號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "正瀚生技股份有限公司風味研究咖啡館",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里中科路６－５號"
-    },
-    {
-        "index": 19,
-        "shop": "先麥食品股份有限公司大雅門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區四德里１７鄰中山十一路７９號"
-    },
-    {
-        "index": 20,
-        "shop": "九合食品貿易有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區二和里神林南路２５２巷１１號２樓"
-    },
-    {
-        "index": 21,
-        "shop": "高渼有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路４段３０１號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "嘉豐利食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２７６號１樓"
-    },
-    {
-        "index": 23,
+        "index": 4,
         "shop": "芊宏有限公司",
         "category": [
             "糕餅"
@@ -252,21 +51,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里振興路２００號"
+        "market_address": "臺中市大雅區橫山里振興路２００號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 24,
-        "shop": "巨豐實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區雅楓里１鄰民生路３段１３６巷１０―１號１樓"
-    },
-    {
-        "index": 25,
+        "index": 5,
         "shop": "艾斐爾時尚咖啡烘焙有限公司",
         "category": [
             "糕餅"
@@ -274,32 +65,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里雅環路２段１０３號１樓"
+        "market_address": "臺中市大雅區大雅里雅環路２段１０３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 26,
-        "shop": "康久菓子工坊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里１３鄰民生路１段４２號"
-    },
-    {
-        "index": 27,
-        "shop": "麗寶國際餐飲事業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區雅楓里民生路三段３６北巷２９號"
-    },
-    {
-        "index": 28,
+        "index": 6,
         "shop": "蕾莉莎有限公司",
         "category": [
             "糕餅"
@@ -307,176 +80,30 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里學府路３４０號１樓"
+        "market_address": "臺中市大雅區大雅里學府路３４０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 29,
-        "shop": "元寶軒食品有限公司",
+        "index": 7,
+        "shop": "正瀚生技股份有限公司風味研究咖啡館",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區二和里１９鄰雅潭路４段６６６號９樓之３"
+        "market_address": "臺中市大雅區橫山里中科路６－５號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 30,
-        "shop": "富康農場食品生技有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里５鄰振興六路２８號"
-    },
-    {
-        "index": 31,
-        "shop": "梓豪食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里大雅路１５８－６號１樓"
-    },
-    {
-        "index": 32,
-        "shop": "皇膳實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里１９鄰學府路３２７號２樓"
-    },
-    {
-        "index": 33,
-        "shop": "美又美食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里中山路９６號"
-    },
-    {
-        "index": 34,
-        "shop": "家錦行有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路３段３４５巷２１號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "富裕順企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里振興路２００號"
-    },
-    {
-        "index": 36,
-        "shop": "尚亞麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里中清路３段１２１０號"
-    },
-    {
-        "index": 37,
-        "shop": "美味達人股份有限公司大雅分公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里學府路３８２號１樓"
-    },
-    {
-        "index": 38,
-        "shop": "台灣伊莎貝爾食品股份有限公司台中分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區四德里中清路３段７３５號"
-    },
-    {
-        "index": 39,
-        "shop": "宏亞食品股份有限公司台中營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區三和里龍善三街１３７號"
-    },
-    {
-        "index": 40,
-        "shop": "豐裕製麵食品廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里大雅路５０―３號Ａ０１５攤"
-    },
-    {
-        "index": 41,
-        "shop": "又新商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區西寶里昌平路４段２８２巷３６號２樓"
-    },
-    {
-        "index": 42,
-        "shop": "群溢商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區西寶里雅潭路３段６００號旁"
-    },
-    {
-        "index": 43,
-        "shop": "小禮糖企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里大榮街１４９號１樓"
-    },
-    {
-        "index": 44,
+        "index": 8,
         "shop": "婕婕複合式咖啡",
         "category": [
             "糕餅",
@@ -485,116 +112,25 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路３段３１３巷４５號"
+        "market_address": "臺中市大雅區上楓里民生路３段３１３巷４５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 45,
-        "shop": "禾悅麵包",
+        "index": 9,
+        "shop": "美味達人股份有限公司大雅分公司",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里學府路２８８號騎樓"
-    },
-    {
-        "index": 46,
-        "shop": "法式吉祥福手工餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區六寶里和平路７１號１樓"
-    },
-    {
-        "index": 47,
-        "shop": "福樂餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里中清東路１７６號"
-    },
-    {
-        "index": 48,
-        "shop": "美吉麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里０２０鄰學府路２６９號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "雅興商店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里大雅路５２號"
-    },
-    {
-        "index": 50,
-        "shop": "張正雄",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區忠義里月祥路３６２之４號騎樓"
-    },
-    {
-        "index": 51,
-        "shop": "鄉城麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里民生路１段６６－６攤位"
-    },
-    {
-        "index": 52,
-        "shop": "陳明源",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路４段２２９之１號旁"
-    },
-    {
-        "index": 53,
-        "shop": "藍李拋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路４段２２９－１號旁"
-    },
-    {
-        "index": 54,
-        "shop": "味樂食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區西寶里昌平路４段７６號"
+        "market_address": "臺中市大雅區上雅里學府路３８２號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     }
 ]

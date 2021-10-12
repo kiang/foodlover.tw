@@ -2,10 +2,15 @@
     {
         "index": 1,
         "shop": "萬國通路創意觀光工廠",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "歸仁區",
-        "market_address": "台南市歸仁區中正南路二段1號"
+        "market_address": "台南市歸仁區中正南路二段1號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

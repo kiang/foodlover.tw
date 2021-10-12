@@ -1,72 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "伯特音樂餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９０－３號"
-    },
-    {
-        "index": 2,
-        "shop": "正宗廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９２－２１號"
-    },
-    {
-        "index": 3,
-        "shop": "鑫鑫冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路５６之８９號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "煊一堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村山腳路１４２之３９號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "普克益企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路１段１７８巷２６號"
-    },
-    {
-        "index": 6,
-        "shop": "涼品商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段２７８號"
-    },
-    {
-        "index": 7,
         "shop": "虎豆咖啡館",
         "category": [
             "餐飲"
@@ -74,10 +8,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路４７－２１號"
+        "market_address": "彰化縣大村鄉黃厝村山腳路４７－２１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 8,
+        "index": 2,
         "shop": "小麥中山店",
         "category": [
             "餐飲"
@@ -85,10 +22,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路二段３１９號"
+        "market_address": "彰化縣大村鄉村上村中山路二段３１９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 9,
+        "index": 3,
         "shop": "阿明排餐店",
         "category": [
             "餐飲"
@@ -96,10 +36,14 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村００４鄰中山路二段臨３２７號"
+        "market_address": "彰化縣大村鄉村上村００４鄰中山路二段臨３２７號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 10,
+        "index": 4,
         "shop": "芳藝商行",
         "category": [
             "餐飲"
@@ -107,110 +51,16 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村村上村４鄰中山路二段２９１號１樓"
+        "market_address": "彰化縣大村鄉村上村村上村４鄰中山路二段２９１號１樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 11,
-        "shop": "華成活海鮮店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路１段１５５之２號"
-    },
-    {
-        "index": 12,
-        "shop": "珍香廉自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大橋村慶安路１７３號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "京軒串物店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村７鄰山腳路７６―１３號"
-    },
-    {
-        "index": 14,
-        "shop": "壹陸捌快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正東路１１３號"
-    },
-    {
-        "index": 15,
-        "shop": "明傑商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路二段２５４號"
-    },
-    {
-        "index": 16,
-        "shop": "臻臻好早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村０１４鄰茄苳路一段１７９巷８號"
-    },
-    {
-        "index": 17,
-        "shop": "現炒飯麵飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村００３鄰山腳路臨４６－２１號"
-    },
-    {
-        "index": 18,
-        "shop": "好姐妹越南美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大仁路一段臨４９號"
-    },
-    {
-        "index": 19,
-        "shop": "鈺程行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村０１９鄰大仁路一段１２－１號"
-    },
-    {
-        "index": 20,
+        "index": 5,
         "shop": "鴻富麵食館",
         "category": [
             "餐飲"
@@ -218,65 +68,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村００１鄰大仁路一段５８號"
+        "market_address": "彰化縣大村鄉大村村００１鄰大仁路一段５８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 21,
-        "shop": "八八八小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村中山路一段９３號"
-    },
-    {
-        "index": 22,
-        "shop": "樸實企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路９２―１３號"
-    },
-    {
-        "index": 23,
-        "shop": "歐嗨喲早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山脚路４２―４號"
-    },
-    {
-        "index": 24,
-        "shop": "耕心軒咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村００４鄰中正東路３０２號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "大村活力茄苳早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路一段２９號"
-    },
-    {
-        "index": 26,
+        "index": 6,
         "shop": "珍旺小吃店",
         "category": [
             "餐飲"
@@ -284,54 +82,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路二段３１９、３２１號"
+        "market_address": "彰化縣大村鄉村上村中山路二段３１９、３２１號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 27,
-        "shop": "喜祥旺商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路一段１７號"
-    },
-    {
-        "index": 28,
-        "shop": "大仁食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村６鄰山腳路９４－９號"
-    },
-    {
-        "index": 29,
-        "shop": "弁太郎飯食工坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村忠孝街７８號"
-    },
-    {
-        "index": 30,
-        "shop": "勝瑚五十師傅小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村南勢巷３―３７號"
-    },
-    {
-        "index": 31,
+        "index": 7,
         "shop": "鴻駿咖啡館",
         "category": [
             "餐飲"
@@ -339,32 +96,16 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路８６號１樓"
+        "market_address": "彰化縣大村鄉福興村山脚路８６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 32,
-        "shop": "帝篁商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村中正西路２９４號"
-    },
-    {
-        "index": 33,
-        "shop": "古傳紅茶冰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９０―１２號"
-    },
-    {
-        "index": 34,
+        "index": 8,
         "shop": "榮得發麵食館",
         "category": [
             "餐飲"
@@ -372,10 +113,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村１１鄰山腳路７６―１１號"
+        "market_address": "彰化縣大村鄉福興村１１鄰山腳路７６―１１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 35,
+        "index": 9,
         "shop": "學府餐廳",
         "category": [
             "餐飲"
@@ -383,76 +127,13 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號活動中心"
+        "market_address": "彰化縣大村鄉福興村學府路１６８號活動中心",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 36,
-        "shop": "味珍自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大溪路１０號"
-    },
-    {
-        "index": 37,
-        "shop": "德味自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路７５―６號"
-    },
-    {
-        "index": 38,
-        "shop": "怡園速食簡餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村中正西路３５０號"
-    },
-    {
-        "index": 39,
-        "shop": "富貴園冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村中山路１段７９號"
-    },
-    {
-        "index": 40,
-        "shop": "劍門生態花果園休閒農場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉茄苳村茄苳路２段１４３巷７２號"
-    },
-    {
-        "index": 41,
-        "shop": "格林通咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路６號"
-    },
-    {
-        "index": 42,
+        "index": 10,
         "shop": "禾風館",
         "category": [
             "餐飲"
@@ -460,750 +141,18 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村１鄰大仁路１段１１４號"
-    },
-    {
-        "index": 43,
-        "shop": "台灣好客事業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村美港路６７號"
-    },
-    {
-        "index": 44,
-        "shop": "虎拉撒有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉過溝村櫻花路１５５號１樓"
-    },
-    {
-        "index": 45,
-        "shop": "東昇顧問有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉新興村大溪路３１號"
-    },
-    {
-        "index": 46,
-        "shop": "禾漾堂茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村００８鄰中山路二段２４４―２號"
-    },
-    {
-        "index": 47,
-        "shop": "育德飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大仁路一段１０２號"
-    },
-    {
-        "index": 48,
-        "shop": "進昌烘焙館",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村中正東路２６９巷２７１弄２５２號"
-    },
-    {
-        "index": 49,
-        "shop": "當歸鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村１２鄰中山路２段２６０號"
-    },
-    {
-        "index": 50,
-        "shop": "佳口味小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路２５號"
-    },
-    {
-        "index": 51,
-        "shop": "中林早點",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村４鄰中正西路２１號"
-    },
-    {
-        "index": 52,
-        "shop": "拼粗飽小吃部",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村４鄰中正西路２９號"
-    },
-    {
-        "index": 53,
-        "shop": "張嘉祥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村山腳路１２６―７號"
-    },
-    {
-        "index": 54,
-        "shop": "瑞麟美而美平和店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村５鄰山腳路１２６―８號"
-    },
-    {
-        "index": 55,
-        "shop": "穙食雞蛋糕大村店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大仁路一段臨１２５號（清心福全大仁店對面）"
-    },
-    {
-        "index": 56,
-        "shop": "陳巧容",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村中正西路３５２號"
-    },
-    {
-        "index": 57,
-        "shop": "第一担担仔麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村中山路一段９８號"
-    },
-    {
-        "index": 58,
-        "shop": "泰國小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉過溝村櫻花路７６巷１４號"
-    },
-    {
-        "index": 59,
-        "shop": "小妍飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉擺塘村中正西路９９號"
-    },
-    {
-        "index": 60,
-        "shop": "大頭仔炸雞專賣",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大仁路一段１４８號"
-    },
-    {
-        "index": 61,
-        "shop": "暉一炒飯小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正東路５７號１樓"
-    },
-    {
-        "index": 62,
-        "shop": "上鼎自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路３４號之１１旁"
-    },
-    {
-        "index": 63,
-        "shop": "微笑創意行銷企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路２７號"
-    },
-    {
-        "index": 64,
-        "shop": "工學自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ１４３"
-    },
-    {
-        "index": 65,
-        "shop": "工學異國饌",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ００１－３"
-    },
-    {
-        "index": 66,
-        "shop": "學府快餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｊ１０１－１"
-    },
-    {
-        "index": 67,
-        "shop": "學府滷肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｊ１０１－４"
-    },
-    {
-        "index": 68,
-        "shop": "洪樹生",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉貢旗村大崙路６－６號"
-    },
-    {
-        "index": 69,
-        "shop": "陳奕廷",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村００４鄰中山路二段２９７號"
-    },
-    {
-        "index": 70,
-        "shop": "米珍香自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村０１９鄰大仁路一段６８號"
-    },
-    {
-        "index": 71,
-        "shop": "陳秀玲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉擺塘村擺塘巷１３－４號"
-    },
-    {
-        "index": 72,
-        "shop": "金鼎自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村仁愛街臨１２９號"
-    },
-    {
-        "index": 73,
-        "shop": "池世玉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉新興村新興巷４－５號對面"
-    },
-    {
-        "index": 74,
-        "shop": "工學水膳坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ１４３－１"
-    },
-    {
-        "index": 75,
-        "shop": "工學魷魚粳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ１４３－２"
-    },
-    {
-        "index": 76,
-        "shop": "學府鍋貼",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｊ１０１－６"
-    },
-    {
-        "index": 77,
-        "shop": "學府水膳坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｊ１０１－７"
-    },
-    {
-        "index": 78,
-        "shop": "學府鍋燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｊ１０１－３"
-    },
-    {
-        "index": 79,
-        "shop": "早安美芝城大村活力中正東",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路１０９―４號"
-    },
-    {
-        "index": 80,
-        "shop": "心口福脆皮雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路９２―１２號"
-    },
-    {
-        "index": 81,
-        "shop": "福餐自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路９號"
-    },
-    {
-        "index": 82,
-        "shop": "瘋味便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村００１鄰大仁路一段１３０號"
-    },
-    {
-        "index": 83,
-        "shop": "珍媽雲爸炒飯屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路５６之１２號"
-    },
-    {
-        "index": 84,
-        "shop": "阿旺小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路６９－１４號"
-    },
-    {
-        "index": 85,
-        "shop": "吉利便餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路４６號"
-    },
-    {
-        "index": 86,
-        "shop": "黃便當小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村００３鄰山腳路４６號之８"
-    },
-    {
-        "index": 87,
-        "shop": "越南小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村００１鄰中正東路２８０―８號對面"
-    },
-    {
-        "index": 88,
-        "shop": "小馬吉手調茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路一段５號"
-    },
-    {
-        "index": 89,
-        "shop": "小馬吉鮮打果汁",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路３５－１號"
-    },
-    {
-        "index": 90,
-        "shop": "丸春茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村中正西路３８３號"
-    },
-    {
-        "index": 91,
-        "shop": "洪莉萍",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大溪路２－３號"
-    },
-    {
-        "index": 92,
-        "shop": "積利古早味飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路８１號"
-    },
-    {
-        "index": 93,
-        "shop": "復刻味茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路二段２４４―３號"
-    },
-    {
-        "index": 94,
-        "shop": "正泰美食小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村中山路一段１２４－１號"
-    },
-    {
-        "index": 95,
-        "shop": "泰鄉味便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村００９鄰美港橫巷４―６號"
-    },
-    {
-        "index": 96,
-        "shop": "黃葉翠英",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉新興村大溪路２６之２號（騎樓）"
-    },
-    {
-        "index": 97,
-        "shop": "李曜任",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路６８―３號"
-    },
-    {
-        "index": 98,
-        "shop": "拉亞漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９０―７號一樓"
-    },
-    {
-        "index": 99,
-        "shop": "弘誼小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路二段２６８號"
-    },
-    {
-        "index": 100,
-        "shop": "大葉早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路７６―８號"
-    },
-    {
-        "index": 101,
-        "shop": "８０號廚坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路８０號"
-    },
-    {
-        "index": 102,
-        "shop": "正群豬腳爌肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大橋村１０鄰過溝三巷４５―２號"
-    },
-    {
-        "index": 103,
-        "shop": "長益鍋貼專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路１０５號"
-    },
-    {
-        "index": 104,
-        "shop": "山腳冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村９鄰山腳路１０９―６號"
-    },
-    {
-        "index": 105,
-        "shop": "美港美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村中山路１段１５４號"
-    },
-    {
-        "index": 106,
-        "shop": "長記港式燒臘快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村茄苳路１段１２６號"
-    },
-    {
-        "index": 107,
-        "shop": "大眾素食自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段３０９號１樓"
-    },
-    {
-        "index": 108,
-        "shop": "鄉村快炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大橋村過溝３巷５０―４號"
-    },
-    {
-        "index": 109,
-        "shop": "台大牛肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段臨２９８－５號"
-    },
-    {
-        "index": 110,
+        "market_address": "彰化縣大村鄉大村村１鄰大仁路１段１１４號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "淳喜茶舖",
         "category": [
             "餐飲"
@@ -1211,87 +160,48 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路７６－１３號１樓"
+        "market_address": "彰化縣大村鄉福興村山腳路７６－１３號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
     },
     {
-        "index": 111,
-        "shop": "吳啓瑤",
+        "index": 12,
+        "shop": "台灣好客事業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉加錫村加錫二巷３號左邊"
+        "market_address": "彰化縣大村鄉美港村美港路６７號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 112,
-        "shop": "豐禾食坊",
+        "index": 13,
+        "shop": "山腳冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路８９―１２號"
+        "market_address": "彰化縣大村鄉福興村９鄰山腳路１０９―６號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 113,
-        "shop": "余坤騰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村６鄰山腳路９４―６號"
-    },
-    {
-        "index": 114,
-        "shop": "村東早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路臨９１之５號"
-    },
-    {
-        "index": 115,
-        "shop": "唐訓聰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路５６―７號"
-    },
-    {
-        "index": 116,
-        "shop": "黃永承",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路６８―３號"
-    },
-    {
-        "index": 117,
-        "shop": "李綉茹",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村１２鄰山脚路７５―１號"
-    },
-    {
-        "index": 118,
+        "index": 14,
         "shop": "桂日式料理",
         "category": [
             "餐飲"
@@ -1299,427 +209,76 @@
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路８７號旁"
+        "market_address": "彰化縣大村鄉福興村山腳路８７號旁",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 119,
-        "shop": "嘟嘟現炒",
+        "index": 15,
+        "shop": "工學魷魚粳",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路８０―２號"
+        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ１４３－２",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 120,
-        "shop": "食神滷味大葉店",
+        "index": 16,
+        "shop": "禾漾堂茶舖",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路９２―１１號"
+        "market_address": "彰化縣大村鄉村上村００８鄰中山路二段２４４―２號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 121,
-        "shop": "漢堡大師大葉店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９０―９號"
-    },
-    {
-        "index": 122,
-        "shop": "張雅捷",
+        "index": 17,
+        "shop": "工學水膳坊",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路９２―１３號"
+        "market_address": "彰化縣大村鄉福興村學府路１６８號Ｈ１４３－１",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 123,
-        "shop": "三媽臭臭鍋（大村店）",
+        "index": 18,
+        "shop": "育德飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段３１５號"
-    },
-    {
-        "index": 124,
-        "shop": "早食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村１１鄰山腳路７６―２號"
-    },
-    {
-        "index": 125,
-        "shop": "張淑真",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路７７－４２號"
-    },
-    {
-        "index": 126,
-        "shop": "池麗霞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村１鄰中正西路３８６號"
-    },
-    {
-        "index": 127,
-        "shop": "桔熊飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中正西路１５號"
-    },
-    {
-        "index": 128,
-        "shop": "賴勝利",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村１鄰中正西路３５３號"
-    },
-    {
-        "index": 129,
-        "shop": "吳張素貞",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村４鄰大溪路４０－８號"
-    },
-    {
-        "index": 130,
-        "shop": "三好蒸餃牛肉麵店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村美港路３號"
-    },
-    {
-        "index": 131,
-        "shop": "味芳餐館",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路７５－２號"
-    },
-    {
-        "index": 132,
-        "shop": "美又美早餐",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路５６號"
-    },
-    {
-        "index": 133,
-        "shop": "嫈玥現炒小吃",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村山腳路５６號"
-    },
-    {
-        "index": 134,
-        "shop": "顧勗川",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路９１－３號"
-    },
-    {
-        "index": 135,
-        "shop": "美食城早餐",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村３鄰茄苳路１段２３號"
-    },
-    {
-        "index": 136,
-        "shop": "劉嘉慧",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉黃厝村美港路３５５號前"
-    },
-    {
-        "index": 137,
-        "shop": "平和早餐店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉平和村山脚路１２６號"
-    },
-    {
-        "index": 138,
-        "shop": "瑪爾大牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山脚路６９號"
-    },
-    {
-        "index": 139,
-        "shop": "竹明軒餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路６９號"
-    },
-    {
-        "index": 140,
-        "shop": "好記自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉過溝村中正西路１５３號"
-    },
-    {
-        "index": 141,
-        "shop": "台北羊肉??店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村大溪路２之１號"
-    },
-    {
-        "index": 142,
-        "shop": "佳佳快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村４鄰山脚路８９―７號"
-    },
-    {
-        "index": 143,
-        "shop": "禮發小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村３鄰山脚路８９―９號"
-    },
-    {
-        "index": 144,
-        "shop": "向日葵小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路７５號"
-    },
-    {
-        "index": 145,
-        "shop": "李師傅排骨大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段２９８號"
-    },
-    {
-        "index": 146,
-        "shop": "新芳自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉過溝村中山路２段３３０號"
-    },
-    {
-        "index": 147,
-        "shop": "美滋滋早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村山腳路臨７５－１０號"
-    },
-    {
-        "index": 148,
-        "shop": "老夫子水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村１１鄰中山路１段１５２號"
-    },
-    {
-        "index": 149,
-        "shop": "倍利早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉美港村１鄰中山路１段３２號"
-    },
-    {
-        "index": 150,
-        "shop": "溫雅婷",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村１鄰中正西路３４８號"
-    },
-    {
-        "index": 151,
-        "shop": "阿六泰國小吃店",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村中山路２段１０５號"
-    },
-    {
-        "index": 152,
-        "shop": "許浚豪",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉福興村５鄰山腳路８６號"
-    },
-    {
-        "index": 153,
-        "shop": "育麥飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉村上村８鄰中山路２段２４４－５號１樓"
-    },
-    {
-        "index": 154,
-        "shop": "曹慧珠",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大村村３鄰茄苳路１段２７號"
-    },
-    {
-        "index": 155,
-        "shop": "員明素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "大村鄉",
-        "market_address": "彰化縣大村鄉大橋村中山路３段１００號"
+        "market_address": "彰化縣大村鄉大村村大仁路一段１０２號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     }
 ]

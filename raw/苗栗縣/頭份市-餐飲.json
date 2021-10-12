@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "食侑飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里２９鄰建國路７９號"
-    },
-    {
-        "index": 2,
         "shop": "柏睿小吃店",
         "category": [
             "餐飲"
@@ -19,43 +8,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里１鄰中華路９８９號１樓"
+        "market_address": "苗栗縣頭份市民族里１鄰中華路９８９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 3,
-        "shop": "新食代廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里７鄰中華路９８２號"
-    },
-    {
-        "index": 4,
-        "shop": "黑白切小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰中央路２９號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "瑞盛自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里３鄰中正一路４７７號"
-    },
-    {
-        "index": 6,
+        "index": 2,
         "shop": "金順園川菜館",
         "category": [
             "餐飲"
@@ -63,43 +23,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里００４鄰協和街５２號"
+        "market_address": "苗栗縣頭份市民權里００４鄰協和街５２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 7,
-        "shop": "米堤咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里９鄰和平路５６巷４號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "旺好快餐小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里１０鄰中正二路２００號"
-    },
-    {
-        "index": 9,
-        "shop": "大新包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１２鄰中正路２７０號"
-    },
-    {
-        "index": 10,
+        "index": 3,
         "shop": "瑞升商行",
         "category": [
             "餐飲"
@@ -107,87 +37,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１４鄰文化街１５５號"
+        "market_address": "苗栗縣頭份市文化里１４鄰文化街１５５號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 11,
-        "shop": "順麗茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００８鄰八德二路３００號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "歐普拉創意工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖下里００７鄰尖下１２５號"
-    },
-    {
-        "index": 13,
-        "shop": "幸福食堂便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市上埔里０１８鄰興隆路５０５號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "巧秝早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里０１２鄰民族路２８０號"
-    },
-    {
-        "index": 15,
-        "shop": "家齊企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１１鄰忠孝一路３９號"
-    },
-    {
-        "index": 16,
-        "shop": "好一町商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰昌隆一街３００號"
-    },
-    {
-        "index": 17,
-        "shop": "睿陞冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２０３號１樓"
-    },
-    {
-        "index": 18,
+        "index": 4,
         "shop": "后拾食舖",
         "category": [
             "餐飲"
@@ -195,21 +53,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里１５鄰復興街１２１號１樓"
+        "market_address": "苗栗縣頭份市後庄里１５鄰復興街１２１號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 19,
-        "shop": "穀掌米時企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１３鄰翠亨路１０９號一樓"
-    },
-    {
-        "index": 20,
+        "index": 5,
         "shop": "後花園會所",
         "category": [
             "餐飲"
@@ -217,43 +67,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里０２０鄰花園東路７５號３樓"
+        "market_address": "苗栗縣頭份市興隆里０２０鄰花園東路７５號３樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 21,
-        "shop": "妍毅暖心亭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００８鄰中正路１９８號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "俐好早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里０１９鄰永康街１９號"
-    },
-    {
-        "index": 23,
-        "shop": "鴻平商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００５鄰仁愛路３９號１樓"
-    },
-    {
-        "index": 24,
+        "index": 6,
         "shop": "禾木企業社",
         "category": [
             "餐飲"
@@ -261,10 +82,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰中央路９７號１樓"
+        "market_address": "苗栗縣頭份市東庄里１５鄰中央路９７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 25,
+        "index": 7,
         "shop": "永春豆漿",
         "category": [
             "餐飲"
@@ -272,10 +96,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２６９號１樓"
+        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２６９號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 26,
+        "index": 8,
         "shop": "妮妮咖啡",
         "category": [
             "餐飲"
@@ -283,21 +110,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１０鄰中華路１０３０號一樓"
+        "market_address": "苗栗縣頭份市自強里０１０鄰中華路１０３０號一樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 27,
-        "shop": "幹大事小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００６鄰建國路二段１６號"
-    },
-    {
-        "index": 28,
+        "index": 9,
         "shop": "三隻小豬食堂",
         "category": [
             "餐飲"
@@ -305,10 +124,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰富強二街１３號１樓"
+        "market_address": "苗栗縣頭份市東庄里６鄰富強二街１３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 29,
+        "index": 10,
         "shop": "瑞良商行",
         "category": [
             "餐飲"
@@ -316,10 +138,20 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１５鄰文化街２０５號"
+        "market_address": "苗栗縣頭份市文化里１５鄰文化街２０５號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 30,
+        "index": 11,
         "shop": "瑞盛客家米食",
         "category": [
             "餐飲"
@@ -327,120 +159,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里００２鄰中央路５９８號一樓"
+        "market_address": "苗栗縣頭份市合興里００２鄰中央路５９８號一樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 31,
-        "shop": "森思商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街１２號１樓"
-    },
-    {
-        "index": 32,
-        "shop": "梅村企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００８鄰信義路６８號１樓"
-    },
-    {
-        "index": 33,
-        "shop": "金牌好吃小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１２鄰建國路１３４號"
-    },
-    {
-        "index": 34,
-        "shop": "咖撐商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１６鄰自強路６號"
-    },
-    {
-        "index": 35,
-        "shop": "宗宏商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００７鄰文化街２１２號１樓"
-    },
-    {
-        "index": 36,
-        "shop": "秭晨餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里０１０鄰信義路５５０巷４３號"
-    },
-    {
-        "index": 37,
-        "shop": "口天魚鯛魚燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里００３鄰光華街１９巷８號"
-    },
-    {
-        "index": 38,
-        "shop": "私烤吐司早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里００６鄰信東路２９６號１樓"
-    },
-    {
-        "index": 39,
-        "shop": "食光餐盒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００４鄰中華路１０４７號"
-    },
-    {
-        "index": 40,
-        "shop": "仁傑企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰富強三街１２號１樓"
-    },
-    {
-        "index": 41,
+        "index": 12,
         "shop": "金發炸雞店",
         "category": [
             "餐飲"
@@ -448,44 +173,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００７鄰文化街２１０號１樓"
+        "market_address": "苗栗縣頭份市山下里００７鄰文化街２１０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 42,
-        "shop": "犇香牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里００３鄰仁愛路３０號"
-    },
-    {
-        "index": 43,
-        "shop": "岩町坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里７鄰東銀街８號５樓"
-    },
-    {
-        "index": 44,
-        "shop": "鳯凰食堂",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１３鄰建國路二段３００巷８號１１樓"
-    },
-    {
-        "index": 45,
+        "index": 13,
         "shop": "八村脆皮烤鴨店",
         "category": [
             "餐飲"
@@ -493,76 +188,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里００７鄰信東路３２０號１樓"
+        "market_address": "苗栗縣頭份市成功里００７鄰信東路３２０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 46,
-        "shop": "建國臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１８６號１樓"
-    },
-    {
-        "index": 47,
-        "shop": "一月初企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１４鄰建國路６６號１樓之１"
-    },
-    {
-        "index": 48,
-        "shop": "毅緯小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３１６號"
-    },
-    {
-        "index": 49,
-        "shop": "明欣廣式燒臘便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００９鄰中華路９６４號"
-    },
-    {
-        "index": 50,
-        "shop": "小綠咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街４６號１樓"
-    },
-    {
-        "index": 51,
-        "shop": "搞飛雞油雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街１５號"
-    },
-    {
-        "index": 52,
+        "index": 14,
         "shop": "歐德早餐",
         "category": [
             "餐飲"
@@ -570,32 +202,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰和平路４８號１樓"
+        "market_address": "苗栗縣頭份市信義里００９鄰和平路４８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 53,
-        "shop": "幸福早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里０２２鄰中正一路４０９號"
-    },
-    {
-        "index": 54,
-        "shop": "維新麵線站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里１０鄰維新路３７號"
-    },
-    {
-        "index": 55,
+        "index": 15,
         "shop": "上尊商行",
         "category": [
             "餐飲"
@@ -603,10 +217,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００８鄰中正路１９０號"
+        "market_address": "苗栗縣頭份市頭份里００８鄰中正路１９０號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 56,
+        "index": 16,
         "shop": "竹育商行",
         "category": [
             "餐飲"
@@ -614,10 +233,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路６３號１樓"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路６３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 57,
+        "index": 17,
         "shop": "茗蒞茶行",
         "category": [
             "餐飲"
@@ -625,10 +248,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街６號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 58,
+        "index": 18,
         "shop": "原點咖啡",
         "category": [
             "餐飲"
@@ -636,21 +266,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１８鄰忠孝二路１１５號"
+        "market_address": "苗栗縣頭份市成功里０１８鄰忠孝二路１１５號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 59,
-        "shop": "李記食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里信義路２６號"
-    },
-    {
-        "index": 60,
+        "index": 19,
         "shop": "匯東企業社",
         "category": [
             "餐飲"
@@ -658,32 +280,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街７號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街７號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 61,
-        "shop": "琴月行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路８５號"
-    },
-    {
-        "index": 62,
-        "shop": "永同商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里００６鄰中正路３５號１樓"
-    },
-    {
-        "index": 63,
+        "index": 20,
         "shop": "咕咚慶餐飲店",
         "category": [
             "餐飲"
@@ -691,43 +294,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里２１鄰公北二路１０３號"
+        "market_address": "苗栗縣頭份市後庄里２１鄰公北二路１０３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 64,
-        "shop": "嵐源商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰中正路１１６號１樓"
-    },
-    {
-        "index": 65,
-        "shop": "含笑食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１３鄰明新街７１號４樓"
-    },
-    {
-        "index": 66,
-        "shop": "古富德餐飲商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里０１０鄰民族路１１１號"
-    },
-    {
-        "index": 67,
+        "index": 21,
         "shop": "峰川堂",
         "category": [
             "餐飲"
@@ -735,21 +308,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１４鄰文化街２３１號１樓"
+        "market_address": "苗栗縣頭份市山下里０１４鄰文化街２３１號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 68,
-        "shop": "金玲熱炒餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里００２鄰東民路４６號"
-    },
-    {
-        "index": 69,
+        "index": 22,
         "shop": "謙有商行",
         "category": [
             "餐飲"
@@ -757,10 +328,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里０２１鄰光華北路１２號"
+        "market_address": "苗栗縣頭份市後庄里０２１鄰光華北路１２號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 70,
+        "index": 23,
         "shop": "芸芸咖啡館",
         "category": [
             "餐飲"
@@ -768,54 +345,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１３鄰建國路二段２９６號"
+        "market_address": "苗栗縣頭份市中興里１３鄰建國路二段２９６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 71,
-        "shop": "麵容餃好",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１６鄰建國路二段３３號"
-    },
-    {
-        "index": 72,
-        "shop": "阿文魯肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰富強三街２號"
-    },
-    {
-        "index": 73,
-        "shop": "水云僕人文食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路７１號"
-    },
-    {
-        "index": 74,
-        "shop": "凱旋門運動競技休閒咖啡廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００８鄰中華路９７８號２樓"
-    },
-    {
-        "index": 75,
+        "index": 24,
         "shop": "合寓堂",
         "category": [
             "餐飲"
@@ -823,10 +360,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里八德一路１５９號"
+        "market_address": "苗栗縣頭份市後庄里八德一路１５９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 76,
+        "index": 25,
         "shop": "星空音樂餐館",
         "category": [
             "餐飲"
@@ -834,21 +374,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里中央路３６５號"
+        "market_address": "苗栗縣頭份市蟠桃里中央路３６５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 77,
-        "shop": "錦華美味漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００６鄰錦華街７６號１樓"
-    },
-    {
-        "index": 78,
+        "index": 26,
         "shop": "品媞漢堡商店",
         "category": [
             "餐飲"
@@ -856,10 +388,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街２３號１樓"
+        "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街２３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 79,
+        "index": 27,
         "shop": "佳芳冰店",
         "category": [
             "餐飲"
@@ -867,21 +408,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１４鄰建國路二段２１６號１樓"
+        "market_address": "苗栗縣頭份市中興里１４鄰建國路二段２１６號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 80,
-        "shop": "芯婕複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里００４鄰興隆路一段４３９巷２７號"
-    },
-    {
-        "index": 81,
+        "index": 28,
         "shop": "瑞興企業社",
         "category": [
             "餐飲"
@@ -889,10 +422,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００８鄰中正路１８６號一樓"
+        "market_address": "苗栗縣頭份市頭份里００８鄰中正路１８６號一樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 82,
+        "index": 29,
         "shop": "阿涂小吃",
         "category": [
             "餐飲"
@@ -900,10 +439,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里０１２鄰東民路１０１號"
+        "market_address": "苗栗縣頭份市民族里０１２鄰東民路１０１號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 83,
+        "index": 30,
         "shop": "二府商行",
         "category": [
             "餐飲"
@@ -911,32 +457,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５８號１樓"
+        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 84,
-        "shop": "睿鈞冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１２鄰信東路１５２號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "大友複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里０１２鄰民族路２７２號１樓"
-    },
-    {
-        "index": 86,
+        "index": 31,
         "shop": "豊御號",
         "category": [
             "餐飲"
@@ -944,10 +471,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓"
+        "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓",
+        "pay_list": [
+            "橘子支付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 87,
+        "index": 32,
         "shop": "海叔商行",
         "category": [
             "餐飲"
@@ -955,10 +489,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里００８鄰中華路８９２號"
+        "market_address": "苗栗縣頭份市和平里００８鄰中華路８９２號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 88,
+        "index": 33,
         "shop": "四季三寶飯",
         "category": [
             "餐飲"
@@ -966,10 +503,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里０２０鄰花園東路５６巷８弄７號"
+        "market_address": "苗栗縣頭份市興隆里０２０鄰花園東路５６巷８弄７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 89,
+        "index": 34,
         "shop": "詠絮商行",
         "category": [
             "餐飲"
@@ -977,153 +517,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街２８號１樓　"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街２８號１樓　",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 90,
-        "shop": "好記烤鴨便當館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１０鄰信東路１８４號１樓"
-    },
-    {
-        "index": 91,
-        "shop": "沃田商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００２鄰和平路１０３號"
-    },
-    {
-        "index": 92,
-        "shop": "温叨早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里富強一街２號"
-    },
-    {
-        "index": 93,
-        "shop": "紅騰飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰中華路９９５號"
-    },
-    {
-        "index": 94,
-        "shop": "兜馬商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰富強三街１１１號"
-    },
-    {
-        "index": 95,
-        "shop": "火吧串燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路８９號１樓"
-    },
-    {
-        "index": 96,
-        "shop": "雲泰小食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里０２２鄰中正一路４２５號"
-    },
-    {
-        "index": 97,
-        "shop": "小六平價燒烤店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖山里福德街３８號"
-    },
-    {
-        "index": 98,
-        "shop": "印先生韓式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１１鄰信東路３７３號"
-    },
-    {
-        "index": 99,
-        "shop": "你好咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路５１號１樓"
-    },
-    {
-        "index": 100,
-        "shop": "傳承麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里９鄰中山路３８號１樓"
-    },
-    {
-        "index": 101,
-        "shop": "日升記米糕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１２鄰信東路１０８號１樓"
-    },
-    {
-        "index": 102,
-        "shop": "鴻昇餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里０１３鄰華興街４巷２０號"
-    },
-    {
-        "index": 103,
+        "index": 35,
         "shop": "温師父炸雞",
         "category": [
             "餐飲"
@@ -1131,65 +534,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００５鄰中華路１０１０號１樓"
+        "market_address": "苗栗縣頭份市自強里００５鄰中華路１０１０號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 104,
-        "shop": "朕點小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６－６號"
-    },
-    {
-        "index": 105,
-        "shop": "金好呷平價牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１６鄰中央路４９０－１號"
-    },
-    {
-        "index": 106,
-        "shop": "滿客池上飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里０１３鄰東興路４３號"
-    },
-    {
-        "index": 107,
-        "shop": "錢小妹甜品屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里００３鄰信義路４６７號１樓"
-    },
-    {
-        "index": 108,
-        "shop": "宗易企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號"
-    },
-    {
-        "index": 109,
+        "index": 36,
         "shop": "貳拾參複合式餐飲",
         "category": [
             "餐飲"
@@ -1197,10 +548,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里７鄰中興路３７９巷２０弄２３號"
+        "market_address": "苗栗縣頭份市中興里７鄰中興路３７９巷２０弄２３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 110,
+        "index": 37,
         "shop": "老成都餐飲管理企業社",
         "category": [
             "餐飲"
@@ -1208,54 +562,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里０１１鄰銀河路９２號１０樓之４"
+        "market_address": "苗栗縣頭份市仁愛里０１１鄰銀河路９２號１０樓之４",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 111,
-        "shop": "昌隆食品商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００４鄰自強路２８１巷１５號２樓"
-    },
-    {
-        "index": 112,
-        "shop": "暖心堂粥品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１３鄰文化街７６號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "大叔燒丼",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００７鄰文化街２３６號１樓"
-    },
-    {
-        "index": 114,
-        "shop": "阿昏冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里００６鄰文化街６１號"
-    },
-    {
-        "index": 115,
+        "index": 38,
         "shop": "歡喜素蔬食焗烤坊",
         "category": [
             "餐飲"
@@ -1263,32 +576,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１４鄰忠孝一路１０２號１樓"
+        "market_address": "苗栗縣頭份市忠孝里０１４鄰忠孝一路１０２號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 116,
-        "shop": "飛魚企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１４鄰文化街２５３號一樓"
-    },
-    {
-        "index": 117,
-        "shop": "有滋有味美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１４鄰信東路１９５號１樓"
-    },
-    {
-        "index": 118,
+        "index": 39,
         "shop": "欣欣丼飯店",
         "category": [
             "餐飲"
@@ -1296,21 +590,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰仁愛路９８號１樓"
+        "market_address": "苗栗縣頭份市自強里４鄰仁愛路９８號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 119,
-        "shop": "欣吉實業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里０１０鄰中央路４４５號１樓"
-    },
-    {
-        "index": 120,
+        "index": 40,
         "shop": "幸福鍋物店",
         "category": [
             "餐飲"
@@ -1318,10 +606,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里３鄰中正一路５１５號一樓"
+        "market_address": "苗栗縣頭份市新華里３鄰中正一路５１５號一樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 121,
+        "index": 41,
         "shop": "禾豐串串香",
         "category": [
             "餐飲"
@@ -1329,21 +621,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１５５號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１５５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 122,
-        "shop": "嚐鮮壽司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里２１鄰公園三街５６號"
-    },
-    {
-        "index": 123,
+        "index": 42,
         "shop": "好食咖哩食堂",
         "category": [
             "餐飲"
@@ -1351,10 +635,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１２鄰信東路１４０號"
+        "market_address": "苗栗縣頭份市自強里０１２鄰信東路１４０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 124,
+        "index": 43,
         "shop": "艾固得商行",
         "category": [
             "餐飲"
@@ -1362,65 +649,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號１樓"
+        "market_address": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "icash pay",
+            "台灣pay"
+        ]
     },
     {
-        "index": 125,
-        "shop": "醲拾穗咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００５鄰中央路１３４號"
-    },
-    {
-        "index": 126,
-        "shop": "元鼎食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００８鄰信東路２５２號１樓"
-    },
-    {
-        "index": 127,
-        "shop": "非食不可小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００７鄰建國路２０號"
-    },
-    {
-        "index": 128,
-        "shop": "村禾牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１０鄰建國路二段２８７號１樓"
-    },
-    {
-        "index": 129,
-        "shop": "紅美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里００４鄰銀河路４６號１樓"
-    },
-    {
-        "index": 130,
+        "index": 44,
         "shop": "中華小館",
         "category": [
             "餐飲"
@@ -1428,10 +666,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００１鄰中華路１３３４號１樓"
+        "market_address": "苗栗縣頭份市建國里００１鄰中華路１３３４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 131,
+        "index": 45,
         "shop": "冉冉日嚐料理",
         "category": [
             "餐飲"
@@ -1439,10 +680,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街２９號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街２９號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 132,
+        "index": 46,
         "shop": "瑋亭商行",
         "category": [
             "餐飲"
@@ -1450,21 +695,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里０１０鄰中正二路２１４號１樓"
+        "market_address": "苗栗縣頭份市斗煥里０１０鄰中正二路２１４號１樓",
+        "pay_list": [
+            "街口",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 133,
-        "shop": "建國牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１１鄰建國路９６號１樓"
-    },
-    {
-        "index": 134,
+        "index": 47,
         "shop": "橙逸企業社",
         "category": [
             "餐飲"
@@ -1472,10 +711,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００４鄰信義路１１４號"
+        "market_address": "苗栗縣頭份市自強里００４鄰信義路１１４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 135,
+        "index": 48,
         "shop": "查克咖啡館",
         "category": [
             "餐飲"
@@ -1483,21 +726,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路１０７號１樓"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路１０７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 136,
-        "shop": "馥珍客家風味小炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖山里００８鄰中華路２７號１樓"
-    },
-    {
-        "index": 137,
+        "index": 49,
         "shop": "秀煥企業社",
         "category": [
             "餐飲"
@@ -1505,54 +744,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段７９號１樓"
+        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段７９號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 138,
-        "shop": "川釜飲食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里７鄰中央路９３９號"
-    },
-    {
-        "index": 139,
-        "shop": "蘭亭幸福村",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里５鄰中山路１２０號１樓"
-    },
-    {
-        "index": 140,
-        "shop": "曉巧早安坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００２鄰忠孝一路２５８號"
-    },
-    {
-        "index": 141,
-        "shop": "嗚嘎隱工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖山里００７鄰中華路５３巷１０號"
-    },
-    {
-        "index": 142,
+        "index": 50,
         "shop": "宏遠小吃店",
         "category": [
             "餐飲"
@@ -1560,21 +764,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里００４鄰興隆路一段４３９巷２７號"
+        "market_address": "苗栗縣頭份市興隆里００４鄰興隆路一段４３９巷２７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 143,
-        "shop": "味善屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００８鄰日新街５５號"
-    },
-    {
-        "index": 144,
+        "index": 51,
         "shop": "幸福仙草舖",
         "category": [
             "餐飲"
@@ -1582,10 +778,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里００６鄰信義路７號"
+        "market_address": "苗栗縣頭份市仁愛里００６鄰信義路７號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 145,
+        "index": 52,
         "shop": "鉑飲飲茶專賣店",
         "category": [
             "餐飲"
@@ -1593,10 +792,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５６號"
+        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５６號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 146,
+        "index": 53,
         "shop": "蔡家虱目魚專賣店",
         "category": [
             "餐飲"
@@ -1604,10 +809,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２５３號"
+        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２５３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 147,
+        "index": 54,
         "shop": "橋亭串燒居酒屋",
         "category": [
             "餐飲"
@@ -1615,21 +823,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１６鄰中央路２３號"
+        "market_address": "苗栗縣頭份市東庄里０１６鄰中央路２３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 148,
-        "shop": "樂爺燒烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００３鄰信東路８９號"
-    },
-    {
-        "index": 149,
+        "index": 55,
         "shop": "華盈南洋料理館",
         "category": [
             "餐飲"
@@ -1637,10 +837,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號"
+        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 150,
+        "index": 56,
         "shop": "茶米好味道",
         "category": [
             "餐飲"
@@ -1648,43 +851,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里３鄰中正一路５１３號１樓"
+        "market_address": "苗栗縣頭份市新華里３鄰中正一路５１３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "信用卡",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 151,
-        "shop": "老媽子麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街５號１樓"
-    },
-    {
-        "index": 152,
-        "shop": "上好平價牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００７鄰中正路１９７號"
-    },
-    {
-        "index": 153,
-        "shop": "新家福鵝肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰中正路８８號１樓"
-    },
-    {
-        "index": 154,
+        "index": 57,
         "shop": "樂鍋小吃店",
         "category": [
             "餐飲"
@@ -1692,32 +868,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３０４號１樓"
+        "market_address": "苗栗縣頭份市中興里９鄰中央路３０４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 155,
-        "shop": "深夜炒飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰中正路９４號"
-    },
-    {
-        "index": 156,
-        "shop": "醉紅海鮮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路８５號１樓"
-    },
-    {
-        "index": 157,
+        "index": 58,
         "shop": "鑫義商行",
         "category": [
             "餐飲"
@@ -1725,10 +882,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路１５９號１樓"
+        "market_address": "苗栗縣頭份市成功里０１０鄰建國路１５９號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 158,
+        "index": 59,
         "shop": "祥記快餐宵夜",
         "category": [
             "餐飲"
@@ -1736,10 +902,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰中正路９２號"
+        "market_address": "苗栗縣頭份市信義里００９鄰中正路９２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 159,
+        "index": 60,
         "shop": "佩玲商行",
         "category": [
             "餐飲"
@@ -1747,21 +916,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００３鄰自強路２７９號１樓"
+        "market_address": "苗栗縣頭份市民族里００３鄰自強路２７９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 160,
-        "shop": "合勝小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號"
-    },
-    {
-        "index": 161,
+        "index": 61,
         "shop": "舒苡咖啡坊",
         "category": [
             "餐飲"
@@ -1769,10 +931,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里８鄰建國路二段１號之５"
+        "market_address": "苗栗縣頭份市成功里８鄰建國路二段１號之５",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 162,
+        "index": 62,
         "shop": "滿福飽企業社",
         "category": [
             "餐飲"
@@ -1780,21 +945,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１７２號１樓"
+        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１７２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 163,
-        "shop": "酒客飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里００３鄰中央路１７５號１樓"
-    },
-    {
-        "index": 164,
+        "index": 63,
         "shop": "啡耀咖啡廳",
         "category": [
             "餐飲"
@@ -1802,10 +959,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民五街３２號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民五街３２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 165,
+        "index": 64,
         "shop": "鼎湘記牛肉麵",
         "category": [
             "餐飲"
@@ -1813,54 +973,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１４鄰忠孝一路５６號"
+        "market_address": "苗栗縣頭份市東庄里１４鄰忠孝一路５６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 166,
-        "shop": "淑姐大刈包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路５９號"
-    },
-    {
-        "index": 167,
-        "shop": "洺臻港式燒臘便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１０鄰信東路１６６號１樓"
-    },
-    {
-        "index": 168,
-        "shop": "再造福小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１４鄰文化街２５５號１樓"
-    },
-    {
-        "index": 169,
-        "shop": "乾明小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里６鄰中興路３６１號"
-    },
-    {
-        "index": 170,
+        "index": 65,
         "shop": "越來越好吃小吃店",
         "category": [
             "餐飲"
@@ -1868,21 +987,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０２２鄰上庄路２６號"
+        "market_address": "苗栗縣頭份市東庄里０２２鄰上庄路２６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 171,
-        "shop": "富瑄麵餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３２８號"
-    },
-    {
-        "index": 172,
+        "index": 66,
         "shop": "韻軒茶飲專賣店",
         "category": [
             "餐飲"
@@ -1890,32 +1001,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里０１１鄰中正路５５號１樓"
+        "market_address": "苗栗縣頭份市信義里０１１鄰中正路５５號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 173,
-        "shop": "好食刻飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰中華路１００５號"
-    },
-    {
-        "index": 174,
-        "shop": "丹丹餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街１２號"
-    },
-    {
-        "index": 175,
+        "index": 67,
         "shop": "茗磨坊",
         "category": [
             "餐飲"
@@ -1923,32 +1017,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０２３鄰中央路３６巷１９號１樓"
+        "market_address": "苗栗縣頭份市東庄里０２３鄰中央路３６巷１９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 176,
-        "shop": "自強早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００２鄰自強路１２７號１樓"
-    },
-    {
-        "index": 177,
-        "shop": "鳳翔早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖山里０１１鄰尖豐路１２號１樓"
-    },
-    {
-        "index": 178,
+        "index": 68,
         "shop": "莊老爹商行",
         "category": [
             "餐飲"
@@ -1956,10 +1031,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１３鄰文化街９８號１樓"
+        "market_address": "苗栗縣頭份市文化里０１３鄰文化街９８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 179,
+        "index": 69,
         "shop": "佳鼎企業社",
         "category": [
             "餐飲"
@@ -1967,65 +1045,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里７鄰中興路５２７號１樓"
+        "market_address": "苗栗縣頭份市成功里７鄰中興路５２７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 180,
-        "shop": "大亨早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里０１０鄰中正二路１９０號１樓"
-    },
-    {
-        "index": 181,
-        "shop": "友尼基行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里０１１鄰合興街１０９巷１１弄１號１樓"
-    },
-    {
-        "index": 182,
-        "shop": "上豐商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街２２號"
-    },
-    {
-        "index": 183,
-        "shop": "惠盈飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里００８鄰和平路６號"
-    },
-    {
-        "index": 184,
-        "shop": "小亮哥飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰信義路１０９號"
-    },
-    {
-        "index": 185,
+        "index": 70,
         "shop": "神龍本港海產",
         "category": [
             "餐飲"
@@ -2033,21 +1059,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蘆竹里２鄰永貞路１段５７號"
+        "market_address": "苗栗縣頭份市蘆竹里２鄰永貞路１段５７號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 186,
-        "shop": "台園自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里７鄰中華路１０６６號"
-    },
-    {
-        "index": 187,
+        "index": 71,
         "shop": "雅德生活事業",
         "category": [
             "餐飲"
@@ -2055,21 +1073,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰和平路８６號１樓"
+        "market_address": "苗栗縣頭份市民族里００１鄰和平路８６號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 188,
-        "shop": "悅南小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１３鄰中華路１０９３號１樓"
-    },
-    {
-        "index": 189,
+        "index": 72,
         "shop": "玉典品味茶行",
         "category": [
             "餐飲"
@@ -2077,32 +1089,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００５鄰中央路１４６號１樓"
+        "market_address": "苗栗縣頭份市東庄里００５鄰中央路１４６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 190,
-        "shop": "金成活力早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市土牛里００７鄰中正路４０７號"
-    },
-    {
-        "index": 191,
-        "shop": "壹柒陸捌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里８鄰中華路１７６８號"
-    },
-    {
-        "index": 192,
+        "index": 73,
         "shop": "金吉克醬燒雞排",
         "category": [
             "餐飲"
@@ -2110,10 +1107,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００９鄰和平路５８號"
+        "market_address": "苗栗縣頭份市信義里００９鄰和平路５８號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 193,
+        "index": 74,
         "shop": "語宣小吃",
         "category": [
             "餐飲"
@@ -2121,21 +1121,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１３鄰信東路２段２１２號１樓"
+        "market_address": "苗栗縣頭份市文化里０１３鄰信東路２段２１２號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 194,
-        "shop": "滷到底滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１鄰信東路２６７號"
-    },
-    {
-        "index": 195,
+        "index": 75,
         "shop": "茗傳飲料店",
         "category": [
             "餐飲"
@@ -2143,21 +1135,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１０鄰中正路１５５號"
+        "market_address": "苗栗縣頭份市自強里０１０鄰中正路１５５號",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 196,
-        "shop": "客滿屋小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５０號１樓"
-    },
-    {
-        "index": 197,
+        "index": 76,
         "shop": "捉餓師美食館",
         "category": [
             "餐飲"
@@ -2165,10 +1150,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１５鄰文化街１９１號１樓"
+        "market_address": "苗栗縣頭份市文化里０１５鄰文化街１９１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 198,
+        "index": 77,
         "shop": "丁椰南洋料理",
         "category": [
             "餐飲"
@@ -2176,21 +1164,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民五街１８號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民五街１８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 199,
-        "shop": "合平餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２３８號１樓"
-    },
-    {
-        "index": 200,
+        "index": 78,
         "shop": "神匠日式料理",
         "category": [
             "餐飲"
@@ -2198,43 +1178,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２３２號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２３２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 201,
-        "shop": "日馨麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００８鄰信東路２６２號１樓"
-    },
-    {
-        "index": 202,
-        "shop": "筠森企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里００６鄰親民路１７２號１樓"
-    },
-    {
-        "index": 203,
-        "shop": "惠璿冷熱茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００９鄰仁愛路６９號１樓"
-    },
-    {
-        "index": 204,
+        "index": 79,
         "shop": "清邁食堂",
         "category": [
             "餐飲"
@@ -2242,21 +1192,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００８鄰八德二路３２０號１樓"
+        "market_address": "苗栗縣頭份市山下里００８鄰八德二路３２０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 205,
-        "shop": "豐陽自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里信東路２段８８號"
-    },
-    {
-        "index": 206,
+        "index": 80,
         "shop": "山川堂",
         "category": [
             "餐飲"
@@ -2264,32 +1206,19 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街２０號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街２０號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 207,
-        "shop": "泉元餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里１２鄰中興路７３５號"
-    },
-    {
-        "index": 208,
-        "shop": "老江湖石頭火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里１０鄰中央路５１７號１樓"
-    },
-    {
-        "index": 209,
+        "index": 81,
         "shop": "晨安早午餐店",
         "category": [
             "餐飲"
@@ -2297,120 +1226,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里１０鄰自強路二段５５６號"
+        "market_address": "苗栗縣頭份市田寮里１０鄰自強路二段５５６號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 210,
-        "shop": "翁記豆漿先生",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００８鄰日新街５１號１樓"
-    },
-    {
-        "index": 211,
-        "shop": "蘇記餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１２３６―１號"
-    },
-    {
-        "index": 212,
-        "shop": "紅墨坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里００３鄰八德一路５１巷１６０號"
-    },
-    {
-        "index": 213,
-        "shop": "羹品美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１８４號１樓"
-    },
-    {
-        "index": 214,
-        "shop": "田新牛肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１０鄰建國路二段２９５號"
-    },
-    {
-        "index": 215,
-        "shop": "松興小食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里１３鄰民族路８８號"
-    },
-    {
-        "index": 216,
-        "shop": "建成冰菓飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００２鄰中山路９１號"
-    },
-    {
-        "index": 217,
-        "shop": "金瑞豐商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里８鄰和平路２６號"
-    },
-    {
-        "index": 218,
-        "shop": "鑫嵐商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民六街９號"
-    },
-    {
-        "index": 219,
-        "shop": "晨曦複合式早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００２鄰忠孝二路１３８號１樓"
-    },
-    {
-        "index": 220,
+        "index": 82,
         "shop": "廣湘川小館",
         "category": [
             "餐飲"
@@ -2418,10 +1240,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里００７鄰信三街９號"
+        "market_address": "苗栗縣頭份市蟠桃里００７鄰信三街９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 221,
+        "index": 83,
         "shop": "榮為國鍋物行",
         "category": [
             "餐飲"
@@ -2429,21 +1254,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路７０號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路７０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 222,
-        "shop": "巧登麵食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３２８號"
-    },
-    {
-        "index": 223,
+        "index": 84,
         "shop": "普光素食自助餐",
         "category": [
             "餐飲"
@@ -2451,21 +1268,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１３鄰信東路２１９號１樓"
+        "market_address": "苗栗縣頭份市忠孝里０１３鄰信東路２１９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 224,
-        "shop": "鋒味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００５鄰仁愛路３５號１樓"
-    },
-    {
-        "index": 225,
+        "index": 85,
         "shop": "君悅商行",
         "category": [
             "餐飲"
@@ -2473,21 +1282,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里００５鄰和平路７３號１樓"
+        "market_address": "苗栗縣頭份市和平里００５鄰和平路７３號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 226,
-        "shop": "享佳美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００１鄰中華路１４１８號１樓"
-    },
-    {
-        "index": 227,
+        "index": 86,
         "shop": "好品光企業社",
         "category": [
             "餐飲"
@@ -2495,65 +1296,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路８３號１樓"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路８３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 228,
-        "shop": "鍋里鍋利餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路１０１號"
-    },
-    {
-        "index": 229,
-        "shop": "大玉豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民六街５號１樓"
-    },
-    {
-        "index": 230,
-        "shop": "晨宏早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里民族路７９６號"
-    },
-    {
-        "index": 231,
-        "shop": "森沐茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０２１鄰八德一路１５８號"
-    },
-    {
-        "index": 232,
-        "shop": "大將牛排商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００４鄰自強路２８１巷１５號２樓"
-    },
-    {
-        "index": 233,
+        "index": 87,
         "shop": "味家香烤鴨店",
         "category": [
             "餐飲"
@@ -2561,54 +1311,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２３３號"
+        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２３３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 234,
-        "shop": "濬興牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００８鄰建國路４２之１號１樓"
-    },
-    {
-        "index": 235,
-        "shop": "微笑琳咖啡宅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰中央路９號"
-    },
-    {
-        "index": 236,
-        "shop": "上順餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１７８號１樓"
-    },
-    {
-        "index": 237,
-        "shop": "上公園風味館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里７鄰文化街１９６號"
-    },
-    {
-        "index": 238,
+        "index": 88,
         "shop": "面對麵餐飲屋",
         "category": [
             "餐飲"
@@ -2616,21 +1325,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里９鄰信東路二段７１、７３號１樓"
+        "market_address": "苗栗縣頭份市山下里９鄰信東路二段７１、７３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 239,
-        "shop": "秋水越南河粉美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路８９號"
-    },
-    {
-        "index": 240,
+        "index": 89,
         "shop": "高品企業社",
         "category": [
             "餐飲"
@@ -2638,65 +1339,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１２０２號１樓"
+        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１２０２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 241,
-        "shop": "如意紡小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１０鄰中華路１０２２號１樓"
-    },
-    {
-        "index": 242,
-        "shop": "泰美味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號"
-    },
-    {
-        "index": 243,
-        "shop": "安心早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰和平路１２０號１樓"
-    },
-    {
-        "index": 244,
-        "shop": "凡仕吉行號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里０１３鄰銀河北路７號１樓"
-    },
-    {
-        "index": 245,
-        "shop": "樂天企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路７１號"
-    },
-    {
-        "index": 246,
+        "index": 90,
         "shop": "貴福小吃店",
         "category": [
             "餐飲"
@@ -2704,32 +1354,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１鄰建國路５３號"
+        "market_address": "苗栗縣頭份市忠孝里１鄰建國路５３號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 247,
-        "shop": "貝奇工作坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００７鄰中華路９５１號８樓"
-    },
-    {
-        "index": 248,
-        "shop": "品香魷魚羹",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１１１０號"
-    },
-    {
-        "index": 249,
+        "index": 91,
         "shop": "柒拾披薩店",
         "category": [
             "餐飲"
@@ -2737,10 +1368,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２６８號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２６８號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 250,
+        "index": 92,
         "shop": "辰祥早餐店",
         "category": [
             "餐飲"
@@ -2748,10 +1384,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１２鄰忠孝一路１０９―１號"
+        "market_address": "苗栗縣頭份市忠孝里０１２鄰忠孝一路１０９―１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 251,
+        "index": 93,
         "shop": "千八料亭",
         "category": [
             "餐飲"
@@ -2759,43 +1400,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里００７鄰光華北路２５巷５５號"
+        "market_address": "苗栗縣頭份市後庄里００７鄰光華北路２５巷５５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 252,
-        "shop": "建華早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００２鄰中華路１４４７號１樓"
-    },
-    {
-        "index": 253,
-        "shop": "好小子鹽酥雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里中正一路５７９之１號１樓"
-    },
-    {
-        "index": 254,
-        "shop": "新想企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里００９鄰中華路６３５號"
-    },
-    {
-        "index": 255,
+        "index": 94,
         "shop": "湘楠無煙燒烤",
         "category": [
             "餐飲"
@@ -2803,10 +1415,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１４鄰建國路二段２６８號"
+        "market_address": "苗栗縣頭份市中興里１４鄰建國路二段２６８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 256,
+        "index": 95,
         "shop": "鴻運達企業社",
         "category": [
             "餐飲"
@@ -2814,10 +1429,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路４３號１樓"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路４３號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 257,
+        "index": 96,
         "shop": "晶亮飲料店",
         "category": [
             "餐飲"
@@ -2825,21 +1444,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１０鄰信東路二段７２號１樓"
+        "market_address": "苗栗縣頭份市山下里０１０鄰信東路二段７２號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 258,
-        "shop": "二姐麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００６鄰民族路３９０號"
-    },
-    {
-        "index": 259,
+        "index": 97,
         "shop": "金品小廚",
         "category": [
             "餐飲"
@@ -2847,10 +1458,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰信義路１０１號"
+        "market_address": "苗栗縣頭份市民族里００１鄰信義路１０１號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 260,
+        "index": 98,
         "shop": "艾比咖啡館",
         "category": [
             "餐飲"
@@ -2858,21 +1473,18 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里０１３鄰和平路１０７號１樓"
+        "market_address": "苗栗縣頭份市民族里０１３鄰和平路１０７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 261,
-        "shop": "海洋世界親子館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里０２１鄰中央路７１２號"
-    },
-    {
-        "index": 262,
+        "index": 99,
         "shop": "峻采開發企業社",
         "category": [
             "餐飲"
@@ -2880,10 +1492,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段７７號"
+        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段７７號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 263,
+        "index": 100,
         "shop": "喜樂冷飲店",
         "category": [
             "餐飲"
@@ -2891,65 +1506,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１１鄰建國路１１６號"
+        "market_address": "苗栗縣頭份市建國里０１１鄰建國路１１６號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 264,
-        "shop": "全民自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里中華路９０９號"
-    },
-    {
-        "index": 265,
-        "shop": "寶軒美食外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里２１鄰下新店１３―５號１樓"
-    },
-    {
-        "index": 266,
-        "shop": "蕊柔小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里東興路６０巷１號"
-    },
-    {
-        "index": 267,
-        "shop": "派克脆皮雞排頭份分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰中華路９７７號１樓"
-    },
-    {
-        "index": 268,
-        "shop": "一口鮮餡餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里建國路１５６號１樓"
-    },
-    {
-        "index": 269,
+        "index": 101,
         "shop": "朋泰泰式風味料理店",
         "category": [
             "餐飲"
@@ -2957,21 +1520,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１０鄰建國路二段２６９號"
+        "market_address": "苗栗縣頭份市中興里１０鄰建國路二段２６９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 270,
-        "shop": "大陸自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里１０鄰中華路９４２號１樓"
-    },
-    {
-        "index": 271,
+        "index": 102,
         "shop": "過癮火鍋店",
         "category": [
             "餐飲"
@@ -2979,43 +1534,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里建國路８７號"
+        "market_address": "苗栗縣頭份市忠孝里建國路８７號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 272,
-        "shop": "意足美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里３鄰仁愛路２５－１號"
-    },
-    {
-        "index": 273,
-        "shop": "蘋果早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里中正路２５號１樓"
-    },
-    {
-        "index": 274,
-        "shop": "南天經濟快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里中央路８９８號"
-    },
-    {
-        "index": 275,
+        "index": 103,
         "shop": "如意棧小吃店",
         "category": [
             "餐飲"
@@ -3023,98 +1548,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００２鄰和平路１２７巷６號１樓"
+        "market_address": "苗栗縣頭份市民族里００２鄰和平路１２７巷６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 276,
-        "shop": "佳餚美食料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里興隆路９號１樓"
-    },
-    {
-        "index": 277,
-        "shop": "張家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里６鄰信義路１７號１樓"
-    },
-    {
-        "index": 278,
-        "shop": "何記溫州大餛飩",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里１３鄰中華路１１２７號"
-    },
-    {
-        "index": 279,
-        "shop": "佳珍小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰信義路１０７號"
-    },
-    {
-        "index": 280,
-        "shop": "呷億燒烤便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里１０鄰建國路１５５號"
-    },
-    {
-        "index": 281,
-        "shop": "小農契作商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００４鄰中華路１０２３號１樓"
-    },
-    {
-        "index": 282,
-        "shop": "炸糊飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００８鄰大同路５號１樓"
-    },
-    {
-        "index": 283,
-        "shop": "阿宏滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里８鄰中正路１２４號"
-    },
-    {
-        "index": 284,
+        "index": 104,
         "shop": "喝彩音樂餐廳",
         "category": [
             "餐飲"
@@ -3122,32 +1562,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里１１鄰東興路８８號１樓"
+        "market_address": "苗栗縣頭份市民族里１１鄰東興路８８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 285,
-        "shop": "小廚師快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里１７鄰建國路１９號１樓"
-    },
-    {
-        "index": 286,
-        "shop": "基隆廟口小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰中央路２７號"
-    },
-    {
-        "index": 287,
+        "index": 105,
         "shop": "精進健康素食緣",
         "category": [
             "餐飲"
@@ -3155,153 +1576,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里建國路８１號"
+        "market_address": "苗栗縣頭份市忠孝里建國路８１號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 288,
-        "shop": "樂饗早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里２鄰信義路４７０號１樓"
-    },
-    {
-        "index": 289,
-        "shop": "允承團膳美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里０２２鄰蘆竹路２８０巷７弄１號１樓"
-    },
-    {
-        "index": 290,
-        "shop": "食怡企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民三街７號１樓"
-    },
-    {
-        "index": 291,
-        "shop": "品軒飯包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１４鄰中華路１１５６號"
-    },
-    {
-        "index": 292,
-        "shop": "天長地酒餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１９鄰忠孝一路２８４號"
-    },
-    {
-        "index": 293,
-        "shop": "天生巧手美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里７鄰中正路１９７號１樓"
-    },
-    {
-        "index": 294,
-        "shop": "長恆企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１７７號"
-    },
-    {
-        "index": 295,
-        "shop": "品宣商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里００６鄰信東路３１０號１樓"
-    },
-    {
-        "index": 296,
-        "shop": "谷軒日式食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１０鄰建國路二段２５６號"
-    },
-    {
-        "index": 297,
-        "shop": "成阡小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里１１鄰銀河路９６－１號"
-    },
-    {
-        "index": 298,
-        "shop": "真好吃水餃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里５鄰忠孝二路９２號"
-    },
-    {
-        "index": 299,
-        "shop": "府中鮪魚王餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰尚順路７５號"
-    },
-    {
-        "index": 300,
-        "shop": "頭份雞腿王便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里８鄰建國路３６號"
-    },
-    {
-        "index": 301,
+        "index": 106,
         "shop": "家駿早餐店",
         "category": [
             "餐飲"
@@ -3309,66 +1590,31 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里５鄰建國路１６６號一樓"
+        "market_address": "苗栗縣頭份市成功里５鄰建國路１６６號一樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 302,
-        "shop": "若俞早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里９鄰南田街１１１號"
-    },
-    {
-        "index": 303,
-        "shop": "細坪客家大粄圓小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市興隆里４鄰興隆路１段４００號１樓"
-    },
-    {
-        "index": 304,
-        "shop": "秀梅小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰仁愛路９８號１樓"
-    },
-    {
-        "index": 305,
-        "shop": "亞新居小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市上埔里１４鄰興隆路３５９巷７號"
-    },
-    {
-        "index": 306,
+        "index": 107,
         "shop": "鉅大商行",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１２鄰中央路４００號"
+        "market_address": "苗栗縣頭份市中興里１２鄰中央路４００號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 307,
+        "index": 108,
         "shop": "大吉商行",
         "category": [
             "餐飲"
@@ -3376,21 +1622,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里中正路１２號１樓"
+        "market_address": "苗栗縣頭份市和平里中正路１２號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 308,
-        "shop": "黑白串烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里中央路１２６－１、－２號"
-    },
-    {
-        "index": 309,
+        "index": 109,
         "shop": "擎鋒餐飲店",
         "category": [
             "餐飲"
@@ -3398,21 +1638,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰東民路１８２號１樓"
+        "market_address": "苗栗縣頭份市東庄里１８鄰東民路１８２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 310,
-        "shop": "吉萊早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里１０鄰幼英街７６號１樓"
-    },
-    {
-        "index": 311,
+        "index": 110,
         "shop": "藝醲咖啡",
         "category": [
             "餐飲"
@@ -3420,21 +1652,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００２鄰信義路４３號"
+        "market_address": "苗栗縣頭份市信義里００２鄰信義路４３號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 312,
-        "shop": "奇米餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１８３號１樓"
-    },
-    {
-        "index": 313,
+        "index": 111,
         "shop": "花草巷弄咖啡屋",
         "category": [
             "餐飲"
@@ -3442,10 +1668,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市流東里０１４鄰中正新村１７１號１樓"
+        "market_address": "苗栗縣頭份市流東里０１４鄰中正新村１７１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 314,
+        "index": 112,
         "shop": "迎麵而來餐坊",
         "category": [
             "餐飲"
@@ -3453,32 +1682,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１４鄰文化街２６７號１樓"
+        "market_address": "苗栗縣頭份市山下里０１４鄰文化街２６７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 315,
-        "shop": "中一排骨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里００６鄰信義路９號"
-    },
-    {
-        "index": 316,
-        "shop": "伍餅貳魚輕食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里０１２鄰民族路２５０號１樓"
-    },
-    {
-        "index": 317,
+        "index": 113,
         "shop": "波克利麻辣香雞煲",
         "category": [
             "餐飲"
@@ -3486,54 +1696,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２３６號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２３６號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 318,
-        "shop": "豆走豆花舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１２鄰信東路１５６號"
-    },
-    {
-        "index": 319,
-        "shop": "老記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１３鄰中華路１０７５―１號"
-    },
-    {
-        "index": 320,
-        "shop": "宇恒企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里０１０鄰中正一路３１號１樓"
-    },
-    {
-        "index": 321,
-        "shop": "夢想易廚坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００５鄰忠孝二路１２６號"
-    },
-    {
-        "index": 322,
+        "index": 114,
         "shop": "格子餐坊",
         "category": [
             "餐飲"
@@ -3541,65 +1710,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街１號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 323,
-        "shop": "匠人壽司屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１６鄰中央路２５號１樓"
-    },
-    {
-        "index": 324,
-        "shop": "三多餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里９鄰東興路５５號"
-    },
-    {
-        "index": 325,
-        "shop": "信東早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１０鄰信東路二段７０號１樓"
-    },
-    {
-        "index": 326,
-        "shop": "上公園湯包惦",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１８鄰中正路２４６號１樓"
-    },
-    {
-        "index": 327,
-        "shop": "豆的奶酪甜點屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里０２０鄰信中路１１１號"
-    },
-    {
-        "index": 328,
+        "index": 115,
         "shop": "恬緣果人文咖啡館",
         "category": [
             "餐飲"
@@ -3607,10 +1724,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街３７號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街３７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 329,
+        "index": 116,
         "shop": "長龍茶行",
         "category": [
             "餐飲"
@@ -3618,10 +1739,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓"
+        "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓",
+        "pay_list": [
+            "橘子支付",
+            "台灣pay",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 330,
+        "index": 117,
         "shop": "吉緣小館",
         "category": [
             "餐飲"
@@ -3629,10 +1755,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里０１４鄰中山路２１３號"
+        "market_address": "苗栗縣頭份市仁愛里０１４鄰中山路２１３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 331,
+        "index": 118,
         "shop": "子詅茶行",
         "category": [
             "餐飲"
@@ -3640,43 +1769,17 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路７７號"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路７７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 332,
-        "shop": "三溪餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里１鄰信三街３９號１樓"
-    },
-    {
-        "index": 333,
-        "shop": "添哥小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里１４鄰中正一路２４８巷２１號１樓"
-    },
-    {
-        "index": 334,
-        "shop": "小煮義義式廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民五街２０號"
-    },
-    {
-        "index": 335,
+        "index": 119,
         "shop": "黎春冷飲店",
         "category": [
             "餐飲"
@@ -3684,21 +1787,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里２鄰東興路１４９之１號"
+        "market_address": "苗栗縣頭份市民權里２鄰東興路１４９之１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 336,
-        "shop": "竑亦行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里００９鄰中正路８號"
-    },
-    {
-        "index": 337,
+        "index": 120,
         "shop": "友廚自助餐",
         "category": [
             "餐飲"
@@ -3706,10 +1801,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路２段１３２號"
+        "market_address": "苗栗縣頭份市山下里建國路２段１３２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 338,
+        "index": 121,
         "shop": "豐籠交流道鮮肉湯包",
         "category": [
             "餐飲"
@@ -3717,43 +1815,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里中華路１１６０號"
+        "market_address": "苗栗縣頭份市頭份里中華路１１６０號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 339,
-        "shop": "一甘軒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里尚順路５３號１樓"
-    },
-    {
-        "index": 340,
-        "shop": "明的月商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里５鄰和平路８１號"
-    },
-    {
-        "index": 341,
-        "shop": "食味扁食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００８鄰建國路５４號"
-    },
-    {
-        "index": 342,
+        "index": 122,
         "shop": "極品茶舖",
         "category": [
             "餐飲"
@@ -3761,65 +1829,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰信義路１１３號１樓"
+        "market_address": "苗栗縣頭份市東庄里１６鄰信義路１１３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 343,
-        "shop": "川流冷飲行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里２２鄰中正一路６２０號１樓"
-    },
-    {
-        "index": 344,
-        "shop": "尚介讚平價牛排店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里維新街３３號１樓"
-    },
-    {
-        "index": 345,
-        "shop": "大大豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１２鄰建國路１２６號"
-    },
-    {
-        "index": 346,
-        "shop": "晶品羊肉爐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里中央路１７５號"
-    },
-    {
-        "index": 347,
-        "shop": "胡家院小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里尚順路４７號１樓"
-    },
-    {
-        "index": 348,
+        "index": 123,
         "shop": "諾瑞伊餐館",
         "category": [
             "餐飲"
@@ -3827,10 +1844,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里和平路２６３號"
+        "market_address": "苗栗縣頭份市東庄里和平路２６３號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 349,
+        "index": 124,
         "shop": "向日葵小吃店",
         "category": [
             "餐飲"
@@ -3838,32 +1859,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里１１鄰建國路１１２―２號１樓"
+        "market_address": "苗栗縣頭份市建國里１１鄰建國路１１２―２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 350,
-        "shop": "弘東外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖下里４鄰尖豐路４２５巷２號１樓"
-    },
-    {
-        "index": 351,
-        "shop": "都可茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里建國路５７號"
-    },
-    {
-        "index": 352,
+        "index": 125,
         "shop": "吉品鐵板燒",
         "category": [
             "餐飲"
@@ -3871,54 +1874,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里０２１鄰中央路７９０號"
+        "market_address": "苗栗縣頭份市後庄里０２１鄰中央路７９０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 353,
-        "shop": "奧本斯小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰和平路２２２號"
-    },
-    {
-        "index": 354,
-        "shop": "佳詅茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰仁愛路１０３號１樓"
-    },
-    {
-        "index": 355,
-        "shop": "融華小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里７鄰文化街２１８號１樓"
-    },
-    {
-        "index": 356,
-        "shop": "晶華小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１９鄰華隆街３７號１樓"
-    },
-    {
-        "index": 357,
+        "index": 126,
         "shop": "斗煥小吃",
         "category": [
             "餐飲"
@@ -3926,142 +1889,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里大營路３號"
+        "market_address": "苗栗縣頭份市斗煥里大營路３號",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 358,
-        "shop": "水鳥小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３００號"
-    },
-    {
-        "index": 359,
-        "shop": "琴韻音樂餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里７鄰中央路７２１號"
-    },
-    {
-        "index": 360,
-        "shop": "太祖魷魚??",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里４鄰信義路３９１號"
-    },
-    {
-        "index": 361,
-        "shop": "范香樓小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里１１鄰中正三路２３１號"
-    },
-    {
-        "index": 362,
-        "shop": "新華飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里９鄰中正一路４１２號２樓"
-    },
-    {
-        "index": 363,
-        "shop": "聯豐行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里２鄰和平路１１９號"
-    },
-    {
-        "index": 364,
-        "shop": "美好美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里１１鄰中正三路２１１號"
-    },
-    {
-        "index": 365,
-        "shop": "永昇小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１７鄰顯會路３９號"
-    },
-    {
-        "index": 366,
-        "shop": "方緣美食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市廣興里三鄰尖豊路５號"
-    },
-    {
-        "index": 367,
-        "shop": "田莊海鮮美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市流東里００８鄰信德路１１５號"
-    },
-    {
-        "index": 368,
-        "shop": "寶島農產行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１鄰赤崎下３－２２號"
-    },
-    {
-        "index": 369,
-        "shop": "金色蓮花素食餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里建國路９４－１號１樓"
-    },
-    {
-        "index": 370,
+        "index": 127,
         "shop": "竹香小吃店",
         "category": [
             "餐飲"
@@ -4069,32 +1904,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里９鄰中華路９３３號"
+        "market_address": "苗栗縣頭份市民族里９鄰中華路９３３號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 371,
-        "shop": "中華水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里２鄰中華路１５０６號"
-    },
-    {
-        "index": 372,
-        "shop": "食宣小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里９鄰仁愛路８３號"
-    },
-    {
-        "index": 373,
+        "index": 128,
         "shop": "麥軒活力站",
         "category": [
             "餐飲"
@@ -4102,142 +1920,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里建國路６６號１樓之８"
+        "market_address": "苗栗縣頭份市建國里建國路６６號１樓之８",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 374,
-        "shop": "頭份小籠包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１１鄰中華路１１５１號"
-    },
-    {
-        "index": 375,
-        "shop": "莊玉枝工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００９鄰中華路９５８號"
-    },
-    {
-        "index": 376,
-        "shop": "綠坊企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里１０鄰中正路７５號１樓"
-    },
-    {
-        "index": 377,
-        "shop": "夏威夷飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１０鄰翠亨路６８號"
-    },
-    {
-        "index": 378,
-        "shop": "東海豆漿大王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里６鄰信義路１１號"
-    },
-    {
-        "index": 379,
-        "shop": "怡舍餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市流東里老崎１２鄰２２一５號"
-    },
-    {
-        "index": 380,
-        "shop": "香華食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里２２鄰中正一路５４８號"
-    },
-    {
-        "index": 381,
-        "shop": "佳香快餐便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市濫坑里２鄰尖豐路７４５號"
-    },
-    {
-        "index": 382,
-        "shop": "民族早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里東民路９１號"
-    },
-    {
-        "index": 383,
-        "shop": "永和藥燉排骨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里９鄰中華路９２７號"
-    },
-    {
-        "index": 384,
-        "shop": "欣隆小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里中正路２４０號"
-    },
-    {
-        "index": 385,
-        "shop": "鮮美味沙鍋魚頭餚館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里０１３鄰信東路１３號１樓"
-    },
-    {
-        "index": 386,
+        "index": 129,
         "shop": "川原食品企業社",
         "category": [
             "餐飲"
@@ -4245,120 +1934,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里尚順路６８號"
+        "market_address": "苗栗縣頭份市東庄里尚順路６８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 387,
-        "shop": "紅不讓飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里７鄰公北三路８３號"
-    },
-    {
-        "index": 388,
-        "shop": "新漢王薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰中華路１０５７號"
-    },
-    {
-        "index": 389,
-        "shop": "一品飲食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里５鄰信義路３９８號"
-    },
-    {
-        "index": 390,
-        "shop": "早安早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里９鄰仁愛路８９號"
-    },
-    {
-        "index": 391,
-        "shop": "高益商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里中正一路１１鄰１０號"
-    },
-    {
-        "index": 392,
-        "shop": "文英小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖下里５鄰５６０號"
-    },
-    {
-        "index": 393,
-        "shop": "文良小食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１２３６―１號"
-    },
-    {
-        "index": 394,
-        "shop": "可口冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里中山路８鄰７４號"
-    },
-    {
-        "index": 395,
-        "shop": "佳味自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里２鄰信義路４２８號"
-    },
-    {
-        "index": 396,
-        "shop": "斗煥坪水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里１０鄰中正二路２０４﹒２０６﹒２０８﹒２１０號"
-    },
-    {
-        "index": 397,
+        "index": 130,
         "shop": "多淳股份有限公司",
         "category": [
             "餐飲"
@@ -4366,912 +1948,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號"
+        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 398,
-        "shop": "范特西咖啡國際股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街１１號"
-    },
-    {
-        "index": 399,
-        "shop": "期盼時光股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里３鄰自強路２７７號"
-    },
-    {
-        "index": 400,
-        "shop": "樂玩實業股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里２３鄰自強路二段５０２號１樓"
-    },
-    {
-        "index": 401,
-        "shop": "啊娜網購股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市下興里００２鄰新興街１８－３號"
-    },
-    {
-        "index": 402,
-        "shop": "泰米爾股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號２樓"
-    },
-    {
-        "index": 403,
-        "shop": "八方雲集餐飲股份有限公司御廚頭份建國店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路１０１號"
-    },
-    {
-        "index": 404,
-        "shop": "期盼時光股份有限公司尚順店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街１２號一樓"
-    },
-    {
-        "index": 405,
-        "shop": "擇膳顧食有限公司頭份營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里７鄰中華路１３５３號"
-    },
-    {
-        "index": 406,
-        "shop": "台灣善商股份有限公司尚順廣場門市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號１樓"
-    },
-    {
-        "index": 407,
-        "shop": "王品餐飲股份有限公司聚鍋頭份尚順店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路６１號"
-    },
-    {
-        "index": 408,
-        "shop": "唯賀國際餐飲股份有限公司苗栗頭份門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里６鄰中央路２５０號"
-    },
-    {
-        "index": 409,
-        "shop": "爭鮮股份有限公司定食頭份潤門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰自強路２３０號"
-    },
-    {
-        "index": 410,
-        "shop": "和德昌股份有限公司頭份大潤發門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里自強路２３０號"
-    },
-    {
-        "index": 411,
-        "shop": "三澧企業股份有限公司中央二店分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里中央路１０３號２樓"
-    },
-    {
-        "index": 412,
-        "shop": "小蒙牛股份有限公司小蒙牛頭份門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰中央路１０３號"
-    },
-    {
-        "index": 413,
-        "shop": "樂瑋餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１７７號（１樓）"
-    },
-    {
-        "index": 414,
-        "shop": "炸糊餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００８鄰大同路５號２樓"
-    },
-    {
-        "index": 415,
-        "shop": "科繼有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市上埔里００３鄰中正一路１８１巷７６號１樓"
-    },
-    {
-        "index": 416,
-        "shop": "天希國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街６號１樓"
-    },
-    {
-        "index": 417,
-        "shop": "臻淬有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街２０號１樓"
-    },
-    {
-        "index": 418,
-        "shop": "蘇記事業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１２３６―１號"
-    },
-    {
-        "index": 419,
-        "shop": "鍇迪餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１２鄰建國路１３２號一樓"
-    },
-    {
-        "index": 420,
-        "shop": "庫比餐飲事業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路６７號"
-    },
-    {
-        "index": 421,
-        "shop": "泰和食品有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里００２鄰中正二路１３１巷８號"
-    },
-    {
-        "index": 422,
-        "shop": "樂嘉食堂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里７鄰文化街２００號"
-    },
-    {
-        "index": 423,
-        "shop": "金味軒有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１鄰６之５號"
-    },
-    {
-        "index": 424,
-        "shop": "璽宴餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰東民路１８６號"
-    },
-    {
-        "index": 425,
-        "shop": "好日日餐飲事業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里６鄰昌隆一街３００號１樓"
-    },
-    {
-        "index": 426,
-        "shop": "錦山郡有限公司頭份店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰中央路１０３號"
-    },
-    {
-        "index": 427,
-        "shop": "愉馨餐廳有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路２９２號"
-    },
-    {
-        "index": 428,
-        "shop": "壹興餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號１樓"
-    },
-    {
-        "index": 429,
-        "shop": "煒埕有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１５５號"
-    },
-    {
-        "index": 430,
-        "shop": "郁軒餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１８鄰中正路２３６號"
-    },
-    {
-        "index": 431,
-        "shop": "寶鑽餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１２鄰忠孝一路７３號"
-    },
-    {
-        "index": 432,
-        "shop": "恆初餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１３鄰翠亨路１３９號１樓"
-    },
-    {
-        "index": 433,
-        "shop": "斗煥坪有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里０１０鄰中正二路２１０號"
-    },
-    {
-        "index": 434,
-        "shop": "呀米餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里５鄰中央路５４５巷３３號"
-    },
-    {
-        "index": 435,
-        "shop": "豪友食品有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１４鄰中華路１２３６－１號"
-    },
-    {
-        "index": 436,
-        "shop": "赤將有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１１鄰中央路９８號１樓"
-    },
-    {
-        "index": 437,
-        "shop": "優優饗宴有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰尚順路５６號"
-    },
-    {
-        "index": 438,
-        "shop": "自立飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里２鄰中央路１５８號"
-    },
-    {
-        "index": 439,
-        "shop": "富貴美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１鄰赤崎下２―２１號"
-    },
-    {
-        "index": 440,
-        "shop": "香港榮華燒臘館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里２鄰信東路４７號"
-    },
-    {
-        "index": 441,
-        "shop": "品閱團膳工廠",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蘆竹里１６鄰工業路９號"
-    },
-    {
-        "index": 442,
-        "shop": "鉄樂欣餐飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１２６５號"
-    },
-    {
-        "index": 443,
-        "shop": "幸福起點公關顧問企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蘆竹里１６鄰中華路４３８巷１００號"
-    },
-    {
-        "index": 444,
-        "shop": "哈索儸企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里００７鄰信東路３５０號１樓"
-    },
-    {
-        "index": 445,
-        "shop": "九四五三休閒釣蝦場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１１鄰信東路二段３５號"
-    },
-    {
-        "index": 446,
-        "shop": "呈宣商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１５鄰八德二路２７６號１樓"
-    },
-    {
-        "index": 447,
-        "shop": "胖小妞美式炸雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里００８鄰擁翠庭２２號４樓"
-    },
-    {
-        "index": 448,
-        "shop": "炸本部商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１３鄰信東路２１５號"
-    },
-    {
-        "index": 449,
-        "shop": "金川麻辣燙",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里００７鄰育英街２７號"
-    },
-    {
-        "index": 450,
-        "shop": "東北角餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里２１鄰公北二路５８號"
-    },
-    {
-        "index": 451,
-        "shop": "拾初餐飲商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２６８號二樓"
-    },
-    {
-        "index": 452,
-        "shop": "旭傑商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街２號一樓"
-    },
-    {
-        "index": 453,
-        "shop": "吉村日式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１９鄰和平路３３８號１樓"
-    },
-    {
-        "index": 454,
-        "shop": "炘盈發商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１７８號一樓"
-    },
-    {
-        "index": 455,
-        "shop": "茶香上呈商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００９鄰中正路１７８號"
-    },
-    {
-        "index": 456,
-        "shop": "老皮牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路９７號"
-    },
-    {
-        "index": 457,
-        "shop": "邧炘商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街１號１樓"
-    },
-    {
-        "index": 458,
-        "shop": "洄饗商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里１鄰中央路５５９號"
-    },
-    {
-        "index": 459,
-        "shop": "和記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號"
-    },
-    {
-        "index": 460,
-        "shop": "原之鍋小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號１樓"
-    },
-    {
-        "index": 461,
-        "shop": "饗亦樂餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１１鄰建國路１１８號１樓"
-    },
-    {
-        "index": 462,
-        "shop": "耶比精品咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街３號"
-    },
-    {
-        "index": 463,
-        "shop": "宗文冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里９鄰信義路５５號１樓"
-    },
-    {
-        "index": 464,
-        "shop": "荷林飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１８鄰尚順路６０號１樓"
-    },
-    {
-        "index": 465,
-        "shop": "樂玥和食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里１２鄰上庄路７２號"
-    },
-    {
-        "index": 466,
-        "shop": "欣桂竹園藝術餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里７鄰中興路４９９號"
-    },
-    {
-        "index": 467,
-        "shop": "一鳴商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段１２３號１樓"
-    },
-    {
-        "index": 468,
-        "shop": "迷巴克飲品店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００９鄰建國路二段１３０號１樓"
-    },
-    {
-        "index": 469,
-        "shop": "金湧小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號"
-    },
-    {
-        "index": 470,
-        "shop": "兆洋餐飲事業股份有限公司苗栗頭份分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００７鄰中華路１４１１號"
-    },
-    {
-        "index": 471,
-        "shop": "陸德食品有限公司頭份分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１１鄰中華路１２１３號、１２１５號１樓"
-    },
-    {
-        "index": 472,
-        "shop": "瓦城泰統股份有限公司苗栗分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里中央路１０３號（１樓）"
-    },
-    {
-        "index": 473,
-        "shop": "王品餐飲股份有限公司西堤頭份尚順分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里尚順路７７號"
-    },
-    {
-        "index": 474,
-        "shop": "王品餐飲股份有限公司品田頭份尚順分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里尚順路８７號"
-    },
-    {
-        "index": 475,
-        "shop": "安心食品服務股份有限公司頭份門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里中華路１１９２號１樓"
-    },
-    {
-        "index": 476,
-        "shop": "爭鮮股份有限公司點爭鮮頭份分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１４鄰中華路１２０４號"
-    },
-    {
-        "index": 477,
-        "shop": "和德昌股份有限公司苗栗頭份分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１３３５號"
-    },
-    {
-        "index": 478,
-        "shop": "虹宴餐飲股份有限公司極野宴苗栗尚順分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號"
-    },
-    {
-        "index": 479,
-        "shop": "好又香盒餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里２７鄰忠孝一路２０７號１樓"
-    },
-    {
-        "index": 480,
+        "index": 131,
         "shop": "財團法人基督教家庭教會",
         "category": [
             "餐飲"
@@ -5279,1001 +1962,221 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里９鄰大亨街４６號"
+        "market_address": "苗栗縣頭份市成功里９鄰大亨街４６號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 481,
-        "shop": "春旺自助餐",
+        "index": 132,
+        "shop": "王品餐飲股份有限公司聚鍋頭份尚順店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里９鄰中華路６０１號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰尚順路６１號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 482,
-        "shop": "美天美早餐店",
+        "index": 133,
+        "shop": "好日日餐飲事業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市濫坑里尖豐路７２９號"
+        "market_address": "苗栗縣頭份市東庄里６鄰昌隆一街３００號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 483,
-        "shop": "向陽房咖啡廚坊",
+        "index": 134,
+        "shop": "愉馨餐廳有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里４鄰文化街５巷４０號"
+        "market_address": "苗栗縣頭份市中興里９鄰中央路２９２號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 484,
-        "shop": "來來早點",
+        "index": 135,
+        "shop": "壹興餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里１０鄰中華路９５０號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 485,
-        "shop": "阿德牛肉小吃店",
+        "index": 136,
+        "shop": "郁軒餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里８鄰中正三路２５２號"
+        "market_address": "苗栗縣頭份市頭份里０１８鄰中正路２３６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 486,
-        "shop": "一坪地",
+        "index": 137,
+        "shop": "寶鑽餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里７鄰中華路１０８０號"
+        "market_address": "苗栗縣頭份市忠孝里１２鄰忠孝一路７３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 487,
-        "shop": "哪個雞蛋糕",
+        "index": 138,
+        "shop": "呀米餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里東民三街１５號前"
+        "market_address": "苗栗縣頭份市蟠桃里５鄰中央路５４５巷３３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 488,
-        "shop": "后庄餐飲",
+        "index": 139,
+        "shop": "都可茶飲",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１３５２地號（文化街與育英街入口處，后庄國小正門隔壁）"
+        "market_address": "苗栗縣頭份市忠孝里建國路５７號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 489,
-        "shop": "早餐工坊",
+        "index": 140,
+        "shop": "佳詅茶行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里００９鄰德義路４９號"
+        "market_address": "苗栗縣頭份市自強里４鄰仁愛路１０３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 490,
-        "shop": "橋下早餐店",
+        "index": 141,
+        "shop": "和德昌股份有限公司頭份大潤發門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖下里００１鄰尖下１０號前面"
+        "market_address": "苗栗縣頭份市東庄里自強路２３０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 491,
-        "shop": "鳳凰食堂",
+        "index": 142,
+        "shop": "樂瑋餐飲有限公司",
         "category": [
-            "夜市\/市場攤販",
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里仁愛段７０及７１地號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１７７號（１樓）",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 492,
-        "shop": "萬安當歸鴨肉",
+        "index": 143,
+        "shop": "天希國際有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００８鄰建國路４２號１樓"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街６號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 493,
-        "shop": "壹咖啡",
+        "index": 144,
+        "shop": "鍇迪餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里９鄰中華路９２３號"
+        "market_address": "苗栗縣頭份市建國里０１２鄰建國路１３２號一樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 494,
-        "shop": "李永達",
+        "index": 145,
+        "shop": "璽宴餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里００１鄰中華路１３３６號"
+        "market_address": "苗栗縣頭份市東庄里１８鄰東民路１８６號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 495,
-        "shop": "何信毅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰和平路２５０號"
-    },
-    {
-        "index": 496,
-        "shop": "林音彤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１１鄰中央路８４號"
-    },
-    {
-        "index": 497,
-        "shop": "金川麻辣燙",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路二段１３５號"
-    },
-    {
-        "index": 498,
-        "shop": "吳柏霖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里東民路１７９號旁"
-    },
-    {
-        "index": 499,
-        "shop": "陳仁政",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里００８鄰文化街１３２號"
-    },
-    {
-        "index": 500,
-        "shop": "秋枝嫩仙草",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市流東里０１５鄰雙喜街３巷６號"
-    },
-    {
-        "index": 501,
-        "shop": "黃聖偉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００６鄰信義路２７２號"
-    },
-    {
-        "index": 502,
-        "shop": "中華烤場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蘆竹里蘆竹湳段流水潭小段"
-    },
-    {
-        "index": 503,
-        "shop": "夯臭豆腐（頭份店）",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００６鄰信義路２７２號"
-    },
-    {
-        "index": 504,
-        "shop": "何彥臻",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國夜市"
-    },
-    {
-        "index": 505,
-        "shop": "周建助",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２０９號１樓"
-    },
-    {
-        "index": 506,
-        "shop": "孫宇辰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路二段１３５號"
-    },
-    {
-        "index": 507,
-        "shop": "范必明",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路二段１３５號"
-    },
-    {
-        "index": 508,
-        "shop": "彤小姐美式炸雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路二段１３５號"
-    },
-    {
-        "index": 509,
-        "shop": "川釜飲食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０２０鄰八德一路１４６號"
-    },
-    {
-        "index": 510,
-        "shop": "丫冰師",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１鄰信東路２６１號"
-    },
-    {
-        "index": 511,
-        "shop": "雅加達漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里５鄰中華路６７９號"
-    },
-    {
-        "index": 512,
-        "shop": "成記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市濫坑里１３鄰尖豊路８５２號"
-    },
-    {
-        "index": 513,
-        "shop": "盛平小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市斗煥里００３鄰中正二路１０５號１樓"
-    },
-    {
-        "index": 514,
-        "shop": "龍來熱炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路二段１３５號（後湖段１５７９地號）"
-    },
-    {
-        "index": 515,
-        "shop": "弘爺漢堡武昌店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０２２鄰武昌街４７號１樓"
-    },
-    {
-        "index": 516,
-        "shop": "一口香",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００１鄰和平路１０４號"
-    },
-    {
-        "index": 517,
-        "shop": "劉豬家老麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里００３鄰民族路６６號１樓"
-    },
-    {
-        "index": 518,
-        "shop": "今日早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里中華路９３６號"
-    },
-    {
-        "index": 519,
-        "shop": "辣房子臭豆腐小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里中華路１１５３號"
-    },
-    {
-        "index": 520,
-        "shop": "笑呵呵美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００４鄰中華路１０５５號"
-    },
-    {
-        "index": 521,
-        "shop": "麥媽媽飯糰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２１１－１號１樓"
-    },
-    {
-        "index": 522,
-        "shop": "美天美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里中華路１４２０號"
-    },
-    {
-        "index": 523,
-        "shop": "上好早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１４鄰忠孝一路６４號"
-    },
-    {
-        "index": 524,
-        "shop": "晨旭早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里９鄰中正路４號１樓"
-    },
-    {
-        "index": 525,
-        "shop": "禾亞越南河粉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里００１鄰中華路９０５號"
-    },
-    {
-        "index": 526,
-        "shop": "大碗公麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０２０鄰公園路６號"
-    },
-    {
-        "index": 527,
-        "shop": "譚豆乳雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里０１０鄰中華路１０２６號"
-    },
-    {
-        "index": 528,
-        "shop": "大阪滷味頭份店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２１１－３號"
-    },
-    {
-        "index": 529,
-        "shop": "喜樂小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１７０號１樓"
-    },
-    {
-        "index": 530,
-        "shop": "小朱小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民六街２１號１樓"
-    },
-    {
-        "index": 531,
-        "shop": "頭份阿力香雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２１１號１樓"
-    },
-    {
-        "index": 532,
-        "shop": "市場越南台灣小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里００２鄰自強路１４０號"
-    },
-    {
-        "index": 533,
-        "shop": "珊瑚豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里信東路二段１１８－１號"
-    },
-    {
-        "index": 534,
-        "shop": "佳佳肉粽",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１４鄰信東路１４７號１樓"
-    },
-    {
-        "index": 535,
-        "shop": "建國原汁牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１１鄰建國路９０號１樓"
-    },
-    {
-        "index": 536,
-        "shop": "頭份商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里００７鄰中正路１４６號"
-    },
-    {
-        "index": 537,
-        "shop": "頭份冰館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里０１１鄰東興路１５２號"
-    },
-    {
-        "index": 538,
-        "shop": "九湯屋（頭份店）",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００７鄰中華路９８８號１樓"
-    },
-    {
-        "index": 539,
-        "shop": "卡布里奇複合小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里０１２鄰東民路９３號"
-    },
-    {
-        "index": 540,
-        "shop": "暖心坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里０１８鄰東民路１７５號１樓"
-    },
-    {
-        "index": 541,
-        "shop": "紅保廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里００９鄰建國路二段１９６號１樓"
-    },
-    {
-        "index": 542,
-        "shop": "攤販",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里１１鄰中山路１３號"
-    },
-    {
-        "index": 543,
-        "shop": "中央大飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里９鄰中華路９４３號"
-    },
-    {
-        "index": 544,
-        "shop": "中港肉圓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里０１２鄰建國路１３６號１樓"
-    },
-    {
-        "index": 545,
-        "shop": "胖老爹美式炸雞－頭份店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００４鄰仁愛路１０８號"
-    },
-    {
-        "index": 546,
-        "shop": "三顧茅廬頭份中華店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里中華路９６６號１樓"
-    },
-    {
-        "index": 547,
-        "shop": "孝弘小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里中興路５００號對面"
-    },
-    {
-        "index": 548,
-        "shop": "紅艷漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里１０鄰中華路９４８號"
-    },
-    {
-        "index": 549,
-        "shop": "拉亞漢堡珊湖店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里親民路８號"
-    },
-    {
-        "index": 550,
-        "shop": "麗志早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里忠孝一路５９號"
-    },
-    {
-        "index": 551,
-        "shop": "有味來美食棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里南田街１５５號"
-    },
-    {
-        "index": 552,
-        "shop": "麥味登頭份成功店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里成功路１６號"
-    },
-    {
-        "index": 553,
-        "shop": "忠孝早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里忠孝一路７５號"
-    },
-    {
-        "index": 554,
-        "shop": "京華城早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里信三街２１號"
-    },
-    {
-        "index": 555,
-        "shop": "自強早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里００９鄰自強路二段６３３號１樓"
-    },
-    {
-        "index": 556,
-        "shop": "陽光早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市合興里信義路４６５號"
-    },
-    {
-        "index": 557,
-        "shop": "南庄手工麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里中山路９４號"
-    },
-    {
-        "index": 558,
-        "shop": "家廚房早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里０１６鄰建國路二段１９－３號旁"
-    },
-    {
-        "index": 559,
-        "shop": "古早味黑糖剉冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里信東路２８８―２號"
-    },
-    {
-        "index": 560,
-        "shop": "鄉親小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里０１１鄰文化街３８號"
-    },
-    {
-        "index": 561,
-        "shop": "田中小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市上興里６鄰水源路２２９巷８１號"
-    },
-    {
-        "index": 562,
-        "shop": "永和傳統早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里１０鄰建國路１５１號旁"
-    },
-    {
-        "index": 563,
-        "shop": "祥饌小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１２鄰文化街３２巷１５弄１７號３樓"
-    },
-    {
-        "index": 564,
-        "shop": "小頭家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１６鄰中央路３１號"
-    },
-    {
-        "index": 565,
-        "shop": "日初店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里和平路１３１號"
-    },
-    {
-        "index": 566,
-        "shop": "霸味薑母鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里３鄰自強路２２１號"
-    },
-    {
-        "index": 567,
-        "shop": "雅寧泰式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里忠孝一路６２號"
-    },
-    {
-        "index": 568,
-        "shop": "美味早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里永貞路一段２８１號"
-    },
-    {
-        "index": 569,
-        "shop": "大田客家美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里永貞路一段２８３號"
-    },
-    {
-        "index": 570,
-        "shop": "親民小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市珊湖里７鄰親民路２９號１樓"
-    },
-    {
-        "index": 571,
+        "index": 146,
         "shop": "建國冷飲站",
         "category": [
             "餐飲"
@@ -6281,252 +2184,406 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里１１鄰建國路１００號"
+        "market_address": "苗栗縣頭份市建國里１１鄰建國路１００號",
+        "pay_list": [
+            "街口",
+            "Pi 拍錢包",
+            "橘子支付",
+            "悠遊付"
+        ]
     },
     {
-        "index": 572,
-        "shop": "呷尚寶速食連鎖店",
+        "index": 147,
+        "shop": "赤將有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里６鄰信東路２８８號"
+        "market_address": "苗栗縣頭份市東庄里０１１鄰中央路９８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 573,
-        "shop": "上林美好美田寮店",
+        "index": 148,
+        "shop": "優優饗宴有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里５鄰民族路６７２號"
+        "market_address": "苗栗縣頭份市東庄里１８鄰尚順路５６號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 574,
-        "shop": "侑來小吃",
+        "index": 149,
+        "shop": "哈索儸企業社",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里民族路４５７號"
+        "market_address": "苗栗縣頭份市成功里００７鄰信東路３５０號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 575,
-        "shop": "老饕食坊",
+        "index": 150,
+        "shop": "呈宣商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里６鄰中央路２５６號"
+        "market_address": "苗栗縣頭份市文化里０１５鄰八德二路２７６號１樓",
+        "pay_list": [
+            "街口",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 576,
-        "shop": "京記茶坊冰城",
+        "index": 151,
+        "shop": "旭傑商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里１鄰信義路４２１號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民一街２號一樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 577,
-        "shop": "酒霸川味海鮮Ｂ９５",
+        "index": 152,
+        "shop": "邧炘商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里９鄰中央路３１６號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街１號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 578,
-        "shop": "鼎榮豐",
+        "index": 153,
+        "shop": "耶比精品咖啡",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里（頭份鎮蟠桃段後庄小段５７５地號）土地上"
+        "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街３號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 579,
-        "shop": "合記麵食",
+        "index": 154,
+        "shop": "欣桂竹園藝術餐廳",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里中正路１８號１樓"
+        "market_address": "苗栗縣頭份市中興里７鄰中興路４９９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 580,
-        "shop": "湯包小舖",
+        "index": 155,
+        "shop": "迷巴克飲品店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１２鄰中正路２３０號１樓"
+        "market_address": "苗栗縣頭份市山下里００９鄰建國路二段１３０號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 581,
-        "shop": "高品飲食店",
+        "index": 156,
+        "shop": "兆洋餐飲事業股份有限公司苗栗頭份分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里２鄰中華路１５３５號"
+        "market_address": "苗栗縣頭份市建國里００７鄰中華路１４１１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 582,
-        "shop": "第一香??魠魚??店",
+        "index": 157,
+        "shop": "和德昌股份有限公司苗栗頭份分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里０１４鄰信東路１８７號"
+        "market_address": "苗栗縣頭份市自強里０１７鄰中華路１３３５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 583,
-        "shop": "日香便當快餐",
+        "index": 158,
+        "shop": "和記小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里１５鄰自強路２段４６６號"
+        "market_address": "苗栗縣頭份市東庄里０１５鄰中央路１２５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 584,
-        "shop": "和香自助餐",
+        "index": 159,
+        "shop": "荷林飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里１２鄰中華路５２４號１樓"
+        "market_address": "苗栗縣頭份市東庄里１８鄰尚順路６０號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 585,
-        "shop": "悅子坊企業社",
+        "index": 160,
+        "shop": "陸德食品有限公司頭份分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１５鄰中央路１２５號"
+        "market_address": "苗栗縣頭份市自強里０１１鄰中華路１２１３號、１２１５號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 586,
-        "shop": "小豬很忙蔬果魯味－頭份店",
+        "index": 161,
+        "shop": "虹宴餐飲股份有限公司極野宴苗栗尚順分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里１０鄰建國路二段１３１號"
+        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 587,
-        "shop": "阿婆麵店",
+        "index": 162,
+        "shop": "自立飲食店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里００７鄰義民路１８號"
+        "market_address": "苗栗縣頭份市中興里２鄰中央路１５８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 588,
-        "shop": "安泰炸雞翅",
+        "index": 163,
+        "shop": "品閱團膳工廠",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里雙十街２巷８３號（中華市場Ａ００６０攤位）"
+        "market_address": "苗栗縣頭份市蘆竹里１６鄰工業路９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 589,
-        "shop": "自強鮮肉湯包",
+        "index": 164,
+        "shop": "吉村日式料理",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里１２鄰信東路１０４號"
+        "market_address": "苗栗縣頭份市東庄里１９鄰和平路３３８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 590,
-        "shop": "樂桃食品行",
+        "index": 165,
+        "shop": "炘盈發商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里自強路二段６３１號"
+        "market_address": "苗栗縣頭份市成功里０１１鄰建國路１７８號一樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 591,
-        "shop": "羊大王全羊料理",
+        "index": 166,
+        "shop": "洄饗商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里成功段１２６６地號（大亨路９８號旁）"
+        "market_address": "苗栗縣頭份市合興里１鄰中央路５５９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 592,
-        "shop": "古早味麵店",
+        "index": 167,
+        "shop": "饗亦樂餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里０１０鄰中山路７號"
+        "market_address": "苗栗縣頭份市建國里０１１鄰建國路１１８號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 593,
-        "shop": "大陸妹小吃店",
+        "index": 168,
+        "shop": "宗文冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里００７鄰中央路８９８號"
+        "market_address": "苗栗縣頭份市信義里９鄰信義路５５號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 594,
+        "index": 169,
+        "shop": "一鳴商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "頭份市",
+        "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段１２３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 170,
+        "shop": "王品餐飲股份有限公司西堤頭份尚順分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "頭份市",
+        "market_address": "苗栗縣頭份市東庄里尚順路７７號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 171,
+        "shop": "王品餐飲股份有限公司品田頭份尚順分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "頭份市",
+        "market_address": "苗栗縣頭份市東庄里尚順路８７號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 172,
         "shop": "早安早午餐",
         "category": [
             "餐飲"
@@ -6534,175 +2591,143 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里中華路１３７２號"
+        "market_address": "苗栗縣頭份市建國里中華路１３７２號",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 595,
-        "shop": "龍品港式燒臘",
+        "index": 173,
+        "shop": "樂玩實業股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里１鄰中正一路６１５號１樓"
+        "market_address": "苗栗縣頭份市田寮里２３鄰自強路二段５０２號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 596,
-        "shop": "八德小吃",
+        "index": 174,
+        "shop": "泰米爾股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里八德二路２７８號１樓"
+        "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 597,
-        "shop": "鄭記小吃",
+        "index": 175,
+        "shop": "八方雲集餐飲股份有限公司御廚頭份建國店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里忠孝二路１２５號"
+        "market_address": "苗栗縣頭份市忠孝里００１鄰建國路１０１號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 598,
-        "shop": "沛繡商行",
+        "index": 176,
+        "shop": "期盼時光股份有限公司尚順店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里０１０鄰建國路２０７號"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街１２號一樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 599,
-        "shop": "越南河粉",
+        "index": 177,
+        "shop": "擇膳顧食有限公司頭份營業所",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里東興路３１號１樓"
+        "market_address": "苗栗縣頭份市建國里７鄰中華路１３５３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 600,
-        "shop": "有家複合式小舘",
+        "index": 178,
+        "shop": "唯賀國際餐飲股份有限公司苗栗頭份門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里大成街１９號１樓"
+        "market_address": "苗栗縣頭份市中興里６鄰中央路２５０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 601,
-        "shop": "佳味美食坊",
+        "index": 179,
+        "shop": "三澧企業股份有限公司中央二店分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里００６鄰信東路３１２號１樓"
+        "market_address": "苗栗縣頭份市東庄里中央路１０３號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 602,
-        "shop": "昭君小吃",
+        "index": 180,
+        "shop": "小蒙牛股份有限公司小蒙牛頭份門市部",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里０１１鄰銀河路９６－３號"
+        "market_address": "苗栗縣頭份市東庄里１５鄰中央路１０３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 603,
-        "shop": "銀河早餐",
+        "index": 181,
+        "shop": "臻淬有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里銀河路１０２號（騎樓）"
+        "market_address": "苗栗縣頭份市東庄里０１８鄰東民二街２０號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 604,
-        "shop": "越南口味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里信東路６１號"
-    },
-    {
-        "index": 605,
-        "shop": "港式鮮肉包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里中華市場外攤第１２２號（爲恭醫院對面）"
-    },
-    {
-        "index": 606,
-        "shop": "竹野頭份快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里仁愛路９２號"
-    },
-    {
-        "index": 607,
-        "shop": "Ｈａｉ－ｃｈｉ－Ｅｍ",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里０１４鄰中華路１１８６號"
-    },
-    {
-        "index": 608,
-        "shop": "豆腐殿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里信義路１０８號"
-    },
-    {
-        "index": 609,
-        "shop": "老店私房菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００２鄰中正路２９７號"
-    },
-    {
-        "index": 610,
+        "index": 182,
         "shop": "中正冷飲店",
         "category": [
             "餐飲"
@@ -6710,230 +2735,16 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市新華里３鄰中正一路５０７號"
+        "market_address": "苗栗縣頭份市新華里３鄰中正一路５０７號",
+        "pay_list": [
+            "街口",
+            "Pi 拍錢包",
+            "橘子支付",
+            "悠遊付"
+        ]
     },
     {
-        "index": 611,
-        "shop": "天天早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里１４鄰仁愛路１４１巷１１號"
-    },
-    {
-        "index": 612,
-        "shop": "湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里１１鄰建國路１８８號"
-    },
-    {
-        "index": 613,
-        "shop": "凰榮小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市和平里８鄰中華路９１２號（騎樓）"
-    },
-    {
-        "index": 614,
-        "shop": "新竹夜市張鴨肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１１鄰中華路１１４９號"
-    },
-    {
-        "index": 615,
-        "shop": "百鄉冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里７鄰中華路９８４號"
-    },
-    {
-        "index": 616,
-        "shop": "阿呆鴨肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里３鄰中華路１１２９號"
-    },
-    {
-        "index": 617,
-        "shop": "美加美早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里民族路８００－２號"
-    },
-    {
-        "index": 618,
-        "shop": "天橋小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１１鄰中華路１１４７號"
-    },
-    {
-        "index": 619,
-        "shop": "良嬌自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里１１鄰濱江路３號"
-    },
-    {
-        "index": 620,
-        "shop": "上公園臭豆腐專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里７鄰中正路１９５號"
-    },
-    {
-        "index": 621,
-        "shop": "陳記火??",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里５鄰自強路１７８號１樓"
-    },
-    {
-        "index": 622,
-        "shop": "陳媽媽早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里南田街９３號"
-    },
-    {
-        "index": 623,
-        "shop": "大酒堡啤酒城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里１鄰中央路及信義路口"
-    },
-    {
-        "index": 624,
-        "shop": "雅加達速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖山里７鄰中華路９１號"
-    },
-    {
-        "index": 625,
-        "shop": "金華牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市建國里建國路１１２號"
-    },
-    {
-        "index": 626,
-        "shop": "大茶杯冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１４鄰信東路１４５號"
-    },
-    {
-        "index": 627,
-        "shop": "雅加達早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里信東路１６９號"
-    },
-    {
-        "index": 628,
-        "shop": "美天美早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里自強路２段５號"
-    },
-    {
-        "index": 629,
-        "shop": "七里香烤肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里１４鄰信東路１８３號"
-    },
-    {
-        "index": 630,
-        "shop": "烏龍Ｑ",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民生里０１１鄰銀河南路１０６號"
-    },
-    {
-        "index": 631,
+        "index": 183,
         "shop": "帝王薑母鴨",
         "category": [
             "餐飲"
@@ -6941,413 +2752,9 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "頭份市",
-        "market_address": "苗栗縣頭份市東庄里自強路１９９號"
-    },
-    {
-        "index": 632,
-        "shop": "左鄰台南担仔麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里９鄰和平路４２號"
-    },
-    {
-        "index": 633,
-        "shop": "士林豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里９鄰民族路７７號"
-    },
-    {
-        "index": 634,
-        "shop": "小東方飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰仁愛路９９號"
-    },
-    {
-        "index": 635,
-        "shop": "美食屋漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰仁愛路９４號"
-    },
-    {
-        "index": 636,
-        "shop": "後庄冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里６鄰文化街３９號"
-    },
-    {
-        "index": 637,
-        "shop": "好口味早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里６鄰文化街７３號"
-    },
-    {
-        "index": 638,
-        "shop": "雅加達早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里６鄰文化街７１號１樓"
-    },
-    {
-        "index": 639,
-        "shop": "旺駿鵝肉專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里００７鄰中正路１９７號"
-    },
-    {
-        "index": 640,
-        "shop": "庭祐三媽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里８鄰信東路２５０號"
-    },
-    {
-        "index": 641,
-        "shop": "麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里３鄰文化街９５號"
-    },
-    {
-        "index": 642,
-        "shop": "寶島美亦美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市尖下里２鄰２５號旁"
-    },
-    {
-        "index": 643,
-        "shop": "南庄手工麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里７鄰中山路９４號"
-    },
-    {
-        "index": 644,
-        "shop": "三十七度咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里９鄰中華路９６２號"
-    },
-    {
-        "index": 645,
-        "shop": "聞也香小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市中興里１２鄰中央路４１８號"
-    },
-    {
-        "index": 646,
-        "shop": "領鮮自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里４鄰中華路１０２７號"
-    },
-    {
-        "index": 647,
-        "shop": "麵食小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里９鄰中山路６８號"
-    },
-    {
-        "index": 648,
-        "shop": "巨堡速食連鎖店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里日新街２９號"
-    },
-    {
-        "index": 649,
-        "shop": "香香小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市信義里信義路７１號"
-    },
-    {
-        "index": 650,
-        "shop": "美十美忠孝店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市忠孝里３鄰五福街２１號"
-    },
-    {
-        "index": 651,
-        "shop": "沙茶牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里民族路８３號"
-    },
-    {
-        "index": 652,
-        "shop": "巧沛東方美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里００９鄰民族路６５號"
-    },
-    {
-        "index": 653,
-        "shop": "旺旺補給站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里中華路９４１號"
-    },
-    {
-        "index": 654,
-        "shop": "阿秀嫂肉粽",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市頭份里中正路２４７巷１號"
-    },
-    {
-        "index": 655,
-        "shop": "阿棟師的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市仁愛里３鄰中山路１６６號１樓"
-    },
-    {
-        "index": 656,
-        "shop": "百陽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市山下里建國路２段１９號１樓"
-    },
-    {
-        "index": 657,
-        "shop": "大嶼山餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市蟠桃里中央路１７５號（左側）"
-    },
-    {
-        "index": 658,
-        "shop": "海上鮮小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市田寮里９鄰自強路２段５４５號"
-    },
-    {
-        "index": 659,
-        "shop": "庭箏三媽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民族里２鄰中華路９６５號"
-    },
-    {
-        "index": 660,
-        "shop": "古早味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市民權里東興路８９號"
-    },
-    {
-        "index": 661,
-        "shop": "中壢老字號牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里１６鄰自強路６號"
-    },
-    {
-        "index": 662,
-        "shop": "瑞鱗美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里２鄰信義路４２６－１號"
-    },
-    {
-        "index": 663,
-        "shop": "美之晨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里文化街６之１號"
-    },
-    {
-        "index": 664,
-        "shop": "香Ｑ饅頭店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市文化里５鄰文化街２號"
-    },
-    {
-        "index": 665,
-        "shop": "美味早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市後庄里３５鄰復興街１３１號"
-    },
-    {
-        "index": 666,
-        "shop": "美美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市自強里１１鄰信東路７４號"
-    },
-    {
-        "index": 667,
-        "shop": "美天美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里１０鄰建國路１９７號"
-    },
-    {
-        "index": 668,
-        "shop": "弘爺漢堡上上店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "頭份市",
-        "market_address": "苗栗縣頭份市成功里建國路１８５號"
+        "market_address": "苗栗縣頭份市東庄里自強路１９９號",
+        "pay_list": [
+            "街口"
+        ]
     }
 ]

@@ -2,10 +2,15 @@
     {
         "index": 1,
         "shop": "利百代彩筆文創館",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "桃園區",
-        "market_address": "桃園市桃園區大樹里大誠路2號"
+        "market_address": "桃園市桃園區大樹里大誠路2號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

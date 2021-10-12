@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "巧雅早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔東路２０８號"
-    },
-    {
-        "index": 2,
         "shop": "春境庭園咖啡",
         "category": [
             "餐飲"
@@ -19,21 +8,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區茄苳里柯湳一街８１號"
+        "market_address": "新竹市香山區茄苳里柯湳一街８１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 3,
-        "shop": "蚊子飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔東路７１號１樓"
-    },
-    {
-        "index": 4,
+        "index": 2,
         "shop": "吉霖餐飲",
         "category": [
             "餐飲"
@@ -41,21 +23,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８１２號"
+        "market_address": "新竹市香山區茄苳里五福路二段８１２號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 5,
-        "shop": "嘉園自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香北路１０８號"
-    },
-    {
-        "index": 6,
+        "index": 3,
         "shop": "米漿小吃舖",
         "category": [
             "餐飲"
@@ -63,10 +38,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路１０３―５號"
+        "market_address": "新竹市香山區香山里大庄路１０３―５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 7,
+        "index": 4,
         "shop": "食在炒煎炸餐坊",
         "category": [
             "餐飲"
@@ -74,153 +52,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１４５號"
+        "market_address": "新竹市香山區香山里香北路１４５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 8,
-        "shop": "牛當家商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５６―２號"
-    },
-    {
-        "index": 9,
-        "shop": "皇膳快炒便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８０８號"
-    },
-    {
-        "index": 10,
-        "shop": "柬單生活早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎林里延平路二段７３號"
-    },
-    {
-        "index": 11,
-        "shop": "魚升佳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷３６號"
-    },
-    {
-        "index": 12,
-        "shop": "香味便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里五福路一段１１０號"
-    },
-    {
-        "index": 13,
-        "shop": "謐義手作餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里花園新城一街７８號一樓"
-    },
-    {
-        "index": 14,
-        "shop": "郝飽食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔路３９６號"
-    },
-    {
-        "index": 15,
-        "shop": "清澄找食早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段９２巷３０號"
-    },
-    {
-        "index": 16,
-        "shop": "小貳食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段９２巷２０號"
-    },
-    {
-        "index": 17,
-        "shop": "橋頭飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５００號一樓"
-    },
-    {
-        "index": 18,
-        "shop": "依柔手作食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂福里中山路６４６號"
-    },
-    {
-        "index": 19,
-        "shop": "潘家三元水餃麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段５６０號一樓"
-    },
-    {
-        "index": 20,
-        "shop": "達伶商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段３６８號一樓"
-    },
-    {
-        "index": 21,
+        "index": 5,
         "shop": "帕森義大利麵",
         "category": [
             "餐飲"
@@ -228,10 +66,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
+        "market_address": "新竹市香山區東香里五福路二段７０７號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
     },
     {
-        "index": 22,
+        "index": 6,
         "shop": "苔媚海苔飯卷",
         "category": [
             "餐飲"
@@ -239,120 +81,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區中埔里華北路７３號一樓"
+        "market_address": "新竹市香山區中埔里華北路７３號一樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 23,
-        "shop": "愛幸福早午餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段３０２號一樓"
-    },
-    {
-        "index": 24,
-        "shop": "麗督小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里牛埔東路１５９號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "燕閔商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１８７號"
-    },
-    {
-        "index": 26,
-        "shop": "珍程商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１７３號１樓"
-    },
-    {
-        "index": 27,
-        "shop": "泰極小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路２１２號１樓"
-    },
-    {
-        "index": 28,
-        "shop": "飪蒸飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里至善街３１巷２３號"
-    },
-    {
-        "index": 29,
-        "shop": "享喫就來小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７３５號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "一碗香粥飯麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里瑞光街９號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "方霖小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路６５號"
-    },
-    {
-        "index": 32,
-        "shop": "北方味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區朝山里中華路五段７５８號１樓"
-    },
-    {
-        "index": 33,
+        "index": 7,
         "shop": "緗緣繕小吃店",
         "category": [
             "餐飲"
@@ -360,10 +95,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區茄苳里明德路１９號"
+        "market_address": "新竹市香山區茄苳里明德路１９號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 34,
+        "index": 8,
         "shop": "源鍋商行",
         "category": [
             "餐飲"
@@ -371,10 +111,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路７９號一樓"
+        "market_address": "新竹市香山區頂埔里牛埔路７９號一樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 35,
+        "index": 9,
         "shop": "胖丸小吃店",
         "category": [
             "餐飲"
@@ -382,32 +126,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔東路６５號一樓"
+        "market_address": "新竹市香山區頂埔里牛埔東路６５號一樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 36,
-        "shop": "復興雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區鹽水里中華路六段５６號"
-    },
-    {
-        "index": 37,
-        "shop": "小米舖食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 38,
+        "index": 10,
         "shop": "開心紅豆餅",
         "category": [
             "餐飲"
@@ -415,32 +142,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５２０號１樓"
+        "market_address": "新竹市香山區頂埔里中山路５２０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 39,
-        "shop": "三益飯盒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里明德路５２號"
-    },
-    {
-        "index": 40,
-        "shop": "元培三柒五早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３７５號一樓"
-    },
-    {
-        "index": 41,
+        "index": 11,
         "shop": "杰豐茶飲專賣店",
         "category": [
             "餐飲"
@@ -448,32 +157,18 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５６―５號"
+        "market_address": "新竹市香山區香山里大庄路５６―５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 42,
-        "shop": "青竒創新料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段４１１巷５弄２號一樓"
-    },
-    {
-        "index": 43,
-        "shop": "魚骨頭餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路２８７號１樓"
-    },
-    {
-        "index": 44,
+        "index": 12,
         "shop": "香草微風花園廚房",
         "category": [
             "餐飲"
@@ -481,32 +176,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段４５０號１樓"
+        "market_address": "新竹市香山區虎山里延平路二段４５０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 45,
-        "shop": "上禾家小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５６―６號一樓"
-    },
-    {
-        "index": 46,
-        "shop": "彭記黑白切小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔南路５８號"
-    },
-    {
-        "index": 47,
+        "index": 13,
         "shop": "珍棻商行",
         "category": [
             "餐飲"
@@ -514,142 +190,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路２３８號１樓"
+        "market_address": "新竹市香山區香山里香北路２３８號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 48,
-        "shop": "舒醒熊愛餃局小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中華路四段１７６號一樓"
-    },
-    {
-        "index": 49,
-        "shop": "大庄快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路８０號"
-    },
-    {
-        "index": 50,
-        "shop": "上畝食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎林里延平路二段２６６號１樓"
-    },
-    {
-        "index": 51,
-        "shop": "美味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號生活廣場"
-    },
-    {
-        "index": 52,
-        "shop": "雞腿王焗烤店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區樹下里中華路四段５９２號"
-    },
-    {
-        "index": 53,
-        "shop": "廣龍珍饌宴會館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段６７８號右邊"
-    },
-    {
-        "index": 54,
-        "shop": "百膳小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１７２―５號"
-    },
-    {
-        "index": 55,
-        "shop": "昱冠商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段７１７―１號１樓"
-    },
-    {
-        "index": 56,
-        "shop": "佳味快餐便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區海山里長興街４巷１６號"
-    },
-    {
-        "index": 57,
-        "shop": "侑曼自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
-    },
-    {
-        "index": 58,
-        "shop": "晴禾食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里富群街２―１號３樓之１"
-    },
-    {
-        "index": 59,
-        "shop": "沒關西關東煮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１１１號"
-    },
-    {
-        "index": 60,
+        "index": 14,
         "shop": "香北餐飲小館",
         "category": [
             "餐飲"
@@ -657,21 +204,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路２５５號１樓"
+        "market_address": "新竹市香山區香山里香北路２５５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 61,
-        "shop": "早點攻略蛋餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里東華路７９號１樓"
-    },
-    {
-        "index": 62,
+        "index": 15,
         "shop": "翊順興商行",
         "category": [
             "餐飲"
@@ -679,32 +218,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔東路４５號"
+        "market_address": "新竹市香山區頂埔里牛埔東路４５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 63,
-        "shop": "橘子餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５０６號１樓"
-    },
-    {
-        "index": 64,
-        "shop": "瑪妮韓國料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里東華路９１號１樓"
-    },
-    {
-        "index": 65,
+        "index": 16,
         "shop": "米皮樂熔岩吐司坊",
         "category": [
             "餐飲"
@@ -712,21 +232,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路９３號１樓"
+        "market_address": "新竹市香山區內湖里內湖路９３號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 66,
-        "shop": "艾菲薾商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里牛埔東路１７７號"
-    },
-    {
-        "index": 67,
+        "index": 17,
         "shop": "羽宸商行",
         "category": [
             "餐飲"
@@ -734,54 +246,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區內湖里中華路六段２０５巷３６號１樓"
+        "market_address": "新竹市香山區內湖里中華路六段２０５巷３６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 68,
-        "shop": "千金餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１３６號１樓"
-    },
-    {
-        "index": 69,
-        "shop": "天宇冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路３２號１樓"
-    },
-    {
-        "index": 70,
-        "shop": "立山小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路７７號１樓"
-    },
-    {
-        "index": 71,
-        "shop": "米米小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔東路１５號１樓"
-    },
-    {
-        "index": 72,
+        "index": 18,
         "shop": "慶璽牛肉麵店",
         "category": [
             "餐飲"
@@ -789,10 +261,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路２９７號１樓"
+        "market_address": "新竹市香山區牛埔里牛埔東路２９７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 73,
+        "index": 19,
         "shop": "旺成食品行",
         "category": [
             "餐飲"
@@ -800,43 +275,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區五福路二段７０７號"
+        "market_address": "新竹市香山區五福路二段７０７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 74,
-        "shop": "長憶餐飲商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８０２號"
-    },
-    {
-        "index": 75,
-        "shop": "三姓橋炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里元培街７２號１樓"
-    },
-    {
-        "index": 76,
-        "shop": "海紅餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里明德路３２號"
-    },
-    {
-        "index": 77,
+        "index": 20,
         "shop": "御膳房餐館",
         "category": [
             "餐飲"
@@ -844,10 +289,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
+        "market_address": "新竹市香山區東香里五福路二段７０７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 78,
+        "index": 21,
         "shop": "蔡叔叔牛肉麵",
         "category": [
             "餐飲"
@@ -855,120 +303,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８２６號１樓"
+        "market_address": "新竹市香山區茄苳里五福路二段８２６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 79,
-        "shop": "峇里商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路１６２號"
-    },
-    {
-        "index": 80,
-        "shop": "美味漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里元培街１１０號１樓"
-    },
-    {
-        "index": 81,
-        "shop": "羽綾飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路１４０號１樓"
-    },
-    {
-        "index": 82,
-        "shop": "倆隻魚食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大庄里香北一路１６９號１樓"
-    },
-    {
-        "index": 83,
-        "shop": "華江早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里華江街１３４號１樓"
-    },
-    {
-        "index": 84,
-        "shop": "剛剛好食商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區鹽水里長興街１８５號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "古姊姊飯糰屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段７３２號"
-    },
-    {
-        "index": 86,
-        "shop": "新豐鮮一鍋火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８００號１樓"
-    },
-    {
-        "index": 87,
-        "shop": "景觀客家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路６７巷５３號"
-    },
-    {
-        "index": 88,
-        "shop": "夏卡司早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路２５１巷３６號"
-    },
-    {
-        "index": 89,
+        "index": 22,
         "shop": "胡稼莊美食",
         "category": [
             "餐飲"
@@ -976,10 +317,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０６號"
+        "market_address": "新竹市香山區香村里元培街３０６號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 90,
+        "index": 23,
         "shop": "金簡小吃店",
         "category": [
             "餐飲"
@@ -987,10 +331,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０６號"
+        "market_address": "新竹市香山區香村里元培街３０６號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 91,
+        "index": 24,
         "shop": "鍾記蔥抓餅",
         "category": [
             "餐飲"
@@ -998,21 +345,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０６號"
+        "market_address": "新竹市香山區香村里元培街３０６號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 92,
-        "shop": "鷹王肉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段３５０號"
-    },
-    {
-        "index": 93,
+        "index": 25,
         "shop": "一街小吃店",
         "category": [
             "餐飲"
@@ -1020,10 +359,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路２６１號１樓"
+        "market_address": "新竹市香山區牛埔里牛埔東路２６１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 94,
+        "index": 26,
         "shop": "恒峯餐飲",
         "category": [
             "餐飲"
@@ -1031,99 +374,31 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔路４０１號１樓"
+        "market_address": "新竹市香山區牛埔里牛埔路４０１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 95,
-        "shop": "早安早點店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎林里延平路二段１１號"
-    },
-    {
-        "index": 96,
-        "shop": "九兆水餃麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路５１號１樓"
-    },
-    {
-        "index": 97,
-        "shop": "吽鍋精緻養生鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里牛埔東路１５６號１樓"
-    },
-    {
-        "index": 98,
-        "shop": "大庄香雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路７４號１樓"
-    },
-    {
-        "index": 99,
-        "shop": "頂好包子",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北一路３６號"
-    },
-    {
-        "index": 100,
-        "shop": "彭彭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里華江街４７巷５５號１樓"
-    },
-    {
-        "index": 101,
-        "shop": "黑白早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里元培街１１２號"
-    },
-    {
-        "index": 102,
+        "index": 27,
         "shop": "佳呈商行",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段５６８號１樓"
+        "market_address": "新竹市香山區牛埔里中華路四段５６８號１樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 103,
+        "index": 28,
         "shop": "茂昌草本茶飲",
         "category": [
             "餐飲"
@@ -1131,10 +406,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路３１５號旁邊"
+        "market_address": "新竹市香山區牛埔里牛埔東路３１５號旁邊",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 104,
+        "index": 29,
         "shop": "全羅道韓式料理",
         "category": [
             "餐飲"
@@ -1142,87 +420,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１８號１樓"
+        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 105,
-        "shop": "丙申商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大庄里香北一路１１７號"
-    },
-    {
-        "index": 106,
-        "shop": "欣來快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔路４２９號１樓"
-    },
-    {
-        "index": 107,
-        "shop": "鐵三角碳烤吐司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里華江街３９巷１６號１樓"
-    },
-    {
-        "index": 108,
-        "shop": "飯飯美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１２０巷３號６樓之１"
-    },
-    {
-        "index": 109,
-        "shop": "洛山風土雞城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里東香路一段６１－１號"
-    },
-    {
-        "index": 110,
-        "shop": "滿足早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里東華路９７號１樓"
-    },
-    {
-        "index": 111,
-        "shop": "三輪車小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里中華路五段２０９號"
-    },
-    {
-        "index": 112,
+        "index": 30,
         "shop": "慈馨美食",
         "category": [
             "餐飲"
@@ -1230,142 +434,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
+        "market_address": "新竹市香山區東香里五福路二段７０７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 113,
-        "shop": "田園自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區樹下里牛埔南路５６０號"
-    },
-    {
-        "index": 114,
-        "shop": "內湖飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１１２號"
-    },
-    {
-        "index": 115,
-        "shop": "應時豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔路４８４號"
-    },
-    {
-        "index": 116,
-        "shop": "福隆行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區樹下里中華路４段５７０號"
-    },
-    {
-        "index": 117,
-        "shop": "蚵舉壯元餐飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區美山里中華路五段３２２號１樓"
-    },
-    {
-        "index": 118,
-        "shop": "晨光早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路４６號"
-    },
-    {
-        "index": 119,
-        "shop": "元富霸王豬腳專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１５８號１樓"
-    },
-    {
-        "index": 120,
-        "shop": "合家自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１５６號１樓"
-    },
-    {
-        "index": 121,
-        "shop": "竹香園精緻美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１１６號１樓"
-    },
-    {
-        "index": 122,
-        "shop": "美生活早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔北路２８號１號"
-    },
-    {
-        "index": 123,
-        "shop": "阿嬸泰式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路３１５號"
-    },
-    {
-        "index": 124,
-        "shop": "富春便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎林里延平路二段１５號"
-    },
-    {
-        "index": 125,
+        "index": 31,
         "shop": "劍南春小吃店",
         "category": [
             "餐飲"
@@ -1373,10 +448,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１號１樓"
+        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 126,
+        "index": 32,
         "shop": "淳盈飲品",
         "category": [
             "餐飲"
@@ -1384,10 +463,16 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５４號１樓"
+        "market_address": "新竹市香山區香山里大庄路５４號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 127,
+        "index": 33,
         "shop": "食在泰讚小吃店",
         "category": [
             "餐飲"
@@ -1395,109 +480,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路６８號１樓"
+        "market_address": "新竹市香山區香山里大庄路６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 128,
-        "shop": "冠味飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５３０號"
-    },
-    {
-        "index": 129,
-        "shop": "甜維財商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段９２巷１６弄１８號９樓"
-    },
-    {
-        "index": 130,
-        "shop": "夏可咖啡簡餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里華北路１１５號１樓"
-    },
-    {
-        "index": 131,
-        "shop": "尼好義大利麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段７２２號"
-    },
-    {
-        "index": 132,
-        "shop": "大庄早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路７６號１樓"
-    },
-    {
-        "index": 133,
-        "shop": "得力實業商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區鹽水里中華路六段１２３號"
-    },
-    {
-        "index": 134,
-        "shop": "五八八小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路２０６號１樓"
-    },
-    {
-        "index": 135,
-        "shop": "吉園快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０２號"
-    },
-    {
-        "index": 136,
-        "shop": "阿根五福早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段７８６號１樓"
-    },
-    {
-        "index": 137,
+        "index": 34,
         "shop": "佳林鐵板燒",
         "category": [
             "餐飲"
@@ -1505,87 +495,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路３６號１樓"
+        "market_address": "新竹市香山區香山里大庄路３６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 138,
-        "shop": "揚欣小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路９６號１樓"
-    },
-    {
-        "index": 139,
-        "shop": "聯莊小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１６０號１樓"
-    },
-    {
-        "index": 140,
-        "shop": "松之屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１０８－１號"
-    },
-    {
-        "index": 141,
-        "shop": "殷家庄餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷７號"
-    },
-    {
-        "index": 142,
-        "shop": "香山飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區朝山里中華路五段７５０號一樓"
-    },
-    {
-        "index": 143,
-        "shop": "江林小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路３２８號１樓"
-    },
-    {
-        "index": 144,
-        "shop": "欣記快炒麵飯粥館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔路４３９號１樓"
-    },
-    {
-        "index": 145,
+        "index": 35,
         "shop": "希綺商行",
         "category": [
             "餐飲"
@@ -1593,21 +509,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１０２號１樓"
+        "market_address": "新竹市香山區內湖里內湖路１０２號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 146,
-        "shop": "南豐小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區南隘里南隘路二段１５１巷１５號一樓"
-    },
-    {
-        "index": 147,
+        "index": 36,
         "shop": "喜悅餐坊",
         "category": [
             "餐飲"
@@ -1615,10 +525,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０６號"
+        "market_address": "新竹市香山區香村里元培街３０６號",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 148,
+        "index": 37,
         "shop": "千喜小吃店",
         "category": [
             "餐飲"
@@ -1626,10 +540,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段６８３號"
+        "market_address": "新竹市香山區虎山里延平路二段６８３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 149,
+        "index": 38,
         "shop": "銘品商行",
         "category": [
             "餐飲"
@@ -1637,65 +554,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區內湖里中華路六段２２６巷２弄８號１樓"
+        "market_address": "新竹市香山區內湖里中華路六段２２６巷２弄８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 150,
-        "shop": "慈恩素食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 151,
-        "shop": "雲來蔬食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 152,
-        "shop": "承隆小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１７０號１樓"
-    },
-    {
-        "index": 153,
-        "shop": "享味食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里瑞光街３７號"
-    },
-    {
-        "index": 154,
-        "shop": "龍湖飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里中華路六段３３７巷８號１樓"
-    },
-    {
-        "index": 155,
+        "index": 39,
         "shop": "永頡商行",
         "category": [
             "餐飲"
@@ -1703,142 +568,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔路４６６號"
+        "market_address": "新竹市香山區埔前里牛埔路４６６號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 156,
-        "shop": "義麵吧國際美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路１２８號１樓"
-    },
-    {
-        "index": 157,
-        "shop": "日晴小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂福里中山路６４０巷２３９號"
-    },
-    {
-        "index": 158,
-        "shop": "勁風麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路２１１號"
-    },
-    {
-        "index": 159,
-        "shop": "柴寮披薩店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３２３巷５號"
-    },
-    {
-        "index": 160,
-        "shop": "美香圓早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里明德路１８號１樓"
-    },
-    {
-        "index": 161,
-        "shop": "吉登堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里３鄰牛埔路４３８號１樓"
-    },
-    {
-        "index": 162,
-        "shop": "小谷麵食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街２７８號"
-    },
-    {
-        "index": 163,
-        "shop": "滋香餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 164,
-        "shop": "御珍園自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 165,
-        "shop": "天津蔥抓餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 166,
-        "shop": "活力早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中隘里中華路６段６８１號１樓"
-    },
-    {
-        "index": 167,
-        "shop": "喝了梅鮮果茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里玄奘路４８號"
-    },
-    {
-        "index": 168,
+        "index": 40,
         "shop": "友成餐飲企業社",
         "category": [
             "餐飲"
@@ -1846,142 +584,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路７６號１樓"
+        "market_address": "新竹市香山區香山里香北路７６號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 169,
-        "shop": "鳳麟粥飯麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大庄里大庄路７５號"
-    },
-    {
-        "index": 170,
-        "shop": "協盈食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里芝柏三街５７號１樓"
-    },
-    {
-        "index": 171,
-        "shop": "妮好活力吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街２７７號１樓"
-    },
-    {
-        "index": 172,
-        "shop": "小叮噹漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３２７―１號"
-    },
-    {
-        "index": 173,
-        "shop": "香山牧場餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１８８―１號"
-    },
-    {
-        "index": 174,
-        "shop": "十二肉肉咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１４７號１樓"
-    },
-    {
-        "index": 175,
-        "shop": "內湖冰菓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１１８號１樓"
-    },
-    {
-        "index": 176,
-        "shop": "天府之國麻辣滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路７１號"
-    },
-    {
-        "index": 177,
-        "shop": "好口味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段３３１巷５號"
-    },
-    {
-        "index": 178,
-        "shop": "榮炳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路１４５－８號"
-    },
-    {
-        "index": 179,
-        "shop": "金鍆排骨專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１０號１樓"
-    },
-    {
-        "index": 180,
-        "shop": "湘廚小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔路４１０號一樓"
-    },
-    {
-        "index": 181,
+        "index": 41,
         "shop": "吉可生活飲品",
         "category": [
             "餐飲"
@@ -1989,66 +598,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７１９號"
+        "market_address": "新竹市香山區東香里五福路二段７１９號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 182,
-        "shop": "秋葵和風御飯團",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路１７２號"
-    },
-    {
-        "index": 183,
-        "shop": "饌鮮現泡茶",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區朝山里中華路５段４２０巷１６６弄１４號１樓"
-    },
-    {
-        "index": 184,
-        "shop": "松旺客家大湯圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大庄路１３６號"
-    },
-    {
-        "index": 185,
-        "shop": "好知味自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔路１４８―２號"
-    },
-    {
-        "index": 186,
-        "shop": "妮子義式廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖路８２號１樓"
-    },
-    {
-        "index": 187,
+        "index": 42,
         "shop": "茹漾商行",
         "category": [
             "餐飲"
@@ -2056,43 +614,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區大庄路６３號"
+        "market_address": "新竹市香山區大庄路６３號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 188,
-        "shop": "旭昇小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７２３號１樓"
-    },
-    {
-        "index": 189,
-        "shop": "美美早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街２７６―２號１樓"
-    },
-    {
-        "index": 190,
-        "shop": "三姓橋魷魚粳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區樹下里中華路４段５７２號１樓"
-    },
-    {
-        "index": 191,
+        "index": 43,
         "shop": "都城隍廟埕翁記滷肉飯",
         "category": [
             "餐飲"
@@ -2100,21 +630,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里牛埔路８號１樓"
+        "market_address": "新竹市香山區頂埔里牛埔路８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 192,
-        "shop": "美華泰國小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里３鄰牛埔路３５８號１樓"
-    },
-    {
-        "index": 193,
+        "index": 44,
         "shop": "香德小吃店",
         "category": [
             "餐飲"
@@ -2122,43 +644,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５４－１號"
+        "market_address": "新竹市香山區香山里大庄路５４－１號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 194,
-        "shop": "弄味飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段９２巷５６號１樓"
-    },
-    {
-        "index": 195,
-        "shop": "佳珍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１２１號"
-    },
-    {
-        "index": 196,
-        "shop": "香味王快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路５９號"
-    },
-    {
-        "index": 197,
+        "index": 45,
         "shop": "果腹之家",
         "category": [
             "餐飲"
@@ -2166,65 +658,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區明德路２０號１樓"
+        "market_address": "新竹市香山區明德路２０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 198,
-        "shop": "車站早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖路４１號"
-    },
-    {
-        "index": 199,
-        "shop": "上味飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中隘里中華路六段６１１號"
-    },
-    {
-        "index": 200,
-        "shop": "巧品蛋餅之家",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區港南里９鄰延平路２段１４５８號"
-    },
-    {
-        "index": 201,
-        "shop": "冰王咖啡奶茶專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷８號１樓"
-    },
-    {
-        "index": 202,
-        "shop": "鳳珍行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂福里中山路６４０巷１５弄３號１樓"
-    },
-    {
-        "index": 203,
+        "index": 46,
         "shop": "大眾小吃店",
         "category": [
             "餐飲"
@@ -2232,32 +672,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區虎山里１１鄰延平路２段３４２號"
+        "market_address": "新竹市香山區虎山里１１鄰延平路２段３４２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 204,
-        "shop": "野豬燒肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區樹下里牛埔南路５６２號"
-    },
-    {
-        "index": 205,
-        "shop": "福食鴨肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路２０８號"
-    },
-    {
-        "index": 206,
+        "index": 47,
         "shop": "豪品味小吃店",
         "category": [
             "餐飲"
@@ -2265,32 +686,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里香北路６８號一樓"
+        "market_address": "新竹市香山區香山里香北路６８號一樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 207,
-        "shop": "育成小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
-    },
-    {
-        "index": 208,
-        "shop": "香北早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大庄里香北一路１３５號１樓"
-    },
-    {
-        "index": 209,
+        "index": 48,
         "shop": "邱紀??糬",
         "category": [
             "餐飲"
@@ -2298,43 +700,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區中隘里中華路六段７２６號１樓"
+        "market_address": "新竹市香山區中隘里中華路六段７２６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 210,
-        "shop": "品味鵝肉海鮮快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里中華路六段２０７號"
-    },
-    {
-        "index": 211,
-        "shop": "綠香餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５８８號１樓"
-    },
-    {
-        "index": 212,
-        "shop": "圓良小吃快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中隘里中華路六段６７１號"
-    },
-    {
-        "index": 213,
+        "index": 49,
         "shop": "怡嵐茶行",
         "category": [
             "餐飲"
@@ -2342,43 +714,17 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路８８號"
+        "market_address": "新竹市香山區香山里大庄路８８號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 214,
-        "shop": "金章廣式燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
-    },
-    {
-        "index": 215,
-        "shop": "晨揚商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７０７號"
-    },
-    {
-        "index": 216,
-        "shop": "御品國際餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里中華路四段６７１號（４樓）"
-    },
-    {
-        "index": 217,
+        "index": 50,
         "shop": "時聖股份有限公司",
         "category": [
             "餐飲"
@@ -2386,87 +732,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段３１號二樓"
+        "market_address": "新竹市香山區頂埔里經國路三段３１號二樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 218,
-        "shop": "振凱股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段３９號二樓"
-    },
-    {
-        "index": 219,
-        "shop": "廣龍日意股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路２段６７８號１樓"
-    },
-    {
-        "index": 220,
-        "shop": "亞洲藏壽司股份有限公司新竹經國路店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段３３號二樓"
-    },
-    {
-        "index": 221,
-        "shop": "獅子夢國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１３號１樓"
-    },
-    {
-        "index": 222,
-        "shop": "嚐恩食樂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔南路２３２號１樓"
-    },
-    {
-        "index": 223,
-        "shop": "大銍企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里花園新城一街１８號１樓"
-    },
-    {
-        "index": 224,
-        "shop": "盛宏國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中華路四段３０號１樓"
-    },
-    {
-        "index": 225,
+        "index": 51,
         "shop": "伊薇儷會館有限公司",
         "category": [
             "餐飲"
@@ -2474,21 +746,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７６１巷６１號"
+        "market_address": "新竹市香山區東香里五福路二段７６１巷６１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 226,
-        "shop": "漁池有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔東路３６２號"
-    },
-    {
-        "index": 227,
+        "index": 52,
         "shop": "愛家農場有限公司",
         "category": [
             "餐飲"
@@ -2496,98 +760,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂福里景觀大道２０１號"
+        "market_address": "新竹市香山區頂福里景觀大道２０１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 228,
-        "shop": "盟津有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂福里中山路６４０巷１５弄３號１樓"
-    },
-    {
-        "index": 229,
-        "shop": "傑出有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段６１６巷８號"
-    },
-    {
-        "index": 230,
-        "shop": "滇城企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區華江街６９巷２９號１樓"
-    },
-    {
-        "index": 231,
-        "shop": "古今車用中餐廳有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區大湖里南湖路２１５巷２５５弄１１５號１樓"
-    },
-    {
-        "index": 232,
-        "shop": "佳美飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區延平路二段７１３號"
-    },
-    {
-        "index": 233,
-        "shop": "中華出櫃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段８００號二樓"
-    },
-    {
-        "index": 234,
-        "shop": "新聖地餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區港南里延平路二段１３８６巷６弄１號"
-    },
-    {
-        "index": 235,
-        "shop": "歐滋咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里華北路１８號一樓"
-    },
-    {
-        "index": 236,
+        "index": 53,
         "shop": "喬展喫茶坊",
         "category": [
             "餐飲"
@@ -2595,10 +775,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１２６號"
+        "market_address": "新竹市香山區內湖里內湖路１２６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊卡",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 237,
+        "index": 54,
         "shop": "允成商行",
         "category": [
             "餐飲"
@@ -2606,76 +791,15 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路３號"
+        "market_address": "新竹市香山區香山里大庄路３號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 238,
-        "shop": "銘哲小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路６５號１樓"
-    },
-    {
-        "index": 239,
-        "shop": "湯之舟專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１１號"
-    },
-    {
-        "index": 240,
-        "shop": "憶品軒餡餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路５６―９號１樓"
-    },
-    {
-        "index": 241,
-        "shop": "天運冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔里牛埔東路２９２號１樓"
-    },
-    {
-        "index": 242,
-        "shop": "港南運河濱海風景區餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區海埔路５８８號"
-    },
-    {
-        "index": 243,
-        "shop": "錢都日式涮涮鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段３９號"
-    },
-    {
-        "index": 244,
+        "index": 55,
         "shop": "大庄冷飲站",
         "category": [
             "餐飲"
@@ -2683,21 +807,19 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區１鄰大庄路４６號１樓"
+        "market_address": "新竹市香山區１鄰大庄路４６號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 245,
-        "shop": "丘森股份有限公司香山分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路２８號１樓"
-    },
-    {
-        "index": 246,
+        "index": 56,
         "shop": "萬德食品有限公司香山分公司",
         "category": [
             "餐飲"
@@ -2705,10 +827,32 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區樹下里中華路四段５７４號１樓"
+        "market_address": "新竹市香山區樹下里中華路四段５７４號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 247,
+        "index": 57,
+        "shop": "天運冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹市",
+        "area": "香山區",
+        "market_address": "新竹市香山區牛埔里牛埔東路２９２號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 58,
         "shop": "和德昌股份有限公司新竹經國二分公司",
         "category": [
             "餐飲"
@@ -2716,109 +860,42 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里經國路三段１１號"
+        "market_address": "新竹市香山區頂埔里經國路三段１１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 248,
-        "shop": "浸水麵線糊",
+        "index": 59,
+        "shop": "古今車用中餐廳有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區浸水里浸水北街３６號"
+        "market_address": "新竹市香山區大湖里南湖路２１５巷２５５弄１１５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 249,
-        "shop": "鄭記飲食店",
+        "index": 60,
+        "shop": "丘森股份有限公司香山分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔東路１５８號"
+        "market_address": "新竹市香山區香山里大庄路２８號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 250,
-        "shop": "惟客美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路４８號"
-    },
-    {
-        "index": 251,
-        "shop": "曾能強",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里牛埔北路４５號"
-    },
-    {
-        "index": 252,
-        "shop": "阿坤小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區頂埔里４鄰牛埔東路４２號"
-    },
-    {
-        "index": 253,
-        "shop": "如祥結緣素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中埔里牛埔東路１７０號"
-    },
-    {
-        "index": 254,
-        "shop": "鄉園飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔南路７５號"
-    },
-    {
-        "index": 255,
-        "shop": "亞標小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里延平路二段７號"
-    },
-    {
-        "index": 256,
-        "shop": "內湖小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區內湖里內湖路１３０號旁邊"
-    },
-    {
-        "index": 257,
+        "index": 61,
         "shop": "沁茶飲食店",
         "category": [
             "餐飲"
@@ -2826,270 +903,84 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區香村里元培街３０６號"
+        "market_address": "新竹市香山區香村里元培街３０６號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 258,
-        "shop": "麻吉廚房",
+        "index": 62,
+        "shop": "綠香餐坊",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區虎林里延平路二段６３號"
+        "market_address": "新竹市香山區頂埔里中山路５８８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 259,
-        "shop": "文華企業社",
+        "index": 63,
+        "shop": "振凱股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區樹下里樹下街１５４號"
+        "market_address": "新竹市香山區頂埔里經國路三段３９號二樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 260,
-        "shop": "極品大香港廣東粥",
+        "index": 64,
+        "shop": "亞洲藏壽司股份有限公司新竹經國路店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區頂埔里中山路５１４號"
+        "market_address": "新竹市香山區頂埔里經國路三段３３號二樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 261,
-        "shop": "美奇早餐店",
+        "index": 65,
+        "shop": "盛宏國際有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔路４８８號１樓"
+        "market_address": "新竹市香山區頂埔里中華路四段３０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 262,
-        "shop": "松園日本料理",
+        "index": 66,
+        "shop": "漁池有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "香山區",
-        "market_address": "新竹市香山區牛埔路１１５號"
-    },
-    {
-        "index": 263,
-        "shop": "邱國良",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔路９７－１號"
-    },
-    {
-        "index": 264,
-        "shop": "福順交通飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中華路６段６８２號"
-    },
-    {
-        "index": 265,
-        "shop": "大和小舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區茄苳里五福路二段７３８號"
-    },
-    {
-        "index": 266,
-        "shop": "林廚師",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區海山里大湖路７１巷１３號１樓"
-    },
-    {
-        "index": 267,
-        "shop": "２８之１庭園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里美之城２８―１號"
-    },
-    {
-        "index": 268,
-        "shop": "美食小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區五福路１段５２０號旁"
-    },
-    {
-        "index": 269,
-        "shop": "解放區休閒飲品專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香北路１５０－２號"
-    },
-    {
-        "index": 270,
-        "shop": "三媽臭臭鍋小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香山里大庄路７３號１樓"
-    },
-    {
-        "index": 271,
-        "shop": "泰味美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區牛埔北路３３號"
-    },
-    {
-        "index": 272,
-        "shop": "劉姐姐飯糰大庄店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區中華路５段１６號"
-    },
-    {
-        "index": 273,
-        "shop": "罟寮早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區虎山里２３鄰華江街１６巷１３號"
-    },
-    {
-        "index": 274,
-        "shop": "香頂小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區１鄰大庄路５０號"
-    },
-    {
-        "index": 275,
-        "shop": "阿麗的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區香村里香村路３８５巷３號"
-    },
-    {
-        "index": 276,
-        "shop": "和興自助美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區３鄰大庄路１０３―１號"
-    },
-    {
-        "index": 277,
-        "shop": "張記麻辣麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區３鄰香北路１５０―２號"
-    },
-    {
-        "index": 278,
-        "shop": "中華香雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區東香里五福路二段７５３號"
-    },
-    {
-        "index": 279,
-        "shop": "東北六角亭快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區埔前里中華路四段４２８號"
-    },
-    {
-        "index": 280,
-        "shop": "霸王雞快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區元培街３３７號"
-    },
-    {
-        "index": 281,
-        "shop": "亞標小吃西濱店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "香山區",
-        "market_address": "新竹市香山區港南里延平路二段１４５４號"
+        "market_address": "新竹市香山區埔前里牛埔東路３６２號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     }
 ]

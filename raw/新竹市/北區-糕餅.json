@@ -1,28 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "夯胖手作烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段４６７號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "烏點作作烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金華里光華東街４３―１號一樓"
-    },
-    {
-        "index": 3,
         "shop": "阿水師冷凍港式點心",
         "category": [
             "糕餅"
@@ -30,21 +8,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區金華里光華東街７６巷２３弄３２號右側"
+        "market_address": "新竹市北　區金華里光華東街７６巷２３弄３２號右側",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 4,
-        "shop": "愛啥甜點工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南寮里中光路１５巷２９號１樓"
-    },
-    {
-        "index": 5,
+        "index": 2,
         "shop": "那家企業社",
         "category": [
             "糕餅"
@@ -52,55 +22,28 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區潛園里西大路４６７號一樓"
+        "market_address": "新竹市北　區潛園里西大路４６７號一樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 6,
-        "shop": "弘國商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區民富里西大路７３４號"
-    },
-    {
-        "index": 7,
+        "index": 3,
         "shop": "義峯烘焙",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區潛園里和福街１８號一樓"
-    },
-    {
-        "index": 8,
-        "shop": "幸福的季節蛋糕屋",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區境福里成功路１１號１樓"
+        "market_address": "新竹市北　區潛園里和福街１８號一樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 9,
-        "shop": "泓辰企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金竹里武陵路２７１巷１４８―１號"
-    },
-    {
-        "index": 10,
+        "index": 4,
         "shop": "咕咕安鈷幸福烘焙坊",
         "category": [
             "糕餅"
@@ -108,10 +51,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區西雅里北新街１１３號"
+        "market_address": "新竹市北　區西雅里北新街１１３號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 11,
+        "index": 5,
         "shop": "錦華水餃店",
         "category": [
             "糕餅"
@@ -119,32 +66,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區金華里田美三街５１號１樓"
+        "market_address": "新竹市北　區金華里田美三街５１號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 12,
-        "shop": "放鬆餅商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區舊社里湳雅街２２９號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "菓子房烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區潛園里西大路４３１號"
-    },
-    {
-        "index": 14,
+        "index": 6,
         "shop": "小麻雀商行",
         "category": [
             "糕餅"
@@ -152,88 +80,29 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區光華里鐵道路二段１６３號１樓"
+        "market_address": "新竹市北　區光華里鐵道路二段１６３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 15,
-        "shop": "陳家麵條店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區東大路２段４４６巷１０５弄１８－１號"
-    },
-    {
-        "index": 16,
-        "shop": "美琦食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區光田里水田街８３號"
-    },
-    {
-        "index": 17,
-        "shop": "飛炫時代微創網路企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區曲溪里崧嶺路１２８巷８號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "吉米先生創意行銷企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區曲溪里崧嶺路１２８巷８號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "瓦屋窯烤工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區港北里延平路三段１３３號"
-    },
-    {
-        "index": 20,
+        "index": 7,
         "shop": "希福甜點咖啡店",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區石坊里西門街９４號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "米師傅米製工坊",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區境福里成功路１３巷７號２樓"
+        "market_address": "新竹市北　區石坊里西門街９４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 22,
+        "index": 8,
         "shop": "米滋工作室",
         "category": [
             "糕餅"
@@ -241,120 +110,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區新民里西大路６４８巷１９號２樓"
+        "market_address": "新竹市北　區新民里西大路６４８巷１９號２樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 23,
-        "shop": "新協隆行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區新民里７鄰西大路５８２巷２３號"
-    },
-    {
-        "index": 24,
-        "shop": "益華西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區延平路一段３０１號"
-    },
-    {
-        "index": 25,
-        "shop": "吉羊食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區吉羊路４３巷１弄４號"
-    },
-    {
-        "index": 26,
-        "shop": "德發龍記食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金華里１鄰光華東街２２巷７號"
-    },
-    {
-        "index": 27,
-        "shop": "彭成珍餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區中央里７鄰西安街５巷２１號"
-    },
-    {
-        "index": 28,
-        "shop": "張傳記號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區石坊里勝利路３４４號"
-    },
-    {
-        "index": 29,
-        "shop": "美芳糕餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區中央里７鄰西安街５巷１６號"
-    },
-    {
-        "index": 30,
-        "shop": "享豐號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區石坊里石坊街２７號"
-    },
-    {
-        "index": 31,
-        "shop": "松興麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區北門里１７鄰中正路２８９號"
-    },
-    {
-        "index": 32,
-        "shop": "如美餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區中興里長安街１０號"
-    },
-    {
-        "index": 33,
+        "index": 9,
         "shop": "睦凡工作室",
         "category": [
             "糕餅"
@@ -362,43 +124,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段４５３巷４號"
+        "market_address": "新竹市北　區南勢里延平路一段４５３巷４號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 34,
-        "shop": "上品閣烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區湳中里武陵路１８１―３號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "紅帽烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區石坊里和福街１１９號１樓"
-    },
-    {
-        "index": 36,
-        "shop": "傳創烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金竹里武陵路２７１巷６４弄２８號１樓"
-    },
-    {
-        "index": 37,
+        "index": 10,
         "shop": "羅曼帝烘焙坊",
         "category": [
             "糕餅"
@@ -406,43 +139,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區舊社里湳雅街１７６巷１１號２樓"
+        "market_address": "新竹市北　區舊社里湳雅街１７６巷１１號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 38,
-        "shop": "世輝米粉工業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段３５７巷１０３號１樓"
-    },
-    {
-        "index": 39,
-        "shop": "幸福甜點店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南寮里南寮街１１６號"
-    },
-    {
-        "index": 40,
-        "shop": "十方吐司坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區崇禮里中山路２２８號１樓"
-    },
-    {
-        "index": 41,
+        "index": 11,
         "shop": "馥田手感麵包房",
         "category": [
             "糕餅"
@@ -450,43 +153,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區金華里光華一街６號１樓"
+        "market_address": "新竹市北　區金華里光華一街６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 42,
-        "shop": "自然種籽工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區曲溪里崧嶺路２－１５號６樓"
-    },
-    {
-        "index": 43,
-        "shop": "六號花園烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金竹里湳雅街２１９巷３７號１樓"
-    },
-    {
-        "index": 44,
-        "shop": "拉司斐企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金竹里金竹路１１８巷１８號１樓"
-    },
-    {
-        "index": 45,
+        "index": 12,
         "shop": "貝克里麵包專門店",
         "category": [
             "糕餅"
@@ -494,175 +168,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區潛園里西大路４２９號１樓"
+        "market_address": "新竹市北　區潛園里西大路４２９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 46,
-        "shop": "一百種味道食坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區石坊里９鄰石坊街３６―３號１樓"
-    },
-    {
-        "index": 47,
-        "shop": "嘉園食品",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區舊社里湳雅街３１１巷３０弄５號３樓"
-    },
-    {
-        "index": 48,
-        "shop": "克莉斯蛋糕坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區磐石里磐石路６５號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "龍印商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區湳中里武陵路１５８號１樓"
-    },
-    {
-        "index": 50,
-        "shop": "米客烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金華里光華東街４７號１樓"
-    },
-    {
-        "index": 51,
-        "shop": "歲時亭和菓子手作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區西門里西大路４８４號１樓"
-    },
-    {
-        "index": 52,
-        "shop": "吉維尼蛋糕",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區新民里西大路５８６號１樓"
-    },
-    {
-        "index": 53,
-        "shop": "富都烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區光華里１６鄰光華北街４８號１樓"
-    },
-    {
-        "index": 54,
-        "shop": "龍昇製麵企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金雅里公道五路四段５５１之１號"
-    },
-    {
-        "index": 55,
-        "shop": "提雅商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區光華里光華街１２０號１樓"
-    },
-    {
-        "index": 56,
-        "shop": "緣圓坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區４鄰育英里４鄰中山路３２１號"
-    },
-    {
-        "index": 57,
-        "shop": "葳品菓子名坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南寮里東大路３段６５４號"
-    },
-    {
-        "index": 58,
-        "shop": "提諾商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區民富里西大路５５９―１２號１樓"
-    },
-    {
-        "index": 59,
-        "shop": "老鍋休閒開發事業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里１３鄰延平路１段３５７巷９２號"
-    },
-    {
-        "index": 60,
-        "shop": "台灣伊莎貝爾食品股份有限公司新竹店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區中正路１６５號"
-    },
-    {
-        "index": 61,
+        "index": 13,
         "shop": "爾雅食品股份有限公司光華門市",
         "category": [
             "糕餅"
@@ -670,87 +182,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區金華里光華北街７號１．２樓"
+        "market_address": "新竹市北　區金華里光華北街７號１．２樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 62,
-        "shop": "京樂蛋糕食品有限公司新竹福華店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區水田里中正路１７８號"
-    },
-    {
-        "index": 63,
-        "shop": "曾合興米粉工業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路１段３１７巷４３號２樓"
-    },
-    {
-        "index": 64,
-        "shop": "君媽烘焙有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金竹里金竹路１０２巷８―１１號３樓"
-    },
-    {
-        "index": 65,
-        "shop": "夢想廚房有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金華里田美三街６０―２號"
-    },
-    {
-        "index": 66,
-        "shop": "鴻疆國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區金華里光華二街７２巷３８―１５號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "國豐食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段３５７巷９８弄１６－１號１樓"
-    },
-    {
-        "index": 68,
-        "shop": "淵明食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區西門里中山路１１２號"
-    },
-    {
-        "index": 69,
+        "index": 14,
         "shop": "新復珍商行有限公司",
         "category": [
             "糕餅"
@@ -758,32 +197,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區中山里１２鄰中山里北門街６號"
+        "market_address": "新竹市北　區中山里１２鄰中山里北門街６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 70,
-        "shop": "源助食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段３１７巷４３號１樓"
-    },
-    {
-        "index": 71,
-        "shop": "麥方之道有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區文雅里竹光路５４巷１弄１２號"
-    },
-    {
-        "index": 72,
+        "index": 15,
         "shop": "西大發有限公司",
         "category": [
             "糕餅"
@@ -791,43 +211,29 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區西門里長安街３號１樓"
+        "market_address": "新竹市北　區西門里長安街３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 73,
-        "shop": "瑪西歐亞洲有限公司",
+        "index": 16,
+        "shop": "鴻疆國際有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區磐石里竹光路２５９號２樓"
+        "market_address": "新竹市北　區金華里光華二街７２巷３８―１５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 74,
-        "shop": "北帝食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區光華里國華街６７號"
-    },
-    {
-        "index": 75,
-        "shop": "興僖食品企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區南勢里延平路一段３５７巷９２號１樓"
-    },
-    {
-        "index": 76,
+        "index": 17,
         "shop": "蕭氏食品行",
         "category": [
             "糕餅"
@@ -835,43 +241,13 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區中正路１０４，１０６號"
+        "market_address": "新竹市北　區中正路１０４，１０６號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 77,
-        "shop": "歐迪烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區育英里四維路１３０號４樓之２"
-    },
-    {
-        "index": 78,
-        "shop": "振富食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區臺溪里中山路４５３號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "提雅諾食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹市",
-        "area": "北區",
-        "market_address": "新竹市北　區育英里四維路６０號１樓"
-    },
-    {
-        "index": 80,
+        "index": 18,
         "shop": "郭元益食品股份有限公司新竹分公司",
         "category": [
             "糕餅"
@@ -879,10 +255,28 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區大同里中正路１２５號"
+        "market_address": "新竹市北　區大同里中正路１２５號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 81,
+        "index": 19,
+        "shop": "北帝食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹市",
+        "area": "北區",
+        "market_address": "新竹市北　區光華里國華街６７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 20,
         "shop": "艾立精緻蛋糕股份有限公司艾立公主分公司",
         "category": [
             "糕餅"
@@ -890,10 +284,14 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區水田里北大路１５０號"
+        "market_address": "新竹市北　區水田里北大路１５０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 82,
+        "index": 21,
         "shop": "宏亞食品股份有限公司新竹分公司",
         "category": [
             "糕餅"
@@ -901,17 +299,24 @@
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區北門里中正路１６３號"
+        "market_address": "新竹市北　區北門里中正路１６３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 83,
-        "shop": "胡美鈴",
+        "index": 22,
+        "shop": "提雅諾食品行",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹市",
         "area": "北區",
-        "market_address": "新竹市北　區民富里１鄰民富街１６４號"
+        "market_address": "新竹市北　區育英里四維路６０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     }
 ]

@@ -1,28 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "崧園小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段９２號"
-    },
-    {
-        "index": 2,
-        "shop": "香港脆皮烤鴨專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村２２鄰中正路１２９號"
-    },
-    {
-        "index": 3,
         "shop": "東方飲食店",
         "category": [
             "餐飲"
@@ -30,32 +8,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段７６號"
+        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段７６號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 4,
-        "shop": "荖溪小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１８鄰池南路５段８２號"
-    },
-    {
-        "index": 5,
-        "shop": "樂園小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村池南路１段６０號"
-    },
-    {
-        "index": 6,
+        "index": 2,
         "shop": "潭大陸小吃館",
         "category": [
             "餐飲"
@@ -63,10 +22,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段６６號"
+        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段６６號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 7,
+        "index": 3,
         "shop": "東樂飯店",
         "category": [
             "餐飲"
@@ -74,76 +36,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段５８號"
+        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段５８號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 8,
-        "shop": "老湯拉麵屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７４－１號"
-    },
-    {
-        "index": 9,
-        "shop": "曾早中西式早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉溪口村００３鄰溪口路１０４―１號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "浪花春餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村鹽寮１８０號"
-    },
-    {
-        "index": 11,
-        "shop": "庭好茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中山路二段２０４號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "茗郁餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路６５－１號"
-    },
-    {
-        "index": 13,
-        "shop": "大城小廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
-    },
-    {
-        "index": 14,
+        "index": 4,
         "shop": "專師速食店",
         "category": [
             "餐飲"
@@ -151,10 +50,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 15,
+        "index": 5,
         "shop": "食拾刻刻早餐店",
         "category": [
             "餐飲"
@@ -162,21 +65,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街１９號１樓"
+        "market_address": "花蓮縣壽豐鄉豐山村中興街１９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 16,
-        "shop": "哎哎咖啡輕食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號通識中心１樓"
-    },
-    {
-        "index": 17,
+        "index": 6,
         "shop": "福氣炒飯",
         "category": [
             "餐飲"
@@ -184,10 +79,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號（集賢館）"
+        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號（集賢館）",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 18,
+        "index": 7,
         "shop": "亞糜廚房",
         "category": [
             "餐飲"
@@ -195,21 +93,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００４鄰中正路４６號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村００４鄰中正路４６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 19,
-        "shop": "樂和小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２１２號１樓"
-    },
-    {
-        "index": 20,
+        "index": 8,
         "shop": "金弘餐飲店",
         "category": [
             "餐飲"
@@ -217,21 +107,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路８１號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村中正路８１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 21,
-        "shop": "茗饗茶食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐坪村豐坪路二段５－１號"
-    },
-    {
-        "index": 22,
+        "index": 9,
         "shop": "摸魚到外太空飲食店",
         "category": [
             "餐飲"
@@ -239,65 +121,15 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１９９號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村中正路１９９號１樓",
+        "pay_list": [
+            "橘子支付",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 23,
-        "shop": "東島商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９５－１號"
-    },
-    {
-        "index": 24,
-        "shop": "一八七海鮮熱炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村鹽寮１８７號"
-    },
-    {
-        "index": 25,
-        "shop": "瑞滿商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００４鄰中山路二段１９６號１樓"
-    },
-    {
-        "index": 26,
-        "shop": "浪慢休閒輕食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大橋２４－２號"
-    },
-    {
-        "index": 27,
-        "shop": "久富石頭屋咖啡廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１５鄰久富２號"
-    },
-    {
-        "index": 28,
+        "index": 10,
         "shop": "來去秘密就是秘密咖啡廳",
         "category": [
             "餐飲"
@@ -305,43 +137,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００２鄰路內２號"
+        "market_address": "花蓮縣壽豐鄉志學村００２鄰路內２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 29,
-        "shop": "溪餐町企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村塩寮１７號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "力錡餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００７鄰中山路三段６２號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "甜園小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐裡村中山路７２巷４３號"
-    },
-    {
-        "index": 32,
+        "index": 11,
         "shop": "耐人尋味食坊",
         "category": [
             "餐飲"
@@ -349,43 +151,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１５９號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村中正路１５９號１樓",
+        "pay_list": [
+            "橘子支付",
+            "台灣pay"
+        ]
     },
     {
-        "index": 33,
-        "shop": "滿溢食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路３８號１樓"
-    },
-    {
-        "index": 34,
-        "shop": "妙二春捲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９５－１號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "甄甄麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路二段２―１號"
-    },
-    {
-        "index": 36,
+        "index": 12,
         "shop": "山度空間涼水店",
         "category": [
             "餐飲"
@@ -393,21 +166,16 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５３號１樓"
+        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５３號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "Pi 拍錢包",
+            "icash pay"
+        ]
     },
     {
-        "index": 37,
-        "shop": "豐田黑輪",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路２０５―１號"
-    },
-    {
-        "index": 38,
+        "index": 13,
         "shop": "少爺丼飯",
         "category": [
             "餐飲"
@@ -415,43 +183,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村志光街１號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村志光街１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 39,
-        "shop": "好味關東煮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００４鄰中正路５４號"
-    },
-    {
-        "index": 40,
-        "shop": "馫鱻麵食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路５７號"
-    },
-    {
-        "index": 41,
-        "shop": "宜親木盒便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１０６號"
-    },
-    {
-        "index": 42,
+        "index": 14,
         "shop": "東吟企業社",
         "category": [
             "餐飲"
@@ -459,164 +198,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大坑５－１號"
+        "market_address": "花蓮縣壽豐鄉鹽寮村大坑５－１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 43,
-        "shop": "兜甲坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉溪口村溪口路１８０號１樓"
-    },
-    {
-        "index": 44,
-        "shop": "儷舍商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大坑６５號１樓"
-    },
-    {
-        "index": 45,
-        "shop": "賀寶小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００３鄰中山路二段２９９號"
-    },
-    {
-        "index": 46,
-        "shop": "品克小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２３號"
-    },
-    {
-        "index": 47,
-        "shop": "馬里漾料理屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村９鄰中正路２６１巷２號"
-    },
-    {
-        "index": 48,
-        "shop": "甜舍冰品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００５鄰中正路９２號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "阿美飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉水璉村水璉路６３號１樓"
-    },
-    {
-        "index": 50,
-        "shop": "明真商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路―段６５號１樓"
-    },
-    {
-        "index": 51,
-        "shop": "哈哈飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉平和村平和一街１１號"
-    },
-    {
-        "index": 52,
-        "shop": "食全食美早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００６鄰中正路１６５號１樓"
-    },
-    {
-        "index": 53,
-        "shop": "東牛企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００６鄰中正路１４６－３號１樓"
-    },
-    {
-        "index": 54,
-        "shop": "大學時光簡餐廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０２２鄰中正路１４５號１樓"
-    },
-    {
-        "index": 55,
-        "shop": "宇丞早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１０鄰中山路三段２５７號１樓"
-    },
-    {
-        "index": 56,
-        "shop": "優甲商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１９１號１樓"
-    },
-    {
-        "index": 57,
+        "index": 15,
         "shop": "咖迪早午餐",
         "category": [
             "餐飲"
@@ -624,10 +213,18 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１４１―１號"
+        "market_address": "花蓮縣壽豐鄉志學村中正路１４１―１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 58,
+        "index": 16,
         "shop": "涵舍冰菓店",
         "category": [
             "餐飲"
@@ -635,21 +232,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村０１８鄰中興街１８號１樓"
+        "market_address": "花蓮縣壽豐鄉豐山村０１８鄰中興街１８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 59,
-        "shop": "極鮮坊小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１０３號"
-    },
-    {
-        "index": 60,
+        "index": 17,
         "shop": "豐華再起麵食店",
         "category": [
             "餐飲"
@@ -657,21 +246,17 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１４８號"
+        "market_address": "花蓮縣壽豐鄉志學村中正路１４８號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 61,
-        "shop": "宜口小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路２０７號１樓"
-    },
-    {
-        "index": 62,
+        "index": 18,
         "shop": "東華美食",
         "category": [
             "餐飲"
@@ -679,10 +264,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路２段１號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路２段１號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 63,
+        "index": 19,
         "shop": "後山歲月",
         "category": [
             "餐飲"
@@ -690,10 +279,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中山路２段１８６號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村中山路２段１８６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 64,
+        "index": 20,
         "shop": "慕夏四季輕食",
         "category": [
             "餐飲"
@@ -701,43 +293,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００６鄰福德４９－２號１樓"
+        "market_address": "花蓮縣壽豐鄉鹽寮村００６鄰福德４９－２號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 65,
-        "shop": "翰霖早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中山路二段２０６號１樓"
-    },
-    {
-        "index": 66,
-        "shop": "這藝鍋火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００９鄰中正路２０３號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "山姆先生咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉樹湖村樹湖２０號"
-    },
-    {
-        "index": 68,
+        "index": 21,
         "shop": "彈牙坊",
         "category": [
             "餐飲"
@@ -745,21 +307,17 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００５鄰中正路９８號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村００５鄰中正路９８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 69,
-        "shop": "屋銤海鮮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大橋２８－１號"
-    },
-    {
-        "index": 70,
+        "index": 22,
         "shop": "家鄉自助餐",
         "category": [
             "餐飲"
@@ -767,32 +325,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路二段８號１樓"
+        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路二段８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 71,
-        "shop": "明園活海鮮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村魚塘７５號"
-    },
-    {
-        "index": 72,
-        "shop": "意雯食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村６鄰中正路２０８號１樓"
-    },
-    {
-        "index": 73,
+        "index": 23,
         "shop": "來聚鮮飲茶品商行",
         "category": [
             "餐飲"
@@ -800,10 +339,17 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 74,
+        "index": 24,
         "shop": "歐哈尼複合式餐飲",
         "category": [
             "餐飲"
@@ -811,54 +357,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 75,
-        "shop": "貍駙拿亞斯企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路二段６６號１樓"
-    },
-    {
-        "index": 76,
-        "shop": "巧華早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１９１號"
-    },
-    {
-        "index": 77,
-        "shop": "小灶房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路５２巷１３號"
-    },
-    {
-        "index": 78,
-        "shop": "双福港式燒腊店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村５鄰中山路３段４８號１樓"
-    },
-    {
-        "index": 79,
+        "index": 25,
         "shop": "楓宿企業",
         "category": [
             "餐飲"
@@ -866,10 +371,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村８鄰大坑３９號１樓"
+        "market_address": "花蓮縣壽豐鄉鹽寮村８鄰大坑３９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 80,
+        "index": 26,
         "shop": "美饌便當店",
         "category": [
             "餐飲"
@@ -877,77 +385,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村００７鄰壽豐路一段５６號１樓"
+        "market_address": "花蓮縣壽豐鄉壽豐村００７鄰壽豐路一段５６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 81,
-        "shop": "東華一隻貓商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００６鄰中正路１４２號１樓"
-    },
-    {
-        "index": 82,
-        "shop": "月之廬食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村０１２鄰中華路一段３６號"
-    },
-    {
-        "index": 83,
-        "shop": "風愛廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１０鄰中山路三段１０８號１樓"
-    },
-    {
-        "index": 84,
-        "shop": "海風味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村福德１３號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "小和企業社",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉平和村平和一街１１９號"
-    },
-    {
-        "index": 86,
-        "shop": "壹陸捌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村０１９鄰中山路六段５０號１樓"
-    },
-    {
-        "index": 87,
+        "index": 27,
         "shop": "楓丹白露白木耳露專賣店",
         "category": [
             "餐飲"
@@ -955,32 +400,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００６鄰中正路１７６號"
+        "market_address": "花蓮縣壽豐鄉志學村００６鄰中正路１７６號",
+        "pay_list": [
+            "橘子支付",
+            "街口"
+        ]
     },
     {
-        "index": 88,
-        "shop": "豐華企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７４－１號"
-    },
-    {
-        "index": 89,
-        "shop": "魚兒想家小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑３５號１樓"
-    },
-    {
-        "index": 90,
+        "index": 28,
         "shop": "啡同凡響咖啡店",
         "category": [
             "餐飲"
@@ -988,65 +415,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７９號"
+        "market_address": "花蓮縣壽豐鄉志學村中正路７９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 91,
-        "shop": "葉子廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１０鄰中山路三段９２號１樓"
-    },
-    {
-        "index": 92,
-        "shop": "攪和咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村鹽寮１８０號１樓"
-    },
-    {
-        "index": 93,
-        "shop": "冰藍茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９５號１樓"
-    },
-    {
-        "index": 94,
-        "shop": "盛夏果實早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９５號"
-    },
-    {
-        "index": 95,
-        "shop": "花田餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐坪村東富街１２８號"
-    },
-    {
-        "index": 96,
+        "index": 29,
         "shop": "寧記商行",
         "category": [
             "餐飲"
@@ -1054,43 +430,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 97,
-        "shop": "四十九飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００５鄰中正路１１６號"
-    },
-    {
-        "index": 98,
-        "shop": "吉米餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２１１號１樓"
-    },
-    {
-        "index": 99,
-        "shop": "雪莉鬆餅屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村志光街２０巷２－３號"
-    },
-    {
-        "index": 100,
+        "index": 30,
         "shop": "萬佳香自助餐",
         "category": [
             "餐飲"
@@ -1098,65 +445,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路２１７號１樓"
+        "market_address": "花蓮縣壽豐鄉豐山村中山路２１７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 101,
-        "shop": "威尼斯花園餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村池南路１段２７―２號"
-    },
-    {
-        "index": 102,
-        "shop": "天天微笑活力屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村００４鄰壽豐路一段１１８號１樓"
-    },
-    {
-        "index": 103,
-        "shop": "豐裡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐裡村中山路９９號１樓"
-    },
-    {
-        "index": 104,
-        "shop": "麗莘風味館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段９０號"
-    },
-    {
-        "index": 105,
-        "shop": "采臻麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２８５巷２８號"
-    },
-    {
-        "index": 106,
+        "index": 31,
         "shop": "樹屋餐飲",
         "category": [
             "餐飲"
@@ -1164,10 +459,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村環潭南路２號"
+        "market_address": "花蓮縣壽豐鄉池南村環潭南路２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 107,
+        "index": 32,
         "shop": "以合企業社",
         "category": [
             "餐飲"
@@ -1175,121 +474,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村８鄰壽豐路１段６３號１樓"
+        "market_address": "花蓮縣壽豐鄉壽豐村８鄰壽豐路１段６３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 108,
-        "shop": "饈呷食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村９鄰中正路１６３號１樓"
-    },
-    {
-        "index": 109,
-        "shop": "御楓壽司屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村７鄰壽山路５號"
-    },
-    {
-        "index": 110,
-        "shop": "杋札徠小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大橋２４號"
-    },
-    {
-        "index": 111,
-        "shop": "家樂早餐吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村９鄰中正路１６１號１樓"
-    },
-    {
-        "index": 112,
-        "shop": "大呼過癮小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路５７－１號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "齊亭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村００９鄰中正路２０１號１樓"
-    },
-    {
-        "index": 114,
-        "shop": "學士泡沫紅茶",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興路１６號"
-    },
-    {
-        "index": 115,
-        "shop": "文園食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉光榮村２鄰光榮二街２３號"
-    },
-    {
-        "index": 116,
-        "shop": "牛山呼庭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉水璉村１３鄰牛山３９－５號"
-    },
-    {
-        "index": 117,
-        "shop": "東星美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段８８號１樓"
-    },
-    {
-        "index": 118,
+        "index": 33,
         "shop": "天外天泡沫舖",
         "category": [
             "餐飲"
@@ -1297,54 +488,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村４鄰大學路二段１號２樓"
+        "market_address": "花蓮縣壽豐鄉志學村４鄰大學路二段１號２樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 119,
-        "shop": "麥兆速食早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２０９號１樓"
-    },
-    {
-        "index": 120,
-        "shop": "蓮香包子饅頭專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村２９鄰中山路六段１９８號１樓"
-    },
-    {
-        "index": 121,
-        "shop": "九十五度複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村１４鄰大學路二段１號"
-    },
-    {
-        "index": 122,
-        "shop": "主婦之家餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村１４鄰中興街７６號"
-    },
-    {
-        "index": 123,
+        "index": 34,
         "shop": "艾斯可菲小館",
         "category": [
             "餐飲"
@@ -1352,32 +502,14 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１４鄰橋下１０５號１樓"
+        "market_address": "花蓮縣壽豐鄉志學村０１４鄰橋下１０５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 124,
-        "shop": "鹽寮龍蝦海鮮餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村４鄰鹽寮１３０號"
-    },
-    {
-        "index": 125,
-        "shop": "荖山喜美股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉樹湖村荖山１１－９號１樓"
-    },
-    {
-        "index": 126,
+        "index": 35,
         "shop": "立川漁場股份有限公司",
         "category": [
             "餐飲"
@@ -1385,615 +517,19 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉共和村魚池４５號"
+        "market_address": "花蓮縣壽豐鄉共和村魚池４５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 127,
-        "shop": "壽豐興業股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐坪村３鄰豐坪路３段６巷２１號１樓"
-    },
-    {
-        "index": 128,
-        "shop": "沐谷育樂有限公司花蓮門市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５１―５號"
-    },
-    {
-        "index": 129,
-        "shop": "沐海餐飲有限公司壽豐門市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑５１―５號"
-    },
-    {
-        "index": 130,
-        "shop": "原點餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００８鄰大坑３９號"
-    },
-    {
-        "index": 131,
-        "shop": "山谷創意料理專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村０１９鄰壽文路４３號１樓"
-    },
-    {
-        "index": 132,
-        "shop": "吉悠趣休閒企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村０１４鄰山嶺７號"
-    },
-    {
-        "index": 133,
-        "shop": "零五五飲食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村鹽竂１３２號"
-    },
-    {
-        "index": 134,
-        "shop": "理想小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉共和村１０鄰中華路１段５２巷５號"
-    },
-    {
-        "index": 135,
-        "shop": "巧味飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村３鄰壽豐路１段１２５號"
-    },
-    {
-        "index": 136,
-        "shop": "攤販",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路１６９號"
-    },
-    {
-        "index": 137,
-        "shop": "雪絨富康餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１０６號"
-    },
-    {
-        "index": 138,
-        "shop": "紅茶小賣所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路３１７號１樓"
-    },
-    {
-        "index": 139,
-        "shop": "賀佳小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路２３５號１樓"
-    },
-    {
-        "index": 140,
-        "shop": "小夜市",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７９號"
-    },
-    {
-        "index": 141,
-        "shop": "角落商社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
-    },
-    {
-        "index": 142,
-        "shop": "伊均蘭州拉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９５號"
-    },
-    {
-        "index": 143,
-        "shop": "珍味小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１３２巷１１號"
-    },
-    {
-        "index": 144,
-        "shop": "依山午咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村０２５鄰中山路１０１巷１９號"
-    },
-    {
-        "index": 145,
-        "shop": "瓊林書苑",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號（管理及教育學院）"
-    },
-    {
-        "index": 146,
-        "shop": "李桑焢肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路４５巷９號"
-    },
-    {
-        "index": 147,
-        "shop": "兄弟姐妹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村環潭北路３７號"
-    },
-    {
-        "index": 148,
-        "shop": "盧溝橋飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路２段１６３巷１２號１樓"
-    },
-    {
-        "index": 149,
-        "shop": "品第豆花車輪餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７５號"
-    },
-    {
-        "index": 150,
-        "shop": "朗客錸．早午食光",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路６５－１號"
-    },
-    {
-        "index": 151,
-        "shop": "萬芳精緻飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽文路３１號"
-    },
-    {
-        "index": 152,
-        "shop": "東華脆皮雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路５６號前半段部份"
-    },
-    {
-        "index": 153,
-        "shop": "聖果蔬食營養餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號"
-    },
-    {
-        "index": 154,
-        "shop": "平安小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號集賢館"
-    },
-    {
-        "index": 155,
-        "shop": "菜米迦",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村志光街３９－１號"
-    },
-    {
-        "index": 156,
-        "shop": "滿美簡餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９６巷１０－１號"
-    },
-    {
-        "index": 157,
-        "shop": "順弘早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路２１５號"
-    },
-    {
-        "index": 158,
-        "shop": "阿守小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村１鄰池南路１段１１４號"
-    },
-    {
-        "index": 159,
-        "shop": "鯉魚潭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村池南路１段６４號"
-    },
-    {
-        "index": 160,
-        "shop": "伊娜的部落廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村鹽寮３７號"
-    },
-    {
-        "index": 161,
-        "shop": "泰瘋隨意料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村００６鄰福德３９―１號１樓"
-    },
-    {
-        "index": 162,
-        "shop": "幸福中西式早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７７號"
-    },
-    {
-        "index": 163,
-        "shop": "望海小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村大橋２２號"
-    },
-    {
-        "index": 164,
-        "shop": "麥樂多企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村２４鄰中正路６３號"
-    },
-    {
-        "index": 165,
-        "shop": "志學早點小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村０１０鄰中山路三段２８１號１樓"
-    },
-    {
-        "index": 166,
-        "shop": "呼朋飲伴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９６巷１０號"
-    },
-    {
-        "index": 167,
-        "shop": "涼麵屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路２２１號"
-    },
-    {
-        "index": 168,
-        "shop": "志學冷飲讚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中山路２段２１８號１樓"
-    },
-    {
-        "index": 169,
-        "shop": "瑞麟美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村４鄰中正路７６號"
-    },
-    {
-        "index": 170,
-        "shop": "吮八芳餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村９鄰中正路１７３號"
-    },
-    {
-        "index": 171,
-        "shop": "幸福圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉平和村２５鄰豐坪路３段１１３５巷１６號１樓"
-    },
-    {
-        "index": 172,
-        "shop": "丸山和食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路９６巷２－１號"
-    },
-    {
-        "index": 173,
-        "shop": "阿宏素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中山路２段２４５號１樓"
-    },
-    {
-        "index": 174,
-        "shop": "台九線美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村７鄰中山路３段２４號"
-    },
-    {
-        "index": 175,
-        "shop": "省軒坊食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１２２號１樓"
-    },
-    {
-        "index": 176,
-        "shop": "瑞麟美而美",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街６１號１樓"
-    },
-    {
-        "index": 177,
-        "shop": "賀田屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村２２鄰中正路１２５號"
-    },
-    {
-        "index": 178,
-        "shop": "富記港式燒腊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村１０鄰中興街１０５號１樓"
-    },
-    {
-        "index": 179,
-        "shop": "順緣早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村１３鄰中興街４５號"
-    },
-    {
-        "index": 180,
-        "shop": "壽豐飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村７鄰壽豐路１段８６號"
-    },
-    {
-        "index": 181,
-        "shop": "古早味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村壽豐路１段８５號"
-    },
-    {
-        "index": 182,
+        "index": 36,
         "shop": "臺灣觀光學院",
         "category": [
             "糕餅",
@@ -2002,77 +538,100 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街２６８號"
+        "market_address": "花蓮縣壽豐鄉豐山村中興街２６８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 183,
-        "shop": "竹緹小舍",
+        "index": 37,
+        "shop": "山谷創意料理專門店",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村６鄰中正路２１７號１樓"
+        "market_address": "花蓮縣壽豐鄉壽豐村０１９鄰壽文路４３號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 184,
-        "shop": "紅運自助餐",
+        "index": 38,
+        "shop": "零五五飲食部",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村２１鄰中山路１５０號"
+        "market_address": "花蓮縣壽豐鄉鹽寮村鹽竂１３２號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 185,
-        "shop": "豐禾萬佳鄉",
+        "index": 39,
+        "shop": "依山午咖啡館",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村００８鄰壽豐路一段４９號１樓"
+        "market_address": "花蓮縣壽豐鄉豐山村０２５鄰中山路１０１巷１９號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 186,
-        "shop": "哈拉早餐屋",
+        "index": 40,
+        "shop": "萬芳精緻飯包",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１１９號"
+        "market_address": "花蓮縣壽豐鄉壽豐村壽文路３１號",
+        "pay_list": [
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 187,
-        "shop": "荒漠甘泉茶舖",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村２２鄰中山路１７９號"
-    },
-    {
-        "index": 188,
-        "shop": "禾田野休閒園區",
+        "index": 41,
+        "shop": "平安小吃",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中山路１２１巷２號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路二段１號集賢館",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 189,
+        "index": 42,
+        "shop": "志學冷飲讚",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "壽豐鄉",
+        "market_address": "花蓮縣壽豐鄉志學村中山路２段２１８號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 43,
         "shop": "東華湖畔咖啡廳",
         "category": [
             "餐飲"
@@ -2080,197 +639,27 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村大學路２段１號"
+        "market_address": "花蓮縣壽豐鄉志學村大學路２段１號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 190,
-        "shop": "??大王志學店",
+        "index": 44,
+        "shop": "九十五度複合式餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路３９號"
+        "market_address": "花蓮縣壽豐鄉志學村１４鄰大學路二段１號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 191,
-        "shop": "阿香早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村林園路２２巷２１號"
-    },
-    {
-        "index": 192,
-        "shop": "白色地中海",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉鹽寮村６鄰福德路１２號"
-    },
-    {
-        "index": 193,
-        "shop": "阿珠小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村池南路１段７８號邊"
-    },
-    {
-        "index": 194,
-        "shop": "阿房飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村池南路一段７８－３號"
-    },
-    {
-        "index": 195,
-        "shop": "魏記小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街２６８號"
-    },
-    {
-        "index": 196,
-        "shop": "七巧福",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街２６８號"
-    },
-    {
-        "index": 197,
-        "shop": "精鍾扁食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐裡村００８鄰中山路１４１號１樓"
-    },
-    {
-        "index": 198,
-        "shop": "秘密雞地",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村７鄰池南路４段３０號"
-    },
-    {
-        "index": 199,
-        "shop": "花蓮香飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１０號"
-    },
-    {
-        "index": 200,
-        "shop": "鍋神日式涮涮鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村２２鄰中正路１４５號"
-    },
-    {
-        "index": 201,
-        "shop": "今日早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉壽豐村４鄰壽豐路１段９６號"
-    },
-    {
-        "index": 202,
-        "shop": "豐田飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街４１號１樓"
-    },
-    {
-        "index": 203,
-        "shop": "好佳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村９鄰中正路１７３號"
-    },
-    {
-        "index": 204,
-        "shop": "窩心咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村林園路３－５號"
-    },
-    {
-        "index": 205,
-        "shop": "學生小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路７０號"
-    },
-    {
-        "index": 206,
-        "shop": "陳媽媽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村７鄰中山路３段６４號１樓"
-    },
-    {
-        "index": 207,
+        "index": 45,
         "shop": "莫內花園咖啡農莊",
         "category": [
             "餐飲"
@@ -2278,28 +667,40 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉池南村林園路３―２號"
+        "market_address": "花蓮縣壽豐鄉池南村林園路３―２號",
+        "pay_list": [
+            "悠遊卡",
+            "信用卡",
+            "Pi 拍錢包",
+            "台灣pay"
+        ]
     },
     {
-        "index": 208,
-        "shop": "校園茶仔店",
+        "index": 46,
+        "shop": "阿房飲食店",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉豐山村中興街２６８號"
+        "market_address": "花蓮縣壽豐鄉池南村池南路一段７８－３號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 209,
-        "shop": "大上海小吃",
+        "index": 47,
+        "shop": "窩心咖啡館",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "壽豐鄉",
-        "market_address": "花蓮縣壽豐鄉志學村中正路１７１號"
+        "market_address": "花蓮縣壽豐鄉池南村林園路３－５號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

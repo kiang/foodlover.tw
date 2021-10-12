@@ -1,18 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "亞維波納瀑布餐廳",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "烏來區",
-        "market_address": "新北市烏來區烏來里瀑布３號"
-    },
-    {
-        "index": 2,
         "shop": "滷味小吃店",
         "category": [
             "夜市\/市場攤販"
@@ -20,6 +8,9 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "烏來區",
-        "market_address": "新北市烏來區烏來里烏來街１３５號"
+        "market_address": "新北市烏來區烏來里烏來街１３５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

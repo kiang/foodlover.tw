@@ -1,29 +1,68 @@
 [
     {
         "index": 1,
-        "shop": "京站實業股份有限公司",
-        "category": "百貨美食街",
+        "shop": "家樂福 台北重慶店",
+        "category": [
+            "百貨美食街"
+        ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "大同區",
-        "market_address": "臺北市大同區建明里承德路１段１號"
+        "market_address": "臺北市大同區雙連里重慶北路２段１７１號",
+        "pay_list": [
+            "悠遊卡",
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
         "index": 2,
-        "shop": "誠品生活(股)捷運中山分公司",
-        "category": "百貨美食街",
+        "shop": "京站時尚廣場",
+        "category": [
+            "百貨美食街"
+        ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "大同區",
-        "market_address": "台北市大同區南京西路16號"
+        "market_address": "臺北市大同區建明里承德路１段１號",
+        "pay_list": [
+            "悠遊卡",
+            "台灣pay",
+            "信用卡",
+            "Pi 拍錢包"
+        ]
     },
     {
         "index": 3,
-        "shop": "誠品股份有限公司中山書街分公司",
-        "category": "百貨美食街",
+        "shop": "誠品R79店",
+        "category": [
+            "百貨美食街"
+        ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "大同區",
-        "market_address": "臺北市大同區建泰里南京西路１６號"
+        "market_address": "台北市大同區南京西路16號",
+        "pay_list": [
+            "悠遊卡",
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "誠品R79 \/ 中山地下書街",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "大同區",
+        "market_address": "臺北市大同區建泰里南京西路１６號",
+        "pay_list": [
+            "悠遊卡",
+            "街口",
+            "台灣pay",
+            "信用卡"
+        ]
     }
 ]

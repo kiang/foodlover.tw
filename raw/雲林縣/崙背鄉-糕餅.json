@@ -1,105 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "品好蛋糕城",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉東明村正義路２７５號"
-    },
-    {
-        "index": 2,
-        "shop": "崙背即食購商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉東明村中山路媽祖巷２８號"
-    },
-    {
-        "index": 3,
-        "shop": "崇友烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉羅厝村東興路７２―１號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "美兒食品店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉南陽村成功路３２－４號"
-    },
-    {
-        "index": 5,
-        "shop": "正香珍餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉東明村中山路３２０號"
-    },
-    {
-        "index": 6,
-        "shop": "四九五巷小廚房",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉草湖村草湖路１８０號"
-    },
-    {
-        "index": 7,
-        "shop": "瑞軒行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉阿勸村９鄰塩園３４―１１號"
-    },
-    {
-        "index": 8,
-        "shop": "秀佶食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉羅厝村東興１７０－１號１樓"
-    },
-    {
-        "index": 9,
-        "shop": "千巧谷牛樂園有限公司牧場營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉羅厝村０１７鄰東興１８２─３２號"
-    },
-    {
-        "index": 10,
         "shop": "千巧谷企業有限公司",
         "category": [
             "糕餅"
@@ -107,10 +8,16 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉南陽村７鄰建國路２８號１樓"
+        "market_address": "雲林縣崙背鄉南陽村７鄰建國路２８號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 11,
+        "index": 2,
         "shop": "千巧谷牛樂園有限公司",
         "category": [
             "糕餅"
@@ -118,17 +25,13 @@
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉南陽村中山路２９號"
-    },
-    {
-        "index": 12,
-        "shop": "南瓜籽烘焙工房",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "崙背鄉",
-        "market_address": "雲林縣崙背鄉羅厝村０１６鄰東興路２４７號"
+        "market_address": "雲林縣崙背鄉南陽村中山路２９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     }
 ]

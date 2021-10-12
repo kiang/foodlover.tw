@@ -1,39 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "直直好商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里羅斯福路１段９０巷１號"
-    },
-    {
-        "index": 2,
-        "shop": "谷町商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里羅斯福路２段３０巷１３號"
-    },
-    {
-        "index": 3,
-        "shop": "源豐雜糧行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里羅斯福路１段９６號"
-    },
-    {
-        "index": 4,
         "shop": "邦德里艾坊",
         "category": [
             "糕餅"
@@ -41,21 +8,14 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區重慶南路３段１２號１樓"
+        "market_address": "臺北市中正區重慶南路３段１２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 5,
-        "shop": "喬禾西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區新營里寧波東街１１―３號"
-    },
-    {
-        "index": 6,
+        "index": 2,
         "shop": "民品商行",
         "category": [
             "糕餅"
@@ -63,56 +23,43 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區文北里仁愛路２段３９之２號１樓"
+        "market_address": "臺北市中正區文北里仁愛路２段３９之２號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 7,
-        "shop": "裕強企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里寧波西街１６號１樓"
-    },
-    {
-        "index": 8,
+        "index": 3,
         "shop": "趣玩烘焙坊",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里博愛路１３８號"
-    },
-    {
-        "index": 9,
-        "shop": "啾妹商行",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區黎明里公園路２２之３號１樓"
+        "market_address": "臺北市中正區光復里博愛路１３８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 10,
+        "index": 4,
         "shop": "川雨麵包香坊",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區文盛里汀州路３段１３５號"
+        "market_address": "臺北市中正區文盛里汀州路３段１３５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 11,
+        "index": 5,
         "shop": "歐庭烘焙工作室",
         "category": [
             "糕餅"
@@ -120,10 +67,14 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區廈安里和平西路２段１５０之２號"
+        "market_address": "臺北市中正區廈安里和平西路２段１５０之２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 12,
+        "index": 6,
         "shop": "朵菈生活百貨",
         "category": [
             "糕餅"
@@ -131,109 +82,13 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區忠勤里汀州路一段９２巷３７號"
+        "market_address": "臺北市中正區忠勤里汀州路一段９２巷３７號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 13,
-        "shop": "熹之軒食品坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區頂東里汀州路２段３３３號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "羅福記製麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍興里汀州路１段１３１巷１１號"
-    },
-    {
-        "index": 15,
-        "shop": "一之麥食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里重慶南路１段９９號８樓之２"
-    },
-    {
-        "index": 16,
-        "shop": "御品妍企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里重慶南路１段５７號１３樓之５"
-    },
-    {
-        "index": 17,
-        "shop": "永大切麵行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南海路９８號"
-    },
-    {
-        "index": 18,
-        "shop": "蜜糖盒子創意蛋糕館",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里重慶南路１段１２１號４樓之２"
-    },
-    {
-        "index": 19,
-        "shop": "悠閒自得點心坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文北里杭州南路１段８５號"
-    },
-    {
-        "index": 20,
-        "shop": "吉力小吃店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里寧波西街２號"
-    },
-    {
-        "index": 21,
-        "shop": "人和切麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里漢口街１段８０巷６弄３號１樓"
-    },
-    {
-        "index": 22,
+        "index": 7,
         "shop": "鳳城麵包店",
         "category": [
             "糕餅"
@@ -241,131 +96,14 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區南昌路１段１０５號"
+        "market_address": "臺北市中正區南昌路１段１０５號",
+        "pay_list": [
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 23,
-        "shop": "安徒生精緻烘焙屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里延平南路７３號"
-    },
-    {
-        "index": 24,
-        "shop": "延鼎切麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區惠安街９之１號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "龍泰西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文祥里杭州南路１段１４５―２號"
-    },
-    {
-        "index": 26,
-        "shop": "宏興食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南昌路２段１２６號"
-    },
-    {
-        "index": 27,
-        "shop": "仁記金陵西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區沅陵街２號"
-    },
-    {
-        "index": 28,
-        "shop": "三豐切麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍興里汀州路１段１４９巷１２號"
-    },
-    {
-        "index": 29,
-        "shop": "喜悅食品店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區廣州街１０之５號"
-    },
-    {
-        "index": 30,
-        "shop": "小倆口國際企業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區博愛路９９號２樓"
-    },
-    {
-        "index": 31,
-        "shop": "初米好食雲端餐飲股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區永功里三元街２０９號"
-    },
-    {
-        "index": 32,
-        "shop": "楷令股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區梅花里忠孝東路２段１２１巷１８號"
-    },
-    {
-        "index": 33,
-        "shop": "統一多拿滋股份有限公司北車捷運門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段４９號"
-    },
-    {
-        "index": 34,
+        "index": 8,
         "shop": "黛比澍股份有限公司",
         "category": [
             "糕餅"
@@ -373,29 +111,445 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區三愛里仁愛路２段１０８號一樓"
+        "market_address": "臺北市中正區三愛里仁愛路２段１０８號一樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "iPASS 一卡通"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "皇家可口股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區黎明里懷寧街６４號７樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "金格食品股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區愛國里中華路２段４１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "和億生活股份有限公司台北站前店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區黎明里忠孝西路１段３６號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "順成食品實業有限公司武昌店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區光復里武昌街１段３５號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "一之軒食品有限公司和平分店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區南福里和平西路１段１５號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "聖比德蛋糕有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區三愛里信義路２段１９９號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "優仕紳企業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區公園路２２之１號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "福正號有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區文盛里羅斯福路３段２１６―３號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "香帥食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區頂東里羅斯福路３段９６號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "一之軒食品有限公司南門分店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區龍福里羅斯福路１段２０號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "台北花園大酒店股份有限公司天成店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區黎明里忠孝西路１段４１―２號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "楓悅坊實業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區南門里廣州街１０―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "凱倫興業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區光復里武昌街１段５號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "古吉食尚有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區林興里辛亥路１段１號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "知拿有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區龍福里南昌路１段６１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "香帥食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區頂東里羅斯福路３段９４號",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "財團法人喜憨兒社會福利基金會喜憨兒烘焙屋勞保店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區龍福里羅斯福路１段４號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "臺灣糖業股份有限公司職工福利委員會台北區域分會",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區建國里寶慶路２５號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "米林香有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區愛國里延平南路２１６巷８號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "財團法人喜憨兒社會福利基金會喜憨兒烘焙屋中華電信店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區東門里信義路１段２１－３號地下一樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "美晶食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區文盛里羅斯福路３段２８４巷１２號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "毅高實業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區幸福里忠孝東路２段８８號９樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "世運食品股份有限公司博愛分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區博愛路１０１﹒１０３號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "樁之菓柑仔店坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區黎明里忠孝西路一段５０之１號１號廣場",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "台灣pay",
+            "悠遊付",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "就是愛企業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區黎明里開封街１段２之５０號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "安徒生精緻烘焙屋",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區光復里延平南路７３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
         "index": 35,
-        "shop": "富群餐飲事業股份有限公司",
+        "shop": "龍泰西點麵包店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區梅花里紹興北街２巷１號３樓"
+        "market_address": "臺北市中正區文祥里杭州南路１段１４５―２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
         "index": 36,
-        "shop": "甘輝企業股份有限公司",
+        "shop": "初米好食雲端餐飲股份有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段３３號７樓"
+        "market_address": "臺北市中正區永功里三元街２０９號",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡"
+        ]
     },
     {
         "index": 37,
@@ -406,44 +560,13 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區南福里南昌路２段３１號２樓"
+        "market_address": "臺北市中正區南福里南昌路２段３１號２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
         "index": 38,
-        "shop": "德華生技有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里重慶南路１段１１０號"
-    },
-    {
-        "index": 39,
-        "shop": "馬哥孛羅麵包股份有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里博愛路１０５號１，２樓"
-    },
-    {
-        "index": 40,
-        "shop": "皇家可口股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里懷寧街６４號７樓"
-    },
-    {
-        "index": 41,
         "shop": "菓風小舖股份有限公司",
         "category": [
             "糕餅"
@@ -451,10 +574,14 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區幸福里忠孝東路２段８８號９樓"
+        "market_address": "臺北市中正區幸福里忠孝東路２段８８號９樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 42,
+        "index": 39,
         "shop": "邱氏鼎食品企業股份有限公司",
         "category": [
             "糕餅"
@@ -462,21 +589,16 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區博愛路９９號１至２樓"
+        "market_address": "臺北市中正區博愛路９９號１至２樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 43,
-        "shop": "金格食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區愛國里中華路２段４１號"
-    },
-    {
-        "index": 44,
+        "index": 40,
         "shop": "日日吐司股份有限公司華山分店",
         "category": [
             "糕餅"
@@ -484,32 +606,15 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區梅花里忠孝東路２段２３號１樓"
+        "market_address": "臺北市中正區梅花里忠孝東路２段２３號１樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 45,
-        "shop": "權佳造型蛋糕店台北營業處",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區永功里詔安街８５號"
-    },
-    {
-        "index": 46,
-        "shop": "丰丹嚴選本舖股份有限公司台北高鐵營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里北平西路３號地下１樓"
-    },
-    {
-        "index": 47,
+        "index": 41,
         "shop": "法緹烘焙有限公司台北高鐵門市",
         "category": [
             "糕餅"
@@ -517,21 +622,13 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區黎明里北平西路３號地下１樓"
+        "market_address": "臺北市中正區黎明里北平西路３號地下１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 48,
-        "shop": "振頤軒食品企業有限公司忠孝新生門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸市里忠孝東路２段１０２號１樓"
-    },
-    {
-        "index": 49,
+        "index": 42,
         "shop": "福圓號食品有限公司台北車站門市",
         "category": [
             "糕餅"
@@ -539,165 +636,13 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段４９號"
+        "market_address": "臺北市中正區黎明里忠孝西路１段４９號",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 50,
-        "shop": "統一聖娜多堡股份有限公司站前門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段４９號（南港線台北車站７號販賣店）"
-    },
-    {
-        "index": 51,
-        "shop": "一之軒食品有限公司南門分店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里羅斯福路１段２０號"
-    },
-    {
-        "index": 52,
-        "shop": "和億生活股份有限公司台北站前店",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段３６號"
-    },
-    {
-        "index": 53,
-        "shop": "順成食品實業有限公司武昌店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里武昌街１段３５號"
-    },
-    {
-        "index": 54,
-        "shop": "一之軒食品有限公司和平分店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里和平西路１段１５號"
-    },
-    {
-        "index": 55,
-        "shop": "台北花園大酒店股份有限公司天成店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段４１―２號"
-    },
-    {
-        "index": 56,
-        "shop": "元祖實業股份有限公司信義營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區信義路２段２８７號１樓"
-    },
-    {
-        "index": 57,
-        "shop": "國鼎食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區羅斯福路１段２８號"
-    },
-    {
-        "index": 58,
-        "shop": "佻輝有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里中華路１段５９號９樓"
-    },
-    {
-        "index": 59,
-        "shop": "聖比德蛋糕有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區三愛里信義路２段１９９號１樓"
-    },
-    {
-        "index": 60,
-        "shop": "優仕紳企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區公園路２２之１號１樓"
-    },
-    {
-        "index": 61,
-        "shop": "楓悅坊實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南門里廣州街１０―１號"
-    },
-    {
-        "index": 62,
-        "shop": "善德利食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段７２號２樓之５"
-    },
-    {
-        "index": 63,
-        "shop": "藝桐國際商貿有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里博愛路５３號７樓"
-    },
-    {
-        "index": 64,
+        "index": 43,
         "shop": "茗滴貝伊爾有限公司",
         "category": [
             "糕餅"
@@ -705,410 +650,15 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區光復里博愛路８６號１樓"
+        "market_address": "臺北市中正區光復里博愛路８６號１樓",
+        "pay_list": [
+            "街口",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 65,
-        "shop": "好行整合行銷事業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸福里忠孝東路１段７６號１２樓之１"
-    },
-    {
-        "index": 66,
-        "shop": "芮鳳跨界整合設計有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里和平西路１段１５號３樓"
-    },
-    {
-        "index": 67,
-        "shop": "凱倫興業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里武昌街１段５號"
-    },
-    {
-        "index": 68,
-        "shop": "百佳烘焙有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文祥里杭州南路１段１４３巷２號"
-    },
-    {
-        "index": 69,
-        "shop": "古吉食尚有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區林興里辛亥路１段１號"
-    },
-    {
-        "index": 70,
-        "shop": "恆永企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里青島西路１１號５樓之３"
-    },
-    {
-        "index": 71,
-        "shop": "豐裕雜糧有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里羅斯福路１段９６號"
-    },
-    {
-        "index": 72,
-        "shop": "盟達國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸福里林森南路３巷３號"
-    },
-    {
-        "index": 73,
-        "shop": "小紅門生活有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸福里齊東街５７號１樓"
-    },
-    {
-        "index": 74,
-        "shop": "向棠食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里羅斯福路１段２２號４樓"
-    },
-    {
-        "index": 75,
-        "shop": "福正號有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文盛里羅斯福路３段２１６―３號"
-    },
-    {
-        "index": 76,
-        "shop": "香帥食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區頂東里羅斯福路３段９６號"
-    },
-    {
-        "index": 77,
-        "shop": "普一食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區三愛里新生南路１段１２６―７號"
-    },
-    {
-        "index": 78,
-        "shop": "馬吉麵包坊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里衡陽路１３０號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "知拿有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里南昌路１段６１號"
-    },
-    {
-        "index": 80,
-        "shop": "漾漾企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源里汀州路３段１０４巷６９號"
-    },
-    {
-        "index": 81,
-        "shop": "米林香有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區愛國里延平南路２１６巷８號"
-    },
-    {
-        "index": 82,
-        "shop": "美晶食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文盛里羅斯福路３段２８４巷１２號１樓"
-    },
-    {
-        "index": 83,
-        "shop": "毅高實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸福里忠孝東路２段８８號９樓"
-    },
-    {
-        "index": 84,
-        "shop": "萊陽食品廠有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區頂東里羅斯福路３段９０號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "麗華食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區開封街一段５７號"
-    },
-    {
-        "index": 86,
-        "shop": "國際西點麵包廠有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區南福里羅斯福路１段２８號"
-    },
-    {
-        "index": 87,
-        "shop": "陳男商號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里南昌路１段７４巷９號１樓"
-    },
-    {
-        "index": 88,
-        "shop": "三槐堂",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區羅斯福路１段７２巷２號１樓"
-    },
-    {
-        "index": 89,
-        "shop": "香帥食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區頂東里羅斯福路３段９４號"
-    },
-    {
-        "index": 90,
-        "shop": "馬哥孛羅麵包股份有限公司重慶一店分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區重慶南路１段１４７號１樓"
-    },
-    {
-        "index": 91,
-        "shop": "歐立食品股份有限公司凱撒分公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路１段３８號１樓"
-    },
-    {
-        "index": 92,
-        "shop": "世運食品股份有限公司博愛分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區博愛路１０１﹒１０３號１樓"
-    },
-    {
-        "index": 93,
-        "shop": "台灣吉豚屋餐飲股份有限公司館前分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里信陽街２７號（１－３樓）"
-    },
-    {
-        "index": 94,
-        "shop": "香臨食品股份有限公司重慶南分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍光里重慶南路３段１８號"
-    },
-    {
-        "index": 95,
-        "shop": "聖保羅企業股份有限公司忠孝分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸市里忠孝東路２段１１２號"
-    },
-    {
-        "index": 96,
-        "shop": "豆穌朋食品股份有限公司西門門市分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里中華路１段５９―８號"
-    },
-    {
-        "index": 97,
-        "shop": "薩摩亞商客來喜餐飲股份有限公司台灣分公司南海門市",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里南海路８號１樓"
-    },
-    {
-        "index": 98,
-        "shop": "薩摩亞商客來喜餐飲股份有限公司台灣分公司衡陽門市",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區光復里衡陽路９９號９９－１號１樓"
-    },
-    {
-        "index": 99,
-        "shop": "英屬維爾京羣島商可娜國際有限公司台灣分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區梅花里北平東路３０號１４樓之４"
-    },
-    {
-        "index": 100,
-        "shop": "小椿日和工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區羅斯福路３段３１６巷４號１樓"
-    },
-    {
-        "index": 101,
+        "index": 44,
         "shop": "芝妮商號",
         "category": [
             "糕餅"
@@ -1116,219 +666,28 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區思源街１號"
+        "market_address": "臺北市中正區思源街１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 102,
-        "shop": "土司吐司烘焙坊",
+        "index": 45,
+        "shop": "百佳烘焙有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區文盛里羅斯福路３段３１６巷４號"
+        "market_address": "臺北市中正區文祥里杭州南路１段１４３巷２號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 103,
-        "shop": "陳筱函",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸市里濟南路２段４６號３５室"
-    },
-    {
-        "index": 104,
-        "shop": "蕯摩亞甜點",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區文祥里信義路２段７９巷１４－６號"
-    },
-    {
-        "index": 105,
-        "shop": "羅玉麟",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區信義路２段１９號"
-    },
-    {
-        "index": 106,
-        "shop": "樁之菓柑仔店坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路一段５０之１號１號廣場"
-    },
-    {
-        "index": 107,
-        "shop": "一好工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里忠孝西路一段５０之１號１號廣場"
-    },
-    {
-        "index": 108,
-        "shop": "家庭手工饅頭店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸福里金山南路１段臨４８號"
-    },
-    {
-        "index": 109,
-        "shop": "財團法人喜憨兒社會福利基金會喜憨兒烘焙屋中華電信店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區東門里信義路１段２１－３號地下一樓"
-    },
-    {
-        "index": 110,
-        "shop": "財團法人喜憨兒社會福利基金會喜憨兒烘焙屋勞保店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區龍福里羅斯福路１段４號１樓"
-    },
-    {
-        "index": 111,
-        "shop": "臺灣糖業股份有限公司職工福利委員會台北區域分會",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里寶慶路２５號"
-    },
-    {
-        "index": 112,
-        "shop": "就是愛企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區黎明里開封街１段２之５０號"
-    },
-    {
-        "index": 113,
-        "shop": "水源市場１樓９９號攤位",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源里羅斯福路４段９２號水源市場１樓９９號攤位"
-    },
-    {
-        "index": 114,
-        "shop": "謝燈枝麵包部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區建國里博愛路１２７號"
-    },
-    {
-        "index": 115,
-        "shop": "招財行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區中華路２段３１１巷口"
-    },
-    {
-        "index": 116,
-        "shop": "連興食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區中華路２段１６５－２號"
-    },
-    {
-        "index": 117,
-        "shop": "水源市場二樓第８４攤位",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源市場２樓８４號"
-    },
-    {
-        "index": 118,
-        "shop": "水源市場一樓第４５攤位",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源市場１樓４５號"
-    },
-    {
-        "index": 119,
-        "shop": "水源市場一樓第４３攤位",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源市場１樓４３號"
-    },
-    {
-        "index": 120,
-        "shop": "水源市場一樓第６攤位",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區水源市場１樓６號"
-    },
-    {
-        "index": 121,
+        "index": 46,
         "shop": "水源市場一樓第５攤位",
         "category": [
             "糕餅"
@@ -1336,72 +695,9 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "中正區",
-        "market_address": "臺北市中正區水源市場１樓５號"
-    },
-    {
-        "index": 122,
-        "shop": "林何世子（寄：晉江街６９號之２）",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區沅陵街９號前"
-    },
-    {
-        "index": 123,
-        "shop": "昇德西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區中華路２段４６１之１號"
-    },
-    {
-        "index": 124,
-        "shop": "華山魷魚??",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區紹興南街４號"
-    },
-    {
-        "index": 125,
-        "shop": "華山小吃店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區紹興南街４之４號"
-    },
-    {
-        "index": 126,
-        "shop": "陳賴鳳英",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸安市場１樓之９號"
-    },
-    {
-        "index": 127,
-        "shop": "許李砂",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "臺北市中正區幸安市場１樓之８號"
+        "market_address": "臺北市中正區水源市場１樓５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

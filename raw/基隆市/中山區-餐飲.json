@@ -1,83 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "雅緻冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１６５號３樓"
-    },
-    {
-        "index": 2,
-        "shop": "阿土正宗小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路５０號"
-    },
-    {
-        "index": 3,
-        "shop": "歐嗨優精緻早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安平里安一路２９號"
-    },
-    {
-        "index": 4,
-        "shop": "好記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路２８號"
-    },
-    {
-        "index": 5,
-        "shop": "安旭企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路２０１號（１樓）"
-    },
-    {
-        "index": 6,
-        "shop": "家味鮮熱炒店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９６之１號１樓"
-    },
-    {
-        "index": 7,
-        "shop": "小羅牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１５弄３３號５樓"
-    },
-    {
-        "index": 8,
         "shop": "豪饗去小吃店",
         "category": [
             "餐飲"
@@ -85,10 +8,16 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２７５號１樓"
+        "market_address": "基隆市中山區德安里復興路２７５號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 9,
+        "index": 2,
         "shop": "鳶鳶商行",
         "category": [
             "餐飲"
@@ -96,21 +25,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里西定路４５１號（１樓）"
+        "market_address": "基隆市中山區西康里西定路４５１號（１樓）",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 10,
-        "shop": "水中餃龍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路５４號１樓"
-    },
-    {
-        "index": 11,
+        "index": 3,
         "shop": "珈菲商行",
         "category": [
             "餐飲"
@@ -118,54 +39,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區民治里中山一路２５７號１樓"
+        "market_address": "基隆市中山區民治里中山一路２５７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 12,
-        "shop": "創始姚家清魚湯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區太白里中山四路１７５號"
-    },
-    {
-        "index": 13,
-        "shop": "奧莉薇早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１７５號"
-    },
-    {
-        "index": 14,
-        "shop": "四臣香肆",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山一路２９９號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "金昌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２７８―６號"
-    },
-    {
-        "index": 16,
+        "index": 4,
         "shop": "淼莎便當",
         "category": [
             "餐飲"
@@ -173,65 +53,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區安平里中山一路１１１號"
+        "market_address": "基隆市中山區安平里中山一路１１１號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 17,
-        "shop": "永品便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路１０７號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "响叮噹美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８－１號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "得意早餐吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里通仁街１１號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "哈囉哈拉麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路７１號右棟１樓"
-    },
-    {
-        "index": 21,
-        "shop": "李記牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷７弄１２號１樓"
-    },
-    {
-        "index": 22,
+        "index": 5,
         "shop": "小夫妻商行",
         "category": [
             "餐飲"
@@ -239,10 +67,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９５之６號１樓"
+        "market_address": "基隆市中山區西康里復興路９５之６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 23,
+        "index": 6,
         "shop": "美杏小吃店",
         "category": [
             "餐飲"
@@ -250,98 +82,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區協和里文化路１０６號"
+        "market_address": "基隆市中山區協和里文化路１０６號",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 24,
-        "shop": "伍食便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１２０號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "順伯三輪車肉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路１９號"
-    },
-    {
-        "index": 26,
-        "shop": "歹喝手作飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路４號１樓"
-    },
-    {
-        "index": 27,
-        "shop": "天廚飯麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２９９號１樓"
-    },
-    {
-        "index": 28,
-        "shop": "涵品手搖飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１６９號１樓"
-    },
-    {
-        "index": 29,
-        "shop": "橙品豐味坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１４９號１樓"
-    },
-    {
-        "index": 30,
-        "shop": "六號美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路２１號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "一路甄香美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路３３４巷１２號"
-    },
-    {
-        "index": 32,
+        "index": 7,
         "shop": "榮爸小廚麵飯館",
         "category": [
             "餐飲"
@@ -349,65 +97,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２２４號１樓"
+        "market_address": "基隆市中山區德和里復興路２２４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 33,
-        "shop": "永吉燒臘店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路８９號１樓"
-    },
-    {
-        "index": 34,
-        "shop": "大竿林小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８９號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "得獎特大香雞排店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２８７號１樓"
-    },
-    {
-        "index": 36,
-        "shop": "魏家蔥仔餅店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路２３號１樓"
-    },
-    {
-        "index": 37,
-        "shop": "林一飲食文化企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里協和街１４９―１４號"
-    },
-    {
-        "index": 38,
+        "index": 8,
         "shop": "基隆東美式炸雞店中山店",
         "category": [
             "餐飲"
@@ -415,10 +111,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９３―２號１樓"
+        "market_address": "基隆市中山區西康里復興路９３―２號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 39,
+        "index": 9,
         "shop": "朋佳小吃店",
         "category": [
             "餐飲"
@@ -426,43 +125,16 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１１０巷３６號前棟１樓"
+        "market_address": "基隆市中山區西華里西定路１１０巷３６號前棟１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 40,
-        "shop": "旺伯小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路３１號"
-    },
-    {
-        "index": 41,
-        "shop": "六號美小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路３６巷２１號１樓"
-    },
-    {
-        "index": 42,
-        "shop": "北芳烤鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路６１號１樓"
-    },
-    {
-        "index": 43,
+        "index": 10,
         "shop": "壹又貳分之壹咖啡館",
         "category": [
             "餐飲"
@@ -470,21 +142,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１１９號１樓"
+        "market_address": "基隆市中山區中山里中山一路１１９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 44,
-        "shop": "凱茜與傑克冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區民治里中山一路２８７號１樓"
-    },
-    {
-        "index": 45,
+        "index": 11,
         "shop": "芊芊食堂",
         "category": [
             "餐飲"
@@ -492,54 +157,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１０弄２２號１樓"
+        "market_address": "基隆市中山區和慶里中和路１６８巷１０弄２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 46,
-        "shop": "福客來港式燒臘店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路２號"
-    },
-    {
-        "index": 47,
-        "shop": "漢林食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１７０號１樓"
-    },
-    {
-        "index": 48,
-        "shop": "中南海小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２８３號１樓及地下層"
-    },
-    {
-        "index": 49,
-        "shop": "全家福海鮮樓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路２２１，２２１－５號１樓"
-    },
-    {
-        "index": 50,
+        "index": 12,
         "shop": "愛亦軒食品坊",
         "category": [
             "餐飲"
@@ -547,32 +172,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路４６號１樓"
+        "market_address": "基隆市中山區西榮里西定路４６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 51,
-        "shop": "水牛饌牛肉麵專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路４１號"
-    },
-    {
-        "index": 52,
-        "shop": "晶鑽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里協和街７號１樓"
-    },
-    {
-        "index": 53,
+        "index": 13,
         "shop": "玖伍平價厚切牛排館",
         "category": [
             "餐飲"
@@ -580,10 +187,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１８９號"
+        "market_address": "基隆市中山區德和里復興路１８９號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 54,
+        "index": 14,
         "shop": "巨森早餐吧",
         "category": [
             "餐飲"
@@ -591,32 +203,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１０３號"
+        "market_address": "基隆市中山區德和里復興路１０３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 55,
-        "shop": "高記北方大陸餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路６號"
-    },
-    {
-        "index": 56,
-        "shop": "強強滾美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１９５號１樓"
-    },
-    {
-        "index": 57,
+        "index": 15,
         "shop": "和宸早餐店",
         "category": [
             "餐飲"
@@ -624,10 +217,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里西定路４６５號"
+        "market_address": "基隆市中山區西康里西定路４６５號",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 58,
+        "index": 16,
         "shop": "八角食舖",
         "category": [
             "餐飲"
@@ -635,21 +232,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路３４７號１樓"
+        "market_address": "基隆市中山區德安里復興路３４７號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 59,
-        "shop": "兆泉小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區民治里中山一路２８５號１樓"
-    },
-    {
-        "index": 60,
+        "index": 17,
         "shop": "復興茶館",
         "category": [
             "餐飲"
@@ -657,10 +246,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１５６號１樓"
+        "market_address": "基隆市中山區德和里復興路１５６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 61,
+        "index": 18,
         "shop": "比屋冷飲店",
         "category": [
             "餐飲"
@@ -668,32 +262,19 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路５巷１２號１樓"
+        "market_address": "基隆市中山區通化里中華路５巷１２號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 62,
-        "shop": "燈村早店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２７５號１樓"
-    },
-    {
-        "index": 63,
-        "shop": "三二無骨塩酥雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷８弄２３號１樓"
-    },
-    {
-        "index": 64,
+        "index": 19,
         "shop": "橘子食堂",
         "category": [
             "餐飲"
@@ -701,32 +282,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路４５號"
+        "market_address": "基隆市中山區西榮里西定路４５號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 65,
-        "shop": "李津好魯肉飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路４４號１樓"
-    },
-    {
-        "index": 66,
-        "shop": "玖壹壹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路１巷１號１樓"
-    },
-    {
-        "index": 67,
+        "index": 20,
         "shop": "巧廚小吃店",
         "category": [
             "餐飲"
@@ -734,21 +298,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區復興路２４０－１號１樓"
+        "market_address": "基隆市中山區復興路２４０－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 68,
-        "shop": "馥香食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９６－１號"
-    },
-    {
-        "index": 69,
+        "index": 21,
         "shop": "基隆東美式炸雞店",
         "category": [
             "餐飲"
@@ -756,32 +313,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里西定路４２３巷９―２號"
+        "market_address": "基隆市中山區西康里西定路４２３巷９―２號",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 70,
-        "shop": "品昶手工小籠包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１８７號"
-    },
-    {
-        "index": 71,
-        "shop": "滷冰花小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路３２８－２、３２８－３號１樓"
-    },
-    {
-        "index": 72,
+        "index": 22,
         "shop": "森煜企業社",
         "category": [
             "餐飲"
@@ -789,263 +327,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路４３－１號１樓"
+        "market_address": "基隆市中山區西康里復興路４３－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 73,
-        "shop": "漁廚坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路２１１－４號１樓"
-    },
-    {
-        "index": 74,
-        "shop": "指天宮行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１１弄２２號"
-    },
-    {
-        "index": 75,
-        "shop": "滿足手工蛋餅店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區復興路２６２號１樓"
-    },
-    {
-        "index": 76,
-        "shop": "黃麵豬腳湯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９３號１樓"
-    },
-    {
-        "index": 77,
-        "shop": "阿英麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里協和街１７３號１樓"
-    },
-    {
-        "index": 78,
-        "shop": "賢之壽司屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定里西定路２２８號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "矯家飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２９３號"
-    },
-    {
-        "index": 80,
-        "shop": "何曉苓早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８―２號"
-    },
-    {
-        "index": 81,
-        "shop": "老媽麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路４１號１樓"
-    },
-    {
-        "index": 82,
-        "shop": "德安早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里德安路２２號"
-    },
-    {
-        "index": 83,
-        "shop": "陳哥早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷３弄１８號１樓"
-    },
-    {
-        "index": 84,
-        "shop": "復興古早味紅茶冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１２１號１樓"
-    },
-    {
-        "index": 85,
-        "shop": "古基咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１３１號"
-    },
-    {
-        "index": 86,
-        "shop": "品味香永和豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１３８號１樓、１４０號１樓"
-    },
-    {
-        "index": 87,
-        "shop": "紅越河粉餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２６５號１樓"
-    },
-    {
-        "index": 88,
-        "shop": "美再美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷９弄２２號１樓"
-    },
-    {
-        "index": 89,
-        "shop": "爺旺小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路３２號２樓"
-    },
-    {
-        "index": 90,
-        "shop": "月半子滷味店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２２６號１樓"
-    },
-    {
-        "index": 91,
-        "shop": "老劉劉媽媽牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路１５巷１２號"
-    },
-    {
-        "index": 92,
-        "shop": "喜市漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷１７―２號"
-    },
-    {
-        "index": 93,
-        "shop": "江家美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１６８號"
-    },
-    {
-        "index": 94,
-        "shop": "賴家碗粿小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路１６號"
-    },
-    {
-        "index": 95,
-        "shop": "黃記餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷１６號"
-    },
-    {
-        "index": 96,
+        "index": 23,
         "shop": "川泉湧冷飲店",
         "category": [
             "餐飲"
@@ -1053,43 +342,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１６０號１樓"
+        "market_address": "基隆市中山區德和里復興路１６０號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 97,
-        "shop": "大慶豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷３弄１７號１樓"
-    },
-    {
-        "index": 98,
-        "shop": "永元手工包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１１弄２０號１樓"
-    },
-    {
-        "index": 99,
-        "shop": "全香早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２５９巷３４號１樓"
-    },
-    {
-        "index": 100,
+        "index": 24,
         "shop": "藍琪胖水餃",
         "category": [
             "餐飲"
@@ -1097,87 +358,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區中興里中山一路３０９號１樓"
+        "market_address": "基隆市中山區中興里中山一路３０９號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 101,
-        "shop": "流浪頭米粉湯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路５巷１４號"
-    },
-    {
-        "index": 102,
-        "shop": "活力早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１６４號"
-    },
-    {
-        "index": 103,
-        "shop": "俏妞早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安平里中山一路１０７號"
-    },
-    {
-        "index": 104,
-        "shop": "諾曼早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷２弄１６號１樓"
-    },
-    {
-        "index": 105,
-        "shop": "鍋燒一族小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路５巷４號"
-    },
-    {
-        "index": 106,
-        "shop": "藝家人早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２７９號"
-    },
-    {
-        "index": 107,
-        "shop": "就是炒飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２８９號"
-    },
-    {
-        "index": 108,
+        "index": 25,
         "shop": "利成餐飲店",
         "category": [
             "餐飲"
@@ -1185,32 +372,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路１７―５號１樓"
+        "market_address": "基隆市中山區通化里復旦路１７―５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 109,
-        "shop": "呈品鵝肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路８６號１樓"
-    },
-    {
-        "index": 110,
-        "shop": "快樂早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里文化路１６９―１號１樓"
-    },
-    {
-        "index": 111,
+        "index": 26,
         "shop": "朝棟茶坊",
         "category": [
             "餐飲"
@@ -1218,87 +386,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區仁正里中山二路１０５巷１０３號２樓"
+        "market_address": "基隆市中山區仁正里中山二路１０５巷１０３號２樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 112,
-        "shop": "甜蜜早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１９１號"
-    },
-    {
-        "index": 113,
-        "shop": "小懷小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１１３巷２號"
-    },
-    {
-        "index": 114,
-        "shop": "阿娟早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區民治里中山一路２３３號１樓"
-    },
-    {
-        "index": 115,
-        "shop": "一品早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路３７號"
-    },
-    {
-        "index": 116,
-        "shop": "高記蚵仔麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２７８號之７"
-    },
-    {
-        "index": 117,
-        "shop": "勝心早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１６０號"
-    },
-    {
-        "index": 118,
-        "shop": "肥記漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１１４號"
-    },
-    {
-        "index": 119,
+        "index": 27,
         "shop": "巧味饅頭食品行",
         "category": [
             "餐飲"
@@ -1306,43 +401,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路８８號"
+        "market_address": "基隆市中山區西榮里西定路８８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 120,
-        "shop": "查某人小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷８弄４號"
-    },
-    {
-        "index": 121,
-        "shop": "洪記手工肉圓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路３６號１樓"
-    },
-    {
-        "index": 122,
-        "shop": "古堅冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定里西定路３１５號１樓"
-    },
-    {
-        "index": 123,
+        "index": 28,
         "shop": "香香葱油餅店",
         "category": [
             "餐飲"
@@ -1350,76 +415,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路３２號１樓"
+        "market_address": "基隆市中山區西康里復興路３２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 124,
-        "shop": "合融商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路２００巷１００弄１１號１樓"
-    },
-    {
-        "index": 125,
-        "shop": "食寨小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２６５號１樓"
-    },
-    {
-        "index": 126,
-        "shop": "元鼎小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路７１號右棟"
-    },
-    {
-        "index": 127,
-        "shop": "羊加醬的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里德安路２－２號１樓"
-    },
-    {
-        "index": 128,
-        "shop": "愛喝超大杯飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２９１號１樓"
-    },
-    {
-        "index": 129,
-        "shop": "阿鳳肉包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區仁正里中山二路９５號１樓"
-    },
-    {
-        "index": 130,
+        "index": 29,
         "shop": "依霖小吃店",
         "category": [
             "餐飲"
@@ -1427,10 +429,16 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷７弄１９號（１樓）"
+        "market_address": "基隆市中山區和慶里中和路１６８巷７弄１９號（１樓）",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 131,
+        "index": 30,
         "shop": "元寶小吃店",
         "category": [
             "餐飲"
@@ -1438,32 +446,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１３６號１樓"
+        "market_address": "基隆市中山區德和里復興路１３６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 132,
-        "shop": "李師父便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路５號１樓"
-    },
-    {
-        "index": 133,
-        "shop": "劉家小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安平里安一路２號１樓"
-    },
-    {
-        "index": 134,
+        "index": 31,
         "shop": "香港金城燒臘便當店",
         "category": [
             "餐飲"
@@ -1471,43 +461,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１２４號１樓"
+        "market_address": "基隆市中山區德和里復興路１２４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 135,
-        "shop": "聖托里尼海景餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里湖海路一段１８號２樓"
-    },
-    {
-        "index": 136,
-        "shop": "酉閣炸雞舍",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６６―２號１樓"
-    },
-    {
-        "index": 137,
-        "shop": "韓菜之家小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷２６號"
-    },
-    {
-        "index": 138,
+        "index": 32,
         "shop": "慶筑小吃店",
         "category": [
             "餐飲"
@@ -1515,43 +475,14 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路８７號１樓"
+        "market_address": "基隆市中山區西榮里西定路８７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 139,
-        "shop": "六號碼頭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路３２８號１樓"
-    },
-    {
-        "index": 140,
-        "shop": "佳鼎複合式餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路３―１號"
-    },
-    {
-        "index": 141,
-        "shop": "府城海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路３４號"
-    },
-    {
-        "index": 142,
+        "index": 33,
         "shop": "松品日式涮涮鍋",
         "category": [
             "餐飲"
@@ -1559,32 +490,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路３５３號１樓"
+        "market_address": "基隆市中山區德安里復興路３５３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 143,
-        "shop": "大三元海鮮餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里協和街７號１樓"
-    },
-    {
-        "index": 144,
-        "shop": "魯大叔滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１８３號１樓"
-    },
-    {
-        "index": 145,
+        "index": 34,
         "shop": "中華若里綺飲料店",
         "category": [
             "餐飲"
@@ -1592,43 +504,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路５巷２號１樓"
+        "market_address": "基隆市中山區通化里中華路５巷２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 146,
-        "shop": "東豪飲食行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路３０５號"
-    },
-    {
-        "index": 147,
-        "shop": "展豐飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路３８號１樓"
-    },
-    {
-        "index": 148,
-        "shop": "祥師甕雞莊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路２１５－６號１樓"
-    },
-    {
-        "index": 149,
+        "index": 35,
         "shop": "多一杯冷飲店",
         "category": [
             "餐飲"
@@ -1636,21 +518,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路６６號１樓"
+        "market_address": "基隆市中山區安民里安一路６６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 150,
-        "shop": "老朋友小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路２０號１樓"
-    },
-    {
-        "index": 151,
+        "index": 36,
         "shop": "八號碼頭包子饅頭專賣店",
         "category": [
             "餐飲"
@@ -1658,120 +534,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區仁正里中山二路１０３號１樓"
+        "market_address": "基隆市中山區仁正里中山二路１０３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 152,
-        "shop": "柯媽媽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２２８－２號１樓"
-    },
-    {
-        "index": 153,
-        "shop": "大船入港休閒咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路５１巷１３２號"
-    },
-    {
-        "index": 154,
-        "shop": "私人島嶼餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里湖海路１段３７號１樓"
-    },
-    {
-        "index": 155,
-        "shop": "東家館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路７６號"
-    },
-    {
-        "index": 156,
-        "shop": "三德牛肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路７號"
-    },
-    {
-        "index": 157,
-        "shop": "鼎好精致美食小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１４８號"
-    },
-    {
-        "index": 158,
-        "shop": "芳鄰飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２６１號底層"
-    },
-    {
-        "index": 159,
-        "shop": "仙洞咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區仙洞里仁安街９號１樓"
-    },
-    {
-        "index": 160,
-        "shop": "海底花園飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區仙洞里仁安街１１號２樓"
-    },
-    {
-        "index": 161,
-        "shop": "瑞晟飲料館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里中山一路３號１樓"
-    },
-    {
-        "index": 162,
+        "index": 37,
         "shop": "一九七三咖啡坊",
         "category": [
             "餐飲"
@@ -1779,43 +548,15 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路５１巷１３２號地下層"
+        "market_address": "基隆市中山區中興里中山二路５１巷１３２號地下層",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 163,
-        "shop": "好味薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里德安路２―１３號１樓"
-    },
-    {
-        "index": 164,
-        "shop": "韓江園小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路７５號１樓"
-    },
-    {
-        "index": 165,
-        "shop": "後山花園咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路６５巷１０５號"
-    },
-    {
-        "index": 166,
+        "index": 38,
         "shop": "安一飲食店",
         "category": [
             "餐飲"
@@ -1823,21 +564,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路４６號１樓"
+        "market_address": "基隆市中山區安民里安一路４６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 167,
-        "shop": "美兒堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路３１９號"
-    },
-    {
-        "index": 168,
+        "index": 39,
         "shop": "仁和小吃店",
         "category": [
             "餐飲"
@@ -1845,43 +578,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１５０號"
+        "market_address": "基隆市中山區德和里復興路１５０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 169,
-        "shop": "小文飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路４４及４２號"
-    },
-    {
-        "index": 170,
-        "shop": "汕頭飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路１７－６號１樓"
-    },
-    {
-        "index": 171,
-        "shop": "永瑞商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２９５號"
-    },
-    {
-        "index": 172,
+        "index": 40,
         "shop": "宣鼎股份有限公司",
         "category": [
             "餐飲"
@@ -1889,153 +592,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷５弄２５號１樓"
+        "market_address": "基隆市中山區和慶里中和路１６８巷５弄２５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 173,
-        "shop": "喬伊茶坊西定分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路４８號"
-    },
-    {
-        "index": 174,
-        "shop": "妮妮愛吃雞蛋糕店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路３６巷５號"
-    },
-    {
-        "index": 175,
-        "shop": "信安商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１４６號１樓"
-    },
-    {
-        "index": 176,
-        "shop": "外木山景觀咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區協和里協和街１５０－２號"
-    },
-    {
-        "index": 177,
-        "shop": "虎仔山咖啡休閒館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路６５巷１０５號"
-    },
-    {
-        "index": 178,
-        "shop": "基隆好婆婆企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８之６號"
-    },
-    {
-        "index": 179,
-        "shop": "曾豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定路９９號"
-    },
-    {
-        "index": 180,
-        "shop": "小羅牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１１３號"
-    },
-    {
-        "index": 181,
-        "shop": "臻佳便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷５弄１８號１樓"
-    },
-    {
-        "index": 182,
-        "shop": "賺呷人小吃店中山分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路６９號"
-    },
-    {
-        "index": 183,
-        "shop": "林俊輔清粥小菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１２６號"
-    },
-    {
-        "index": 184,
-        "shop": "御記台越美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路２１５號"
-    },
-    {
-        "index": 185,
-        "shop": "香林善食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定里西定路２３０號Ａ４"
-    },
-    {
-        "index": 186,
+        "index": 41,
         "shop": "５８冰品",
         "category": [
             "餐飲"
@@ -2043,120 +606,71 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路５２巷２號"
+        "market_address": "基隆市中山區中興里中山二路５２巷２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 187,
-        "shop": "新中壢牛肉麵",
+        "index": 42,
+        "shop": "妮妮愛吃雞蛋糕店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２１６號"
+        "market_address": "基隆市中山區中興里中山二路３６巷５號",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     },
     {
-        "index": 188,
-        "shop": "和田手作赤肉焿",
+        "index": 43,
+        "shop": "外木山景觀咖啡店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１１弄２１號１樓"
+        "market_address": "基隆市中山區協和里協和街１５０－２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 189,
-        "shop": "可心飲料店",
+        "index": 44,
+        "shop": "虎仔山咖啡休閒館",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路３６號"
+        "market_address": "基隆市中山區中興里中山二路６５巷１０５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 190,
-        "shop": "熊有恩典",
+        "index": 45,
+        "shop": "信安商行",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路３６號"
+        "market_address": "基隆市中山區德和里復興路１４６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 191,
-        "shop": "霸麵玲瓏小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷８號１樓（騎樓）"
-    },
-    {
-        "index": 192,
-        "shop": "周雅玲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里中山一路１０號"
-    },
-    {
-        "index": 193,
-        "shop": "京烜麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８―１０號"
-    },
-    {
-        "index": 194,
-        "shop": "胖媽媽早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路７５號"
-    },
-    {
-        "index": 195,
-        "shop": "文化鹽酥雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１７９號"
-    },
-    {
-        "index": 196,
-        "shop": "復興２７魷魚麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區復興路２７－１前騎樓"
-    },
-    {
-        "index": 197,
+        "index": 46,
         "shop": "越台美食小館",
         "category": [
             "餐飲"
@@ -2164,76 +678,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２００之１８號"
+        "market_address": "基隆市中山區德和里復興路２００之１８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 198,
-        "shop": "飯糰屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２７８―７號１樓"
-    },
-    {
-        "index": 199,
-        "shop": "金饌麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１７６號"
-    },
-    {
-        "index": 200,
-        "shop": "吳秀娟小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１７２號１樓"
-    },
-    {
-        "index": 201,
-        "shop": "安家小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９６－１號第二間"
-    },
-    {
-        "index": 202,
-        "shop": "葵可利基隆中華店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路１３號"
-    },
-    {
-        "index": 203,
-        "shop": "１２３早餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定里西定路２９１號"
-    },
-    {
-        "index": 204,
+        "index": 47,
         "shop": "紅豆坊",
         "category": [
             "餐飲"
@@ -2241,230 +692,13 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路２０號１樓"
+        "market_address": "基隆市中山區西榮里西定路２０號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 205,
-        "shop": "裕裖早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１６６號１樓"
-    },
-    {
-        "index": 206,
-        "shop": "大發油條店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路４２巷２４號１樓"
-    },
-    {
-        "index": 207,
-        "shop": "良達小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路４７號"
-    },
-    {
-        "index": 208,
-        "shop": "逸品小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路９３－５號１樓"
-    },
-    {
-        "index": 209,
-        "shop": "巧沛東方美漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路２５號１樓"
-    },
-    {
-        "index": 210,
-        "shop": "莊家肉??便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１６１巷７２號３樓"
-    },
-    {
-        "index": 211,
-        "shop": "復興小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２５８－２０號"
-    },
-    {
-        "index": 212,
-        "shop": "快樂堡早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２６９號１樓"
-    },
-    {
-        "index": 213,
-        "shop": "阿西的炒飯炒麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路６９號後店面"
-    },
-    {
-        "index": 214,
-        "shop": "大衆嚕味大慶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１弄３號１樓"
-    },
-    {
-        "index": 215,
-        "shop": "楊家小廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路９３號後段"
-    },
-    {
-        "index": 216,
-        "shop": "德安１０元串燒小吃攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２７８號前"
-    },
-    {
-        "index": 217,
-        "shop": "雷根脆皮臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２１２巷３號"
-    },
-    {
-        "index": 218,
-        "shop": "阿霞古早味車輪餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安平里安一路３１號"
-    },
-    {
-        "index": 219,
-        "shop": "費心腸小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路７６號１樓"
-    },
-    {
-        "index": 220,
-        "shop": "金牛手作基隆地標咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中山一路１８９巷１３５號（操場旁觀景台）"
-    },
-    {
-        "index": 221,
-        "shop": "亨得利雞排攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中華路１０號前"
-    },
-    {
-        "index": 222,
-        "shop": "口福小吃炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷７弄２０號"
-    },
-    {
-        "index": 223,
-        "shop": "社區早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２１２巷５弄１號"
-    },
-    {
-        "index": 224,
-        "shop": "游鎧風麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路３３號（前面部份）"
-    },
-    {
-        "index": 225,
+        "index": 48,
         "shop": "小豬媽碳烤吐司",
         "category": [
             "餐飲"
@@ -2472,340 +706,56 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區中山里中山一路１２１號"
+        "market_address": "基隆市中山區中山里中山一路１２１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 226,
-        "shop": "月鳳早餐店",
+        "index": 49,
+        "shop": "私人島嶼餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區通化里中華路３―３號"
+        "market_address": "基隆市中山區協和里湖海路１段３７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 227,
-        "shop": "大公雞早餐店",
+        "index": 50,
+        "shop": "芳鄰飲食店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２６６號"
+        "market_address": "基隆市中山區德安里復興路２６１號底層",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 228,
-        "shop": "餐車阿姨早餐店",
+        "index": 51,
+        "shop": "後山花園咖啡屋",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷５弄２０號１樓"
+        "market_address": "基隆市中山區中興里中山二路６５巷１０５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 229,
-        "shop": "台南美食豆乳雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２２２號（前）"
-    },
-    {
-        "index": 230,
-        "shop": "陳姐臺灣食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路３２８號"
-    },
-    {
-        "index": 231,
-        "shop": "中山炸雞店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路６７號"
-    },
-    {
-        "index": 232,
-        "shop": "正統俞家清魚湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區仙洞里仁安街１３１號"
-    },
-    {
-        "index": 233,
-        "shop": "麗珠小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷３０號１樓之１"
-    },
-    {
-        "index": 234,
-        "shop": "巷仔口小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２２８號"
-    },
-    {
-        "index": 235,
-        "shop": "蛋炒飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２１０―１號"
-    },
-    {
-        "index": 236,
-        "shop": "來呷麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中和里中和路８５巷１４―１號"
-    },
-    {
-        "index": 237,
-        "shop": "泓廚燴飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２１０―２號１樓"
-    },
-    {
-        "index": 238,
-        "shop": "綉綉姊美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷８弄２２號１樓"
-    },
-    {
-        "index": 239,
-        "shop": "榮華店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１５６號"
-    },
-    {
-        "index": 240,
-        "shop": "東方美萬安店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路２６１號"
-    },
-    {
-        "index": 241,
-        "shop": "好記牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２６８號１樓"
-    },
-    {
-        "index": 242,
-        "shop": "永亨無骨炸雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路１１０號"
-    },
-    {
-        "index": 243,
-        "shop": "張美雪",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區公有西定市場Ａ５號"
-    },
-    {
-        "index": 244,
-        "shop": "外港牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區太白里中山四路１７５號"
-    },
-    {
-        "index": 245,
-        "shop": "羅家胡椒餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西康里復興路３６號"
-    },
-    {
-        "index": 246,
-        "shop": "郭記行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山一路３０３號"
-    },
-    {
-        "index": 247,
-        "shop": "西八碼頭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區仁正里中山二路１１３號１樓"
-    },
-    {
-        "index": 248,
-        "shop": "阿姊の灶腳複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷１弄１號１樓"
-    },
-    {
-        "index": 249,
-        "shop": "巧沛東方美漢堡早餐店大慶加盟店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷７弄３６號"
-    },
-    {
-        "index": 250,
-        "shop": "方圓早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區和慶里中和路１６８巷８弄２０號"
-    },
-    {
-        "index": 251,
-        "shop": "美玲米??目",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路６０號１樓"
-    },
-    {
-        "index": 252,
-        "shop": "阿財牛肉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區中興里中山二路３６巷１７號"
-    },
-    {
-        "index": 253,
-        "shop": "美食坊早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區民治里中山一路２８１號"
-    },
-    {
-        "index": 254,
-        "shop": "阿婆圓仔湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安平里安一路２０號"
-    },
-    {
-        "index": 255,
-        "shop": "龍來早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１５０號"
-    },
-    {
-        "index": 256,
+        "index": 52,
         "shop": "皮卡丘早餐店",
         "category": [
             "餐飲"
@@ -2813,138 +763,10 @@
         "zone": "北北基",
         "city": "基隆市",
         "area": "中山區",
-        "market_address": "基隆市中山區文化里文化路１９３號"
-    },
-    {
-        "index": 257,
-        "shop": "麥香屋漢堡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西定里西定路２６９號"
-    },
-    {
-        "index": 258,
-        "shop": "專業蚵仔麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西榮里西定路３９號１樓"
-    },
-    {
-        "index": 259,
-        "shop": "阿祿沙茶牛肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路１１號"
-    },
-    {
-        "index": 260,
-        "shop": "老林沙茶牛肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區通化里復旦路９號１樓"
-    },
-    {
-        "index": 261,
-        "shop": "浮基仔飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里德安路１３號１樓"
-    },
-    {
-        "index": 262,
-        "shop": "元寶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區安民里安一路４０號１樓"
-    },
-    {
-        "index": 263,
-        "shop": "富華早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２６４號１樓"
-    },
-    {
-        "index": 264,
-        "shop": "向日葵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德安里復興路３０３號１樓"
-    },
-    {
-        "index": 265,
-        "shop": "吃飯喝酒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區西華里西定路１０９號１樓"
-    },
-    {
-        "index": 266,
-        "shop": "香港鑫記燒腊便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區新建里成功二路１９３號"
-    },
-    {
-        "index": 267,
-        "shop": "鍋神日式涮涮鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路１８７號"
-    },
-    {
-        "index": 268,
-        "shop": "盛興雜貨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "基隆市",
-        "area": "中山區",
-        "market_address": "基隆市中山區德和里復興路２３２號"
+        "market_address": "基隆市中山區文化里文化路１９３號",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
     }
 ]

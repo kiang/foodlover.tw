@@ -1,116 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "桔園商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里華昌街５１號１樓"
-    },
-    {
-        "index": 2,
-        "shop": "尚薪餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里遊園路２段６號"
-    },
-    {
-        "index": 3,
-        "shop": "雞排五分鐘店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５０２號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "黃金比例飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１６２號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "百輝水果商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里中蔗路３７號"
-    },
-    {
-        "index": 6,
-        "shop": "超鮮小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段６３２號１樓"
-    },
-    {
-        "index": 7,
-        "shop": "悅樂盈商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２８２號１樓"
-    },
-    {
-        "index": 8,
-        "shop": "艷陽小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路２段３８９號１樓"
-    },
-    {
-        "index": 9,
-        "shop": "沅享商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里華昌街２３號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "幸福熊豆花店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２０３巷１弄１００號１樓"
-    },
-    {
-        "index": 11,
         "shop": "盈煊茶飲",
         "category": [
             "餐飲"
@@ -118,10 +8,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段５９９號１樓"
+        "market_address": "臺中市大肚區大肚里沙田路２段５９９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 12,
+        "index": 2,
         "shop": "毅德鑫仙草專賣店",
         "category": [
             "餐飲"
@@ -129,32 +27,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路２段１３２巷６弄１４號１樓"
+        "market_address": "臺中市大肚區新興里沙田路２段１３２巷６弄１４號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 13,
-        "shop": "美英早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路１段７２２號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "噗嘰好吃舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路一段１５０巷１５２―１號"
-    },
-    {
-        "index": 15,
+        "index": 3,
         "shop": "蟹鄉海鮮小吃店",
         "category": [
             "餐飲"
@@ -162,65 +41,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路一段１３３號"
+        "market_address": "臺中市大肚區瑞井里遊園路一段１３３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 16,
-        "shop": "亨嘉家餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里平和街５８號１樓"
-    },
-    {
-        "index": 17,
-        "shop": "御膳坊餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區山陽里沙田路３段６２４巷２０―１號１樓"
-    },
-    {
-        "index": 18,
-        "shop": "來來紫飯糰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路１段３巷１８號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "春風串燒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里仁德路８３號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "平安福素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段５４號１樓"
-    },
-    {
-        "index": 21,
+        "index": 4,
         "shop": "佳奇早午餐",
         "category": [
             "餐飲"
@@ -228,10 +55,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１８５號１樓"
+        "market_address": "臺中市大肚區自強里遊園路２段１８５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 22,
+        "index": 5,
         "shop": "祐吉屋小吃店",
         "category": [
             "餐飲"
@@ -239,32 +69,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里中蔗路１―６６號１樓"
+        "market_address": "臺中市大肚區蔗廍里中蔗路１―６６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 23,
-        "shop": "品睿麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里自由路３９９號１樓"
-    },
-    {
-        "index": 24,
-        "shop": "一種幸福早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里王福街８５１號１樓"
-    },
-    {
-        "index": 25,
+        "index": 6,
         "shop": "台安飲品屋",
         "category": [
             "餐飲"
@@ -272,21 +83,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７６８號１樓"
+        "market_address": "臺中市大肚區頂街里沙田路２段７６８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 26,
-        "shop": "萬里嵐景觀餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里華南路３５巷１２１號１樓"
-    },
-    {
-        "index": 27,
+        "index": 7,
         "shop": "欣谷小吃店",
         "category": [
             "餐飲"
@@ -294,10 +102,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路二段１３５號１樓"
+        "market_address": "臺中市大肚區自強里遊園路二段１３５號１樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 28,
+        "index": 8,
         "shop": "捌方商行",
         "category": [
             "餐飲"
@@ -305,21 +120,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里遊園路２段９９號１樓"
+        "market_address": "臺中市大肚區蔗廍里遊園路２段９９號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 29,
-        "shop": "芸翔心點心",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路１段１５０巷１５２―１號"
-    },
-    {
-        "index": 30,
+        "index": 9,
         "shop": "許恩商行",
         "category": [
             "餐飲"
@@ -327,32 +136,19 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路一段９２號１樓"
+        "market_address": "臺中市大肚區大肚里文昌路一段９２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 31,
-        "shop": "阿水師便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里中沙路１６４巷４弄１０３號"
-    },
-    {
-        "index": 32,
-        "shop": "花源餐飲坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路二段３０１號１樓"
-    },
-    {
-        "index": 33,
+        "index": 10,
         "shop": "大肚福利店",
         "category": [
             "餐飲"
@@ -360,32 +156,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里育英路１號１樓"
+        "market_address": "臺中市大肚區大肚里育英路１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 34,
-        "shop": "津合早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區永和里紙廠路８５號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "東大圓冷熱飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里平和街５６號１樓"
-    },
-    {
-        "index": 36,
+        "index": 11,
         "shop": "好味道小吃店",
         "category": [
             "餐飲"
@@ -393,110 +172,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里瑞井路６２巷１０１弄３０號１樓"
+        "market_address": "臺中市大肚區瑞井里瑞井路６２巷１０１弄３０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 37,
-        "shop": "東海童趣早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２７４號１樓"
-    },
-    {
-        "index": 38,
-        "shop": "頂辣紅茶專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段５０３號１樓"
-    },
-    {
-        "index": 39,
-        "shop": "秀泰企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段３６號"
-    },
-    {
-        "index": 40,
-        "shop": "微微甜手作甜點坊",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里自治路１０號"
-    },
-    {
-        "index": 41,
-        "shop": "海都餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路二段４２８－１號"
-    },
-    {
-        "index": 42,
-        "shop": "星采小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里自由路臨２１１號"
-    },
-    {
-        "index": 43,
-        "shop": "家珍寶小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路一段５２９號１樓"
-    },
-    {
-        "index": 44,
-        "shop": "珍巽鍋小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里向上路五段１２８９號"
-    },
-    {
-        "index": 45,
-        "shop": "知道咖啡行館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里育英路６７號１樓"
-    },
-    {
-        "index": 46,
+        "index": 12,
         "shop": "小莊燒烤食堂",
         "category": [
             "餐飲"
@@ -504,10 +186,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區自強里向上路五段１３２０號"
+        "market_address": "臺中市大肚區自強里向上路五段１３２０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 47,
+        "index": 13,
         "shop": "大肚麥味登旗艦店",
         "category": [
             "餐飲"
@@ -515,32 +200,15 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里平和街１號１樓"
+        "market_address": "臺中市大肚區大肚里平和街１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "Pi 拍錢包"
+        ]
     },
     {
-        "index": 48,
-        "shop": "芭娜娜早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里遊園路１段２２２號１樓"
-    },
-    {
-        "index": 49,
-        "shop": "月笙小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里平和街１１０號１樓"
-    },
-    {
-        "index": 50,
+        "index": 14,
         "shop": "洪正飲料店",
         "category": [
             "餐飲"
@@ -548,10 +216,22 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段４１號１樓"
+        "market_address": "臺中市大肚區蔗??里遊園路２段４１號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 51,
+        "index": 15,
         "shop": "聚鑫茶行",
         "category": [
             "餐飲"
@@ -559,21 +239,17 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路二段６３８號１樓"
+        "market_address": "臺中市大肚區大肚里沙田路二段６３８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 52,
-        "shop": "鈞閔泡沫紅茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里１鄰沙田路１段４００號１樓"
-    },
-    {
-        "index": 53,
+        "index": 16,
         "shop": "金泰冷飲店",
         "category": [
             "餐飲"
@@ -581,32 +257,18 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路一段４９３號１樓"
+        "market_address": "臺中市大肚區福山里沙田路一段４９３號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 54,
-        "shop": "富宇餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里１鄰中蔗路２―２３號１樓"
-    },
-    {
-        "index": 55,
-        "shop": "禾稼嘉義火雞肉飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里遊園路１段２１３號１樓"
-    },
-    {
-        "index": 56,
+        "index": 17,
         "shop": "寶達港式餐廳",
         "category": [
             "餐飲"
@@ -614,10 +276,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里瑞井路１１８巷１號１樓Ｂ室"
+        "market_address": "臺中市大肚區瑞井里瑞井路１１８巷１號１樓Ｂ室",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 57,
+        "index": 18,
         "shop": "和平快餐",
         "category": [
             "餐飲"
@@ -625,21 +290,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里００１鄰中蔗路２―２０號"
+        "market_address": "臺中市大肚區蔗??里００１鄰中蔗路２―２０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 58,
-        "shop": "東灜屋食事堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里瑞井路１１８巷２２號１樓"
-    },
-    {
-        "index": 59,
+        "index": 19,
         "shop": "夙時商行",
         "category": [
             "餐飲"
@@ -647,10 +304,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２７２號１樓"
+        "market_address": "臺中市大肚區自強里遊園路２段２７２號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 60,
+        "index": 20,
         "shop": "畇品商行",
         "category": [
             "餐飲"
@@ -658,21 +318,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里０１４鄰自治路９６號"
+        "market_address": "臺中市大肚區大肚里０１４鄰自治路９６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 61,
-        "shop": "瑞芝小火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里００１鄰沙田路二段７２８號"
-    },
-    {
-        "index": 62,
+        "index": 21,
         "shop": "富賓園飲食商行",
         "category": [
             "餐飲"
@@ -680,10 +333,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區王田里興和路１９１―８號"
+        "market_address": "臺中市大肚區王田里興和路１９１―８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 63,
+        "index": 22,
         "shop": "鑫發茶飲店",
         "category": [
             "餐飲"
@@ -691,197 +347,13 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里２鄰沙田路２段７４４號１樓"
+        "market_address": "臺中市大肚區頂街里２鄰沙田路２段７４４號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 64,
-        "shop": "三姝飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里福利路１３１號１樓"
-    },
-    {
-        "index": 65,
-        "shop": "巧食小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里１６鄰沙田路１段８３８號"
-    },
-    {
-        "index": 66,
-        "shop": "米其林漢堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里華山路５２號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "甲品飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里華山路５７號"
-    },
-    {
-        "index": 68,
-        "shop": "阿振自助餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５７３號"
-    },
-    {
-        "index": 69,
-        "shop": "享哈茶茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里大肚街５６號"
-    },
-    {
-        "index": 70,
-        "shop": "大衆食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５５４號"
-    },
-    {
-        "index": 71,
-        "shop": "鈺香園海鮮小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里１１鄰沙田路１段１４８號"
-    },
-    {
-        "index": 72,
-        "shop": "鄉城便餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里仁德路７８巷３號１樓"
-    },
-    {
-        "index": 73,
-        "shop": "王田鵝肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里２６鄰沙田路１段２６０號１樓"
-    },
-    {
-        "index": 74,
-        "shop": "尚興餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里遊園路２段８號"
-    },
-    {
-        "index": 75,
-        "shop": "禾味餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里２８鄰大明一街３４巷１２―１號"
-    },
-    {
-        "index": 76,
-        "shop": "茶帝一商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路２段２３２號１樓"
-    },
-    {
-        "index": 77,
-        "shop": "春風串燒屋大肚店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段４９０號"
-    },
-    {
-        "index": 78,
-        "shop": "天喜健康素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７４０號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "茶湯會股份有限公司遊園營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２６７號１樓"
-    },
-    {
-        "index": 80,
-        "shop": "陳冠廷",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里華山路５６號"
-    },
-    {
-        "index": 81,
+        "index": 23,
         "shop": "藍色公路餐飲有限公司",
         "category": [
             "餐飲"
@@ -889,10 +361,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里華南路５１號"
+        "market_address": "臺中市大肚區瑞井里華南路５１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 82,
+        "index": 24,
         "shop": "發靚國際有限公司",
         "category": [
             "餐飲"
@@ -900,10 +376,16 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里華山路５２號１樓"
+        "market_address": "臺中市大肚區大肚里華山路５２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 83,
+        "index": 25,
         "shop": "炫寶有限公司",
         "category": [
             "餐飲"
@@ -911,813 +393,14 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５８９巷８號２樓"
+        "market_address": "臺中市大肚區福山里沙田路１段５８９巷８號２樓",
+        "pay_list": [
+            "悠遊付",
+            "信用卡"
+        ]
     },
     {
-        "index": 84,
-        "shop": "瀚詠企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路１段６７３號"
-    },
-    {
-        "index": 85,
-        "shop": "品萃茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７５８號１樓"
-    },
-    {
-        "index": 86,
-        "shop": "寶春食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段４４５號１樓"
-    },
-    {
-        "index": 87,
-        "shop": "烶景冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段５４８―２號１樓"
-    },
-    {
-        "index": 88,
-        "shop": "集集小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段５８９－１號"
-    },
-    {
-        "index": 89,
-        "shop": "聖峰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里１５鄰沙田路１段４５１號１樓"
-    },
-    {
-        "index": 90,
-        "shop": "池上飯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７４９號"
-    },
-    {
-        "index": 91,
-        "shop": "張秀華",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路１段８１號１樓"
-    },
-    {
-        "index": 92,
-        "shop": "品味早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段４６號"
-    },
-    {
-        "index": 93,
-        "shop": "香香池上便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段６６５號"
-    },
-    {
-        "index": 94,
-        "shop": "尚品自助餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段３９０號"
-    },
-    {
-        "index": 95,
-        "shop": "阿蓮自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里沙田路１段１１４號"
-    },
-    {
-        "index": 96,
-        "shop": "愛尚義式手工披薩",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段５８４－１號１樓"
-    },
-    {
-        "index": 97,
-        "shop": "宏肉燥飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路２段４１號"
-    },
-    {
-        "index": 98,
-        "shop": "御品自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１６２－１號"
-    },
-    {
-        "index": 99,
-        "shop": "鄉味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段５２號"
-    },
-    {
-        "index": 100,
-        "shop": "蕭幸福",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里自由路８２７號"
-    },
-    {
-        "index": 101,
-        "shop": "貳拾壹燒烤食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里遊園路１段１５１巷１９號"
-    },
-    {
-        "index": 102,
-        "shop": "莊麗芬",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區山陽里沙田路三段８８２號"
-    },
-    {
-        "index": 103,
-        "shop": "三弄米糕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段２３１號側邊"
-    },
-    {
-        "index": 104,
-        "shop": "浤溢餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段２７號"
-    },
-    {
-        "index": 105,
-        "shop": "阮白蓮",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里工業區二八路４６３號旁Ａ３、Ａ５"
-    },
-    {
-        "index": 106,
-        "shop": "王秀琴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里工業區二八路４６３號旁Ａ８"
-    },
-    {
-        "index": 107,
-        "shop": "許素真",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里工業區二八路４６３號旁Ａ６"
-    },
-    {
-        "index": 108,
-        "shop": "阿義羊肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路１段７１４號１樓"
-    },
-    {
-        "index": 109,
-        "shop": "詹記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里大德六街４５號"
-    },
-    {
-        "index": 110,
-        "shop": "好粥道庭ａ灶腳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗廍里蔗廍里遊園路２段２６號"
-    },
-    {
-        "index": 111,
-        "shop": "萬家湘早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路１段６７３號"
-    },
-    {
-        "index": 112,
-        "shop": "好嘴斗小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段５６２巷６６號"
-    },
-    {
-        "index": 113,
-        "shop": "蔡佳倫",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里王福街８３３號"
-    },
-    {
-        "index": 114,
-        "shop": "一吉棒行動餐車",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７６６號前"
-    },
-    {
-        "index": 115,
-        "shop": "鱻盅鍋物",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里大明三街１５２號"
-    },
-    {
-        "index": 116,
-        "shop": "慶記小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段６１３號１樓"
-    },
-    {
-        "index": 117,
-        "shop": "中華小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路一段８５４巷２０７號１樓騎樓"
-    },
-    {
-        "index": 118,
-        "shop": "自強包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１７５―８號"
-    },
-    {
-        "index": 119,
-        "shop": "林玉金",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１４３號１樓"
-    },
-    {
-        "index": 120,
-        "shop": "羊鮮美羊肉爐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里沙田路二段２７號"
-    },
-    {
-        "index": 121,
-        "shop": "久泓餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里育英路１９９巷１０號"
-    },
-    {
-        "index": 122,
-        "shop": "陽麥餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７３３號１樓"
-    },
-    {
-        "index": 123,
-        "shop": "川都冰菓室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里追分路７號"
-    },
-    {
-        "index": 124,
-        "shop": "早安美芝城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里王福街８６３號"
-    },
-    {
-        "index": 125,
-        "shop": "活力中蔗店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里蔗廍里中蔗路２―２４號"
-    },
-    {
-        "index": 126,
-        "shop": "林麗紅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５６４號"
-    },
-    {
-        "index": 127,
-        "shop": "味味館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７１５號"
-    },
-    {
-        "index": 128,
-        "shop": "鈞暘茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段３１號"
-    },
-    {
-        "index": 129,
-        "shop": "趙永吉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段７７號前"
-    },
-    {
-        "index": 130,
-        "shop": "漾早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里中沙路１６４巷３弄１１８號１樓"
-    },
-    {
-        "index": 131,
-        "shop": "惠心素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里華昌街１１號"
-    },
-    {
-        "index": 132,
-        "shop": "旻恆活力早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里大新街４０號"
-    },
-    {
-        "index": 133,
-        "shop": "趙堯林",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里平和街２６巷７０號"
-    },
-    {
-        "index": 134,
-        "shop": "陳雪娥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里中蔗路２―１８號"
-    },
-    {
-        "index": 135,
-        "shop": "弘爺沙田店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區社腳里沙田路一段７７４巷２０號"
-    },
-    {
-        "index": 136,
-        "shop": "双冬北方小籠湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里沙田路一段１４６號"
-    },
-    {
-        "index": 137,
-        "shop": "佳佳冰果室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路二段１８１巷２７號"
-    },
-    {
-        "index": 138,
-        "shop": "蘇億純",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路一段４９６號"
-    },
-    {
-        "index": 139,
-        "shop": "白面東楊桃汁大肚店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段５８３號"
-    },
-    {
-        "index": 140,
-        "shop": "劉人豪",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里０４０鄰大德三街２７號"
-    },
-    {
-        "index": 141,
-        "shop": "得億傳統豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里沙田路２段６８９號１樓"
-    },
-    {
-        "index": 142,
-        "shop": "泰興小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里０１７鄰沙田路一段５７９號１樓"
-    },
-    {
-        "index": 143,
-        "shop": "劉宗育",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段１１號"
-    },
-    {
-        "index": 144,
-        "shop": "廣味香燒臘快餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１８１巷３０號"
-    },
-    {
-        "index": 145,
-        "shop": "阿國海產小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段５８號１樓"
-    },
-    {
-        "index": 146,
-        "shop": "政姳牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段５１號"
-    },
-    {
-        "index": 147,
-        "shop": "趙婕安",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里大肚街５１號"
-    },
-    {
-        "index": 148,
-        "shop": "蔡月卿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里１５鄰沙田路２段６６７號"
-    },
-    {
-        "index": 149,
-        "shop": "喬治派克大肚店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段３８６號１樓"
-    },
-    {
-        "index": 150,
-        "shop": "茶之鄉冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里１鄰沙田路１段３２７號"
-    },
-    {
-        "index": 151,
-        "shop": "賴玫芬",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里１２鄰文昌路１段２６號"
-    },
-    {
-        "index": 152,
-        "shop": "喜美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里４鄰沙田路２段７６１號"
-    },
-    {
-        "index": 153,
-        "shop": "楊東霖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里５鄰大肚街５６號"
-    },
-    {
-        "index": 154,
-        "shop": "台米鐵路餐盒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段５４８―１號"
-    },
-    {
-        "index": 155,
-        "shop": "許美英",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段５號"
-    },
-    {
-        "index": 156,
-        "shop": "大肚肉圓店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里１２鄰文昌路１段２號"
-    },
-    {
-        "index": 157,
+        "index": 26,
         "shop": "遊園二店冷飲站",
         "category": [
             "餐飲"
@@ -1725,314 +408,125 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段３７號"
+        "market_address": "臺中市大肚區蔗??里遊園路２段３７號",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 158,
-        "shop": "大豐牛肉麵",
+        "index": 27,
+        "shop": "品萃茶行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區福山里１２鄰沙田路１段４３３號"
+        "market_address": "臺中市大肚區頂街里沙田路２段７５８號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 159,
-        "shop": "池上飯包",
+        "index": 28,
+        "shop": "慶記小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路１段５６０－６號１樓"
+        "market_address": "臺中市大肚區大肚里沙田路２段６１３號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 160,
-        "shop": "追分蚵仔仁",
+        "index": 29,
+        "shop": "烶景冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區王田里沙田路一段３０６號"
+        "market_address": "臺中市大肚區大東里沙田路２段５４８―２號１樓",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "悠遊付",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 161,
-        "shop": "巧園早點",
+        "index": 30,
+        "shop": "集集小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區自強里２１鄰遊園路２段１３８號"
+        "market_address": "臺中市大肚區大肚里沙田路２段５８９－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 162,
-        "shop": "米亞早點",
+        "index": 31,
+        "shop": "一吉棒行動餐車",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區瑞井里１３鄰遊園路１段７４－１號"
+        "market_address": "臺中市大肚區頂街里沙田路２段７６６號前",
+        "pay_list": [
+            "iPASS 一卡通",
+            "街口",
+            "LINE Pay Money"
+        ]
     },
     {
-        "index": 163,
-        "shop": "川味牛肉麵館",
+        "index": 32,
+        "shop": "茶之鄉冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里文昌路１段６１號１樓"
+        "market_address": "臺中市大肚區福山里１鄰沙田路１段３２７號",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 164,
-        "shop": "蓁杏芙複合餐館",
+        "index": 33,
+        "shop": "尚興餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里２０鄰自治路７１號"
-    },
-    {
-        "index": 165,
-        "shop": "川師父私房菜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里２５鄰中沙路１６４巷７弄１１６號"
-    },
-    {
-        "index": 166,
-        "shop": "巧芝美早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里５鄰遊園路２段２０３巷１弄９４號"
-    },
-    {
-        "index": 167,
-        "shop": "王淑貞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里４３鄰大明二街１９０號"
-    },
-    {
-        "index": 168,
-        "shop": "越南美食小吃現炒剉冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里００５鄰遊園路二段２０３巷１弄１８號１樓"
-    },
-    {
-        "index": 169,
-        "shop": "鄭富全",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里００６鄰遊園路二段２０３巷３弄４７號騎樓"
-    },
-    {
-        "index": 170,
-        "shop": "澎湖麵食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里沙田路２段５５０號１樓"
-    },
-    {
-        "index": 171,
-        "shop": "財喜美食外燴商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區營埔里船頭三街１６５巷７１號"
-    },
-    {
-        "index": 172,
-        "shop": "輔園牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里遊園路２段１９３號１樓"
-    },
-    {
-        "index": 173,
-        "shop": "鄉香小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區自強里中沙路１６４巷７弄１１５號１樓"
-    },
-    {
-        "index": 174,
-        "shop": "鈺婕美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區山陽里沙田路３段９５２－２號１樓"
-    },
-    {
-        "index": 175,
-        "shop": "中華潤餅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段１０３號"
-    },
-    {
-        "index": 176,
-        "shop": "來來小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區王田里沙田路一段１６０號右１２公尺"
-    },
-    {
-        "index": 177,
-        "shop": "福客來牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區新興里２７鄰溪洲路１９―１號"
-    },
-    {
-        "index": 178,
-        "shop": "五福美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里大明二街１１９號"
-    },
-    {
-        "index": 179,
-        "shop": "大肚小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里沙田路２段７６０號"
-    },
-    {
-        "index": 180,
-        "shop": "永春早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區永順里文昌路２段５８４巷８號"
-    },
-    {
-        "index": 181,
-        "shop": "龍新包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區蔗??里遊園路２段２０３巷１弄７５號"
-    },
-    {
-        "index": 182,
-        "shop": "大連米糕店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區福山里沙田路一段５２２號１樓"
-    },
-    {
-        "index": 183,
-        "shop": "尚品小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大肚里２０鄰自治路４１號１樓"
-    },
-    {
-        "index": 184,
-        "shop": "張承展",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區頂街里２９鄰大明二街９９號"
-    },
-    {
-        "index": 185,
-        "shop": "慈慧素食小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大肚區",
-        "market_address": "臺中市大肚區大東里０２８鄰仁德路６６巷２５號"
+        "market_address": "臺中市大肚區蔗廍里遊園路２段８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

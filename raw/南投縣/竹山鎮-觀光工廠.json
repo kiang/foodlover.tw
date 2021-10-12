@@ -2,19 +2,29 @@
     {
         "index": 1,
         "shop": "采棉居寢飾文化舘",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "中彰投",
         "city": "南投縣",
         "area": "竹山鎮",
-        "market_address": "南投縣竹山鎮延平一路12號"
+        "market_address": "南投縣竹山鎮延平一路12號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
         "index": 2,
         "shop": "遊山茶訪茶文化館",
-        "category": "觀光工廠",
+        "category": [
+            "觀光工廠"
+        ],
         "zone": "中彰投",
         "city": "南投縣",
         "area": "竹山鎮",
-        "market_address": "南投縣竹山鎮延平路19號"
+        "market_address": "南投縣竹山鎮延平路19號",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "恆心素食食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街８９－１號"
-    },
-    {
-        "index": 2,
         "shop": "茗新小吃店",
         "category": [
             "餐飲"
@@ -19,164 +8,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街９７號１樓"
+        "market_address": "臺南市新市區新市里中興街９７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 3,
-        "shop": "生生便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路１９２號１樓"
-    },
-    {
-        "index": 4,
-        "shop": "佳美商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里華美街７巷１６號１樓"
-    },
-    {
-        "index": 5,
-        "shop": "天天想包子專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華路１６９號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "新市阿銘牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３０１巷２７號"
-    },
-    {
-        "index": 7,
-        "shop": "大廟口快餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２０３－２號"
-    },
-    {
-        "index": 8,
-        "shop": "台南大胖海產",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街４７號"
-    },
-    {
-        "index": 9,
-        "shop": "品意規劃管理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０４４鄰民生路２１號"
-    },
-    {
-        "index": 10,
-        "shop": "冬瓜幫商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２５鄰仁愛街２７０號１樓"
-    },
-    {
-        "index": 11,
-        "shop": "伍園料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里永就１３－１２號１樓"
-    },
-    {
-        "index": 12,
-        "shop": "薪興餐飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里０２１鄰豐榮１１２號１樓"
-    },
-    {
-        "index": 13,
-        "shop": "新齊企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０５０鄰自強街３４巷１弄２４號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "伊品食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里西拉雅大道２９８號１樓"
-    },
-    {
-        "index": 15,
-        "shop": "廉府企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路１４７巷５號１樓"
-    },
-    {
-        "index": 16,
-        "shop": "坊藝鍋餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００３鄰仁愛街１３號"
-    },
-    {
-        "index": 17,
+        "index": 2,
         "shop": "新市京享小吃店",
         "category": [
             "餐飲"
@@ -184,98 +23,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里０２０鄰復興路８３號"
+        "market_address": "臺南市新市區新市里０２０鄰復興路８３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 18,
-        "shop": "洪老爹餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０４４鄰民權路３４號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "御宅商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００３鄰仁愛街２號１樓"
-    },
-    {
-        "index": 20,
-        "shop": "新榮茂早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區潭頂里０１２鄰潭頂３９７號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "艾咪印尼料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１５６號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "美室飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１１６號１樓"
-    },
-    {
-        "index": 23,
-        "shop": "愛琪城商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街６９號"
-    },
-    {
-        "index": 24,
-        "shop": "古玎鮮果茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路１０號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "御田屋日式鍋燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內２之６號１樓"
-    },
-    {
-        "index": 26,
+        "index": 3,
         "shop": "誠醇久企業社",
         "category": [
             "餐飲"
@@ -283,98 +37,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１９３號１樓"
+        "market_address": "臺南市新市區新市里光華街１９３號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 27,
-        "shop": "匠傑麻辣食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富安五街１６號"
-    },
-    {
-        "index": 28,
-        "shop": "昶德小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富安五街１８號"
-    },
-    {
-        "index": 29,
-        "shop": "華錦工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街８８號"
-    },
-    {
-        "index": 30,
-        "shop": "翎榕企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１８７號１樓"
-    },
-    {
-        "index": 31,
-        "shop": "老陳餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里豐華１３１號"
-    },
-    {
-        "index": 32,
-        "shop": "真圓小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里大營３４―１１號"
-    },
-    {
-        "index": 33,
-        "shop": "陽光冰沙製所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路１２９號１樓"
-    },
-    {
-        "index": 34,
-        "shop": "東芯餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路１２３號１樓"
-    },
-    {
-        "index": 35,
+        "index": 4,
         "shop": "巴絲企業社",
         "category": [
             "餐飲"
@@ -382,21 +51,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里０３４鄰仁愛街１９５號"
+        "market_address": "臺南市新市區新和里０３４鄰仁愛街１９５號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 36,
-        "shop": "黃金蘇胡飯館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２５８號"
-    },
-    {
-        "index": 37,
+        "index": 5,
         "shop": "茂鈺商行",
         "category": [
             "餐飲"
@@ -404,43 +66,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１２８巷２號１樓"
+        "market_address": "臺南市新市區新和里銘傳街１２８巷２號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 38,
-        "shop": "玖陸玖陸牪鍋物",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１２３號"
-    },
-    {
-        "index": 39,
-        "shop": "品逸商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富中街５號１樓"
-    },
-    {
-        "index": 40,
-        "shop": "庫塔克餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０３５鄰仁愛街２２９號"
-    },
-    {
-        "index": 41,
+        "index": 6,
         "shop": "泇冠企業社",
         "category": [
             "餐飲"
@@ -448,21 +80,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３２９號１樓"
+        "market_address": "臺南市新市區新市里中正路３２９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 42,
-        "shop": "佰鴻水果飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路１４５號１樓"
-    },
-    {
-        "index": 43,
+        "index": 7,
         "shop": "虹春料理居食屋",
         "category": [
             "餐飲"
@@ -470,32 +94,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里富中街９號１樓"
+        "market_address": "臺南市新市區新和里富中街９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 44,
-        "shop": "鉄大正企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１７６號"
-    },
-    {
-        "index": 45,
-        "shop": "驊瑄早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１２８巷１６號１樓"
-    },
-    {
-        "index": 46,
+        "index": 8,
         "shop": "立展冷飲店",
         "category": [
             "餐飲"
@@ -503,32 +108,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里０４５鄰信義街１０９號１樓"
+        "market_address": "臺南市新市區新和里０４５鄰信義街１０９號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 47,
-        "shop": "育頡餐飲行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里０１１鄰大營２３５號"
-    },
-    {
-        "index": 48,
-        "shop": "靖梅泰式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００２鄰中山路２８８號１樓"
-    },
-    {
-        "index": 49,
+        "index": 9,
         "shop": "玖捌號吐司店",
         "category": [
             "餐飲"
@@ -536,21 +122,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１２８巷１６號１樓"
+        "market_address": "臺南市新市區新和里銘傳街１２８巷１６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 50,
-        "shop": "田田好食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里新市區新和里富中街１５號１樓"
-    },
-    {
-        "index": 51,
+        "index": 10,
         "shop": "詩涵新市南科茶飲行",
         "category": [
             "餐飲"
@@ -558,21 +136,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街９２號１樓"
+        "market_address": "臺南市新市區新和里銘傳街９２號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 52,
-        "shop": "嘉義人雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００８鄰中正路２８９號１樓"
-    },
-    {
-        "index": 53,
+        "index": 11,
         "shop": "葉綠萃原生茶飲",
         "category": [
             "餐飲"
@@ -580,65 +150,18 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１９之１號１樓"
+        "market_address": "臺南市新市區新和里信義街１９之１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 54,
-        "shop": "饗宴嫩骨飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１８１號１樓"
-    },
-    {
-        "index": 55,
-        "shop": "黑貓海產",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路２１２號"
-    },
-    {
-        "index": 56,
-        "shop": "真誠麵線焿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街１０２號１樓"
-    },
-    {
-        "index": 57,
-        "shop": "茶港手做茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２３７―１號１樓"
-    },
-    {
-        "index": 58,
-        "shop": "三皇企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路３５８號１樓"
-    },
-    {
-        "index": 59,
+        "index": 12,
         "shop": "紅芯美食坊",
         "category": [
             "餐飲"
@@ -646,65 +169,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１５５號１樓"
+        "market_address": "臺南市新市區新市里復興路１５５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 60,
-        "shop": "津福商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１６５號"
-    },
-    {
-        "index": 61,
-        "shop": "玖陸玖陸茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路１０６號１樓"
-    },
-    {
-        "index": 62,
-        "shop": "伸懶腰水煮館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富中街１９７號１樓"
-    },
-    {
-        "index": 63,
-        "shop": "信廣食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０２４鄰復興路２７號１樓"
-    },
-    {
-        "index": 64,
-        "shop": "澎澎酵素臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１６８號"
-    },
-    {
-        "index": 65,
+        "index": 13,
         "shop": "異嚐饗食坊",
         "category": [
             "餐飲"
@@ -712,32 +184,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１４８號１樓"
+        "market_address": "臺南市新市區永就里中華路１４８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 66,
-        "shop": "你我手作坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路１２號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "家鶴家企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２３７―９號"
-    },
-    {
-        "index": 68,
+        "index": 14,
         "shop": "愷鈞豆花冰店",
         "category": [
             "餐飲"
@@ -745,87 +198,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街１４８－２號１樓"
+        "market_address": "臺南市新市區新和里仁愛街１４８－２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 69,
-        "shop": "家興美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３００巷１０號１樓"
-    },
-    {
-        "index": 70,
-        "shop": "福福商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路８９號１樓"
-    },
-    {
-        "index": 71,
-        "shop": "盛川茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０３６鄰華興街９１號"
-    },
-    {
-        "index": 72,
-        "shop": "嘉香快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里大營２―５０號１樓"
-    },
-    {
-        "index": 73,
-        "shop": "阿咪廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１８９號１樓"
-    },
-    {
-        "index": 74,
-        "shop": "金盈元企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００２鄰光華街１６５號１樓"
-    },
-    {
-        "index": 75,
-        "shop": "善品商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２３７―３號"
-    },
-    {
-        "index": 76,
+        "index": 15,
         "shop": "福裕餐飲店",
         "category": [
             "餐飲"
@@ -833,10 +212,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路７６號１樓"
+        "market_address": "臺南市新市區新和里民權路７６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 77,
+        "index": 16,
         "shop": "松翰茶坊",
         "category": [
             "餐飲"
@@ -844,65 +226,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍８－１號１樓"
+        "market_address": "臺南市新市區三舍里三舍８－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 78,
-        "shop": "拾慕冷飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路８７號１樓"
-    },
-    {
-        "index": 79,
-        "shop": "富力商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路１９６號１樓"
-    },
-    {
-        "index": 80,
-        "shop": "金澤廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１８７號１樓"
-    },
-    {
-        "index": 81,
-        "shop": "林聰明大雞腿專賣",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１１２號"
-    },
-    {
-        "index": 82,
-        "shop": "新素健康素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路７２號"
-    },
-    {
-        "index": 83,
+        "index": 17,
         "shop": "元庠堂茶行",
         "category": [
             "餐飲"
@@ -910,21 +241,17 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里０４３鄰民權路３號"
+        "market_address": "臺南市新市區新和里０４３鄰民權路３號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "悠遊付",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 84,
-        "shop": "九源企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里０２０鄰光華街１４８、１５０號１樓"
-    },
-    {
-        "index": 85,
+        "index": 18,
         "shop": "日辰早午食",
         "category": [
             "餐飲"
@@ -932,10 +259,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里００４鄰華興街３０號１樓"
+        "market_address": "臺南市新市區新市里００４鄰華興街３０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 86,
+        "index": 19,
         "shop": "白雅商行",
         "category": [
             "餐飲"
@@ -943,76 +274,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里００８鄰中華路１１６號１樓"
+        "market_address": "臺南市新市區永就里００８鄰中華路１１６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 87,
-        "shop": "新市珍好味臭臭鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路７６號"
-    },
-    {
-        "index": 88,
-        "shop": "旿食堂企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０１２鄰中正路３０１巷１號１樓"
-    },
-    {
-        "index": 89,
-        "shop": "鮭仙人食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２０７號１樓"
-    },
-    {
-        "index": 90,
-        "shop": "薇亮餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路７０號"
-    },
-    {
-        "index": 91,
-        "shop": "郁盛陽光早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路９１號"
-    },
-    {
-        "index": 92,
-        "shop": "恩美美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里０２１鄰豐榮１１１號１樓"
-    },
-    {
-        "index": 93,
+        "index": 20,
         "shop": "富中早餐",
         "category": [
             "餐飲"
@@ -1020,10 +289,16 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區社內里富中街５９０號１樓"
+        "market_address": "臺南市新市區社內里富中街５９０號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 94,
+        "index": 21,
         "shop": "摩价商行",
         "category": [
             "餐飲"
@@ -1031,32 +306,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路７８號"
+        "market_address": "臺南市新市區新和里民權路７８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 95,
-        "shop": "茜茜小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街７２號１樓"
-    },
-    {
-        "index": 96,
-        "shop": "宏美事業商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路７０號"
-    },
-    {
-        "index": 97,
+        "index": 22,
         "shop": "茉芠茶茶坊",
         "category": [
             "餐飲"
@@ -1064,10 +321,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里０４８鄰和平街１５６號１樓"
+        "market_address": "臺南市新市區新和里０４８鄰和平街１５６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 98,
+        "index": 23,
         "shop": "浩智商行",
         "category": [
             "餐飲"
@@ -1075,43 +335,18 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街８５號１樓"
+        "market_address": "臺南市新市區新和里銘傳街８５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
-        "index": 99,
-        "shop": "津軒小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路７２號"
-    },
-    {
-        "index": 100,
-        "shop": "詔鋒商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０４４鄰民生路１０號１樓"
-    },
-    {
-        "index": 101,
-        "shop": "漿波飲品專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３２７號"
-    },
-    {
-        "index": 102,
+        "index": 24,
         "shop": "龍井麵舖",
         "category": [
             "餐飲"
@@ -1119,10 +354,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路８５號１樓"
+        "market_address": "臺南市新市區大營里龍目井路８５號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 103,
+        "index": 25,
         "shop": "丹比好食商行",
         "category": [
             "餐飲"
@@ -1130,10 +368,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２２１號１樓"
+        "market_address": "臺南市新市區新和里中正路２２１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 104,
+        "index": 26,
         "shop": "瑀禎茶飲專賣店",
         "category": [
             "餐飲"
@@ -1141,43 +382,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里００９鄰中興街８４號１樓"
+        "market_address": "臺南市新市區新市里００９鄰中興街８４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 105,
-        "shop": "君弘小店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里００４鄰大社２０８號１樓"
-    },
-    {
-        "index": 106,
-        "shop": "瓦緹餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００９鄰中興街８８號１樓"
-    },
-    {
-        "index": 107,
-        "shop": "新寶餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２３鄰中正路１０９號１樓"
-    },
-    {
-        "index": 108,
+        "index": 27,
         "shop": "零記企業社",
         "category": [
             "餐飲"
@@ -1185,76 +397,18 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１８１號１樓"
+        "market_address": "臺南市新市區新和里中正路１８１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 109,
-        "shop": "鍾永和豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００２鄰中山路２７２號１樓"
-    },
-    {
-        "index": 110,
-        "shop": "四季茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２１鄰中正路８８號１樓"
-    },
-    {
-        "index": 111,
-        "shop": "南方嬤嬤速食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０１１鄰中正路３３０號１樓"
-    },
-    {
-        "index": 112,
-        "shop": "翔記美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路２―１號１樓"
-    },
-    {
-        "index": 113,
-        "shop": "宇榮企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０３５鄰仁愛街２１５號１樓"
-    },
-    {
-        "index": 114,
-        "shop": "天心坊湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２３鄰中正路１４７號１樓"
-    },
-    {
-        "index": 115,
+        "index": 28,
         "shop": "玉恬企業社",
         "category": [
             "餐飲"
@@ -1262,32 +416,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路７９號１樓"
+        "market_address": "臺南市新市區新和里富強路７９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 116,
-        "shop": "以斯貼商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００５鄰仁愛街２８９號"
-    },
-    {
-        "index": 117,
-        "shop": "滿金鑫企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０５０鄰自強街３４巷１弄２４號１樓"
-    },
-    {
-        "index": 118,
+        "index": 29,
         "shop": "新御商行",
         "category": [
             "餐飲"
@@ -1295,10 +430,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１９號１樓"
+        "market_address": "臺南市新市區新和里信義街１９號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 119,
+        "index": 30,
         "shop": "虹日子茶行",
         "category": [
             "餐飲"
@@ -1306,54 +445,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里０２３鄰中正路１３７號１樓"
+        "market_address": "臺南市新市區新和里０２３鄰中正路１３７號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 120,
-        "shop": "鶴家鍋商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路１９號"
-    },
-    {
-        "index": 121,
-        "shop": "樞榮茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路４０９號１樓"
-    },
-    {
-        "index": 122,
-        "shop": "中興便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１６０號１樓"
-    },
-    {
-        "index": 123,
-        "shop": "熊猴一家幸福茶房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０１２鄰中正路３０１巷５號１樓"
-    },
-    {
-        "index": 124,
+        "index": 31,
         "shop": "晟熙商行",
         "category": [
             "餐飲"
@@ -1361,98 +459,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路１３９號１樓"
+        "market_address": "臺南市新市區大營里龍目井路１３９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 125,
-        "shop": "新市早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０２３鄰復興路６５號１樓"
-    },
-    {
-        "index": 126,
-        "shop": "松品邑冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１９３號１樓"
-    },
-    {
-        "index": 127,
-        "shop": "霸王美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路９３號１樓"
-    },
-    {
-        "index": 128,
-        "shop": "奕特便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里０２０鄰豐榮５９―１９號１樓"
-    },
-    {
-        "index": 129,
-        "shop": "樂龍私房料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路１７５－１號１樓"
-    },
-    {
-        "index": 130,
-        "shop": "和稻屋海苔飯捲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２５鄰仁愛街２９６號１樓"
-    },
-    {
-        "index": 131,
-        "shop": "藝燴小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街５號１樓"
-    },
-    {
-        "index": 132,
-        "shop": "愷蒂早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內１－７號"
-    },
-    {
-        "index": 133,
+        "index": 32,
         "shop": "日時國際企業社",
         "category": [
             "餐飲"
@@ -1460,10 +474,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里００８鄰仁愛街６４號１樓"
+        "market_address": "臺南市新市區新和里００８鄰仁愛街６４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 134,
+        "index": 33,
         "shop": "向盈商行",
         "category": [
             "餐飲"
@@ -1471,21 +488,15 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路工業巷１號１樓"
+        "market_address": "臺南市新市區永就里中山路工業巷１號１樓",
+        "pay_list": [
+            "橘子支付",
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 135,
-        "shop": "丁仔燒肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２３９號１樓"
-    },
-    {
-        "index": 136,
+        "index": 34,
         "shop": "香盛小吃店",
         "category": [
             "餐飲"
@@ -1493,10 +504,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街７０號１樓"
+        "market_address": "臺南市新市區新市里華興街７０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 137,
+        "index": 35,
         "shop": "成昌飲品店",
         "category": [
             "餐飲"
@@ -1504,120 +518,15 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街７３號１樓"
+        "market_address": "臺南市新市區新和里銘傳街７３號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 138,
-        "shop": "牛牛廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街８６號１樓"
-    },
-    {
-        "index": 139,
-        "shop": "鮨本味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路３５６號"
-    },
-    {
-        "index": 140,
-        "shop": "味津水餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０３２鄰華興街５３號"
-    },
-    {
-        "index": 141,
-        "shop": "吉野飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２１鄰中正路１７６號１樓"
-    },
-    {
-        "index": 142,
-        "shop": "里碩食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內１４３－９１號"
-    },
-    {
-        "index": 143,
-        "shop": "小華自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街２２５號"
-    },
-    {
-        "index": 144,
-        "shop": "南科豆漿專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街３９號"
-    },
-    {
-        "index": 145,
-        "shop": "西頭冰城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２２９號１樓"
-    },
-    {
-        "index": 146,
-        "shop": "玉貞早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街２０號"
-    },
-    {
-        "index": 147,
-        "shop": "新市商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街７４號"
-    },
-    {
-        "index": 148,
+        "index": 36,
         "shop": "鼎食鼎盛鍋物料亭",
         "category": [
             "餐飲"
@@ -1625,21 +534,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里復興路２１３號"
+        "market_address": "臺南市新市區新和里復興路２１３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 149,
-        "shop": "丞虹複合式餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０２３鄰復興路９１號１樓"
-    },
-    {
-        "index": 150,
+        "index": 37,
         "shop": "番大眾燒烤店",
         "category": [
             "餐飲"
@@ -1647,32 +548,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區港墘里００６鄰民族路１３８號"
+        "market_address": "臺南市新市區港墘里００６鄰民族路１３８號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 151,
-        "shop": "老爺啤酒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里００１鄰社內２―３號１樓"
-    },
-    {
-        "index": 152,
-        "shop": "巧自然企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１２１號"
-    },
-    {
-        "index": 153,
+        "index": 38,
         "shop": "蓁宇商行",
         "category": [
             "餐飲"
@@ -1680,21 +562,15 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里００５鄰華興街６６號１樓"
+        "market_address": "臺南市新市區新市里００５鄰華興街６６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 154,
-        "shop": "鍋就好小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街１５６－１號１樓"
-    },
-    {
-        "index": 155,
+        "index": 39,
         "shop": "活力吧熱壓吐司專賣店",
         "category": [
             "餐飲"
@@ -1702,21 +578,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里００８鄰中華路９２號１樓"
+        "market_address": "臺南市新市區永就里００８鄰中華路９２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 156,
-        "shop": "品香餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里００９鄰大營１８７號１樓"
-    },
-    {
-        "index": 157,
+        "index": 40,
         "shop": "富滿晨食坊",
         "category": [
             "餐飲"
@@ -1724,10 +593,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里復興路１７３．１７５號"
+        "market_address": "臺南市新市區新和里復興路１７３．１７５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 158,
+        "index": 41,
         "shop": "夏諾瓦餐飲店",
         "category": [
             "餐飲"
@@ -1735,43 +607,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里００３鄰中正路２９號"
+        "market_address": "臺南市新市區新和里００３鄰中正路２９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 159,
-        "shop": "木奉茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路３號１樓"
-    },
-    {
-        "index": 160,
-        "shop": "中銘餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里大同街１－２號１樓"
-    },
-    {
-        "index": 161,
-        "shop": "晨光找早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街１４９號１樓"
-    },
-    {
-        "index": 162,
+        "index": 42,
         "shop": "家和甕缸雞海鮮餐廳",
         "category": [
             "餐飲"
@@ -1779,32 +621,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍２３５號"
+        "market_address": "臺南市新市區三舍里三舍２３５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 163,
-        "shop": "金穗豐美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 164,
-        "shop": "香味屋便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路５７號１樓"
-    },
-    {
-        "index": 165,
+        "index": 43,
         "shop": "庭富小吃店",
         "category": [
             "餐飲"
@@ -1812,10 +636,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區社內里社內１－２號１樓"
+        "market_address": "臺南市新市區社內里社內１－２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 166,
+        "index": 44,
         "shop": "温揚小吃店",
         "category": [
             "餐飲"
@@ -1823,32 +651,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街２２號"
+        "market_address": "臺南市新市區新市里華興街２２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 167,
-        "shop": "崇本社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街２６號１樓"
-    },
-    {
-        "index": 168,
-        "shop": "冠泰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍２３３號１樓"
-    },
-    {
-        "index": 169,
+        "index": 45,
         "shop": "新市原味茶飲店",
         "category": [
             "餐飲"
@@ -1856,10 +666,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路４６號１樓"
+        "market_address": "臺南市新市區新市里復興路４６號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 170,
+        "index": 46,
         "shop": "家馨飲品店",
         "category": [
             "餐飲"
@@ -1867,54 +680,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２５７號１樓"
+        "market_address": "臺南市新市區新和里仁愛街２５７號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 171,
-        "shop": "創隆企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里陽光南一路２巷８２號１樓"
-    },
-    {
-        "index": 172,
-        "shop": "鈞鈞商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街７１號１樓"
-    },
-    {
-        "index": 173,
-        "shop": "双十八木職人茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街９６號１樓"
-    },
-    {
-        "index": 174,
-        "shop": "超豐小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路７６號"
-    },
-    {
-        "index": 175,
+        "index": 47,
         "shop": "饌黔企業社",
         "category": [
             "餐飲"
@@ -1922,32 +694,17 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２６號"
+        "market_address": "臺南市新市區新和里中正路２６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 176,
-        "shop": "麗玉便當店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里勝利街４７號１樓"
-    },
-    {
-        "index": 177,
-        "shop": "佐賀牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路６６巷１５號"
-    },
-    {
-        "index": 178,
+        "index": 48,
         "shop": "晨唏商行",
         "category": [
             "餐飲"
@@ -1955,10 +712,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街１１８號"
+        "market_address": "臺南市新市區港墘里光華街１１８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 179,
+        "index": 49,
         "shop": "海格芮商行",
         "category": [
             "餐飲"
@@ -1966,98 +727,14 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１９４號１樓"
+        "market_address": "臺南市新市區新和里中正路１９４號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 180,
-        "shop": "嘉乾餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３０１巷３１號１樓"
-    },
-    {
-        "index": 181,
-        "shop": "豐華冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里豐華５３－１０號"
-    },
-    {
-        "index": 182,
-        "shop": "義朵拉餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里大順三路１２５號２樓"
-    },
-    {
-        "index": 183,
-        "shop": "紅瓦町壽司館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里長安街１１１－５號"
-    },
-    {
-        "index": 184,
-        "shop": "新市土地公臭豆腐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０２５鄰復興路６巷３８號１樓"
-    },
-    {
-        "index": 185,
-        "shop": "昕昕早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里民族路１３５之１號１樓"
-    },
-    {
-        "index": 186,
-        "shop": "尚吉小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路９７號"
-    },
-    {
-        "index": 187,
-        "shop": "富綺複式餐飲館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區潭頂里潭頂９９―１８號１樓"
-    },
-    {
-        "index": 188,
+        "index": 50,
         "shop": "碳鍋屋村飲食店",
         "category": [
             "餐飲"
@@ -2065,99 +742,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街１６０－１號１樓"
+        "market_address": "臺南市新市區新和里仁愛街１６０－１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 189,
-        "shop": "晨新美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１８３號１樓"
-    },
-    {
-        "index": 190,
-        "shop": "金城記商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街５之７５號"
-    },
-    {
-        "index": 191,
-        "shop": "安勝行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里仁愛街２９５－１號"
-    },
-    {
-        "index": 192,
-        "shop": "上新餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１１８號１樓"
-    },
-    {
-        "index": 193,
-        "shop": "上登商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街２３之１號１樓"
-    },
-    {
-        "index": 194,
-        "shop": "鳥語咖啡餐飲",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里永就６之２號"
-    },
-    {
-        "index": 195,
-        "shop": "桔達企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街５之１２０號１樓"
-    },
-    {
-        "index": 196,
-        "shop": "金大社飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社１７３號１樓"
-    },
-    {
-        "index": 197,
+        "index": 51,
         "shop": "佳蓁茶飲",
         "category": [
             "餐飲"
@@ -2165,54 +756,18 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１１２號１樓"
+        "market_address": "臺南市新市區新和里銘傳街１１２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 198,
-        "shop": "葉子飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１２５號１樓"
-    },
-    {
-        "index": 199,
-        "shop": "阿安冰茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里００９鄰永就９４―１０號１樓"
-    },
-    {
-        "index": 200,
-        "shop": "阿祿肉燥飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街８號１樓"
-    },
-    {
-        "index": 201,
-        "shop": "甯媛早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街３１號１樓"
-    },
-    {
-        "index": 202,
+        "index": 52,
         "shop": "佑恩商行",
         "category": [
             "餐飲"
@@ -2220,98 +775,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街７９號１樓"
+        "market_address": "臺南市新市區新和里銘傳街７９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 203,
-        "shop": "小阿姨的店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１８１―１號"
-    },
-    {
-        "index": 204,
-        "shop": "傻師父湯包",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里３６鄰華興街９４號１樓"
-    },
-    {
-        "index": 205,
-        "shop": "永康肉燥曾小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街５之６號"
-    },
-    {
-        "index": 206,
-        "shop": "寶福自助餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街７７號"
-    },
-    {
-        "index": 207,
-        "shop": "阿華新市生活飲茶",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街７１號１樓"
-    },
-    {
-        "index": 208,
-        "shop": "蕃茄妹養生麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１０９號１樓"
-    },
-    {
-        "index": 209,
-        "shop": "明芳小火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路６―５號"
-    },
-    {
-        "index": 210,
-        "shop": "中山麒崴冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路１５５號１樓"
-    },
-    {
-        "index": 211,
+        "index": 53,
         "shop": "浩康商行",
         "category": [
             "餐飲"
@@ -2319,131 +789,18 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街９１號１樓"
+        "market_address": "臺南市新市區新和里銘傳街９１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 212,
-        "shop": "慧龍冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內５０―１２６號"
-    },
-    {
-        "index": 213,
-        "shop": "瑞麟美而美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街３０號１樓"
-    },
-    {
-        "index": 214,
-        "shop": "虹冠餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路６巷４１弄１７號１樓"
-    },
-    {
-        "index": 215,
-        "shop": "鮮蔗茶飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２９鄰光華街２２２號１樓"
-    },
-    {
-        "index": 216,
-        "shop": "阿宏排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里永福街７１號１樓"
-    },
-    {
-        "index": 217,
-        "shop": "友慶小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路８０號１樓"
-    },
-    {
-        "index": 218,
-        "shop": "喜旺薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路１０１號"
-    },
-    {
-        "index": 219,
-        "shop": "大營冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里豐榮６號"
-    },
-    {
-        "index": 220,
-        "shop": "東宸火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路６號"
-    },
-    {
-        "index": 221,
-        "shop": "嘉昌雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內１－７號１樓"
-    },
-    {
-        "index": 222,
-        "shop": "二饌牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１２９號１樓"
-    },
-    {
-        "index": 223,
+        "index": 54,
         "shop": "可盛冷飲店",
         "category": [
             "餐飲"
@@ -2451,32 +808,15 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１００號１樓"
+        "market_address": "臺南市新市區新和里中正路１００號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 224,
-        "shop": "詠仁小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里復興路１７７、１７９號"
-    },
-    {
-        "index": 225,
-        "shop": "蓁蓁古早味紅茶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街１０號"
-    },
-    {
-        "index": 226,
+        "index": 55,
         "shop": "新市清心冷飲",
         "category": [
             "餐飲"
@@ -2484,120 +824,15 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路５號１樓"
+        "market_address": "臺南市新市區新和里民生路５號１樓",
+        "pay_list": [
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
     },
     {
-        "index": 227,
-        "shop": "老北京牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街２３６號１樓"
-    },
-    {
-        "index": 228,
-        "shop": "歐圖早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路４０８號１樓"
-    },
-    {
-        "index": 229,
-        "shop": "新饌日食餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２３２號"
-    },
-    {
-        "index": 230,
-        "shop": "妞妞早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２９４號１樓"
-    },
-    {
-        "index": 231,
-        "shop": "遠東雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路２５６號１樓"
-    },
-    {
-        "index": 232,
-        "shop": "永成素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社５８９－３２號"
-    },
-    {
-        "index": 233,
-        "shop": "西拉雅冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍２３８―１號"
-    },
-    {
-        "index": 234,
-        "shop": "越香餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街８號１樓"
-    },
-    {
-        "index": 235,
-        "shop": "嬉都冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富強路１０１號"
-    },
-    {
-        "index": 236,
-        "shop": "承泰金餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１７９號１樓"
-    },
-    {
-        "index": 237,
+        "index": 56,
         "shop": "金穗豐平價美食館",
         "category": [
             "餐飲"
@@ -2605,10 +840,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路９０號１樓"
+        "market_address": "臺南市新市區永就里中華路９０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 238,
+        "index": 57,
         "shop": "大學世界餐飲店",
         "category": [
             "餐飲"
@@ -2616,230 +854,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里延平街８―４號１樓"
+        "market_address": "臺南市新市區新和里延平街８―４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 239,
-        "shop": "柚果茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１１號１樓"
-    },
-    {
-        "index": 240,
-        "shop": "友麗小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里００９鄰社內８８―８號１樓"
-    },
-    {
-        "index": 241,
-        "shop": "哈薩姆茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２４０號１樓"
-    },
-    {
-        "index": 242,
-        "shop": "長泰餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里豐榮３７－５號"
-    },
-    {
-        "index": 243,
-        "shop": "嘉口味港式燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２５０―１號"
-    },
-    {
-        "index": 244,
-        "shop": "美味團膳餐飲行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里永就４６－１號"
-    },
-    {
-        "index": 245,
-        "shop": "臻品平價美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街１７２號１樓"
-    },
-    {
-        "index": 246,
-        "shop": "亞米生活美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里龍目井路９３號２樓"
-    },
-    {
-        "index": 247,
-        "shop": "鄭廷浩嘉義火雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２１３號"
-    },
-    {
-        "index": 248,
-        "shop": "首富咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街１４８號１樓"
-    },
-    {
-        "index": 249,
-        "shop": "華園美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里忠孝街２２５號２樓"
-    },
-    {
-        "index": 250,
-        "shop": "茶公園茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２５９號"
-    },
-    {
-        "index": 251,
-        "shop": "家榆商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街２３之２號１樓"
-    },
-    {
-        "index": 252,
-        "shop": "茂全餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１５號１樓"
-    },
-    {
-        "index": 253,
-        "shop": "好來屋美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里南科三路１９號１樓"
-    },
-    {
-        "index": 254,
-        "shop": "小南國餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍１６４－８號"
-    },
-    {
-        "index": 255,
-        "shop": "快拿實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路１９９－６號１樓"
-    },
-    {
-        "index": 256,
-        "shop": "集香餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２２７號１樓"
-    },
-    {
-        "index": 257,
-        "shop": "靜沁鮮茶館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里大順三路１２５號１樓"
-    },
-    {
-        "index": 258,
-        "shop": "普爾餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街８２號１樓"
-    },
-    {
-        "index": 259,
+        "index": 58,
         "shop": "八方雲集餐飲股份有限公司御廚台南新巿店",
         "category": [
             "餐飲"
@@ -2847,76 +868,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里０１０鄰復興路１號１樓"
+        "market_address": "臺南市新市區新市里０１０鄰復興路１號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 260,
-        "shop": "五鮮級國際餐飲股份有限公司台南新市分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路８３，８５，８７號"
-    },
-    {
-        "index": 261,
-        "shop": "友麗小吃部中正營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路７２號"
-    },
-    {
-        "index": 262,
-        "shop": "新市土地公臭豆腐民生營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路３３號旁"
-    },
-    {
-        "index": 263,
-        "shop": "阿珍小吃店中正營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２９號１樓"
-    },
-    {
-        "index": 264,
-        "shop": "阿珍小吃店復興營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路４號前面"
-    },
-    {
-        "index": 265,
-        "shop": "總理大餐廳南科店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里南科三路２６號１樓Ａ區"
-    },
-    {
-        "index": 266,
+        "index": 59,
         "shop": "十八羅漢有限公司",
         "category": [
             "餐飲"
@@ -2924,54 +882,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里２９鄰光華街１１５號１樓"
+        "market_address": "臺南市新市區新市里２９鄰光華街１１５號１樓",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 267,
-        "shop": "職人良飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富中街１３２號１樓"
-    },
-    {
-        "index": 268,
-        "shop": "威加麥有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路２３８號１樓"
-    },
-    {
-        "index": 269,
-        "shop": "斜槓文化有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里西拉雅大道１６０號"
-    },
-    {
-        "index": 270,
-        "shop": "百苓茶業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１８９號１樓"
-    },
-    {
-        "index": 271,
+        "index": 60,
         "shop": "乙清餐飲有限公司",
         "category": [
             "餐飲"
@@ -2979,472 +896,43 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里０２８鄰復興路５２號"
+        "market_address": "臺南市新市區新市里０２８鄰復興路５２號",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 272,
-        "shop": "愛微笑興業有限公司",
+        "index": 61,
+        "shop": "阿珍小吃店中正營業所",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區港墘里００１鄰中山路１３巷３７號"
+        "market_address": "臺南市新市區新和里中正路２９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 273,
-        "shop": "聚品茗有限公司",
+        "index": 62,
+        "shop": "總理大餐廳南科店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里仁愛街３００號"
+        "market_address": "臺南市新市區豐華里南科三路２６號１樓Ａ區",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 274,
-        "shop": "鯛福餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里中心路２號１號"
-    },
-    {
-        "index": 275,
-        "shop": "上宇林有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２１５號２樓"
-    },
-    {
-        "index": 276,
-        "shop": "樂序好品生活有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里西拉雅大道１６６號１樓"
-    },
-    {
-        "index": 277,
-        "shop": "紫京傳有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍１─１５號"
-    },
-    {
-        "index": 278,
-        "shop": "黑火山恆昇國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路６０號"
-    },
-    {
-        "index": 279,
-        "shop": "鉝荃新市有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中山路３２６―７號１樓"
-    },
-    {
-        "index": 280,
-        "shop": "佳展餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路６０號"
-    },
-    {
-        "index": 281,
-        "shop": "新市三舍有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區三舍里三舍５５―１２號１　樓"
-    },
-    {
-        "index": 282,
-        "shop": "新市大社有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社１７３號１樓"
-    },
-    {
-        "index": 283,
-        "shop": "新市華興有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街５５號１樓"
-    },
-    {
-        "index": 284,
-        "shop": "新市中正有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２３３號１樓"
-    },
-    {
-        "index": 285,
-        "shop": "金穗豐食品有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里和平街６７號１樓"
-    },
-    {
-        "index": 286,
-        "shop": "真心茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富中街７號"
-    },
-    {
-        "index": 287,
-        "shop": "新生冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路６６號１樓"
-    },
-    {
-        "index": 288,
-        "shop": "龍洋餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００３鄰中正路２９號１樓"
-    },
-    {
-        "index": 289,
-        "shop": "沁苑飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里００６鄰民族路１４８號１樓"
-    },
-    {
-        "index": 290,
-        "shop": "丹尼綜合食品店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路１０１號"
-    },
-    {
-        "index": 291,
-        "shop": "小麥田企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里富林路３５２號１樓"
-    },
-    {
-        "index": 292,
-        "shop": "志泰企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街６８號１樓"
-    },
-    {
-        "index": 293,
-        "shop": "心發餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１５５號１樓"
-    },
-    {
-        "index": 294,
-        "shop": "紙箱王有限公司南科考古館分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區豐華里南科三路１０號１樓"
-    },
-    {
-        "index": 295,
-        "shop": "悠旅生活事業股份有限公司台南市第二十二分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路７１號"
-    },
-    {
-        "index": 296,
-        "shop": "台南蔡食品有限公司新市分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路１９３號"
-    },
-    {
-        "index": 297,
-        "shop": "和德昌股份有限公司新市中山分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中山路２１３號"
-    },
-    {
-        "index": 298,
-        "shop": "阿雲海產",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街８５號"
-    },
-    {
-        "index": 299,
-        "shop": "三子星現炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１８６號"
-    },
-    {
-        "index": 300,
-        "shop": "米農莊碗粿米糕",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３６８號"
-    },
-    {
-        "index": 301,
-        "shop": "王錦霞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１１２號"
-    },
-    {
-        "index": 302,
-        "shop": "阿公排骨飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１２７號"
-    },
-    {
-        "index": 303,
-        "shop": "曾嬌娜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４５號"
-    },
-    {
-        "index": 304,
-        "shop": "古早味餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１０２號"
-    },
-    {
-        "index": 305,
-        "shop": "陳秀論",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街２１號"
-    },
-    {
-        "index": 306,
-        "shop": "大街茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街６１號"
-    },
-    {
-        "index": 307,
-        "shop": "簡福文",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街６３號"
-    },
-    {
-        "index": 308,
-        "shop": "錢積康",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大營里大營１３０－６號"
-    },
-    {
-        "index": 309,
-        "shop": "永味冷熱飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 310,
-        "shop": "無名軒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１６號"
-    },
-    {
-        "index": 311,
-        "shop": "老朋友麵食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里民族路１２８號"
-    },
-    {
-        "index": 312,
-        "shop": "一點點小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２３號１樓"
-    },
-    {
-        "index": 313,
-        "shop": "東津美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路６９號"
-    },
-    {
-        "index": 314,
+        "index": 63,
         "shop": "大青美食",
         "category": [
             "餐飲"
@@ -3452,560 +940,78 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里０２２鄰和平街１６巷９號"
+        "market_address": "臺南市新市區新市里０２２鄰和平街１６巷９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 315,
-        "shop": "嚇嚇叫商行",
+        "index": 64,
+        "shop": "聚品茗有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街６７號（新市清保宮廟口前）"
+        "market_address": "臺南市新市區新市里仁愛街３００號",
+        "pay_list": [
+            "橘子支付",
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 316,
-        "shop": "潘氏鸞",
+        "index": 65,
+        "shop": "樂序好品生活有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里００１鄰中華路１６號"
+        "market_address": "臺南市新市區大營里西拉雅大道１６６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 317,
-        "shop": "明治自助餐",
+        "index": 66,
+        "shop": "新生冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路５４號１樓"
+        "market_address": "臺南市新市區新和里民生路６６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 318,
-        "shop": "昰翔餐飲店",
+        "index": 67,
+        "shop": "龍洋餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里００８鄰仁愛街８５號"
+        "market_address": "臺南市新市區新和里００３鄰中正路２９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 319,
-        "shop": "美味飲食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３６６號公有市場第１２攤（飲食類）"
-    },
-    {
-        "index": 320,
-        "shop": "早安好堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３５８號"
-    },
-    {
-        "index": 321,
-        "shop": "阿全美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３６６號公有零售市場第２１攤位（飲食類）"
-    },
-    {
-        "index": 322,
-        "shop": "林家早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３７０號"
-    },
-    {
-        "index": 323,
-        "shop": "地方傳統美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３６６號公有零售市場第６６攤位（食品類）"
-    },
-    {
-        "index": 324,
-        "shop": "阿榮牛肉湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里０１１鄰中正路３６０號"
-    },
-    {
-        "index": 325,
-        "shop": "尚好海鮮鍋燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０４４鄰民生路１９號"
-    },
-    {
-        "index": 326,
-        "shop": "辣小二餐飲新市店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１２０號右邊"
-    },
-    {
-        "index": 327,
-        "shop": "老嘴砂鍋魚頭",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社內１４３－１７號"
-    },
-    {
-        "index": 328,
-        "shop": "尚慶水餃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里００８鄰仁愛街９５號"
-    },
-    {
-        "index": 329,
-        "shop": "黑殿大腸香腸",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路５４－１號"
-    },
-    {
-        "index": 330,
-        "shop": "曾巧小飯桌",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０４４鄰民生路６０號"
-    },
-    {
-        "index": 331,
-        "shop": "信義餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１７２號"
-    },
-    {
-        "index": 332,
-        "shop": "風船章魚燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社４０２―３７號"
-    },
-    {
-        "index": 333,
-        "shop": "夏克立綠豆沙專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００３鄰仁愛街３３８號"
-    },
-    {
-        "index": 334,
-        "shop": "吳家紅茶冰南科店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里０２３鄰中正路２１４號１樓"
-    },
-    {
-        "index": 335,
-        "shop": "高媽媽素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里永就６１－６號"
-    },
-    {
-        "index": 336,
-        "shop": "臻吉外燴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里２６－５號"
-    },
-    {
-        "index": 337,
-        "shop": "金鶯冷熱飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００８鄰中正路２３９號"
-    },
-    {
-        "index": 338,
-        "shop": "喀嚕哇餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里民權路５０號１樓"
-    },
-    {
-        "index": 339,
-        "shop": "阿權鮮魚湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２７４號１樓"
-    },
-    {
-        "index": 340,
-        "shop": "衝衝小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１００號１樓"
-    },
-    {
-        "index": 341,
-        "shop": "秋香飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里７０１號"
-    },
-    {
-        "index": 342,
-        "shop": "佳蓉自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１１１號"
-    },
-    {
-        "index": 343,
-        "shop": "早餐自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路５７號"
-    },
-    {
-        "index": 344,
-        "shop": "黃素卿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社１７３號"
-    },
-    {
-        "index": 345,
-        "shop": "安平薑母鴨",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１３９號正對面"
-    },
-    {
-        "index": 346,
-        "shop": "珍品餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路５６號"
-    },
-    {
-        "index": 347,
-        "shop": "黃王來好",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街７０－１號"
-    },
-    {
-        "index": 348,
-        "shop": "來碗拉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里復興路８７號１樓"
-    },
-    {
-        "index": 349,
-        "shop": "鄭安哲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里社皮１９號"
-    },
-    {
-        "index": 350,
-        "shop": "香港城記燒臘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里光華街１４２號"
-    },
-    {
-        "index": 351,
-        "shop": "極品滷味",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１０５號之６"
-    },
-    {
-        "index": 352,
-        "shop": "金花點心攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區社內里富安一街５９號旁"
-    },
-    {
-        "index": 353,
-        "shop": "不一樣香雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 354,
-        "shop": "鮮豆屋美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 355,
-        "shop": "龍鳳美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 356,
-        "shop": "佳伶美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 357,
-        "shop": "快樂廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 358,
-        "shop": "阿燊美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 359,
-        "shop": "活力小廚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 360,
-        "shop": "地方小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路４９號"
-    },
-    {
-        "index": 361,
-        "shop": "蘇彩凉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社２０３號門前"
-    },
-    {
-        "index": 362,
-        "shop": "義卿小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區潭頂里潭頂４２８號１樓"
-    },
-    {
-        "index": 363,
-        "shop": "王春雄",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１７號"
-    },
-    {
-        "index": 364,
-        "shop": "黃昭華",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街１００號"
-    },
-    {
-        "index": 365,
+        "index": 68,
         "shop": "騏珍餐飲店",
         "category": [
             "餐飲"
@@ -4013,32 +1019,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２３０號"
+        "market_address": "臺南市新市區新和里中正路２３０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 366,
-        "shop": "林蘇月琴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街５９號１樓（騎樓）"
-    },
-    {
-        "index": 367,
-        "shop": "異想不到",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里永就６０號"
-    },
-    {
-        "index": 368,
+        "index": 69,
         "shop": "真歆飲品店",
         "category": [
             "餐飲"
@@ -4046,538 +1033,127 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街７７號"
+        "market_address": "臺南市新市區新市里中興街７７號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 369,
-        "shop": "吳沼興",
+        "index": 70,
+        "shop": "小麥田企業社",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區港墘里中山路１５０號"
+        "market_address": "臺南市新市區新和里富林路３５２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 370,
-        "shop": "煮翻天複合式廚房",
+        "index": 71,
+        "shop": "紙箱王有限公司南科考古館分公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街１９號"
+        "market_address": "臺南市新市區豐華里南科三路１０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 371,
-        "shop": "三丫頭冰淇淋",
+        "index": 72,
+        "shop": "和德昌股份有限公司新市中山分公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里永就６０號"
+        "market_address": "臺南市新市區永就里中山路２１３號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 372,
-        "shop": "圻圻咖啡",
+        "index": 73,
+        "shop": "金鶯冷熱飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區大營里豐榮１７－３號"
+        "market_address": "臺南市新市區新市里００８鄰中正路２３９號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 373,
-        "shop": "麥味登早餐店",
+        "index": 74,
+        "shop": "喀嚕哇餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新和里民生路５０號"
+        "market_address": "臺南市新市區新和里民權路５０號１樓",
+        "pay_list": [
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 374,
-        "shop": "美而美早餐遠東店",
+        "index": 75,
+        "shop": "好來屋美食坊",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１０６號"
+        "market_address": "臺南市新市區豐華里南科三路１９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 375,
-        "shop": "一路發商行便當",
+        "index": 76,
+        "shop": "集香餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區港墘里民族路２―２２號"
+        "market_address": "臺南市新市區新和里中正路２２７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 376,
-        "shop": "林儀萍",
+        "index": 77,
+        "shop": "百苓茶業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路２５０號"
+        "market_address": "臺南市新市區新市里光華街１８９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 377,
-        "shop": "莊記古早味冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街１１６號"
-    },
-    {
-        "index": 378,
-        "shop": "智旭餐飲宴席包辦",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區大社里大社１８９號"
-    },
-    {
-        "index": 379,
-        "shop": "淑鈴豆花舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里銘傳街１０８號"
-    },
-    {
-        "index": 380,
-        "shop": "一廚炒飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街２００號"
-    },
-    {
-        "index": 381,
-        "shop": "市旺麵飯魯料館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街５６號"
-    },
-    {
-        "index": 382,
-        "shop": "北方麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街９３號"
-    },
-    {
-        "index": 383,
-        "shop": "陳冬菁",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街８４號"
-    },
-    {
-        "index": 384,
-        "shop": "新園飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街８３號１樓"
-    },
-    {
-        "index": 385,
-        "shop": "林張素眞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區潭頂里３０２─１號１樓"
-    },
-    {
-        "index": 386,
-        "shop": "韓屋村複合式餐飲新市店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里仁愛街３２６號"
-    },
-    {
-        "index": 387,
-        "shop": "小叮噹冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里仁愛街２６９號"
-    },
-    {
-        "index": 388,
-        "shop": "姜冰堡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３０５號"
-    },
-    {
-        "index": 389,
-        "shop": "嘉鄉豆花",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里信義街１６９號"
-    },
-    {
-        "index": 390,
-        "shop": "蓁虹素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１４６號"
-    },
-    {
-        "index": 391,
-        "shop": "姑婆麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里仁愛街３０６號１樓之２"
-    },
-    {
-        "index": 392,
-        "shop": "新市牛肉清湯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路２２０―１號１樓"
-    },
-    {
-        "index": 393,
-        "shop": "妙音素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街４９號"
-    },
-    {
-        "index": 394,
-        "shop": "陳富羚",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路３５５－１號"
-    },
-    {
-        "index": 395,
-        "shop": "紅茶幫遠東店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路６８號"
-    },
-    {
-        "index": 396,
-        "shop": "尚旺料理店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區港墘里中山路２２號"
-    },
-    {
-        "index": 397,
-        "shop": "原野屋串燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路６６巷１７號"
-    },
-    {
-        "index": 398,
-        "shop": "謝明村",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２７２號"
-    },
-    {
-        "index": 399,
-        "shop": "吳建德",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里仁愛街３１２號"
-    },
-    {
-        "index": 400,
-        "shop": "遠東早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１０８號"
-    },
-    {
-        "index": 401,
-        "shop": "陳志明",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１０４號"
-    },
-    {
-        "index": 402,
-        "shop": "橘另可生活茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１１８號"
-    },
-    {
-        "index": 403,
-        "shop": "目鏡陳點心攤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街９５號"
-    },
-    {
-        "index": 404,
-        "shop": "順萊平價餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路２５６－１號"
-    },
-    {
-        "index": 405,
-        "shop": "劉勝琦",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街２３號１樓"
-    },
-    {
-        "index": 406,
-        "shop": "鄭家宴席",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里西寧街１７號"
-    },
-    {
-        "index": 407,
-        "shop": "怡情簡餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里光華街１５５號"
-    },
-    {
-        "index": 408,
-        "shop": "阿華意麵小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１０６號"
-    },
-    {
-        "index": 409,
-        "shop": "佳樂餐飲屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街６５號"
-    },
-    {
-        "index": 410,
-        "shop": "甲嘴王肉圓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中山路２８２－１號"
-    },
-    {
-        "index": 411,
-        "shop": "泉威布丁豆花新市中正店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里中正路１５１號"
-    },
-    {
-        "index": 412,
-        "shop": "明正黑白切",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中正路２５６號"
-    },
-    {
-        "index": 413,
-        "shop": "黃陳金蕊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１０２號"
-    },
-    {
-        "index": 414,
-        "shop": "吉來成小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１３０號"
-    },
-    {
-        "index": 415,
-        "shop": "陳玫霜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１５號"
-    },
-    {
-        "index": 416,
-        "shop": "阿月排骨便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路５５號"
-    },
-    {
-        "index": 417,
+        "index": 78,
         "shop": "鮮入爲煮小吃店",
         "category": [
             "餐飲"
@@ -4585,83 +1161,9 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街６號１樓"
-    },
-    {
-        "index": 418,
-        "shop": "欣葉便當",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街９９號"
-    },
-    {
-        "index": 419,
-        "shop": "李能璋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街４０號"
-    },
-    {
-        "index": 420,
-        "shop": "永祥陽春麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里００４鄰華興街１４號"
-    },
-    {
-        "index": 421,
-        "shop": "陳勝勳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區永就里中華路１２２號"
-    },
-    {
-        "index": 422,
-        "shop": "郭李錦梅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新和里華興街７３號"
-    },
-    {
-        "index": 423,
-        "shop": "素食早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里華興街２０號"
-    },
-    {
-        "index": 424,
-        "shop": "鄭昌輝",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新市區",
-        "market_address": "臺南市新市區新市里中興街１１５號"
+        "market_address": "臺南市新市區新市里華興街６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

@@ -1,87 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "豐濱公有零售市場-豐市集16",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 2,
-        "shop": "豐濱公有零售市場-豐市集15",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 3,
-        "shop": "豐濱公有零售市場-豐市集14",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 4,
-        "shop": "豐濱公有零售市場-豐市集12",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 5,
-        "shop": "豐濱公有零售市場-豐市集11",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 6,
-        "shop": "豐濱公有零售市場-豐市集9",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 7,
-        "shop": "豐濱公有零售市場-豐市集7",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 8,
-        "shop": "豐濱公有零售市場-豐市集6",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 9,
-        "shop": "豐濱公有零售市場-豐市集5",
-        "category": "夜市\/市場攤販",
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "豐濱鄉",
-        "market_address": "花年縣豐濱鄉民族街20號"
-    },
-    {
-        "index": 10,
         "shop": "瘋濱箱原味廚房",
         "category": [
             "夜市\/市場攤販"
@@ -89,18 +8,26 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "豐濱鄉",
-        "market_address": "花蓮縣豐濱鄉豐濱村６鄰民族街２７巷１１號"
+        "market_address": "花蓮縣豐濱鄉豐濱村６鄰民族街２７巷１１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊卡",
+            "icash pay",
+            "iPASS 一卡通"
+        ]
     },
     {
-        "index": 11,
-        "shop": "元德小吃店",
+        "index": 2,
+        "shop": "豐濱公有零售市場-豐市集9",
         "category": [
-            "夜市\/市場攤販",
-            "餐飲"
+            "夜市\/市場攤販"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "豐濱鄉",
-        "market_address": "花蓮縣豐濱鄉豐濱村２鄰三民路２２號１樓"
+        "market_address": "花年縣豐濱鄉民族街20號",
+        "pay_list": [
+            "橘子支付"
+        ]
     }
 ]

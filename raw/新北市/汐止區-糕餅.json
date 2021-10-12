@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "長奇蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區福德一路２０１巷２號１樓"
-    },
-    {
-        "index": 2,
         "shop": "諾亞方舟烘焙坊",
         "category": [
             "糕餅"
@@ -19,277 +8,52 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區長安里長安路１１號"
+        "market_address": "新北市汐止區長安里長安路１１號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "彩虹石頭咖啡廳",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "汐止區",
+        "market_address": "新北市汐止區復興里新台五路一段７５號地下一層",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
         "index": 3,
-        "shop": "麋樂食品企業社",
+        "shop": "橘先生食品行",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區鄉長里長江街２３９號２樓（第三層）"
+        "market_address": "新北市汐止區文化里新台五路１段９６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
         "index": 4,
-        "shop": "禾包滿滿點心坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區禮門里大同路二段３８７號"
-    },
-    {
-        "index": 5,
-        "shop": "如果有一天咖啡館",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區橋東里茄苳路３１號（１樓）"
-    },
-    {
-        "index": 6,
-        "shop": "欣格西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區長安里長安路２號"
-    },
-    {
-        "index": 7,
-        "shop": "小牛手作舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區鄉長里鄉長路二段６巷３１號５樓"
-    },
-    {
-        "index": 8,
-        "shop": "熊好點心坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區建成里建成路７８號１３樓之１"
-    },
-    {
-        "index": 9,
-        "shop": "饅好初手作工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區江北里汐萬路一段３９３號１樓"
-    },
-    {
-        "index": 10,
-        "shop": "革麗特麵包舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區忠孝里樟樹二路１３６巷４號（１樓）"
-    },
-    {
-        "index": 11,
-        "shop": "彩虹石頭咖啡廳",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區復興里新台五路一段７５號地下一層"
-    },
-    {
-        "index": 12,
-        "shop": "糖菓屋工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區拱北里汐萬路二段１２２巷３號"
-    },
-    {
-        "index": 13,
-        "shop": "吉合堂餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區中興路２７０號１樓"
-    },
-    {
-        "index": 14,
-        "shop": "義和麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區和平街１０６巷２號"
-    },
-    {
-        "index": 15,
-        "shop": "優味烘焙小舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區興福里福德二路１９巷１０弄４號１２樓"
-    },
-    {
-        "index": 16,
-        "shop": "威翰麵包工廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里福德一路４３５號"
-    },
-    {
-        "index": 17,
-        "shop": "橘先生食品行",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區文化里新台五路１段９６號"
-    },
-    {
-        "index": 18,
-        "shop": "喜多西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區北峯里康寧街３８４號１樓"
-    },
-    {
-        "index": 19,
-        "shop": "凱撒藝術蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區復興里大同路２段１８４巷９號"
-    },
-    {
-        "index": 20,
-        "shop": "逸鮮精緻蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區汐止鎮文化里連興街１３２號１樓"
-    },
-    {
-        "index": 21,
-        "shop": "楓格麵包屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區仁德里和平街４６巷２０號１樓"
-    },
-    {
-        "index": 22,
-        "shop": "莊盛號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區宜興里林森街９號"
-    },
-    {
-        "index": 23,
-        "shop": "阿羅哈麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區水源路２段９８號１樓"
-    },
-    {
-        "index": 24,
-        "shop": "信好食品廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區大同路１段３３７巷１６弄１８號１樓"
-    },
-    {
-        "index": 25,
-        "shop": "美二佳蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區大同路２段３３４號"
-    },
-    {
-        "index": 26,
-        "shop": "美欣股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區湖光里明峰街９３號７樓"
-    },
-    {
-        "index": 27,
         "shop": "超比食品企業股份有限公司",
         "category": [
             "糕餅"
@@ -297,45 +61,14 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區大同路１段３０２巷６號１樓"
+        "market_address": "新北市汐止區大同路１段３０２巷６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 28,
-        "shop": "勝美金食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區自強里新台五路一段１９０號４樓"
-    },
-    {
-        "index": 29,
-        "shop": "趴趴走國際餐飲股份有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區長青里長青路１３２巷７弄３號"
-    },
-    {
-        "index": 30,
-        "shop": "豪饗國際餐飲股份有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區樟樹里大同路一段２９２巷２１號"
-    },
-    {
-        "index": 31,
+        "index": 5,
         "shop": "鼎綸國際股份有限公司",
         "category": [
             "糕餅"
@@ -343,155 +76,29 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區樟樹里大同路一段２３９號１３樓"
+        "market_address": "新北市汐止區樟樹里大同路一段２３９號１３樓",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 32,
+        "index": 6,
         "shop": "荃鴻股份有限公司",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區保安里大同路３段３６９巷２０號（３樓）"
-    },
-    {
-        "index": 33,
-        "shop": "無糖本舖股份有限公司",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區北山里康寧街１４１巷５３號"
+        "market_address": "新北市汐止區保安里大同路３段３６９巷２０號（３樓）",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 34,
-        "shop": "福圓號食品有限公司汐止門市",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區自強里新台五路一段１６０號１樓"
-    },
-    {
-        "index": 35,
-        "shop": "依辰食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區明峰街１１３號１樓"
-    },
-    {
-        "index": 36,
-        "shop": "美堤食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區北山里康寧街１６３號１、２、３樓"
-    },
-    {
-        "index": 37,
-        "shop": "利市捷有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區建成里建成路５８號１２樓之７"
-    },
-    {
-        "index": 38,
-        "shop": "淇翊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區汐萬路２段６６巷１０６弄２號（１樓）"
-    },
-    {
-        "index": 39,
-        "shop": "寶邦隆食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區北山里康寧街８３巷１８號１０樓"
-    },
-    {
-        "index": 40,
-        "shop": "食尚外燴王有限公司",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區中興里原興路８１號（１樓）"
-    },
-    {
-        "index": 41,
-        "shop": "騏藤有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里福德一路３９２巷３７弄２１號"
-    },
-    {
-        "index": 42,
-        "shop": "彩加有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里福德一路４０５巷２號"
-    },
-    {
-        "index": 43,
-        "shop": "湘碩國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區橫科里弘道街５３巷１８號２樓"
-    },
-    {
-        "index": 44,
-        "shop": "廣榮國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區湖興里伯爵街３５巷１４號"
-    },
-    {
-        "index": 45,
+        "index": 7,
         "shop": "馥馨香有限公司",
         "category": [
             "糕餅"
@@ -499,98 +106,13 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區明峰街１６８號（１樓）"
+        "market_address": "新北市汐止區明峰街１６８號（１樓）",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 46,
-        "shop": "原風禮坊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區湖興里伯爵街９５巷１３號"
-    },
-    {
-        "index": 47,
-        "shop": "青山工房有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區秀山里勤進路７０號之１"
-    },
-    {
-        "index": 48,
-        "shop": "米塔汐止食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里環河街１６６號"
-    },
-    {
-        "index": 49,
-        "shop": "金鼎研究生化科技有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區樟樹里大同路一段２７７號"
-    },
-    {
-        "index": 50,
-        "shop": "虹喬食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區保安里大安街５２巷１０號３樓"
-    },
-    {
-        "index": 51,
-        "shop": "米娜食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區大同里大同路２段３１２巷９弄２號１樓"
-    },
-    {
-        "index": 52,
-        "shop": "欣順益有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區智慧里大同路２段１４３號"
-    },
-    {
-        "index": 53,
-        "shop": "夢想花園烘焙坊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區興福里福德一路１７７巷１５號（１樓）"
-    },
-    {
-        "index": 54,
+        "index": 8,
         "shop": "香帥蛋糕有限公司",
         "category": [
             "糕餅"
@@ -598,98 +120,56 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區江北里汐萬路一段２１１巷２６號１、２、３、４、５樓"
+        "market_address": "新北市汐止區江北里汐萬路一段２１１巷２６號１、２、３、４、５樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 55,
-        "shop": "大地烘焙有限公司",
+        "index": 9,
+        "shop": "喜多西點麵包店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區復興里新台五路一段７９號１９樓之１１"
+        "market_address": "新北市汐止區北峯里康寧街３８４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 56,
-        "shop": "大相撲食品事業有限公司",
+        "index": 10,
+        "shop": "福圓號食品有限公司汐止門市",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區保長里長興街二段４巷１２弄２號２樓"
+        "market_address": "新北市汐止區自強里新台五路一段１６０號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
     },
     {
-        "index": 57,
-        "shop": "采登國際有限公司",
+        "index": 11,
+        "shop": "原風禮坊有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區湖興里伯爵街９４巷２６號１樓"
+        "market_address": "新北市汐止區湖興里伯爵街９５巷１３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 58,
-        "shop": "盛鑫食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區復興里新台五路１段７７號１２樓之７"
-    },
-    {
-        "index": 59,
-        "shop": "臺灣伯連行銷有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區湖光里民族二街９７巷３號（１樓）"
-    },
-    {
-        "index": 60,
-        "shop": "寶艦企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區北山里康寧街１６９巷２７―１號５樓、５樓之１、５樓之２、５樓之３"
-    },
-    {
-        "index": 61,
-        "shop": "東方聚利食品工業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里福德一路４１３號"
-    },
-    {
-        "index": 62,
-        "shop": "湘鄉食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區環河里福德一路４０５巷８、１０號"
-    },
-    {
-        "index": 63,
+        "index": 12,
         "shop": "烘焙雅集食品有限公司",
         "category": [
             "糕餅"
@@ -697,76 +177,13 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區樟樹里大同路１段３０２巷１８號"
+        "market_address": "新北市汐止區樟樹里大同路１段３０２巷１８號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 64,
-        "shop": "亞咪烘焙食品工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區自強里新台五路一段２００號"
-    },
-    {
-        "index": 65,
-        "shop": "一頂好之家麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區崇德里忠孝東路３９２號"
-    },
-    {
-        "index": 66,
-        "shop": "香帥西點蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區汐萬路１段２３８號１樓"
-    },
-    {
-        "index": 67,
-        "shop": "樂金食品股份有限公司第一０三三分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區城中里建成路５７巷２號１樓、６號１樓"
-    },
-    {
-        "index": 68,
-        "shop": "薩摩亞商巧詣有限公司台灣分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區北山里康寧街１６３號４樓"
-    },
-    {
-        "index": 69,
-        "shop": "淞新麵舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "汐止區",
-        "market_address": "新北市汐止區信望里中正路４１號"
-    },
-    {
-        "index": 70,
+        "index": 13,
         "shop": "果知趣商行",
         "category": [
             "糕餅",
@@ -775,10 +192,41 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區新台五路一段２６０號之８"
+        "market_address": "新北市汐止區新台五路一段２６０號之８",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 71,
+        "index": 14,
+        "shop": "樂金食品股份有限公司第一０三三分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "汐止區",
+        "market_address": "新北市汐止區城中里建成路５７巷２號１樓、６號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "香帥西點蛋糕店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "汐止區",
+        "market_address": "新北市汐止區汐萬路１段２３８號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 16,
         "shop": "汐止區觀光夜市第１２號攤位",
         "category": [
             "糕餅"
@@ -786,32 +234,72 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區禮門里大同路二段３７８號２樓之２"
+        "market_address": "新北市汐止區禮門里大同路二段３７８號２樓之２",
+        "pay_list": [
+            "台灣pay",
+            "橘子支付"
+        ]
     },
     {
-        "index": 72,
-        "shop": "柏峯商行",
+        "index": 17,
+        "shop": "趴趴走國際餐飲股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "汐止區",
+        "market_address": "新北市汐止區長青里長青路１３２巷７弄３號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "淇翊有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區長安路１８號"
+        "market_address": "新北市汐止區汐萬路２段６６巷１０６弄２號（１樓）",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 73,
-        "shop": "錦賢西點坊",
+        "index": 19,
+        "shop": "湘碩國際有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區鄉長里鄉友街８巷１號３樓"
+        "market_address": "新北市汐止區橫科里弘道街５３巷１８號２樓",
+        "pay_list": [
+            "歐付寶"
+        ]
     },
     {
-        "index": 74,
+        "index": 20,
+        "shop": "廣榮國際有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "汐止區",
+        "market_address": "新北市汐止區湖興里伯爵街３５巷１４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 21,
         "shop": "微悸茶坊",
         "category": [
             "糕餅",
@@ -820,6 +308,9 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "汐止區",
-        "market_address": "新北市汐止區復興里２４０鄰新台五路１段７５號地下１層"
+        "market_address": "新北市汐止區復興里２４０鄰新台五路１段７５號地下１層",
+        "pay_list": [
+            "信用卡"
+        ]
     }
 ]

@@ -1,40 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "桃樂絲的家",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉東　村大同路３２之１號"
-    },
-    {
-        "index": 2,
-        "shop": "宏盈商店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村５鄰中山路９４號"
-    },
-    {
-        "index": 3,
-        "shop": "有畝田烘焙商號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村００７鄰中山路１１８號"
-    },
-    {
-        "index": 4,
         "shop": "京廣桂花手工蛋捲創始店",
         "category": [
             "糕餅"
@@ -42,32 +8,13 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉南江村０１７鄰２７號"
+        "market_address": "苗栗縣南庄鄉南江村０１７鄰２７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 5,
-        "shop": "新品珍烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村８鄰中正路１５號１樓"
-    },
-    {
-        "index": 6,
-        "shop": "寶珍餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村００３鄰中山路３８號"
-    },
-    {
-        "index": 7,
+        "index": 2,
         "shop": "黃金傳說窯烤麵包坊",
         "category": [
             "糕餅"
@@ -75,10 +22,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村００７鄰７７號２樓"
+        "market_address": "苗栗縣南庄鄉西　村００７鄰７７號２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "歐付寶"
+        ]
     },
     {
-        "index": 8,
+        "index": 3,
         "shop": "蕭記黑糖糕",
         "category": [
             "糕餅"
@@ -86,10 +38,18 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村中山路１００號"
+        "market_address": "苗栗縣南庄鄉西　村中山路１００號",
+        "pay_list": [
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "歐付寶",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 9,
+        "index": 4,
         "shop": "喜麥福養生工坊",
         "category": [
             "糕餅"
@@ -97,10 +57,15 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉西　村０１０鄰中山路１號"
+        "market_address": "苗栗縣南庄鄉西　村０１０鄰中山路１號",
+        "pay_list": [
+            "街口",
+            "悠遊卡",
+            "歐付寶"
+        ]
     },
     {
-        "index": 10,
+        "index": 5,
         "shop": "山度窯烤麵包",
         "category": [
             "糕餅"
@@ -108,40 +73,25 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉蓬萊村１１鄰八卦力１６之８號１樓"
+        "market_address": "苗栗縣南庄鄉蓬萊村１１鄰八卦力１６之８號１樓",
+        "pay_list": [
+            "街口",
+            "信用卡"
+        ]
     },
     {
-        "index": 11,
+        "index": 6,
         "shop": "萊喜奈有限公司",
         "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉東河村０２１鄰２１號"
-    },
-    {
-        "index": 12,
-        "shop": "立興超市",
-        "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉東　村１６鄰中正路２４４號"
-    },
-    {
-        "index": 13,
-        "shop": "楊媽媽豬籠粄",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "南庄鄉",
-        "market_address": "苗栗縣南庄鄉東　村６鄰中正路２６號"
+        "market_address": "苗栗縣南庄鄉東河村０２１鄰２１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

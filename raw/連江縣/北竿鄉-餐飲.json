@@ -1,138 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "光餅小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘歧村２２０號"
-    },
-    {
-        "index": 2,
-        "shop": "元通電腦資訊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村１９０號"
-    },
-    {
-        "index": 3,
-        "shop": "勝家堂小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村８２號"
-    },
-    {
-        "index": 4,
-        "shop": "鏡沃小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村７５號"
-    },
-    {
-        "index": 5,
-        "shop": "天來香風味小舘",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２２１號"
-    },
-    {
-        "index": 6,
-        "shop": "坂里早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉坂里村２７－１號"
-    },
-    {
-        "index": 7,
-        "shop": "飲就飲企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村２５號"
-    },
-    {
-        "index": 8,
-        "shop": "花漾企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉坂里村７１號一樓"
-    },
-    {
-        "index": 9,
-        "shop": "花草間咖啡坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村４８號"
-    },
-    {
-        "index": 10,
-        "shop": "千禧休閒中心",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２４６號"
-    },
-    {
-        "index": 11,
-        "shop": "頂呱呱飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村１９８號"
-    },
-    {
-        "index": 12,
-        "shop": "鄉城早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村１８０號"
-    },
-    {
-        "index": 13,
         "shop": "北竿塘海鮮樓",
         "category": [
             "餐飲"
@@ -140,21 +8,14 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村８０號"
+        "market_address": "連江縣北竿鄉塘岐村８０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 14,
-        "shop": "鴻星平海鮮樓",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２４２號"
-    },
-    {
-        "index": 15,
+        "index": 2,
         "shop": "饌食地方小吃館",
         "category": [
             "餐飲"
@@ -162,10 +23,15 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村９０號"
+        "market_address": "連江縣北竿鄉塘岐村９０號",
+        "pay_list": [
+            "街口",
+            "信用卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 16,
+        "index": 3,
         "shop": "龍和閩東風味館",
         "category": [
             "餐飲"
@@ -173,43 +39,16 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村８８號"
+        "market_address": "連江縣北竿鄉塘岐村８８號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 17,
-        "shop": "好口味風味小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村１７０號"
-    },
-    {
-        "index": 18,
-        "shop": "嘉賓餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２１９號"
-    },
-    {
-        "index": 19,
-        "shop": "佳佳食品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村１８１號"
-    },
-    {
-        "index": 20,
+        "index": 4,
         "shop": "韓上樓飲食店",
         "category": [
             "餐飲"
@@ -217,21 +56,13 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村７５號"
+        "market_address": "連江縣北竿鄉塘岐村７５號",
+        "pay_list": [
+            "悠遊卡"
+        ]
     },
     {
-        "index": 21,
-        "shop": "雙子星日式涮涮鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２４９號"
-    },
-    {
-        "index": 22,
+        "index": 5,
         "shop": "芹沃咖啡烘焙館",
         "category": [
             "餐飲"
@@ -239,109 +70,15 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村１１號　（５３之１號）"
+        "market_address": "連江縣北竿鄉芹壁村１１號　（５３之１號）",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 23,
-        "shop": "寶素齋素食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２０２號"
-    },
-    {
-        "index": 24,
-        "shop": "百分幸福工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉坂里村８４號"
-    },
-    {
-        "index": 25,
-        "shop": "芹壁食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村９５號"
-    },
-    {
-        "index": 26,
-        "shop": "橋仔阿婆黃金餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉橋仔村１２１號"
-    },
-    {
-        "index": 27,
-        "shop": "大雄海之宴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉橋仔村１０２號"
-    },
-    {
-        "index": 28,
-        "shop": "大坵島餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉橋仔村４鄰１６４號"
-    },
-    {
-        "index": 29,
-        "shop": "海龍客棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉橋仔村２０號"
-    },
-    {
-        "index": 30,
-        "shop": "忠漁原味海鮮碳烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２８１－１號"
-    },
-    {
-        "index": 31,
-        "shop": "匯翔地方創生股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉塘岐村２７３―８號"
-    },
-    {
-        "index": 32,
+        "index": 6,
         "shop": "亞特森林咖啡坊股份有限公司",
         "category": [
             "餐飲"
@@ -349,6 +86,10 @@
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉坂里村４７號２樓"
+        "market_address": "連江縣北竿鄉坂里村４７號２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     }
 ]

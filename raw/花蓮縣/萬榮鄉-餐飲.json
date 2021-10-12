@@ -8,21 +8,17 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉紅葉村１０鄰紅葉１８８號"
+        "market_address": "花蓮縣萬榮鄉紅葉村１０鄰紅葉１８８號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
     },
     {
         "index": 2,
-        "shop": "聖倫食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉西林村００６鄰９３號１樓"
-    },
-    {
-        "index": 3,
         "shop": "嗎賀爾咖啡下午茶",
         "category": [
             "餐飲"
@@ -30,10 +26,13 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉西林村０１０鄰西林１７１―１號"
+        "market_address": "花蓮縣萬榮鄉西林村０１０鄰西林１７１―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 4,
+        "index": 3,
         "shop": "萬馬咖啡",
         "category": [
             "餐飲"
@@ -41,160 +40,9 @@
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉馬遠村馬遠９２－２３號"
-    },
-    {
-        "index": 5,
-        "shop": "等你飽小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉西林村００８鄰西林１４７號"
-    },
-    {
-        "index": 6,
-        "shop": "玖美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村萬榮１２６號"
-    },
-    {
-        "index": 7,
-        "shop": "宣如小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉見晴村００７鄰見晴８２號"
-    },
-    {
-        "index": 8,
-        "shop": "星光大道小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉紅葉村００７鄰紅葉１２６―６號"
-    },
-    {
-        "index": 9,
-        "shop": "尚啦雅麵飯小吃館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉明利村８鄰明利１０７－２號"
-    },
-    {
-        "index": 10,
-        "shop": "珍的小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉西林村西林２０４號"
-    },
-    {
-        "index": 11,
-        "shop": "萬榮小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村００４鄰萬榮６３―１號"
-    },
-    {
-        "index": 12,
-        "shop": "椰林小舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉紅葉村紅葉１號"
-    },
-    {
-        "index": 13,
-        "shop": "梅屋早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村萬榮３０號"
-    },
-    {
-        "index": 14,
-        "shop": "永定小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉紅葉村１鄰紅葉１７號"
-    },
-    {
-        "index": 15,
-        "shop": "比佛利飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村８鄰萬榮１５２號"
-    },
-    {
-        "index": 16,
-        "shop": "忻忻相戀小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村００３鄰萬榮４９號"
-    },
-    {
-        "index": 17,
-        "shop": "路灣灣小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村萬榮６１之２號"
-    },
-    {
-        "index": 18,
-        "shop": "葛拉寶商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "萬榮鄉",
-        "market_address": "花蓮縣萬榮鄉萬榮村萬榮２１８－１號"
+        "market_address": "花蓮縣萬榮鄉馬遠村馬遠９２－２３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]

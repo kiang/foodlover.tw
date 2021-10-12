@@ -1,17 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "頂堡蚵仔煎",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡２７號"
-    },
-    {
-        "index": 2,
         "shop": "湶民商行",
         "category": [
             "餐飲"
@@ -19,21 +8,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路２段２２４巷８號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路２段２２４巷８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 3,
-        "shop": "七姊妹小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村下堡４之１號"
-    },
-    {
-        "index": 4,
+        "index": 2,
         "shop": "李白水餃",
         "category": [
             "餐飲"
@@ -41,32 +23,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段４６號"
+        "market_address": "金門縣金寧鄉湖埔村環島西路二段４６號",
+        "pay_list": [
+            "橘子支付"
+        ]
     },
     {
-        "index": 5,
-        "shop": "雯豪火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路一段７３號"
-    },
-    {
-        "index": 6,
-        "shop": "璞真私房料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉安美村西浦頭７５－８號"
-    },
-    {
-        "index": 7,
+        "index": 3,
         "shop": "頂堡香香雞",
         "category": [
             "餐飲"
@@ -74,32 +37,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１４２―３號"
+        "market_address": "金門縣金寧鄉盤山村頂堡１４２―３號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 8,
-        "shop": "老許山莊複合式餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路一段２６５－１號"
-    },
-    {
-        "index": 9,
-        "shop": "紫微庭園美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉后盤村后盤山３５號"
-    },
-    {
-        "index": 10,
+        "index": 4,
         "shop": "湘甯商行",
         "category": [
             "餐飲"
@@ -107,252 +51,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村下后垵２號"
+        "market_address": "金門縣金寧鄉榜林村下后垵２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 11,
-        "shop": "秘密肌地餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段４８５巷２弄１５號"
-    },
-    {
-        "index": 12,
-        "shop": "波諾比薩商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路一段３６９－１號"
-    },
-    {
-        "index": 13,
-        "shop": "成食麵食中式料理館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡９１－３號"
-    },
-    {
-        "index": 14,
-        "shop": "安美廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉安美村安岐３５３號"
-    },
-    {
-        "index": 15,
-        "shop": "香辣燴小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路一段３６９－７號"
-    },
-    {
-        "index": 16,
-        "shop": "記德小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路二段１０５號"
-    },
-    {
-        "index": 17,
-        "shop": "海洋餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村仁愛新邨９９號"
-    },
-    {
-        "index": 18,
-        "shop": "捷王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡５２―９號"
-    },
-    {
-        "index": 19,
-        "shop": "國宏",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡５２―１０號"
-    },
-    {
-        "index": 20,
-        "shop": "海鱻城餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村昔果山６８號"
-    },
-    {
-        "index": 21,
-        "shop": "信源海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村湖下６０號"
-    },
-    {
-        "index": 22,
-        "shop": "金成隆",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉古寧村北山８５―１號"
-    },
-    {
-        "index": 23,
-        "shop": "聯泰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉安美村湖南１４號"
-    },
-    {
-        "index": 24,
-        "shop": "欣華",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡２１號"
-    },
-    {
-        "index": 25,
-        "shop": "清雅商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村下堡８１―１號"
-    },
-    {
-        "index": 26,
-        "shop": "小明小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路一段９８號"
-    },
-    {
-        "index": 27,
-        "shop": "壽記粥糜",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路一段２１６－１號"
-    },
-    {
-        "index": 28,
-        "shop": "榜林飲食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村榜林１３５－２號"
-    },
-    {
-        "index": 29,
-        "shop": "珍盈蔬食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村榜林６－１２號"
-    },
-    {
-        "index": 30,
-        "shop": "樸樂咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡５２―８號"
-    },
-    {
-        "index": 31,
-        "shop": "鄭媽媽早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊２１號"
-    },
-    {
-        "index": 32,
-        "shop": "金華柑仔店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村頂埔下１１號"
-    },
-    {
-        "index": 33,
+        "index": 5,
         "shop": "尚膳小吃店",
         "category": [
             "餐飲"
@@ -360,10 +65,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段５００號"
+        "market_address": "金門縣金寧鄉湖埔村環島西路二段５００號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 34,
+        "index": 6,
         "shop": "藝芙餐飲企業社",
         "category": [
             "餐飲"
@@ -371,10 +79,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路一段３６９號"
+        "market_address": "金門縣金寧鄉盤山村環島北路一段３６９號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 35,
+        "index": 7,
         "shop": "三兄弟茶飲",
         "category": [
             "餐飲"
@@ -382,32 +93,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１３２號"
+        "market_address": "金門縣金寧鄉湖埔村埔邊１３２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 36,
-        "shop": "頂堡寶早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡５２號"
-    },
-    {
-        "index": 37,
-        "shop": "美美廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村上后垵７２號"
-    },
-    {
-        "index": 38,
+        "index": 8,
         "shop": "得月觀止企業社",
         "category": [
             "餐飲"
@@ -415,22 +107,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉古寧村北山８５―１號"
+        "market_address": "金門縣金寧鄉古寧村北山８５―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 39,
-        "shop": "日向茶鋪",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村大學路５３巷６弄６號２樓"
-    },
-    {
-        "index": 40,
+        "index": 9,
         "shop": "和漢料理餐廳",
         "category": [
             "餐飲"
@@ -438,21 +121,16 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１６８號"
+        "market_address": "金門縣金寧鄉盤山村頂堡１６８號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "信用卡",
+            "悠遊卡",
+            "icash pay"
+        ]
     },
     {
-        "index": 41,
-        "shop": "海口城海鮮餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路三段１８巷８－８號"
-    },
-    {
-        "index": 42,
+        "index": 10,
         "shop": "肉豆咖啡室",
         "category": [
             "餐飲"
@@ -460,21 +138,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段４６０號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路二段４６０號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 43,
-        "shop": "戰火燒烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路一段３６９－８號"
-    },
-    {
-        "index": 44,
+        "index": 11,
         "shop": "阿羅瑪小吃店",
         "category": [
             "餐飲"
@@ -482,10 +153,17 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村環島北路二段２０－２號"
+        "market_address": "金門縣金寧鄉盤山村環島北路二段２０－２號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "台灣pay"
+        ]
     },
     {
-        "index": 45,
+        "index": 12,
         "shop": "雲水瑤私房料理",
         "category": [
             "餐飲"
@@ -493,21 +171,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１６９號"
+        "market_address": "金門縣金寧鄉盤山村頂堡１６９號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 46,
-        "shop": "乳山好店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村桃園路１９６號"
-    },
-    {
-        "index": 47,
+        "index": 13,
         "shop": "紫晶美食",
         "category": [
             "餐飲"
@@ -515,21 +186,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村榜林２０６號"
+        "market_address": "金門縣金寧鄉榜林村榜林２０６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 48,
-        "shop": "四季料理商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路一段５６號"
-    },
-    {
-        "index": 49,
+        "index": 14,
         "shop": "造事生活工作室",
         "category": [
             "餐飲"
@@ -537,10 +200,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１３號"
+        "market_address": "金門縣金寧鄉湖埔村埔邊１３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 50,
+        "index": 15,
         "shop": "浯洲金鼎燒鍋火鍋店",
         "category": [
             "餐飲"
@@ -548,10 +215,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段４８５巷２弄１７號"
+        "market_address": "金門縣金寧鄉湖埔村環島西路二段４８５巷２弄１７號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 51,
+        "index": 16,
         "shop": "金展商行",
         "category": [
             "餐飲"
@@ -559,10 +229,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡２５０號"
+        "market_address": "金門縣金寧鄉盤山村頂堡２５０號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 52,
+        "index": 17,
         "shop": "喬安餐廳",
         "category": [
             "餐飲"
@@ -570,21 +243,15 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段２９７號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路二段２９７號",
+        "pay_list": [
+            "橘子支付",
+            "信用卡",
+            "悠遊卡"
+        ]
     },
     {
-        "index": 53,
-        "shop": "六合餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村盤果路２９號"
-    },
-    {
-        "index": 54,
+        "index": 18,
         "shop": "韓金殿韓國餐廳",
         "category": [
             "餐飲"
@@ -592,21 +259,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路一段６０號"
+        "market_address": "金門縣金寧鄉湖埔村慈湖路一段６０號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 55,
-        "shop": "玫菜單飯盒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村０２２鄰埔邊７３號"
-    },
-    {
-        "index": 56,
+        "index": 19,
         "shop": "熊居庭園餐廳",
         "category": [
             "餐飲"
@@ -614,10 +273,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉安美村西浦頭１１１－１號"
+        "market_address": "金門縣金寧鄉安美村西浦頭１１１－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 57,
+        "index": 20,
         "shop": "御鼎碳火薑母鴨",
         "category": [
             "餐飲"
@@ -625,43 +287,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段６８０巷２１２號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路二段６８０巷２１２號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 58,
-        "shop": "香港連行廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路一段３０３號"
-    },
-    {
-        "index": 59,
-        "shop": "大學食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１１３號"
-    },
-    {
-        "index": 60,
-        "shop": "十分飽小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１３１號"
-    },
-    {
-        "index": 61,
+        "index": 21,
         "shop": "好兑粥味店",
         "category": [
             "餐飲"
@@ -669,32 +301,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１０９號"
+        "market_address": "金門縣金寧鄉湖埔村埔邊１０９號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 62,
-        "shop": "峰迴路轉一品鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村桃園路２１３－１號"
-    },
-    {
-        "index": 63,
-        "shop": "陸海空小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村０２４鄰埔後４４號"
-    },
-    {
-        "index": 64,
+        "index": 22,
         "shop": "月見商店",
         "category": [
             "餐飲"
@@ -702,10 +315,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段６５號"
+        "market_address": "金門縣金寧鄉湖埔村環島西路二段６５號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 65,
+        "index": 23,
         "shop": "瑞鴻早午餐",
         "category": [
             "餐飲"
@@ -713,43 +329,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１４２―４號"
+        "market_address": "金門縣金寧鄉盤山村頂堡１４２―４號",
+        "pay_list": [
+            "街口"
+        ]
     },
     {
-        "index": 66,
-        "shop": "桓潁商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村大學路５３巷３號"
-    },
-    {
-        "index": 67,
-        "shop": "烏托邦工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村湖下１３１－６０號"
-    },
-    {
-        "index": 68,
-        "shop": "禮億火鍋小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊１１１號"
-    },
-    {
-        "index": 69,
+        "index": 24,
         "shop": "金門五丼拉麵店",
         "category": [
             "餐飲"
@@ -757,76 +343,15 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段４６號"
+        "market_address": "金門縣金寧鄉湖埔村環島西路二段４６號",
+        "pay_list": [
+            "橘子支付",
+            "台灣pay",
+            "街口"
+        ]
     },
     {
-        "index": 70,
-        "shop": "炳團商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡２３號"
-    },
-    {
-        "index": 71,
-        "shop": "傳承食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉后盤村后盤山３６―１號"
-    },
-    {
-        "index": 72,
-        "shop": "心晴咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉古寧村南山１―６號"
-    },
-    {
-        "index": 73,
-        "shop": "大口十商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路一段１０１－３號"
-    },
-    {
-        "index": 74,
-        "shop": "小叮噹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉后盤村西山３０－１號"
-    },
-    {
-        "index": 75,
-        "shop": "田老爺自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路一段２２０號"
-    },
-    {
-        "index": 76,
+        "index": 25,
         "shop": "半山二皮商行",
         "category": [
             "餐飲"
@@ -834,98 +359,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１３３－５號"
+        "market_address": "金門縣金寧鄉盤山村頂堡１３３－５號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 77,
-        "shop": "一英商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔後６１號"
-    },
-    {
-        "index": 78,
-        "shop": "中華小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村環島西路二段５５１巷９９弄１０２號"
-    },
-    {
-        "index": 79,
-        "shop": "香草庭園食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉古寧村林厝１５－１號"
-    },
-    {
-        "index": 80,
-        "shop": "榮來商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村頂堡１２８－１號"
-    },
-    {
-        "index": 81,
-        "shop": "橘菓茶鮮本舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔後８３號"
-    },
-    {
-        "index": 82,
-        "shop": "晶宴小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路１段２１８―５號"
-    },
-    {
-        "index": 83,
-        "shop": "冠城餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路１段２１３－１號"
-    },
-    {
-        "index": 84,
-        "shop": "珊樺小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村前厝６５號"
-    },
-    {
-        "index": 85,
+        "index": 26,
         "shop": "金海岸餐廳",
         "category": [
             "餐飲"
@@ -933,153 +373,13 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路１段２６號"
+        "market_address": "金門縣金寧鄉湖埔村慈湖路１段２６號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 86,
-        "shop": "山寶食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村湖下２５―２號"
-    },
-    {
-        "index": 87,
-        "shop": "二毛作商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村大學路２巷８號"
-    },
-    {
-        "index": 88,
-        "shop": "韓味軒股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３－３號"
-    },
-    {
-        "index": 89,
-        "shop": "山水間餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路一段２１８―１號"
-    },
-    {
-        "index": 90,
-        "shop": "品台餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３－２號"
-    },
-    {
-        "index": 91,
-        "shop": "盈春閣餐廳股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村下后垵１７號"
-    },
-    {
-        "index": 92,
-        "shop": "圓頭農牧食品有限公司小農文化館店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段１６９號"
-    },
-    {
-        "index": 93,
-        "shop": "老農莊食品有限公司小農文化館店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段１６９號"
-    },
-    {
-        "index": 94,
-        "shop": "景普餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村伯玉路一段２１８―６號（１、２樓）"
-    },
-    {
-        "index": 95,
-        "shop": "金水食堂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村下堡１２－５號"
-    },
-    {
-        "index": 96,
-        "shop": "義食之選小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村盤果路１２１號"
-    },
-    {
-        "index": 97,
-        "shop": "鬆樂商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村桃園路２１０號"
-    },
-    {
-        "index": 98,
-        "shop": "帝品燒烤店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村慈湖路二段１１８號"
-    },
-    {
-        "index": 99,
+        "index": 27,
         "shop": "棋食商行",
         "category": [
             "餐飲"
@@ -1087,21 +387,14 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村林湖路２９５－２號"
+        "market_address": "金門縣金寧鄉榜林村林湖路２９５－２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 100,
-        "shop": "悠旅生活事業股份有限公司金門縣第一分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "金門縣",
-        "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３號"
-    },
-    {
-        "index": 101,
+        "index": 28,
         "shop": "爭鮮股份有限公司金門家分公司",
         "category": [
             "餐飲"
@@ -1109,32 +402,70 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３－１號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３－１號",
+        "pay_list": [
+            "信用卡"
+        ]
     },
     {
-        "index": 102,
-        "shop": "松鶴居日式料理",
+        "index": 29,
+        "shop": "帝品燒烤店",
         "category": [
             "餐飲"
         ],
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉湖埔村埔邊３號"
+        "market_address": "金門縣金寧鄉湖埔村慈湖路二段１１８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
     },
     {
-        "index": 103,
-        "shop": "福帝商行",
+        "index": 30,
+        "shop": "山水間餐飲股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉榜林村桃園路２３６號"
+        "market_address": "金門縣金寧鄉榜林村伯玉路一段２１８―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
     },
     {
-        "index": 104,
+        "index": 31,
+        "shop": "品台餐飲股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "金門縣",
+        "area": "金寧鄉",
+        "market_address": "金門縣金寧鄉盤山村伯玉路二段２２３－２號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "盈春閣餐廳股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "金門縣",
+        "area": "金寧鄉",
+        "market_address": "金門縣金寧鄉榜林村下后垵１７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 33,
         "shop": "韓味達仁韓國料理",
         "category": [
             "餐飲"
@@ -1142,6 +473,9 @@
         "zone": "金馬離島",
         "city": "金門縣",
         "area": "金寧鄉",
-        "market_address": "金門縣金寧鄉盤山村伯玉路２段２８３號"
+        "market_address": "金門縣金寧鄉盤山村伯玉路２段２８３號",
+        "pay_list": [
+            "台灣pay"
+        ]
     }
 ]
