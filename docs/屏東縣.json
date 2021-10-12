@@ -6141,6 +6141,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "楓宏美食有限公司",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市華山里大連路５８―１１．１２號１樓",
+                "pay_list": "街口\/信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502166,
+                    22.681825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "一心苑有限公司",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9739,6 +9756,23 @@
                 "coordinates": [
                     120.459174,
                     22.470998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "味益食品行",
+                "category": "糕餅",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮朝安里新生三路一二九號",
+                "pay_list": "信用卡\/街口\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444373,
+                    22.46796
                 ]
             }
         },

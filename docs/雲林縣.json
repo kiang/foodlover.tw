@@ -1245,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司綠隧營業所",
+                "category": "百貨美食街",
+                "area": "古坑鄉",
+                "market_address": "雲林縣古坑鄉湳仔村1鄰湳子23之32號",
+                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54337,
+                    23.654188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "村露國際有限公司",
                 "category": "糕餅",
                 "area": "古坑鄉",
@@ -7450,6 +7467,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "旺萊山(高鐵雲林站)",
+                "category": "糕餅",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮廉使里站前東路301號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416197,
+                    23.736533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晶晶食品行",
                 "category": "糕餅",
                 "area": "虎尾鎮",
@@ -8549,6 +8583,23 @@
                 "coordinates": [
                     120.435496,
                     23.711165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "魯香香黃金樂排飯店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮東仁里００１鄰光復路３４８和３４８―１號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.444515,
+                    23.709719
                 ]
             }
         },

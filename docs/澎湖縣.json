@@ -1058,6 +1058,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "青灣餐廳",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市嵵裡里３６０號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.55421,
+                    23.529156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "禾田豐茶舖",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -1749,6 +1766,23 @@
                 "coordinates": [
                     119.56647972606,
                     23.563000380757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "太子自助碳烤店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市山水里１１９―６號１樓",
+                "pay_list": "街口\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.592257,
+                    23.514032
                 ]
             }
         },

@@ -106,6 +106,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "亞特森林咖啡坊股份有限公司",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉坂里村４７號２樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.97459,
+                    26.21599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "誼客閣咖啡烘焙館",
                 "category": "餐飲\/糕餅",
                 "area": "南竿鄉",

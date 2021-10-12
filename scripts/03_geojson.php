@@ -35,6 +35,9 @@ fputcsv($oFh, ['city', 'area', 'address']);
 $pool = [];
 $docs = [];
 foreach (glob($basePath . '/raw/*/*.json') as $jsonFile) {
+    if(false !== strpos($jsonFile, 'geocoding')) {
+        continue;
+    }
     $json = json_decode(file_get_contents($jsonFile), true);
     if (!empty($json)) {
         foreach ($json as $point) {
@@ -91,8 +94,8 @@ foreach (glob($basePath . '/raw/*/*.json') as $jsonFile) {
                         $geocodingJson = json_decode(file_get_contents($geocodingFile), true);
                         if (!empty($geocodingJson['AddressList'][0]['X'])) {
                             $isMissing = false;
-                            $point['longitude'] = floatval($json['AddressList'][0]['X']);
-                            $point['latitude'] = floatval($json['AddressList'][0]['Y']);
+                            $point['longitude'] = floatval($geocodingJson['AddressList'][0]['X']);
+                            $point['latitude'] = floatval($geocodingJson['AddressList'][0]['Y']);
                             $docs[$point['city']][] = $point;
                         }
                     }

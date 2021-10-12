@@ -1024,6 +1024,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "旺萊山(高鐵嘉義站)",
+                "category": "糕餅",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市太保里高鐵西路168號1樓",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322818,
+                    23.459244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "自在山林咖啡農莊",
                 "category": "餐飲\/糕餅",
                 "area": "太保市",
@@ -2078,6 +2095,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八野爺商行",
+                "category": "糕餅",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市大鄉里大槺榔９５６、９５８號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.273955,
+                    23.463511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "立安商行",
                 "category": "餐飲\/糕餅",
                 "area": "朴子市",
@@ -3081,6 +3115,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "旺萊山(總店)",
+                "category": "糕餅",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉三興村陳厝寮1之3號",
+                "pay_list": "LINE Pay Money\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479664,
+                    23.554831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "歐香食品行",
                 "category": "糕餅",
                 "area": "民雄鄉",
@@ -3925,6 +3976,23 @@
                 "coordinates": [
                     120.471461,
                     23.556531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "摩根餐飲",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉西安村２６鄰保生街１５０―３．１５０－５．１５０－６號１樓",
+                "pay_list": "悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426173,
+                    23.559557
                 ]
             }
         },
@@ -5353,6 +5421,23 @@
                 "coordinates": [
                     120.549226,
                     23.518104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "義竹冷飲店",
+                "category": "餐飲",
+                "area": "義竹鄉",
+                "market_address": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
+                "pay_list": "悠遊付\/街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246088,
+                    23.338298
                 ]
             }
         },

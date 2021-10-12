@@ -123,6 +123,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "家樂福 北門店",
+                "category": "百貨美食街",
+                "area": "東區",
+                "market_address": "嘉義市東區林森里忠孝路３４６巷２１、４７號",
+                "pay_list": "悠遊卡\/台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453945,
+                    23.489239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "好市多 嘉義店",
                 "category": "百貨美食街",
                 "area": "東區",
@@ -134,6 +151,23 @@
                 "coordinates": [
                     120.44993329855,
                     23.501630927714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "旺萊山(圓環分店)",
+                "category": "糕餅",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里中山路282號1樓",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44981,
+                    23.480129
                 ]
             }
         },
@@ -1902,6 +1936,23 @@
                 "coordinates": [
                     120.46034,
                     23.479759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "福記麻辣鴛鴦火鍋店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區王田里圓福街４丶６丶８號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464432,
+                    23.484688
                 ]
             }
         },
@@ -4832,6 +4883,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "戴德森醫療財團法人附設嘉基產後護理之家",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區後湖里保健街１００號３樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45394,
+                    23.50291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "原輔冷飲店",
                 "category": "餐飲",
                 "area": "東區",
@@ -5268,6 +5336,23 @@
                 "coordinates": [
                     120.44116,
                     23.47286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "旺萊山(嘉義火車站)",
+                "category": "糕餅",
+                "area": "西區",
+                "market_address": "嘉義市西區番社里中山路520號1樓",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44183,
+                    23.47931
                 ]
             }
         },

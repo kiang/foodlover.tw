@@ -684,6 +684,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "文甜商行",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮西門里光前路７１丶７３號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.314749,
+                    24.432811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "伊本食堂",
                 "category": "餐飲",
                 "area": "金城鎮",

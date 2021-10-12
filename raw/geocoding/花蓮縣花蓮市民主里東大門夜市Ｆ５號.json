@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "花蓮縣花蓮市民主里東大門夜市Ｆ５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[花蓮縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[花蓮縣]\t { 模糊比對 } (花蓮市)\t找到符合的[鄉鎮市區]，(民主里)\t找到符合的[村里]，(東大門夜市F)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(5號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "花蓮縣花蓮市民主里13鄰海濱街5號",
+      "COUNTY": "花蓮縣",
+      "TOWN": "花蓮市",
+      "VILLAGE": "民主里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "海濱街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "5號",
+      "X": 121.613660,
+      "Y": 23.972068
+    },
+    {
+      "FULL_ADDR": "花蓮縣花蓮市民主里1鄰康樂街5號",
+      "COUNTY": "花蓮縣",
+      "TOWN": "花蓮市",
+      "VILLAGE": "民主里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "康樂街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "5號",
+      "X": 121.614671,
+      "Y": 23.974025
+    }
+  ]
+}
