@@ -29962,7 +29962,7 @@
                 "category": "餐飲",
                 "area": "土城區",
                 "market_address": "新北市土城區延和里延和路１８巷２號",
-                "pay_list": "街口\/悠遊卡"
+                "pay_list": "街口\/悠遊卡\/LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -54119,7 +54119,7 @@
                 "category": "糕餅",
                 "area": "板橋區",
                 "market_address": "新北市板橋區聯翠里民生路３段２６號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
             },
             "geometry": {
                 "type": "Point",
@@ -69028,7 +69028,7 @@
                 "category": "餐飲",
                 "area": "板橋區",
                 "market_address": "新北市板橋區福丘里民族路３３號１樓",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -99210,6 +99210,23 @@
                 "coordinates": [
                     121.454607,
                     25.198886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Arirang阿里郎韓式料理淡水捷運店",
+                "category": "餐飲",
+                "area": "淡水區",
+                "market_address": "新北市淡水區中正東路３５巷９號",
+                "pay_list": "悠遊卡\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446352,
+                    25.168657
                 ]
             }
         },

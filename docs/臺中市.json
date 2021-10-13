@@ -1572,7 +1572,7 @@
                 "category": "餐飲",
                 "area": "中區",
                 "market_address": "臺中市中區光復里臺灣大道１段３１３號１、２、３樓",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2837,23 +2837,6 @@
                 "coordinates": [
                     120.681638,
                     24.155007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "統一超商股份有限公司台中市第１４分公司",
-                "category": "糕餅",
-                "area": "北區",
-                "market_address": "臺中市北區金華里三民路三段２５８，２６０號１樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.690865,
-                    24.158487
                 ]
             }
         },
@@ -59232,6 +59215,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "臺中市臺中區漁會",
+                "category": "餐飲",
+                "area": "清水區",
+                "market_address": "臺中市清水區海濱里北堤路３０號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.521047,
+                    24.293067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "九龍飲料店",
                 "category": "餐飲",
                 "area": "清水區",
@@ -66644,23 +66644,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "全家便利商店股份有限公司台中樂羣分公司",
-                "category": "糕餅",
-                "area": "西區",
-                "market_address": "臺中市西區廣民里樂群街６１－４號及自治街２９號１樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.671599,
-                    24.138076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金莉露食品股份有限公司",
                 "category": "糕餅",
                 "area": "西區",
@@ -66869,7 +66852,7 @@
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "臺中市西區中興里中興１巷２２號１、２樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -73669,7 +73652,7 @@
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "臺中市西區中興里中興街１６５、１６７號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

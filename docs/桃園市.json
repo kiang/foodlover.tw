@@ -416,7 +416,7 @@
                 "category": "百貨美食街",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區內定里１３鄰中園路２段５０１號",
-                "pay_list": "悠遊卡\/信用卡"
+                "pay_list": "悠遊卡\/信用卡\/LINE Pay Money\/iPASS 一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +569,7 @@
                 "category": "百貨美食街",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區中園路二段501號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
+                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -20064,23 +20064,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "來來超商股份有限公司７６分公司",
-                "category": "糕餅",
-                "area": "八德區",
-                "market_address": "桃園市八德區高城里高城路７２號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.275955539,
-                    24.978526006154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美得食品有限公司",
                 "category": "糕餅",
                 "area": "八德區",
@@ -31390,7 +31373,7 @@
                 "category": "百貨美食街",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區文化里中正路４７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/悠遊付\/Pi 拍錢包\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -62840,7 +62823,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里復興一路２７２號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

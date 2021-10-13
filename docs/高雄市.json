@@ -6417,7 +6417,7 @@
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區灣利里建工路５０６號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -20676,6 +20676,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "嚐軒小吃店",
+                "category": "餐飲",
+                "area": "大寮區",
+                "market_address": "高雄市大寮區會社里力行路１０５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398235,
+                    22.603297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "至善行冷飲舖",
                 "category": "餐飲",
                 "area": "大寮區",
@@ -25215,23 +25232,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "統一超商股份有限公司高雄市第三四○分公司",
-                "category": "糕餅",
-                "area": "岡山區",
-                "market_address": "高雄市岡山區岡山里岡山路２６４號１樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29613051472,
-                    22.792668258063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "台灣滷味博物館",
                 "category": "觀光工廠",
                 "area": "岡山區",
@@ -28099,6 +28099,23 @@
                 "coordinates": [
                     120.317511,
                     22.672136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "多菜多滋",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區新上里光興街５０號１樓",
+                "pay_list": "信用卡\/LINE Pay Money\/街口\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310301,
+                    22.659918
                 ]
             }
         },

@@ -2180,23 +2180,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "千巧谷牛樂園有限公司",
-                "category": "糕餅",
-                "area": "崙背鄉",
-                "market_address": "雲林縣崙背鄉南陽村中山路２９號",
-                "pay_list": "LINE Pay Money\/iPASS 一卡通\/信用卡\/悠遊卡\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.358581,
-                    23.759558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "賓盈商行",
                 "category": "餐飲",
                 "area": "崙背鄉",
@@ -7726,7 +7709,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮中山里中正路１３２號１樓",
-                "pay_list": "街口\/悠遊卡\/台灣pay"
+                "pay_list": "街口\/悠遊卡\/台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -9745,6 +9728,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司(西螺營業所)",
+                "category": "百貨美食街",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮振興里 1 號",
+                "pay_list": "信用卡\/iPASS 一卡通\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475498,
+                    23.792127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宜大商行",
                 "category": "糕餅",
                 "area": "西螺鎮",
@@ -10340,23 +10340,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "南仁湖育樂股份有限公司西螺營業所",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮振興里１號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.475498,
-                    23.792127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "士豐商號西螺分店",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -10493,7 +10476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "千好佳企業有限公司",
+                "shop": "千巧谷烘焙工坊(麥寮店)",
                 "category": "糕餅",
                 "area": "麥寮鄉",
                 "market_address": "雲林縣麥寮鄉麥津村１３鄰中山路２７２號１樓",
