@@ -1755,6 +1755,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 屏東環球店",
+                "category": "百貨美食街",
+                "area": "屏東市",
+                "market_address": "屏東市仁愛路90號5樓",
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/iPASS 一卡通\/悠遊卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.493331,
+                    22.673382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "南仁湖育樂股份有限公司小墾丁營業所",
                 "category": "百貨美食街",
                 "area": "屏東市",
@@ -8022,6 +8039,23 @@
                 "coordinates": [
                     120.74311136813,
                     22.00797847796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "墾丁凱撒大飯店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁里墾丁路６號",
+                "pay_list": "信用卡\/LINE Pay Money\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.805601,
+                    21.942681
                 ]
             }
         },

@@ -4951,23 +4951,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "隱茶企業社",
-                "category": "餐飲",
-                "area": "水里鄉",
-                "market_address": "南投縣水里鄉車埕村民權巷１０１－３號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.865882,
-                    23.834399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "米蟲咖啡商號",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -9042,6 +9025,23 @@
                 "coordinates": [
                     120.911109,
                     23.86478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "雲品酒店",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉水社村中正路２３號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.923429,
+                    23.870854
                 ]
             }
         },

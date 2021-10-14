@@ -1245,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "海景世界企業股份有限公司(古坑營業所)",
+                "category": "百貨美食街",
+                "area": "古坑鄉",
+                "market_address": "雲林縣古坑鄉新興100號",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54463,
+                    23.608457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "南仁湖育樂股份有限公司綠隧營業所",
                 "category": "百貨美食街",
                 "area": "古坑鄉",

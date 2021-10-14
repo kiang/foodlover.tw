@@ -5087,6 +5087,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 新竹巨城店",
+                "category": "百貨美食街",
+                "area": "東區",
+                "market_address": "新竹市東區中央路229號5樓",
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974931,
+                    24.809666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "大潤發 忠孝店",
                 "category": "百貨美食街",
                 "area": "東區",
@@ -16403,23 +16420,6 @@
                 "coordinates": [
                     120.99768736571,
                     24.802001184931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茶茶狗早午餐廳",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區三民里三民路９２號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97570379555,
-                    24.808314838852
                 ]
             }
         },

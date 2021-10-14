@@ -106,41 +106,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三峽公有零售市場-阿富腳底按摩",
-                "category": "夜市\/市場攤販",
-                "area": "三峽區",
-                "market_address": "新北市三峽區民生街186號",
-                "pay_list": "icash pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.370673,
-                    24.934932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "三峽公有零售市場-紅麗糖果店",
-                "category": "夜市\/市場攤販",
-                "area": "三峽區",
-                "market_address": "新北市三峽區民生街186號",
-                "pay_list": "icash pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.370673,
-                    24.934932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "三峽公有零售市場-阿富腳底按摩",
                 "category": "夜市\/市場攤販",
                 "area": "三峽區",
                 "market_address": "新北市三峽區民生街186號",
@@ -338,6 +304,23 @@
                 "coordinates": [
                     121.401065,
                     24.906527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "福州師麥芽酥",
+                "category": "糕餅",
+                "area": "三峽區",
+                "market_address": "新北市三峽區三峽里民權街１０７號（１樓）",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.369175,
+                    24.932558
                 ]
             }
         },
@@ -25933,7 +25916,7 @@
                 "category": "餐飲",
                 "area": "五股區",
                 "market_address": "新北市五股區五福里五福路１１之３號（１樓）",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -41960,6 +41943,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 新莊佳瑪店",
+                "category": "餐飲",
+                "area": "新莊區",
+                "market_address": "新北市新莊區幸福路738號B1",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448487,
+                    25.049257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "富國茶館",
                 "category": "餐飲",
                 "area": "新莊區",
@@ -48131,23 +48131,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "食荃便當店",
-                "category": "餐飲",
-                "area": "新莊區",
-                "market_address": "新北市新莊區福營里建國一路４２號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.433895,
-                    25.031396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "京藏小吃店",
                 "category": "餐飲",
                 "area": "新莊區",
@@ -53208,23 +53191,6 @@
                 "coordinates": [
                     121.476363,
                     25.02713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "Global Mall 板橋車站",
-                "category": "百貨美食街",
-                "area": "板橋區",
-                "market_address": "新北市板橋區新民里縣民大道２段７號２４樓",
-                "pay_list": "橘子支付\/信用卡\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.463635,
-                    25.01433
                 ]
             }
         },
@@ -59362,23 +59328,6 @@
                 "coordinates": [
                     121.475971,
                     25.030524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "花路時尚平價迷你火鍋店",
-                "category": "餐飲",
-                "area": "板橋區",
-                "market_address": "新北市板橋區鄉雲里四川路１段６２號（１樓）",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.459554,
-                    25.005582
                 ]
             }
         },
@@ -69874,6 +69823,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 林口三井店",
+                "category": "百貨美食街",
+                "area": "林口區",
+                "market_address": "新北市林口區文化三路一段356號2樓",
+                "pay_list": "信用卡\/LINE Pay Money\/iPASS 一卡通\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.363547,
+                    25.071241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "家樂福 台北林口店",
                 "category": "百貨美食街",
                 "area": "林口區",
@@ -75216,7 +75182,7 @@
                 "category": "糕餅",
                 "area": "樹林區",
                 "market_address": "新北市樹林區光興里光興街９１―２號",
-                "pay_list": "信用卡\/悠遊卡\/台灣pay"
+                "pay_list": "悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -75250,7 +75216,7 @@
                 "category": "糕餅",
                 "area": "樹林區",
                 "market_address": "新北市樹林區潭底里保安街１段４００號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -78425,23 +78391,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂華夜市-娃娃機",
-                "category": "夜市\/市場攤販",
-                "area": "永和區",
-                "market_address": "新北市永和區永平路1號至187號、2號至194號(永和路及中山路間)及永平路81巷1號、3號及2號至",
-                "pay_list": "iPASS 一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.50732,
-                    25.012498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樂華夜市-服飾",
                 "category": "夜市\/市場攤販",
                 "area": "永和區",
@@ -78681,23 +78630,6 @@
             "type": "Feature",
             "properties": {
                 "shop": "樂華夜市-尚好烤肉",
-                "category": "夜市\/市場攤販",
-                "area": "永和區",
-                "market_address": "新北市永和區永平路1號至187號、2號至194號(永和路及中山路間)及永平路81巷1號、3號及2號至",
-                "pay_list": "icash pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.50732,
-                    25.012498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂華夜市-電子煙",
                 "category": "夜市\/市場攤販",
                 "area": "永和區",
                 "market_address": "新北市永和區永平路1號至187號、2號至194號(永和路及中山路間)及永平路81巷1號、3號及2號至",
@@ -78963,23 +78895,6 @@
                 "coordinates": [
                     121.514278,
                     25.00431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂華夜市-娃娃機",
-                "category": "夜市\/市場攤販",
-                "area": "永和區",
-                "market_address": "新北市永和區永平路1號至187號、2號至194號(永和路及中山路間)及永平路81巷1號、3號及2號至",
-                "pay_list": "iPASS 一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.50732,
-                    25.012498
                 ]
             }
         },
@@ -108101,6 +108016,23 @@
                 "coordinates": [
                     121.47467,
                     25.073051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 蘆洲徐匯店",
+                "category": "餐飲",
+                "area": "蘆洲區",
+                "market_address": "新北市蘆洲區中山一路8號4樓",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.480363,
+                    25.080497
                 ]
             }
         },

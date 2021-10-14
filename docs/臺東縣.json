@@ -72,6 +72,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "台東縣農會東遊季溫泉渡假村",
+                "category": "餐飲",
+                "area": "卑南鄉",
+                "market_address": "臺東縣卑南鄉溫泉村溫泉路３７６巷１８號",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022182,
+                    22.696991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "果珍濃實業社",
                 "category": "餐飲",
                 "area": "卑南鄉",

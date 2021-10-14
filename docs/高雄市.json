@@ -12295,6 +12295,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 漢本KITCHEN店",
+                "category": "百貨美食街",
+                "area": "前金區",
+                "market_address": "高雄市前金區成功一路266-1號B3",
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296032,
+                    22.619333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漢神百貨",
                 "category": "百貨美食街",
                 "area": "前金區",
@@ -13281,7 +13298,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鼎碩商行",
+                "shop": "一燒十味昭和園(日式燒肉屋)",
                 "category": "餐飲",
                 "area": "前金區",
                 "market_address": "高雄市前金區榮復里新田路２８２號",
@@ -18562,6 +18579,23 @@
                 "coordinates": [
                     120.333257,
                     22.605982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "香草工坊光華店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區興東里光華二路１５７號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317216,
+                    22.611325
                 ]
             }
         },
@@ -27510,6 +27544,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 漢神巨蛋店",
+                "category": "百貨美食街",
+                "area": "左營區",
+                "market_address": "高雄市左營區博愛二路777號4樓",
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/iPASS 一卡通\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303118,
+                    22.670155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "家樂福 高雄自由二路店",
                 "category": "百貨美食街",
                 "area": "左營區",
@@ -27646,7 +27697,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "Global Mall",
+                "shop": "Global Mall新左營車站",
                 "category": "百貨美食街",
                 "area": "左營區",
                 "market_address": "高雄市左營區站前北路1號1-4樓",
@@ -28099,6 +28150,40 @@
                 "coordinates": [
                     120.317511,
                     22.672136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金湛咖啡",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區新上里光興街２２１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311286,
+                    22.663461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 左營EXP店",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區高鐵路105號2樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308728,
+                    22.687374
                 ]
             }
         },
@@ -35171,23 +35256,6 @@
                 "coordinates": [
                     120.30915624889,
                     22.684477931821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "馬蹄鐵咖啡館",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區新上里裕誠路２１３號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31028211816,
-                    22.664360978649
                 ]
             }
         },
@@ -49406,40 +49474,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "盛融食品行",
-                "category": "糕餅",
-                "area": "燕巢區",
-                "market_address": "高雄市燕巢區安招里０４２鄰安林三街４６號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.331878,
-                    22.78736
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "日初禾作股份有限公司",
-                "category": "糕餅",
-                "area": "燕巢區",
-                "market_address": "高雄市燕巢區安招里安林五街３５號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.331288,
-                    22.78648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "裕賀牛觀光工廠",
                 "category": "觀光工廠",
                 "area": "燕巢區",
@@ -60286,23 +60320,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "湖畔汽車旅館股份有限公司",
-                "category": "餐飲",
-                "area": "鳥松區",
-                "market_address": "高雄市鳥松區鳥松里忠孝路２１號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.363252,
-                    22.657814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和德昌股份有限公司高雄長庚門市部",
                 "category": "餐飲",
                 "area": "鳥松區",
@@ -69664,23 +69681,6 @@
                 "coordinates": [
                     120.285334,
                     22.624137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大摳胖碳烤三明治",
-                "category": "餐飲",
-                "area": "鹽埕區",
-                "market_address": "高雄市鹽埕區中原里大公路７８號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.283244,
-                    22.627573
                 ]
             }
         },

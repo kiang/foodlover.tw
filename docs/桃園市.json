@@ -416,7 +416,7 @@
                 "category": "百貨美食街",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區內定里１３鄰中園路２段５０１號",
-                "pay_list": "悠遊卡\/信用卡\/LINE Pay Money\/iPASS 一卡通"
+                "pay_list": "LINE Pay Money\/iPASS 一卡通\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1307,6 +1307,40 @@
                 "coordinates": [
                     121.233658,
                     24.954974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "湯記口味肉鬆老店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中建里大同路１６１號",
+                "pay_list": "街口\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.221728,
+                    24.956295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 中壢佳瑪店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中正路51號3樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.224003,
+                    24.954179
                 ]
             }
         },
@@ -26337,23 +26371,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大潤發 平鎮店",
-                "category": "百貨美食街",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區南勢里南東路５７號１﹒３樓",
-                "pay_list": "悠遊卡\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.21298375979,
-                    24.920872563265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "元坊蛋糕店",
                 "category": "糕餅",
                 "area": "平鎮區",
@@ -32230,6 +32247,23 @@
                 "coordinates": [
                     121.320048,
                     24.981646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 桃園復興店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區復興路129號2樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.312501,
+                    24.990162
                 ]
             }
         },
@@ -38581,7 +38615,7 @@
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區中山里吉昌街１２３號",
-                "pay_list": "橘子支付\/信用卡\/悠遊卡\/台灣pay\/街口"
+                "pay_list": "橘子支付\/信用卡\/悠遊卡\/台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -48703,23 +48737,6 @@
                 "coordinates": [
                     121.079412,
                     24.937595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "阿圖牛肉麵",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區四維里四維路７１號",
-                "pay_list": "悠遊卡\/icash pay\/iPASS 一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.18112,
-                    24.913564
                 ]
             }
         },

@@ -8,7 +8,7 @@
                 "category": "餐飲",
                 "area": "三灣鄉",
                 "market_address": "苗栗縣三灣鄉頂寮村３鄰祭山湖１５－１號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5954,6 +5954,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Bonbons法式甜食工作室",
+                "category": "糕餅",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市縣府路102號2樓",
+                "pay_list": "LINE Pay Money\/台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.820635,
+                    24.564734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "醉一醉啤酒屋",
                 "category": "夜市\/市場攤販\/餐飲",
                 "area": "苗栗市",
@@ -9324,7 +9341,7 @@
                 "category": "百貨美食街",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號\n苗栗縣頭份市育樂街8號1樓,6號1-3樓6-6號1樓",
-                "pay_list": "悠遊卡\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
