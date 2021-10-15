@@ -1483,6 +1483,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "佳佳香小吃店",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市安仁里１０鄰祥和一路東段１７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295961,
+                    23.458853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "後潭冷飲店",
                 "category": "餐飲",
                 "area": "太保市",

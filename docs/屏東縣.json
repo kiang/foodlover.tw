@@ -1245,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "阿福麵食館",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉老埤村０２４鄰壽比路７１９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595388,
+                    22.639793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "生才易食品有限公司",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1793,47 +1810,13 @@
                 "category": "百貨美食街",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市端正里中正路72號7樓之1",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/悠遊卡\/iPASS 一卡通\/台灣pay\/LINE Pay Money\/Pi 拍錢包"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.48965498397,
                     22.674090379056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 屏東店",
-                "category": "百貨美食街",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市溝美里仁愛路１８８號１至２樓地下１樓",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.497789,
-                    22.682661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 屏東自由店",
-                "category": "百貨美食街",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇蘭里自由路６１６號及６１８號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48327573902,
-                    22.683099772423
                 ]
             }
         },
@@ -11207,6 +11190,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "巧茵山農場股份有限公司",
+                "category": "觀光工廠",
+                "area": "枋寮鄉",
+                "market_address": "屏東縣枋寮鄉太源村中山路三段１２３號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581661,
+                    22.420214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "欣盟企業社",
                 "category": "餐飲",
                 "area": "枋寮鄉",
@@ -14556,6 +14556,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "可茵山可可莊園休閒農場",
+                "category": "觀光工廠",
+                "area": "萬巒鄉",
+                "market_address": "屏東縣萬巒鄉萬和村復興路２之５５號",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565533,
+                    22.567744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "萬萬鍏茶店",
                 "category": "餐飲",
                 "area": "萬巒鄉",
@@ -16090,7 +16107,7 @@
                 "category": "餐飲",
                 "area": "麟洛鄉",
                 "market_address": "屏東縣麟洛鄉麟蹄村六雅街３８號２樓（供辦公室使用）",
-                "pay_list": "街口"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
