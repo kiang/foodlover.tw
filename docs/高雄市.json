@@ -19299,6 +19299,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "豐盛滿滿綠茶專賣店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區興邦里鎮興路２３２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311612,
+                    22.593167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "吉加茶行",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -19531,6 +19548,23 @@
                 "coordinates": [
                     120.333633,
                     22.60724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "桂花香商行",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區竹東里二聖一路６３號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325325,
+                    22.611801
                 ]
             }
         },
@@ -24648,6 +24682,23 @@
                 "coordinates": [
                     120.35433,
                     22.568601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "幸福滿滿綠茶專賣店",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區港正里平和路１１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33459,
+                    22.563407
                 ]
             }
         },
@@ -67114,6 +67165,23 @@
                 "coordinates": [
                     120.35774730704,
                     22.632843531521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "豐盛馨香綠茶專賣店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區天興里五甲二路６７５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329409,
+                    22.593851
                 ]
             }
         },
