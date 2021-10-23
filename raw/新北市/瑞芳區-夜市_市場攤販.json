@@ -1,7 +1,23 @@
 [
     {
         "index": 1,
-        "shop": "瑞芳美食廣場-文瑛炒翻天",
+        "shop": "文瑛炒翻天",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區民生街３５巷２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "瑞芳美食廣場-阿伯老店",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -10,12 +26,12 @@
         "area": "瑞芳區",
         "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
         ]
     },
     {
-        "index": 2,
-        "shop": "瑞芳美食廣場-連莊美食",
+        "index": 3,
+        "shop": "瑞芳美食廣場-塔諾妮",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -25,26 +41,14 @@
         "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
             "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "瑞芳美食廣場-阿鈺雙醬麵",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街35巷2號",
-        "pay_list": [
-            "iPASS 一卡通"
+            "信用卡",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 4,
-        "shop": "瑞芳美食廣場-21米苔目",
+        "shop": "瑞芳美食廣場-太極殿",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -53,11 +57,91 @@
         "area": "瑞芳區",
         "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "街口"
         ]
     },
     {
         "index": 5,
+        "shop": "瑞芳美食廣場-牛魔王中華麵食",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區民生街35巷2號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "瑞芳第二市場Ｔ３３攤位",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區民生街３５巷２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "塔諾妮",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區民生街３５巷２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "瑞芳第一市場-瑞聯社福利中心",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區明燈路三段2號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "瑞芳第一市場-花伯鮮花（老店）",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "瑞芳區",
+        "market_address": "新北市瑞芳區明燈路三段2號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "瑞芳第二市場第Ｔ２１攤位",
         "category": [
             "夜市\/市場攤販"
@@ -71,9 +155,10 @@
         ]
     },
     {
-        "index": 6,
+        "index": 11,
         "shop": "阿伯老店熱油麻糬（瑞芳第二市場攤位第４０號）",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
@@ -82,158 +167,50 @@
         "market_address": "新北市瑞芳區民生街３５巷２號",
         "pay_list": [
             "台灣pay"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "文瑛炒翻天",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街３５巷２號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "瑞芳美食廣場-塔諾妮",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街35巷2號",
-        "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "瑞芳美食廣場-太極殿",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街35巷2號",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "瑞芳美食廣場-牛魔王中華麵食",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街35巷2號",
-        "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "瑞芳美食廣場-阿芳快炒",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街35巷2號",
-        "pay_list": [
-            "iPASS 一卡通"
         ]
     },
     {
         "index": 12,
-        "shop": "瑞芳第一市場-寶珠自助餐",
+        "shop": "瑞芳美食廣場-文瑛炒翻天",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "瑞芳區",
-        "market_address": "新北市瑞芳區明燈路三段2號",
+        "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 13,
-        "shop": "阿芳快炒",
+        "shop": "瑞芳美食廣場-阿鈺雙醬麵",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街３５巷２號",
+        "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 14,
-        "shop": "塔諾妮",
+        "shop": "瑞芳美食廣場-21米苔目",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街３５巷２號",
+        "market_address": "新北市瑞芳區民生街35巷2號",
         "pay_list": [
-            "信用卡",
-            "街口",
-            "橘子支付",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "瑞芳第一市場-瑞聯社福利中心",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區明燈路三段2號",
-        "pay_list": [
-            "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "瑞芳第二市場Ｔ３３攤位",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "瑞芳區",
-        "market_address": "新北市瑞芳區民生街３５巷２號",
-        "pay_list": [
-            "信用卡",
-            "橘子支付",
-            "台灣pay"
+            "橘子支付"
         ]
     }
 ]

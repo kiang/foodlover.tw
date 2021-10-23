@@ -10,15 +10,29 @@
         "area": "新港鄉",
         "market_address": "嘉義縣新港鄉宮後村新民路８５號",
         "pay_list": [
-            "iPASS 一卡通",
             "icash pay",
             "信用卡",
             "悠遊卡",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "正美香",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "新港鄉",
+        "market_address": "嘉義縣新港鄉宮前村新民路６４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "美綺麵包坊",
         "category": [
             "糕餅"
@@ -28,27 +42,11 @@
         "area": "新港鄉",
         "market_address": "嘉義縣新港鄉宮前村１９鄰中山路８５－２號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "金讚號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮前村中山路１２０號",
-        "pay_list": [
-            "悠遊付",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
@@ -67,6 +65,22 @@
     },
     {
         "index": 5,
+        "shop": "金讚號",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "新港鄉",
+        "market_address": "嘉義縣新港鄉宮前村中山路１２０號",
+        "pay_list": [
+            "悠遊付",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "新港香藝文化館",
         "category": [
             "餐飲",

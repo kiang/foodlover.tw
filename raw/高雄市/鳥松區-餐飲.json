@@ -1,35 +1,77 @@
 [
     {
         "index": 1,
-        "shop": "首饌餐飲企業社",
+        "shop": "俐欣餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里００９鄰中正路１９５―１號",
+        "market_address": "高雄市鳥松區坔埔里神農路３２０號",
         "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
     {
         "index": 2,
-        "shop": "大華土雞城",
+        "shop": "蔗個鍋餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路２９―６號",
+        "market_address": "高雄市鳥松區鳥松里文前路２―２號",
         "pay_list": [
-            "信用卡"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
+        "shop": "松美咖啡企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區華美里學堂路１４―３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "豪毅茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區華美里華榮一街６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "豪記商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里０１６鄰本舘路１９６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "喝久企業社",
         "category": [
             "餐飲"
@@ -40,11 +82,26 @@
         "market_address": "高雄市鳥松區鳥松里０１７鄰中正路３６７―２４號",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 7,
+        "shop": "嘉佳食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里文前路１８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
         "shop": "茶香大吉調飲專賣店",
         "category": [
             "餐飲"
@@ -59,7 +116,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 9,
         "shop": "茶語飲品工場",
         "category": [
             "餐飲"
@@ -69,39 +126,202 @@
         "area": "鳥松區",
         "market_address": "高雄市鳥松區仁美里學堂路１７９號１樓",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 6,
-        "shop": "德家小吃店",
+        "index": 10,
+        "shop": "田園早午餐店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路２―１１號１樓",
+        "market_address": "高雄市鳥松區鳥松里大仁南路１５號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
-        "shop": "勝億餐飲",
+        "index": 11,
+        "shop": "汾陽早餐店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里球場路８１號",
+        "market_address": "高雄市鳥松區大華里汾陽路８２號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 8,
+        "index": 12,
+        "shop": "水四紀冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里中正路５４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "水世界冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里中正路３４５號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "米提食品有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區仁美里美山路６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "麥當勞高雄長庚門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１１３號２樓及１２３號地下室",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "台客堡餐飲事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里球場路３０―２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "首饌餐飲企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里００９鄰中正路１９５―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "大華土雞城",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路２９―６號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "鳥松雙醬咖哩",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大仁南路１９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "本館淬自然健康茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里本舘路２１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "安心食品服務股份有限公司高雄長庚醫院門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號地下１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "Starbucks星巴克高雄長庚門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
         "shop": "享天地外燴餐飲企業社",
         "category": [
             "餐飲"
@@ -115,7 +335,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 24,
         "shop": "方程式美食坊",
         "category": [
             "餐飲"
@@ -130,7 +350,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 25,
         "shop": "東之坊蛋糕烘焙",
         "category": [
             "餐飲",
@@ -146,7 +366,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 26,
         "shop": "賓利企業行",
         "category": [
             "餐飲"
@@ -161,202 +381,79 @@
         ]
     },
     {
-        "index": 12,
-        "shop": "道福素食",
+        "index": 27,
+        "shop": "高雄高爾夫俱樂部",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "俐欣餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區坔埔里神農路３２０號",
+        "market_address": "高雄市鳥松區大華里球場路２７０號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 14,
-        "shop": "蔗個鍋餐飲店",
+        "index": 28,
+        "shop": "中國青年救國團澄清湖青年活動中心",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里文前路２―２號",
+        "market_address": "高雄市鳥松區鳥松里大埤路３２－２號",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "三公小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "福隆商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里澄清路８４０號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "汾陽早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里汾陽路８２號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "水世界冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里中正路３４５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "新宿商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１２３號地下室",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "仁美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區仁美里學堂路８７號",
-        "pay_list": [
-            "街口",
             "信用卡"
         ]
     },
     {
-        "index": 21,
-        "shop": "馨窩良行",
+        "index": 29,
+        "shop": "新都釣蝦場",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里竹安街６７號１樓",
+        "market_address": "高雄市鳥松區仁美里２４鄰美山路１５０―１號",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "夏綠蒂早午晚餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大仁南路４１號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 23,
-        "shop": "日安咖啡商行",
+        "index": 30,
+        "shop": "藍與綠生活坊加勒比海餐酒館",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里球場路４２巷７號１樓",
+        "market_address": "高雄市鳥松區大華里澄清路７９２號",
         "pay_list": [
+            "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 24,
-        "shop": "新葉冷飲站",
+        "index": 31,
+        "shop": "Starbucks星巴克高雄市第二十五分公司",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區坔埔里神農路５０１號",
+        "market_address": "高雄市鳥松區大華里本舘路２１１號",
         "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 25,
+        "index": 32,
         "shop": "進城糯米小吃店",
         "category": [
             "餐飲"
@@ -371,35 +468,23 @@
         ]
     },
     {
-        "index": 26,
-        "shop": "八方雲集餐飲股份有限公司高雄長庚店",
+        "index": 33,
+        "shop": "芳城市餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
+        "market_address": "高雄市鳥松區大華里本館路２７９號１樓",
         "pay_list": [
-            "街口"
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 27,
-        "shop": "仕寅企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里文賢街６７號１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 28,
+        "index": 34,
         "shop": "宇庭餐廳有限公司",
         "category": [
             "餐飲"
@@ -409,16 +494,15 @@
         "area": "鳥松區",
         "market_address": "高雄市鳥松區鳥松里中正路２５１號",
         "pay_list": [
-            "iPASS 一卡通",
             "icash pay",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
             "街口"
         ]
     },
     {
-        "index": 29,
+        "index": 35,
         "shop": "鑫筌有限公司",
         "category": [
             "餐飲"
@@ -428,25 +512,279 @@
         "area": "鳥松區",
         "market_address": "高雄市鳥松區鳥松里澄清路８４０號",
         "pay_list": [
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 30,
-        "shop": "和興小吃部",
+        "index": 36,
+        "shop": "麵麵粥道食品有限公司長庚營業所",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１２３號Ｂ１樓",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
         "pay_list": [
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 31,
+        "index": 37,
+        "shop": "八方雲集餐飲股份有限公司高雄長庚店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "新葉冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區坔埔里神農路５０１號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "尚大小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路２８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "日安咖啡商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里球場路４２巷７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "八方雲集餐飲股份有限公司御廚高雄長庚店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "本館海鮮燒烤",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里本舘路４３９－６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "如新企業社",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區夢裡里夢裡西巷４０號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "春正商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里本舘路７２巷１１－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "美美休閒遊樂園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里忠誠路２１６號１、２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "丹堤咖啡食品股份有限公司高雄長庚店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "宏亞食品股份有限公司高雄營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區仁美里美山路３１－８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "仕寅企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里文賢街６７號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "采新宴會服務有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區仁美里美山路６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "夏綠蒂早午晚餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大仁南路４１號１樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "德家小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里大埤路２―１１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "勝億餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區大華里球場路８１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "馨涵綠茶專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區華美里學堂路２６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
         "shop": "隨興玩樂企業行",
         "category": [
             "餐飲"
@@ -460,62 +798,62 @@
         ]
     },
     {
-        "index": 32,
-        "shop": "藍與綠生活坊加勒比海餐酒館",
+        "index": 55,
+        "shop": "新宿商行",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里澄清路７９２號",
+        "market_address": "高雄市鳥松區鳥松里大埤路１２３號地下室",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "臻點美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里澄清路８４０號",
-        "pay_list": [
-            "iPASS 一卡通",
+            "街口",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 34,
-        "shop": "和德昌股份有限公司高雄長庚門市部",
+        "index": 56,
+        "shop": "永聖冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區鳥松里大埤路１１３號２樓及１２３號地下室",
+        "market_address": "高雄市鳥松區鳥松里文前路１１號１樓",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 35,
-        "shop": "芳城市餐飲有限公司",
+        "index": 57,
+        "shop": "仁美小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳥松區",
-        "market_address": "高雄市鳥松區大華里本館路２７９號１樓",
+        "market_address": "高雄市鳥松區仁美里學堂路８７號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "馨窩良行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳥松區",
+        "market_address": "高雄市鳥松區鳥松里竹安街６７號１樓",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

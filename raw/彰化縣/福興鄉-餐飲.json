@@ -1,20 +1,38 @@
 [
     {
         "index": 1,
-        "shop": "炸職人商行",
+        "shop": "福來冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "福興鄉",
-        "market_address": "彰化縣福興鄉西勢村００２鄰員鹿路二段４８２號１樓",
+        "market_address": "彰化縣福興鄉福興村４鄰沿海路五段３２４號",
         "pay_list": [
-            "台灣pay"
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
+        "shop": "昇益冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉西勢村員鹿路２段２１３號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "茗園和食料理",
         "category": [
             "餐飲"
@@ -28,7 +46,132 @@
         ]
     },
     {
-        "index": 3,
+        "index": 4,
+        "shop": "炸職人商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉西勢村００２鄰員鹿路二段４８２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "三商餐飲股份有限公司鹿港門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉橋頭村中正路２２６號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "三商餐飲股份有限公司鹿港一門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉橋頭村中正路２２４號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "彰化縣福興鄉農會農特產中心",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉橋頭村復興路２８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "童年往事莊園民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉福興村１鄰福興路６２－５００號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "秀工冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉萬豐村４鄰彰水路８６號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "鶴雅企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉番社村００５鄰番社街５０―１０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "鹿米葉有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "福興鄉",
+        "market_address": "彰化縣福興鄉社尾村３鄰浮景巷２８－７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
         "shop": "樂緣咖啡",
         "category": [
             "餐飲"
@@ -43,7 +186,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 13,
         "shop": "清云小吃店",
         "category": [
             "餐飲"
@@ -55,103 +198,6 @@
         "pay_list": [
             "台灣pay",
             "悠遊卡"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "鹿米葉有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉社尾村３鄰浮景巷２８－７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "三商餐飲股份有限公司鹿港一門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉橋頭村中正路２２４號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "秀工冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉萬豐村４鄰彰水路８６號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "三商餐飲股份有限公司鹿港門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉橋頭村中正路２２６號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "福來冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉福興村４鄰沿海路五段３２４號",
-        "pay_list": [
-            "悠遊卡",
-            "橘子支付",
-            "悠遊付",
-            "街口"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "昇益冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "福興鄉",
-        "market_address": "彰化縣福興鄉西勢村員鹿路２段２１３號１樓",
-        "pay_list": [
-            "街口",
-            "Pi 拍錢包"
         ]
     }
 ]

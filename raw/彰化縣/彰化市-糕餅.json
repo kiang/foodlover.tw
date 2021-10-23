@@ -1,6 +1,50 @@
 [
     {
         "index": 1,
+        "shop": "安德自然生活會館",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市永福里永福街２３號（左側）",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "仟裕鋒實業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市光南里００８鄰中興路２１９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "藏蜜手作烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市大竹里彰南路二段２３０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "咪口小食手作",
         "category": [
             "餐飲",
@@ -12,11 +56,12 @@
         "market_address": "彰化縣彰化市光南里旭光路２１７號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 2,
+        "index": 5,
         "shop": "築夢手作坊",
         "category": [
             "餐飲",
@@ -31,114 +76,21 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "鑫點烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市成功里０１９鄰民族路２１２號４樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "至杉商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市南瑤里中正路２段６６６巷６７弄２６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "藏蜜手作烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市大竹里彰南路二段２３０號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
         "index": 6,
-        "shop": "皇品食品烘焙屋",
+        "shop": "新東京工作室",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "彰化市",
-        "market_address": "彰化縣彰化市新華里彰美路１段９０號",
+        "market_address": "彰化縣彰化市下廍里自強路２２６號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
-        "shop": "馬可先生第三股份有限公司彰化門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市成功里００８鄰中山路２段７３，７５號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "義華國際食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市大同里民生路１５２號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "長悅食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市東興里南郭路一段４９號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
         "shop": "寶珍香食品有限公司",
         "category": [
             "糕餅"
@@ -153,124 +105,7 @@
         ]
     },
     {
-        "index": 11,
-        "shop": "曉陽烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市福安里８鄰曉陽路６３、６７號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "麥仕佳食品股份有限公司中正分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市西安里中正路２段３４２、３４４號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "長崎房食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市萬壽里中正路２段１１８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "寶島甘仔店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市永福里孔門路１６號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "育承坊",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市復興里中山路３段２２０號１樓",
-        "pay_list": [
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "麥仕佳食品股份有限公司師範分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市復興里實踐路１９９號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "麥仕佳食品股份有限公司大埔分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市延平里大埔路５９０號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "麥仕佳食品股份有限公司三民分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市民生里三民路２３２號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 19,
+        "index": 8,
         "shop": "宏亞食品股份有限公司彰化分公司",
         "category": [
             "糕餅"
@@ -280,25 +115,28 @@
         "area": "彰化市",
         "market_address": "彰化縣彰化市萬壽里中正路２段１４９號",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 20,
-        "shop": "可佳烘焙坊",
+        "index": 9,
+        "shop": "瑋鵬食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "彰化市",
-        "market_address": "彰化縣彰化市茄南里永安街４７４號２樓",
+        "market_address": "彰化縣彰化市新興里１１鄰彰新路１段６９號１樓",
         "pay_list": [
-            "台灣pay"
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 21,
+        "index": 10,
         "shop": "麥斯佳食品行",
         "category": [
             "糕餅"
@@ -312,7 +150,7 @@
         ]
     },
     {
-        "index": 22,
+        "index": 11,
         "shop": "郭元益食品股份有限公司彰化分公司",
         "category": [
             "糕餅"
@@ -326,36 +164,84 @@
         ]
     },
     {
-        "index": 23,
-        "shop": "財團法人彰化縣私立慈生仁愛院",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "彰化市",
-        "market_address": "彰化縣彰化市陽明里慈生街７２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "安德自然生活會館",
+        "index": 12,
+        "shop": "長悅食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "彰化市",
-        "market_address": "彰化縣彰化市永福里永福街２３號（左側）",
+        "market_address": "彰化縣彰化市東興里南郭路一段４９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "義華國際食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市大同里民生路１５２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "社團法人彰化縣自閉症肯納家長協會附設肯納兒烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市中央里陳稜路２０９號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 25,
+        "index": 15,
+        "shop": "馬可先生第三股份有限公司彰化門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市成功里００８鄰中山路２段７３，７５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "長崎房食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市萬壽里中正路２段１１８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
         "shop": "高總手作工坊",
         "category": [
             "糕餅"
@@ -370,32 +256,223 @@
         ]
     },
     {
-        "index": 26,
-        "shop": "社團法人彰化縣自閉症肯納家長協會附設肯納兒烘焙坊",
+        "index": 18,
+        "shop": "財團法人彰化縣私立慈生仁愛院",
         "category": [
-            "糕餅"
+            "糕餅",
+            "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "彰化市",
-        "market_address": "彰化縣彰化市中央里陳稜路２０９號",
+        "market_address": "彰化縣彰化市陽明里慈生街７２號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 27,
-        "shop": "瑋鵬食品有限公司",
+        "index": 19,
+        "shop": "育承坊",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市復興里中山路３段２２０號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "麥仕佳食品股份有限公司師範分公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "彰化市",
-        "market_address": "彰化縣彰化市新興里１１鄰彰新路１段６９號１樓",
+        "market_address": "彰化縣彰化市復興里實踐路１９９號",
         "pay_list": [
-            "悠遊付",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "麥仕佳食品股份有限公司大埔分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市延平里大埔路５９０號",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "麥仕佳食品股份有限公司三民分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市民生里三民路２３２號",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "可佳烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市茄南里永安街４７４號２樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "日出川股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市光南里旭光路２０９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "皇品食品烘焙屋",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市新華里彰美路１段９０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "寶島甘仔店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市永福里孔門路１６號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "鑫點烘焙",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市成功里０１９鄰民族路２１２號４樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "至杉商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市南瑤里中正路２段６６６巷６７弄２６號１樓",
+        "pay_list": [
+            "台灣pay",
             "信用卡"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "熊賀甲食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市南興里天祥路２１５巷２２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "曉陽烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市福安里８鄰曉陽路６３、６７號",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "麥仕佳食品股份有限公司中正分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市西安里中正路２段３４２、３４４號",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "淳手作甜點",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "彰化市",
+        "market_address": "彰化縣彰化市彰安里中正路２段４６１巷７號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

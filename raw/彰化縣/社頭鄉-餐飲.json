@@ -1,79 +1,38 @@
 [
     {
         "index": 1,
-        "shop": "喬蕎茶飲專賣店",
+        "shop": "大頭冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉社頭村員集路二段２５３號一樓",
+        "market_address": "彰化縣社頭鄉社頭村６鄰員集路２段２７７號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
-        "shop": "泰薪八方店",
+        "shop": "德東冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉仁雅村３鄰社斗路１段２３７號",
+        "market_address": "彰化縣社頭鄉社頭村社斗路１段３６２號",
         "pay_list": [
-            "信用卡"
+            "街口",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 3,
-        "shop": "社頭員集冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉社頭村員集路２段３０２號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "味琦峰茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉社頭村社斗路１段２１４號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "六次元咖啡館",
         "category": [
             "餐飲"
@@ -87,23 +46,103 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "德東冷飲站",
+        "index": 4,
+        "shop": "味琦峰茶行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉社頭村社斗路１段３６２號",
+        "market_address": "彰化縣社頭鄉社頭村社斗路１段２１４號１樓",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "泰薪八方店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉仁雅村３鄰社斗路１段２３７號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "清水匯股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉埤斗村山腳路一段２６８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 7,
+        "shop": "華香生物科技有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉橋頭村員集路３段６３５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "京華美國際有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉崙雅村７鄰民生路４２２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "喬蕎茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉社頭村員集路二段２５３號一樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "禾生冷飲店",
         "category": [
             "餐飲"
@@ -113,15 +152,14 @@
         "area": "社頭鄉",
         "market_address": "彰化縣社頭鄉仁雅村員集路二段１１３號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
+        "index": 11,
         "shop": "咪咪熊咖啡屋",
         "category": [
             "餐飲",
@@ -132,26 +170,60 @@
         "area": "社頭鄉",
         "market_address": "彰化縣社頭鄉社頭村清水岩路４００號",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
-        "shop": "大頭冷飲站",
+        "index": 12,
+        "shop": "社頭員集冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "社頭鄉",
-        "market_address": "彰化縣社頭鄉社頭村６鄰員集路２段２７７號",
+        "market_address": "彰化縣社頭鄉社頭村員集路２段３０２號１樓",
         "pay_list": [
+            "icash pay",
+            "Pi 拍錢包",
+            "信用卡",
             "悠遊付",
+            "悠遊卡",
             "街口",
-            "橘子支付"
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "現代好茶飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉社頭村１２鄰員集路２段１７１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "PIZZA HUT必勝客-彰化社頭店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "社頭鄉",
+        "market_address": "彰化縣社頭鄉社頭村員集路２段２９４號",
+        "pay_list": [
+            "信用卡"
         ]
     }
 ]

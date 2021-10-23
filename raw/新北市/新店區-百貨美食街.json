@@ -1,22 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "杏一耕莘安康商場",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "新店區",
-        "market_address": "新北市新店區德安里車子路１５號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "悠遊食代七張",
         "category": [
             "百貨美食街"
@@ -26,14 +10,12 @@
         "area": "新店區",
         "market_address": "新北市新店區北新路二段128號2樓",
         "pay_list": [
-            "悠遊卡",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
+            "LINE Pay Money",
+            "信用卡"
         ]
     },
     {
-        "index": 3,
+        "index": 2,
         "shop": "京站時尚廣場 小碧潭店",
         "category": [
             "百貨美食街"
@@ -43,10 +25,27 @@
         "area": "新店區",
         "market_address": "新北市新店區福民里中央路１５７號５樓",
         "pay_list": [
-            "悠遊卡",
+            "icash pay",
+            "iPASS 一卡通",
+            "LINE Pay Money",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "杏一耕莘安康商場",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "新店區",
+        "market_address": "新北市新店區德安里車子路１５號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

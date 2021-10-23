@@ -1,20 +1,35 @@
 [
     {
         "index": 1,
-        "shop": "鶯歌餅店",
+        "shop": "統一聖娜多堡股份有限公司台鐵鶯歌店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "鶯歌區",
-        "market_address": "新北市鶯歌區國慶街１６９－１號１樓",
+        "market_address": "新北市鶯歌區東鶯里文化路６８號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "六木小吃店",
+        "category": [
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "鶯歌區",
+        "market_address": "新北市鶯歌區南鶯里南雅路５７號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "順謚健康蛋糕有限公司",
         "category": [
             "糕餅"
@@ -29,18 +44,17 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "六木小吃店",
+        "index": 4,
+        "shop": "鶯歌餅店",
         "category": [
-            "糕餅",
-            "餐飲"
+            "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "鶯歌區",
-        "market_address": "新北市鶯歌區南鶯里南雅路５７號",
+        "market_address": "新北市鶯歌區國慶街１６９－１號１樓",
         "pay_list": [
-            "街口"
+            "台灣pay"
         ]
     }
 ]

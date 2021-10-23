@@ -1,29 +1,28 @@
 [
     {
         "index": 1,
-        "shop": "宜香津西點麵包店",
+        "shop": "阿梅麵包店",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區文化里復興二路７５巷７號１樓",
+        "market_address": "桃園市龜山區舊路里１１鄰振興路１１７８號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 2,
-        "shop": "祥宏蛋糕坊",
+        "shop": "德莉雪司西點麵包店",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區山德里山鶯路３６號１樓",
+        "market_address": "桃園市龜山區新路里中興路３２５號一樓",
         "pay_list": [
             "台灣pay"
         ]
@@ -40,7 +39,8 @@
         "market_address": "桃園市龜山區文化里文昌一街１５巷１０號",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -59,34 +59,109 @@
     },
     {
         "index": 5,
-        "shop": "玖伍手作烘培",
+        "shop": "Starbucks星巴克廣達門市部",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區大同里自強東路１０９號１樓",
+        "market_address": "桃園市龜山區文化里１９鄰文化二路２１１號１樓",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "佳承食品行",
+        "shop": "皇星食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區大華里文化七路１８８號",
+        "market_address": "桃園市龜山區南上里民生北路一段２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "欣鮮國際餐飲股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區山頂里山鶯路１８１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "宜香津西點麵包店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區文化里復興二路７５巷７號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 7,
+        "index": 9,
+        "shop": "祥宏蛋糕坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區山德里山鶯路３６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "歐立食品股份有限公司長庚門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區公西里復興路５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "名隆食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區大坑里１鄰南上路４００巷８、１０號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 12,
         "shop": "麵包樹精緻烘焙坊",
         "category": [
             "糕餅"
@@ -97,11 +172,12 @@
         "market_address": "桃園市龜山區大同里４鄰大同路７７號１樓",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
+        "index": 13,
         "shop": "雅薇濃西點麵包坊",
         "category": [
             "糕餅"
@@ -115,64 +191,50 @@
         ]
     },
     {
-        "index": 9,
-        "shop": "德莉雪司西點麵包店",
+        "index": 14,
+        "shop": "Starbucks星巴克桃園縣第三分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區文化里復興北路１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "禾麥烘焙有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區新路里中興路３２５號一樓",
+        "market_address": "桃園市龜山區大華里文化七路１４６號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 10,
-        "shop": "阿梅麵包店",
+        "index": 16,
+        "shop": "軒曜有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區舊路里１１鄰振興路１１７８號",
+        "market_address": "桃園市龜山區龍壽里東萬壽路６２９號３樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 11,
-        "shop": "燒包點心工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龜山區",
-        "market_address": "桃園市龜山區大湖里文化二路３４巷１４弄３４號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "品睿企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龜山區",
-        "market_address": "桃園市龜山區文化里公園路８巷２號８樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 13,
+        "index": 17,
         "shop": "明園糕餅舖",
         "category": [
             "糕餅"
@@ -186,21 +248,7 @@
         ]
     },
     {
-        "index": 14,
-        "shop": "泉阜實業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龜山區",
-        "market_address": "桃園市龜山區大湖里文三二街３３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
+        "index": 18,
         "shop": "英吉利手工烘焙有限公司",
         "category": [
             "糕餅"
@@ -215,62 +263,76 @@
         ]
     },
     {
-        "index": 16,
-        "shop": "禾麥烘焙有限公司",
+        "index": 19,
+        "shop": "燒包點心工坊",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區大華里文化七路１４６號",
+        "market_address": "桃園市龜山區大湖里文化二路３４巷１４弄３４號１樓",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "軒曜有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龜山區",
-        "market_address": "桃園市龜山區龍壽里東萬壽路６２９號３樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "名隆食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龜山區",
-        "market_address": "桃園市龜山區大坑里１鄰南上路４００巷８、１０號",
-        "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 19,
-        "shop": "欣鮮國際餐飲股份有限公司",
+        "index": 20,
+        "shop": "品睿企業社",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龜山區",
-        "market_address": "桃園市龜山區山頂里山鶯路１８１號",
+        "market_address": "桃園市龜山區文化里公園路８巷２號８樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "玖伍手作烘培",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區大同里自強東路１０９號１樓",
         "pay_list": [
             "街口",
-            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "佳承食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區大華里文化七路１８８號",
+        "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "復興空廚股份有限公司林口Ａ８營業所",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龜山區",
+        "market_address": "桃園市龜山區文化里文化一路６號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

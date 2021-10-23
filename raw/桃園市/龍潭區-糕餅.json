@@ -1,6 +1,49 @@
 [
     {
         "index": 1,
+        "shop": "錦珍包子店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區龍潭里０２３鄰龍華路７１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "燒菓子烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區龍星里東龍路１１８巷３０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "麥之鄉烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區龍潭里２６鄰龍元路１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "宏龍食品行",
         "category": [
             "糕餅"
@@ -14,21 +57,155 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "錦珍包子店",
+        "index": 5,
+        "shop": "福聚樓包子專賣店",
+        "category": [
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區九龍里大昌路二段９５－１號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "龍情食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龍潭區",
-        "market_address": "桃園市龍潭區龍潭里０２３鄰龍華路７１號１樓",
+        "market_address": "桃園市龍潭區凌雲里３９鄰聖亭路１３５號１樓",
         "pay_list": [
-            "台灣pay"
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 7,
+        "shop": "知味花生軟糖",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區中山里大昌路二段１００－１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "台三叔公食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區北興里中興路１８巷１１５號（２樓）",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "高個子有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區烏林里工五路２４０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "依奇食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區中山里北龍路２４９號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "雪之戀貿易有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區北興里中興路１８巷１１５號（３樓）",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "益畦食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區百年里百年路７１號２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "佳香味手作坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區龍潭里００１鄰北龍路１８４號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "陽光麥子蛋糕店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "龍潭區",
+        "market_address": "桃園市龍潭區百年里２２鄰中豐路３２１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
         "shop": "藍圖咖啡館",
         "category": [
             "餐飲",
@@ -44,7 +221,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 16,
         "shop": "竹葉屋製果有限公司",
         "category": [
             "糕餅"
@@ -59,147 +236,17 @@
         ]
     },
     {
-        "index": 5,
-        "shop": "雪之戀貿易有限公司",
+        "index": 17,
+        "shop": "群鷹國際企業社",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "龍潭區",
-        "market_address": "桃園市龍潭區北興里中興路１８巷１１５號（３樓）",
+        "market_address": "桃園市龍潭區永興里中興路５５３巷４３弄１７衖２９號２樓",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "益畦食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區百年里百年路７１號２樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "龍情食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區凌雲里３９鄰聖亭路１３５號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "佳香味手作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區龍潭里００１鄰北龍路１８４號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "麥之鄉烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區龍潭里２６鄰龍元路１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "知味花生軟糖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區中山里大昌路二段１００－１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "燒菓子烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區龍星里東龍路１１８巷３０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "台三叔公食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區北興里中興路１８巷１１５號（２樓）",
-        "pay_list": [
-            "iPASS 一卡通",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "高個子有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區烏林里工五路２４０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "依奇食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "龍潭區",
-        "market_address": "桃園市龍潭區中山里北龍路２４９號",
-        "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
         ]
     }
 ]

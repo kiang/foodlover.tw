@@ -10,7 +10,8 @@
         "area": "鹿港鎮",
         "market_address": "彰化縣鹿港鎮新宮里文開路３２巷２４號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
@@ -25,13 +26,15 @@
         "market_address": "彰化縣鹿港鎮龍山里０１０鄰三民路１３３號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
         "shop": "芸新工作坊",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "中彰投",
@@ -54,6 +57,20 @@
         "market_address": "彰化縣鹿港鎮頂厝里長安路１８號",
         "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "盛翔行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "鹿港鎮",
+        "market_address": "彰化縣鹿港鎮永安里２９鄰民權路８９號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

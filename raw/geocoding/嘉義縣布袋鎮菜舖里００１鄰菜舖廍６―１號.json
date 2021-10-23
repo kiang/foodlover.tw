@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義縣布袋鎮菜舖里００１鄰菜舖廍６―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[嘉義縣]\t { 模糊比對 } (布袋鎮)\t找到符合的[鄉鎮市區]，(菜舖里)\t找到符合的[村里]，(菜舖廍六―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，(1鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "嘉義縣布袋鎮菜舖里6鄰菜舖廍1號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "布袋鎮",
+      "VILLAGE": "菜舖里",
+      "NEIGHBORHOOD": "6鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "菜舖廍",
+      "NUMBER": "1號",
+      "X": 120.231001,
+      "Y": 23.400794
+    },
+    {
+      "FULL_ADDR": "嘉義縣布袋鎮菜舖里9鄰菜舖廍1號",
+      "COUNTY": "嘉義縣",
+      "TOWN": "布袋鎮",
+      "VILLAGE": "菜舖里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "菜舖廍",
+      "NUMBER": "1號",
+      "X": 120.219134,
+      "Y": 23.395071
+    }
+  ]
+}

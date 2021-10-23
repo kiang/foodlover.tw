@@ -1,16 +1,17 @@
 [
     {
         "index": 1,
-        "shop": "布尼企業社",
+        "shop": "丹丹小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里忠孝路１３５號",
+        "market_address": "高雄市阿蓮區南蓮里００５鄰中正路４６７巷５５號",
         "pay_list": [
-            "街口"
+            "台灣pay",
+            "悠遊卡"
         ]
     },
     {
@@ -39,59 +40,14 @@
         "area": "阿蓮區",
         "market_address": "高雄市阿蓮區南蓮里００７鄰中正路４３１號１樓",
         "pay_list": [
-            "iPASS 一卡通",
             "台灣pay",
-            "悠遊卡"
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 4,
-        "shop": "慧玉商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區阿蓮里０１１鄰中正路５１２號一樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "佳澤冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里０２６鄰中正路５３５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "丹丹小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里００５鄰中正路４６７巷５５號",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 7,
         "shop": "羿揚小吃部",
         "category": [
             "餐飲"
@@ -101,39 +57,28 @@
         "area": "阿蓮區",
         "market_address": "高雄市阿蓮區阿蓮里中正路４５０－１號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
-        "shop": "上清茶飲店",
+        "index": 5,
+        "shop": "清心冷飲阿蓮店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區南蓮里忠孝路１３２號１樓",
+        "market_address": "高雄市阿蓮區阿蓮里７鄰中正路４８４號",
         "pay_list": [
-            "信用卡"
+            "街口",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
-        "index": 9,
-        "shop": "紘沂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區崗山里崗山１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
+        "index": 6,
         "shop": "吉岳土雞城",
         "category": [
             "餐飲"
@@ -142,6 +87,65 @@
         "city": "高雄市",
         "area": "阿蓮區",
         "market_address": "高雄市阿蓮區港後里崙頂１６０－１３號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "博函企業商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區南蓮里忠孝路３９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "布尼企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區南蓮里忠孝路１３５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "聖嘉餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區忠孝路５８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "紘沂有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區崗山里崗山１號",
         "pay_list": [
             "信用卡"
         ]
@@ -162,18 +166,133 @@
     },
     {
         "index": 12,
-        "shop": "清心冷飲阿蓮店",
+        "shop": "品山小吃部",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "阿蓮區",
-        "market_address": "高雄市阿蓮區阿蓮里７鄰中正路４８４號",
+        "market_address": "高雄市阿蓮區阿蓮里０１０鄰和平路１４０號",
         "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "慧玉商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區阿蓮里０１１鄰中正路５１２號一樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "元滿茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區清蓮里００２鄰中山路５６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "臭吉伯鱔魚魯麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區阿蓮里０２０鄰民族路８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "佳澤冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區南蓮里０２６鄰中正路５３５號１樓",
+        "pay_list": [
+            "台灣pay",
             "悠遊付",
+            "悠遊卡",
             "街口",
-            "橘子支付"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "豆礦咖啡店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區和平路７２號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "歐楓咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區和蓮里００２鄰忠孝路３２１號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "明泰茶坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區南蓮里００９鄰忠孝路１０５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "上清茶飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "阿蓮區",
+        "market_address": "高雄市阿蓮區南蓮里忠孝路１３２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
         ]
     }
 ]

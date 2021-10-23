@@ -10,25 +10,56 @@
         "area": "朴子市",
         "market_address": "嘉義縣朴子市永和里０１４鄰應菜埔１０５號之１２",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "野爺商行",
+        "shop": "和久田烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "朴子市",
-        "market_address": "嘉義縣朴子市安福里天星新村１１６號附１",
+        "market_address": "嘉義縣朴子市文化里海通路７０―１號",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
+        "shop": "聖保羅企業股份有限公司朴子分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "朴子市",
+        "market_address": "嘉義縣朴子市中正里山通路１１６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "Starbucks星巴克嘉義縣第三分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "朴子市",
+        "market_address": "嘉義縣朴子市大葛里０２３鄰嘉朴路西段７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "八野爺商行",
         "category": [
             "糕餅"
@@ -38,11 +69,26 @@
         "area": "朴子市",
         "market_address": "嘉義縣朴子市大鄉里大槺榔９５６、９５８號",
         "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
-        "index": 4,
+        "index": 6,
+        "shop": "動物好朋友工作坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "朴子市",
+        "market_address": "嘉義縣朴子市安福里山通路１２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "立安商行",
         "category": [
             "餐飲",
@@ -53,9 +99,25 @@
         "area": "朴子市",
         "market_address": "嘉義縣朴子市竹圍里大同路１６９號１．２樓",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "野爺商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "朴子市",
+        "market_address": "嘉義縣朴子市安福里天星新村１１６號附１",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
         ]
     }
 ]

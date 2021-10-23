@@ -1,34 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "卡瓦拉嵐餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉好茶村古茶柏安街１３巷６號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "撒麻食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村神山巷４５號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "霧台冒煙屋農莊",
         "category": [
             "餐飲"
@@ -38,69 +10,85 @@
         "area": "霧臺鄉",
         "market_address": "屏東縣霧臺鄉霧臺村神山巷３８號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "小山巷四號食舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉大武村小山巷４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "卡瓦拉嵐餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉好茶村古茶柏安街１３巷６號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 4,
-        "shop": "黑妞的店",
+        "shop": "綠光森林屋廚坊",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村神山巷２１－１號",
+        "market_address": "屏東縣霧臺鄉霧臺村中山巷５８號",
         "pay_list": [
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 5,
-        "shop": "巴魯那商行",
+        "shop": "神山古早味燒烤",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村神山巷２５－１１號",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷３９－４號",
         "pay_list": [
-            "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "摩凱咖啡工坊",
+        "shop": "以如埠拾驗坊",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村岩坂巷５４號",
+        "market_address": "屏東縣霧臺鄉阿禮村元德巷４２號",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
-        "shop": "井步山原住民人文生態產業合作工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村神山巷１－１６號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "魯凱百步蛇風味餐廳",
+        "shop": "阿地溪生態文化工作室",
         "category": [
             "餐飲"
         ],
@@ -109,8 +97,22 @@
         "area": "霧臺鄉",
         "market_address": "屏東縣霧臺鄉霧臺村神山巷１５號",
         "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "魯魯灣有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉好茶村古茶柏安街１７巷１３號１樓",
+        "pay_list": [
             "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
@@ -152,35 +154,142 @@
         "area": "霧臺鄉",
         "market_address": "屏東縣霧臺鄉霧臺村霧臺鄉霧臺村神山巷６１―１號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 12,
-        "shop": "綠光森林屋廚坊",
+        "shop": "黑妞的店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉霧臺村中山巷５８號",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷２１－１號",
         "pay_list": [
-            "街口"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 13,
-        "shop": "魯魯灣有限公司",
+        "shop": "巴魯那商行",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "霧臺鄉",
-        "market_address": "屏東縣霧臺鄉好茶村古茶柏安街１７巷１３號１樓",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷２５－１１號",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "摩凱咖啡工坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村岩坂巷５４號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "井步山原住民人文生態產業合作工作室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷１－１６號",
         "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "魯凱百步蛇風味餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷１５號",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "舊好茶懷舊棧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉好茶村古茶柏安街２０巷１０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "撒拉伯民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村１鄰神山巷１４－６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "藍寶珠藝工作室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村中山巷６９號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "撒麻食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "霧臺鄉",
+        "market_address": "屏東縣霧臺鄉霧臺村神山巷４５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
         ]
     }
 ]

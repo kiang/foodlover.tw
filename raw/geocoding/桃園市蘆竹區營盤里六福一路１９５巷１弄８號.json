@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市蘆竹區營盤里六福一路１９５巷１弄８號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[桃園市]\tFULL:1",
+      "OutTraceInfo": "[桃園市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "桃園市蘆竹區營盤里1鄰六福一路195巷1弄8號",
+      "COUNTY": "桃園市",
+      "TOWN": "蘆竹區",
+      "VILLAGE": "營盤里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "六福一路",
+      "SECTION": "",
+      "LANE": "195巷",
+      "ALLEY": "1弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "8號",
+      "X": 121.306325,
+      "Y": 25.064525
+    }
+  ]
+}

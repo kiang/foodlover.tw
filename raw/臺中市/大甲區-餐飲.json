@@ -1,1398 +1,80 @@
 [
     {
         "index": 1,
-        "shop": "八方小吃店",
+        "shop": "吉福冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里順天里蔣公路１４０號１樓",
+        "market_address": "臺中市大甲區孟春里５鄰通天路２１８號１樓",
         "pay_list": [
-            "信用卡"
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
-        "shop": "鈞嵐茶行",
+        "shop": "徽洲饅頭包子店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里光明路８―２號１樓",
+        "market_address": "臺中市大甲區薰風里中山路１段８０５號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡"
+            "台灣pay"
         ]
     },
     {
         "index": 3,
-        "shop": "喜樂餐館",
+        "shop": "冰點傳統美食",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里五福街５７號１樓",
+        "market_address": "臺中市大甲區順天里８鄰蔣公路１５４號",
         "pay_list": [
-            "街口"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 4,
-        "shop": "怡恩餐館",
+        "shop": "小樂涼冰果室",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里順天路１４７號１樓",
+        "market_address": "臺中市大甲區孔門里孔雀路１００號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 5,
-        "shop": "沃特商行",
+        "shop": "香味燒烤飯包",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區頂店里中山路１段１１１３號１－２樓及之１１１５號１樓",
+        "market_address": "臺中市大甲區順天里０１５鄰孔雀路７５號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "明琮商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里育英路１６２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "仁欣商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里五福街５５號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "喜悦廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區庄美里蔣公路２９２號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "九騰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區幸福里中山路２段５５８號１樓",
-        "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "多美好食品店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里文武路２２２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "夯蒸湯包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里蔣公路５３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "蒔光咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區岷山里中山路１段９０８巷１０―４６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "穀嚕嚕早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區岷山里中山路１段９６８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "初呷商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里新政路１００號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "夏道茶飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里通天路２６４號１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "成華茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里鎮瀾街１６３號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "悠遊卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "臻品飲品專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里育德路４０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "柚一鍋餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路２３１巷１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "博予企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區庄美里蔣公路１８１―３號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "小米粒鐵板燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里新政路２８７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "志龍實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區朝陽里文武路２０號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "icash pay",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "一嘉小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里中山路２段１２９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "濬承溢企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里順天路２１５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "旺柴早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區朝陽里文武路３６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "日荷咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區岷山里中山路１段８６６號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "翔雲小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區岷山里中山路１段８８４號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "慶鴻精緻早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里三民路１８１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "糧晨吉食早安廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里三民路２７８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "大銀商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里育德路２１號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "靖妍商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里８鄰蔣公路１５５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "天嵐茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里順天路１９６號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "一瓣心香工作坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孔門里９鄰文武路１１９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "冠味小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區庄美里經國路４２６號１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "皇津小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區庄美里３鄰經國路３５９號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "政宏美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里１８鄰三民路４１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "海派擔仔麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里育德路１０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "金獅日盛商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區岷山里中山路一段９００號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "勤慧素食自助餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里新政路９２―１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "幼獅飲料小鋪",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區日南里黎明路３－１８號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "亞曼達牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里１０鄰仁愛街１６３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "烤式院燒烤",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路１４７號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "左筠企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里通天路１６７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "來怡客牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里０１３鄰蔣公路１４９號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 44,
-        "shop": "翁記企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區薰風里０１２鄰光明路４５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "杰太商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里４鄰蔣公路２０３號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "和稻壽喜燒屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路２４８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 47,
-        "shop": "大甲鍾臭豆腐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區朝陽里５鄰文武路４６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 48,
-        "shop": "心嵐茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里２鄰蔣公路１９０號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 49,
-        "shop": "光明早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區新美里光明路１３５號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 50,
-        "shop": "和津自助餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區德化里和平路４４７號１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 51,
-        "shop": "三全早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里２１鄰三民路２８６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "榮旺商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區薰風里光明路３３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "香雞城美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里１５鄰光明路１０４號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "心福冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區日南里１２鄰青年路５５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "派閣庭園咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區義和里文曲路５８６巷１０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "梧籽檸檬蔬食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區中山里３鄰水源路５２８號１樓",
-        "pay_list": [
-            "橘子支付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 57,
-        "shop": "八番棒壽司店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里８鄰復興路８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 58,
-        "shop": "禧安國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里順天路１９７號",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 59,
-        "shop": "珍荷園餐館有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區頂店里經國路１６３９號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 60,
-        "shop": "玟余茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里３鄰順天路１６８號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 61,
-        "shop": "楓堤咖啡商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區日南里１２鄰青年路１０９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 62,
-        "shop": "喜多餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里五福街５１號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 63,
-        "shop": "蜀宴川菜館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里９鄰民權路１１８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 64,
-        "shop": "靚茶休閒小舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里３鄰鎮瀾街１５５號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 65,
-        "shop": "阿郎平價海鮮館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孔門里孔雀路７８號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 66,
-        "shop": "中南牛肉麵",
-        "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區幸福里經國路２３０８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 67,
-        "shop": "眾人愛咖啡有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區日南里經國路２４４０號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 68,
-        "shop": "三引美園餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里民權路１１５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 69,
-        "shop": "橙果活力站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區幸福里黎明路２－１５號旁",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 70,
-        "shop": "三鮮蒸餃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里８鄰蔣公路１４３號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 71,
-        "shop": "家全小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里仁愛街９７號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 72,
-        "shop": "淇祺冰飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里１５鄰蔣公路２０８號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "台灣pay",
-            "橘子支付",
-            "悠遊付",
-            "街口",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 73,
-        "shop": "廟口蚵仔煎",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路１２０號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 74,
-        "shop": "陳柏綸",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里文昌街６４號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 75,
-        "shop": "三引餐廳有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里三民路１６１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 76,
-        "shop": "犇大食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區新美里經國路１４０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 77,
-        "shop": "福滿食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區頂店里中山路一段１２１０巷１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 78,
-        "shop": "茶水表飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里蔣公路４９號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 79,
-        "shop": "御鼎饌廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里中山路２段２１２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 80,
-        "shop": "隆豪早點",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里光明路１２８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 81,
-        "shop": "緹麗絲蛋糕店",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里光明路８４號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 82,
-        "shop": "清心福全冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里１９鄰蔣公路２２３號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 83,
-        "shop": "順天冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里順天路１９３號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 84,
-        "shop": "兆洋餐飲事業股份有限公司台中大甲分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區文武里育英路７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 85,
-        "shop": "竹亭夕食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里復興路７０號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 86,
-        "shop": "南門冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區薰風里光明路１９號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 87,
-        "shop": "禾夏飲品專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里育德路１３號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 88,
-        "shop": "三商餐飲股份有限公司大甲鎮政分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區大甲里１０鄰鎮政路１２－１號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 89,
-        "shop": "和德昌股份有限公司大甲經國分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區平安里經國路５０２號１，２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 90,
-        "shop": "西土瓦廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區武曲里新政路３４０號旁",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 91,
-        "shop": "東港肉丸",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路１５３―２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 92,
         "shop": "三月食品有限公司",
         "category": [
             "餐飲"
@@ -1402,11 +84,12 @@
         "area": "大甲區",
         "market_address": "臺中市大甲區薰風里０１１鄰順天路８號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 93,
+        "index": 7,
         "shop": "大餉有限公司",
         "category": [
             "餐飲"
@@ -1421,35 +104,525 @@
         ]
     },
     {
-        "index": 94,
-        "shop": "野人小築商舖",
+        "index": 8,
+        "shop": "三鮮蒸餃",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區頂店里大智街１０號１樓",
+        "market_address": "臺中市大甲區順天里８鄰蔣公路１４３號１樓",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 95,
-        "shop": "劉豐碩",
+        "index": 9,
+        "shop": "家全小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里蔣公路１７８號騎樓（左邊）",
+        "market_address": "臺中市大甲區平安里仁愛街９７號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "淇祺冰飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里１５鄰蔣公路２０８號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "廟口蚵仔煎",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１２０號",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 96,
+        "index": 12,
+        "shop": "康大船飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里五福街７３號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "旺柴早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區朝陽里文武路３６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "日荷咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區岷山里中山路１段８６６號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "翔雲小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區岷山里中山路１段８８４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "弘博店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里新政路４０９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "慶鴻精緻早午餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里三民路１８１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "鈞嵐茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里光明路８―２號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "喜樂餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里五福街５７號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "怡恩餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里順天路１４７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "沃特商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里中山路１段１１１３號１－２樓及之１１１５號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "明琮商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里育英路１６２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "仁欣商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里五福街５５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "逢博店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區薰風里中山路１段８１３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "喜悦廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里蔣公路２９２號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "霏帆美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里順天路１８３號１樓及１７９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "臺灣燒企業社",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里和平路２５３巷２３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "九騰商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區幸福里中山路２段５５８號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "多美好食品店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里文武路２２２號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "夯蒸湯包店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里蔣公路５３號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "蒔光咖啡店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區岷山里中山路１段９０８巷１０―４６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "穀嚕嚕早午餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區岷山里中山路１段９６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "卉珍馨企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區德化里東西七路１段４６２巷２０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "初呷商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里新政路１００號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "廣翼工業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里民權路１４０號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "顓精奇雅有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里００２鄰蔣公路２９９號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "三商餐飲股份有限公司大甲鎮政分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里１０鄰鎮政路１２－１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "麥當勞大甲經國分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里經國路５０２號１，２樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "西土瓦廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區武曲里新政路３４０號旁",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "大甲小站咖啡茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１３６號前",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "茶湯會股份有限公司蔣公營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１４５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "錢來快餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里２鄰蔣公路１５７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
         "shop": "馨喬冰飲店",
         "category": [
             "餐飲"
@@ -1463,7 +636,21 @@
         ]
     },
     {
-        "index": 97,
+        "index": 44,
+        "shop": "Starbucks星巴克台中市第十七分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里１鄰順天路２０２號、２０２之２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
         "shop": "順發冰品",
         "category": [
             "餐飲"
@@ -1473,101 +660,12 @@
         "area": "大甲區",
         "market_address": "臺中市大甲區順天里育德路５２號",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 98,
-        "shop": "吉福冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里５鄰通天路２１８號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 99,
-        "shop": "徽洲饅頭包子店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區薰風里中山路１段８０５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 100,
-        "shop": "廟口意麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里２鄰蔣公路１６５號１樓",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 101,
-        "shop": "大甲豐原排骨麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區薰風里１２鄰光明路６５號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 102,
-        "shop": "喜多園餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區孟春里５鄰慈德路１５５號",
-        "pay_list": [
-            "悠遊付",
-            "街口"
-        ]
-    },
-    {
-        "index": 103,
-        "shop": "芋頭城專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大甲區",
-        "market_address": "臺中市大甲區順天里５鄰育德路６６號１樓",
-        "pay_list": [
             "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 104,
+        "index": 46,
         "shop": "英棠股份有限公司",
         "category": [
             "餐飲"
@@ -1582,7 +680,266 @@
         ]
     },
     {
-        "index": 105,
+        "index": 47,
+        "shop": "金好家股份有限公司大甲門市",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里蔣公路３２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "三引美園餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里民權路１１５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "橙果活力站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區幸福里黎明路２－１５號旁",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "特食排骨麵店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里１８鄰蔣公路２１３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "八方小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里順天里蔣公路１４０號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "阿郎平價海鮮館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孔門里孔雀路７８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "大甲豐原排骨麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區薰風里１２鄰光明路６５號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "喜多園餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孟春里５鄰慈德路１５５號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "美洲冰果室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區朝陽里５鄰文武路５４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "芋頭城專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里５鄰育德路６６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "中南牛肉麵",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區幸福里經國路２３０８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "竹亭夕食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里復興路７０號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "眾人愛咖啡有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區日南里經國路２４４０號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "廟口意麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里２鄰蔣公路１６５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "PIZZA HUT必勝客-台中大甲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里蔣公路２７９號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "南門冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區薰風里光明路１９號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "禾夏飲品專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里育德路１３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 64,
         "shop": "巧坊有限公司",
         "category": [
             "餐飲"
@@ -1596,73 +953,1102 @@
         ]
     },
     {
-        "index": 106,
-        "shop": "廣翼工業有限公司",
+        "index": 65,
+        "shop": "禧安國際有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區平安里民權路１４０號１樓",
+        "market_address": "臺中市大甲區順天里順天路１９７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "珍荷園餐館有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里經國路１６３９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "玟余茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里３鄰順天路１６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "楓堤咖啡商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區日南里１２鄰青年路１０９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "喜多餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里五福街５１號１樓",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 107,
-        "shop": "顓精奇雅有限公司",
+        "index": 70,
+        "shop": "蜀宴川菜館",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區庄美里００２鄰蔣公路２９９號２樓",
+        "market_address": "臺中市大甲區平安里９鄰民權路１１８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 71,
+        "shop": "靚茶休閒小舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里３鄰鎮瀾街１５５號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "野人小築商舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里大智街１０號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 73,
+        "shop": "三引餐廳有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里三民路１６１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 74,
+        "shop": "安心食品服務股份有限公司大甲門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里６鄰經國路４８０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 75,
+        "shop": "靖妍商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里８鄰蔣公路１５５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 76,
+        "shop": "天嵐茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里順天路１９６號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 77,
+        "shop": "一瓣心香工作坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孔門里９鄰文武路１１９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 78,
+        "shop": "冠味小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里經國路４２６號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 79,
+        "shop": "皇津小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里３鄰經國路３５９號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 108,
-        "shop": "康大船飲食店",
+        "index": 80,
+        "shop": "政宏美食館",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里五福街７３號１樓",
+        "market_address": "臺中市大甲區順天里１８鄰三民路４１號",
         "pay_list": [
-            "悠遊卡",
-            "悠遊付"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 109,
-        "shop": "冰點傳統美食",
+        "index": 81,
+        "shop": "海派擔仔麵",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區順天里８鄰蔣公路１５４號",
+        "market_address": "臺中市大甲區順天里育德路１０號１樓",
         "pay_list": [
+            "台灣pay",
             "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 82,
+        "shop": "和津自助餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區德化里和平路４４７號１號",
+        "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 110,
-        "shop": "小樂涼冰果室",
+        "index": 83,
+        "shop": "三全早點",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大甲區",
-        "market_address": "臺中市大甲區孔門里孔雀路１００號",
+        "market_address": "臺中市大甲區文武里２１鄰三民路２８６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 84,
+        "shop": "榮旺商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區薰風里光明路３３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 85,
+        "shop": "杰太商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里４鄰蔣公路２０３號",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 86,
+        "shop": "和稻壽喜燒屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路２４８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "大甲鍾臭豆腐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區朝陽里５鄰文武路４６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "心嵐茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里２鄰蔣公路１９０號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 89,
+        "shop": "光明早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區新美里光明路１３５號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 90,
+        "shop": "香雞城美食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里１５鄰光明路１０４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 91,
+        "shop": "心福冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區日南里１２鄰青年路５５號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 92,
+        "shop": "派閣庭園咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區義和里文曲路５８６巷１０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 93,
+        "shop": "梧籽檸檬蔬食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區中山里３鄰水源路５２８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 94,
+        "shop": "八番棒壽司店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里８鄰復興路８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 95,
+        "shop": "金獅日盛商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區岷山里中山路一段９００號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 96,
+        "shop": "勤慧素食自助餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里新政路９２―１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 97,
+        "shop": "糧晨吉食早安廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里三民路２７８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 98,
+        "shop": "大銀商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里育德路２１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 99,
+        "shop": "陳麗麗飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里經國路４７０－４７２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 100,
+        "shop": "公平餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路２３４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 101,
+        "shop": "強強滾商店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里２２鄰中山路１段１２１７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 102,
+        "shop": "奈吉兒科技股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區奉化里３鄰經國路９７６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 103,
+        "shop": "唯盛食品股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區武曲里新政路３２６巷２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 104,
+        "shop": "永信育樂事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里成功路３１５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 105,
+        "shop": "餐御宴食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區日南里００６鄰工七路２６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 106,
+        "shop": "叁樓桌遊館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１５５號３樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 107,
+        "shop": "茂華展業有限公司大甲分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１７０號、１７０－１～１７０－３號、１７０－５～１７０－７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 108,
+        "shop": "有幾園生物科技股份有限公司經國營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里６鄰經國路５２０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 109,
+        "shop": "夏道茶飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孟春里通天路２６４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 110,
+        "shop": "成華茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里鎮瀾街１６３號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 111,
+        "shop": "臻品飲品專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里育德路４０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 112,
+        "shop": "柚一鍋餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路２３１巷１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 113,
+        "shop": "博予企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里蔣公路１８１―３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 114,
+        "shop": "品粵燒臘快餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里蔣公路２７１號１樓及２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 115,
+        "shop": "勇竣商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區庄美里仁愛街６９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 116,
+        "shop": "小米粒鐵板燒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里新政路２８７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 117,
+        "shop": "志龍實業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區朝陽里文武路２０號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 118,
+        "shop": "肆序商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里鎮瀾街１７７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 119,
+        "shop": "一嘉小吃",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孟春里中山路２段１２９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 120,
+        "shop": "濬承溢企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里順天路２１５號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 121,
+        "shop": "犇大食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區新美里經國路１４０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 122,
+        "shop": "福滿食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區頂店里中山路一段１２１０巷１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 123,
+        "shop": "茶水表飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里蔣公路４９號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 124,
+        "shop": "御鼎饌廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孟春里中山路２段２１２號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 125,
+        "shop": "隆豪早點",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里光明路１２８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 126,
+        "shop": "緹麗絲蛋糕店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區大甲里光明路８４號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 127,
+        "shop": "清心福全冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里１９鄰蔣公路２２３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 128,
+        "shop": "順天冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里順天路１９３號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 129,
+        "shop": "兆洋餐飲事業股份有限公司台中大甲分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區文武里育英路７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 130,
+        "shop": "幼獅飲料小鋪",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區日南里黎明路３－１８號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 131,
+        "shop": "亞曼達牛排館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區平安里１０鄰仁愛街１６３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 132,
+        "shop": "烤式院燒烤",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里蔣公路１４７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 133,
+        "shop": "左筠企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區孟春里通天路１６７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 134,
+        "shop": "來怡客牛排",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區順天里０１３鄰蔣公路１４９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 135,
+        "shop": "翁記企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大甲區",
+        "market_address": "臺中市大甲區薰風里０１２鄰光明路４５號１樓",
         "pay_list": [
             "台灣pay"
         ]

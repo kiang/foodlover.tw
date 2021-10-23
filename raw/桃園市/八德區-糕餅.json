@@ -1,6 +1,51 @@
 [
     {
         "index": 1,
+        "shop": "美得食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "八德區",
+        "market_address": "桃園市八德區大勇里東勇北路５７８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "安碩烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "八德區",
+        "market_address": "桃園市八德區高城里高城一街２７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "中祥食品工業股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "八德區",
+        "market_address": "桃園市八德區廣興里廣福路６１３號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "圈圈堂甜甜圈專賣店",
         "category": [
             "糕餅"
@@ -14,37 +59,7 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "達仁食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "八德區",
-        "market_address": "桃園市八德區大同里０１２鄰四維路２０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "美得食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "八德區",
-        "market_address": "桃園市八德區大勇里東勇北路５７８號１樓",
-        "pay_list": [
-            "橘子支付",
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
+        "index": 5,
         "shop": "翊成飲料店",
         "category": [
             "餐飲",
@@ -56,24 +71,27 @@
         "market_address": "桃園市八德區大智里介壽路１段７９６號１樓",
         "pay_list": [
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
-        "shop": "中祥食品工業股份有限公司",
+        "index": 6,
+        "shop": "嘉芳甜點烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "八德區",
-        "market_address": "桃園市八德區廣興里廣福路６１３號",
+        "market_address": "桃園市八德區大順里大興路６１４號（１樓）",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     }
 ]

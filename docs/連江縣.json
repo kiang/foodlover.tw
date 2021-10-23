@@ -21,6 +21,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "芹沃咖啡烘焙館",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉芹壁村１１號（５３之１號）",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.983711,
+                    26.225048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "北竿塘海鮮樓",
                 "category": "餐飲",
                 "area": "北竿鄉",
@@ -42,7 +59,7 @@
                 "category": "餐飲",
                 "area": "北竿鄉",
                 "market_address": "連江縣北竿鄉塘岐村９０號",
-                "pay_list": "街口\/信用卡\/台灣pay"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -59,7 +76,7 @@
                 "category": "餐飲",
                 "area": "北竿鄉",
                 "market_address": "連江縣北竿鄉塘岐村８８號",
-                "pay_list": "信用卡\/悠遊卡\/台灣pay\/街口"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -89,17 +106,68 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "芹沃咖啡烘焙館",
+                "shop": "田園山莊民宿",
                 "category": "餐飲",
                 "area": "北竿鄉",
-                "market_address": "連江縣北竿鄉芹壁村１１號（５３之１號）",
-                "pay_list": "信用卡\/悠遊卡\/台灣pay"
+                "market_address": "連江縣北竿鄉坂里村３６號",
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.983711,
-                    26.225048
+                    119.974199,
+                    26.216778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "龍福山莊",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉塘岐村２７３―８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.989129,
+                    26.218892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清雅民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉塘岐村２２５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.998424,
+                    26.22397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "協和食品行",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉塘岐村２２９號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.99836,
+                    26.22408
                 ]
             }
         },
@@ -123,17 +191,170 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "誼客閣咖啡烘焙館",
-                "category": "餐飲\/糕餅",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉清水村８４－１１號",
-                "pay_list": "Pi 拍錢包\/悠遊付\/信用卡\/台灣pay\/街口"
+                "shop": "一九六民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉塘岐村１９６號",
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.939848,
-                    26.146597
+                    119.998211,
+                    26.223351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "芹壁青年民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉芹壁村２２－１號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.983684,
+                    26.22474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "星漾海景民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉橋仔村１２７號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.993477,
+                    26.235906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "木喜海景民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉橋仔村１２０號２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.993618,
+                    26.23514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "龍福山莊股份有限公司",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉塘岐村２７３―８號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.989129,
+                    26.218892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "島之島事業有限公司",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉芹壁村５４號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.982316,
+                    26.224107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "舒漫活海景旅宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉橋仔村８５號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.992062,
+                    26.233169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "藍映海岸景觀民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉橋仔村７３號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.992749,
+                    26.233512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "家適咖啡民宿",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉芹壁村６０號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.982139,
+                    26.224087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "芹壁愛情海",
+                "category": "餐飲",
+                "area": "北竿鄉",
+                "market_address": "連江縣北竿鄉芹壁村５４號",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.982316,
+                    26.224107
                 ]
             }
         },
@@ -157,51 +378,102 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司鉑客馬祖店",
-                "category": "餐飲",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉介壽村２０５號２樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952116,
-                    26.15625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "馬祖天后會舘",
-                "category": "餐飲",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉馬祖村１０２－６號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.918287,
-                    26.159783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "誼客閣咖啡烘焙館",
                 "category": "餐飲\/糕餅",
                 "area": "南竿鄉",
                 "market_address": "連江縣南竿鄉清水村８４－１１號",
-                "pay_list": "Pi 拍錢包\/悠遊付\/信用卡\/台灣pay\/街口"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     119.939848,
                     26.146597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "活力早餐",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村６５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.944238,
+                    26.157731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "流津歲月",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉津沙村９７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.913237,
+                    26.145505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四號義廚坊",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村８２號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.91904,
+                    26.159934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金姐餐飲家具企業社",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村６８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.918942,
+                    26.159647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集餐飲股份有限公司馬祖店",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉介壽村２０５號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.952116,
+                    26.15625
                 ]
             }
         },
@@ -310,51 +582,153 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "四號義廚坊",
+                "shop": "海天民宿",
                 "category": "餐飲",
                 "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉馬祖村８２號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.91904,
-                    26.159934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好食無菜單料理餐廳",
-                "category": "餐飲",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉清水村１０４號",
+                "market_address": "連江縣南竿鄉馬祖村４－２號",
                 "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.938021,
-                    26.152626
+                    119.918031,
+                    26.158909
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "shop": "蝦寮食堂",
+                "shop": "記錄商行",
                 "category": "餐飲",
                 "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉復興村１１０－１號",
-                "pay_list": "悠遊卡"
+                "market_address": "連江縣南竿鄉馬祖村５３號",
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.953025,
-                    26.163668
+                    119.91849,
+                    26.15951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "富喜民宿二館",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉復興村３５－２號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.953353,
+                    26.162534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蓮園民宿壹館",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村６３號",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.944334,
+                    26.157793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "福華民宿",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村１１０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.943723,
+                    26.156998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "開心農場文創工坊",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村９０－３號",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.943237,
+                    26.157164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "頂好食品店",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村５７號",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.944444,
+                    26.157862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Starbucks星巴克連江縣第一分公司",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村１４３之１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.945711,
+                    26.158843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "萬家香二店",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉介壽村１６２號",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.952226,
+                    26.155584
                 ]
             }
         },
@@ -395,45 +769,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "馬祖藍灣景觀餐廳",
-                "category": "餐飲",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉珠螺村４鄰５２號",
-                "pay_list": "街口\/悠遊卡\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.930206,
-                    26.158718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "萬家香二店",
-                "category": "餐飲",
-                "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉介壽村１６２號",
-                "pay_list": "台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.952226,
-                    26.155584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "枕戈待旦特產行",
                 "category": "餐飲",
                 "area": "南竿鄉",
                 "market_address": "連江縣南竿鄉福沃村１３９號",
-                "pay_list": "悠遊付\/信用卡"
+                "pay_list": "信用卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -446,11 +786,198 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司馬祖店",
+                "shop": "隴之悅驛宿館",
                 "category": "餐飲",
                 "area": "南竿鄉",
-                "market_address": "連江縣南竿鄉介壽村２０５號１樓",
-                "pay_list": "悠遊卡"
+                "market_address": "連江縣南竿鄉介壽村２１５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.952101,
+                    26.155887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白日夢花園海景民宿",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村５１號",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.944602,
+                    26.157968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "聽海民宿一館",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉津沙村３２號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.945199,
+                    26.158273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "外灘３８號複合式休閒館",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村３８號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.918758,
+                    26.159298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "福祥企業社",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉福沃村１４３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.942612,
+                    26.157268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "藏愛實業股份有限公司",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村１０１號之１",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.918423,
+                    26.160931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "神農山莊有限公司",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉清水村５鄰８４―２號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.937293,
+                    26.146415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "麗堤民宿",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉介壽村２４５―１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.951517,
+                    26.160609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "采盟股份有限公司南竿遊客中心分公司",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉仁愛村９５－２號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.92769,
+                    26.141981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "馬祖藍灣景觀餐廳",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉珠螺村４鄰５２號",
+                "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.930206,
+                    26.158718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "好食無菜單料理餐廳",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉清水村１０４號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.938021,
+                    26.152626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集餐飲股份有限公司鉑客馬祖店",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉介壽村２０５號２樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -463,34 +990,119 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "朝露麵小吃店",
+                "shop": "馬祖天后會舘",
                 "category": "餐飲",
-                "area": "東引鄉",
-                "market_address": "連江縣東引鄉中柳村８７號",
-                "pay_list": "街口"
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村１０２－６號",
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.488425,
-                    26.367532
+                    119.918287,
+                    26.159783
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "shop": "國境之北",
-                "category": "餐飲",
-                "area": "東引鄉",
-                "market_address": "連江縣東引鄉樂華村１０６號",
-                "pay_list": "街口"
+                "shop": "誼客閣咖啡烘焙館",
+                "category": "餐飲\/糕餅",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉清水村８４－１１號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.4869,
-                    26.367051
+                    119.939848,
+                    26.146597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "沐光二館",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉津沙村１３４號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.913877,
+                    26.145094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蔚藍珠海民宿",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉四維村２０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.919805,
+                    26.166951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "玖伍小築",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉介壽村９５號１－３樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.952627,
+                    26.157043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "三隻腳民宿",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉馬祖村２３號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.918944,
+                    26.159089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蝦寮食堂",
+                "category": "餐飲",
+                "area": "南竿鄉",
+                "market_address": "連江縣南竿鄉復興村１１０－１號",
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.953025,
+                    26.163668
                 ]
             }
         },
@@ -501,7 +1113,7 @@
                 "category": "餐飲",
                 "area": "東引鄉",
                 "market_address": "連江縣東引鄉樂華村１２１號",
-                "pay_list": "街口"
+                "pay_list": "LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -514,11 +1126,113 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "烹小鮮小吃店",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉中柳村６７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487453,
+                    26.367896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "國境之北",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉樂華村１０６號",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4869,
+                    26.367051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "東湧行旅旅店",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉樂華村２９號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48741,
+                    26.366743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "國境之北二館",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉樂華村１０６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4869,
+                    26.367051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "昕華二館",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉中柳村３２號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48752,
+                    26.367591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "昕華飯店",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉樂華村４７號",
+                "pay_list": "信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.487396,
+                    26.367092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "今友緣餐廳",
                 "category": "餐飲",
                 "area": "東引鄉",
                 "market_address": "連江縣東引鄉樂華村９５號",
-                "pay_list": "信用卡\/悠遊卡\/街口"
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -542,6 +1256,23 @@
                 "coordinates": [
                     120.489089,
                     26.366945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "朝露麵小吃店",
+                "category": "餐飲",
+                "area": "東引鄉",
+                "market_address": "連江縣東引鄉中柳村８７號",
+                "pay_list": "LINE Pay Money\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488425,
+                    26.367532
                 ]
             }
         }

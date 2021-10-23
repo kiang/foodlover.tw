@@ -1,6 +1,51 @@
 [
     {
         "index": 1,
+        "shop": "金盛豐號",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁和里公民路７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "錦芳齋糕餅店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮義民里００９鄰博愛路６７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "李記商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮大同里文化路１２６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "臻狀元食品行",
         "category": [
             "糕餅"
@@ -10,125 +55,14 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮共榮里中山路１６５號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "檬榕手作甜點坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里民享路３３―５號",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "立喜食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮共榮里中正路６３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "千久戶西點麵包",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里文仁路１４５號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 5,
-        "shop": "風雅商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮大同里大同路１２９號",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "傳發之家",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮仁和里公民路１２號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "美日珍號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮共榮里中山路１４９號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "古笨港餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮中和里中山路１１１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
         "shop": "百和美餅餔",
         "category": [
             "糕餅"
@@ -143,22 +77,142 @@
         ]
     },
     {
-        "index": 10,
-        "shop": "錦芳齋糕餅店",
+        "index": 6,
+        "shop": "美日珍號",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮義民里００９鄰博愛路６７號",
+        "market_address": "雲林縣北港鎮共榮里中山路１４９號",
         "pay_list": [
-            "悠遊卡",
             "LINE Pay Money",
-            "iPASS 一卡通",
             "台灣pay",
             "信用卡",
+            "悠遊卡",
             "街口"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "古笨港餅舖",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮中和里中山路１１１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "傳發之家",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁和里公民路１２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "聖保羅企業股份有限公司北港分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮東陽里中山路１８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "千久戶西點麵包",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里文仁路１４５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "立喜食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮共榮里中正路６３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "臻狀元食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁和里仁和路４６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "檬榕手作甜點坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里民享路３３―５號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "風雅商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮大同里大同路１２９號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
         ]
     }
 ]

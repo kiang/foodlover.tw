@@ -1,6 +1,22 @@
 [
     {
         "index": 1,
+        "shop": "掌春冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "四湖鄉",
+        "market_address": "雲林縣四湖鄉湖西村中正路４１８－１號",
+        "pay_list": [
+            "街口",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "永祥豆漿",
         "category": [
             "餐飲"
@@ -15,7 +31,35 @@
         ]
     },
     {
-        "index": 2,
+        "index": 3,
+        "shop": "阿順師餐飲企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "四湖鄉",
+        "market_address": "雲林縣四湖鄉萡東村萡子寮１８３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "胖胖美式炸雞",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "四湖鄉",
+        "market_address": "雲林縣四湖鄉湖西村中正路３３４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "金珊小吃",
         "category": [
             "餐飲"
@@ -25,39 +69,8 @@
         "area": "四湖鄉",
         "market_address": "雲林縣四湖鄉湖西村中正路３７６－１號",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "鈺豐商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "四湖鄉",
-        "market_address": "雲林縣四湖鄉四湖村中正路３８５號",
-        "pay_list": [
-            "悠遊付",
             "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "掌春冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "四湖鄉",
-        "market_address": "雲林縣四湖鄉湖西村中正路４１８－１號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
+            "LINE Pay Money"
         ]
     }
 ]

@@ -1,8 +1,23 @@
 [
     {
         "index": 1,
+        "shop": "永業創宇黃昏市場-鴨饕寶北京烤鴨五吃",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "善化區",
+        "market_address": "臺南市善化區仁愛路51-1號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "荷野香實業",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
@@ -10,13 +25,15 @@
         "area": "善化區",
         "market_address": "臺南市善化區光文里民權路２７－１號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 2,
+        "index": 3,
         "shop": "愛樂活輕食小舖",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
@@ -24,21 +41,6 @@
         "area": "善化區",
         "market_address": "臺南市善化區坐駕里光明路５７號１樓",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "味泰豐",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "善化區",
-        "market_address": "臺南市善化區光文里忠孝路５０號１樓前",
-        "pay_list": [
-            "信用卡",
             "台灣pay"
         ]
     }

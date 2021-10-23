@@ -1,20 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "桔林坊食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮新民里中正路５９９號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "畇畇來商行",
         "category": [
             "餐飲",
@@ -25,10 +11,25 @@
         "area": "新埔鎮",
         "market_address": "新竹縣新埔鎮四座里中正路２０３號",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "桔林坊食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮新民里中正路５９９號",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

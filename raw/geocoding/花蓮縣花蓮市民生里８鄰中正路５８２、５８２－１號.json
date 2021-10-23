@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "花蓮縣花蓮市民生里８鄰中正路５８２、５８２－１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[花蓮縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-581938)(+1),E:-1,N:0",
+      "OutTraceInfo": "[花蓮縣]\t { 模糊比對 } (花蓮市)\t找到符合的[鄉鎮市區]，(民生里)\t找到符合的[村里]，(中正路)\t找到符合的[路街名]，(582582－1號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -581938 號，進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，(8鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "花蓮縣花蓮市民生里14鄰中正路644之2號",
+      "COUNTY": "花蓮縣",
+      "TOWN": "花蓮市",
+      "VILLAGE": "民生里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "644之2號",
+      "X": 121.613299,
+      "Y": 23.981504
+    },
+    {
+      "FULL_ADDR": "花蓮縣花蓮市民生里14鄰中正路644號之2",
+      "COUNTY": "花蓮縣",
+      "TOWN": "花蓮市",
+      "VILLAGE": "民生里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "中正路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "644號之2",
+      "X": 121.613299,
+      "Y": 23.981501
+    }
+  ]
+}

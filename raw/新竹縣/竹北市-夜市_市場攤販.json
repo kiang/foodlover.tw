@@ -1,35 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "二良脆皮烤饅頭店",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "竹北市",
-        "market_address": "新竹縣竹北市東興里嘉興路３５８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "哄供煎餅",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "竹北市",
-        "market_address": "新竹縣竹北市北崙里光明一路３０７號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "珊綺小吃店",
         "category": [
             "夜市\/市場攤販"
@@ -40,25 +11,27 @@
         "market_address": "新竹縣竹北市華興街３６０號",
         "pay_list": [
             "悠遊付",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
-        "shop": "新社公有零售市場-1棟28",
+        "index": 2,
+        "shop": "大熊廚房",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹北市",
-        "market_address": "新竹縣竹北市華興一街160號",
+        "market_address": "新竹縣竹北市尚義里鳳岡路五段６４２巷２０號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 5,
+        "index": 3,
         "shop": "新社公有零售市場-1棟01",
         "category": [
             "夜市\/市場攤販"
@@ -68,12 +41,12 @@
         "area": "竹北市",
         "market_address": "新竹縣竹北市華興一街160號",
         "pay_list": [
-            "icash pay"
+            "街口"
         ]
     },
     {
-        "index": 6,
-        "shop": "竹北攤販集中場-13",
+        "index": 4,
+        "shop": "竹北攤販集中場-49",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -82,27 +55,56 @@
         "area": "竹北市",
         "market_address": "新竹縣竹北市仁愛街45號旁",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
         ]
     },
     {
-        "index": 7,
-        "shop": "仁義公有零售市場-1F-49",
+        "index": 5,
+        "shop": "竹北公有零售市場-2棟27",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹北市",
-        "market_address": "新竹縣竹北市仁義路129號",
+        "market_address": "新竹縣竹北市仁愛街45號旁",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "竹北公有零售市場-2棟15",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹北市",
+        "market_address": "新竹縣竹北市仁愛街45號旁",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "竹北公有零售市場-1棟20",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹北市",
+        "market_address": "新竹縣竹北市仁愛街45號旁",
+        "pay_list": [
+            "台灣pay"
         ]
     },
     {
         "index": 8,
         "shop": "安可Ｗａｙ",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "桃竹苗",
@@ -115,30 +117,60 @@
     },
     {
         "index": 9,
-        "shop": "童美子",
+        "shop": "二良脆皮烤饅頭店",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹北市",
-        "market_address": "新竹縣竹北市尚義街４２６巷１００號（鳳崎步道１．８７ＫＭ）",
+        "market_address": "新竹縣竹北市東興里嘉興路３５８號１樓",
         "pay_list": [
+            "台灣pay",
             "街口"
         ]
     },
     {
         "index": 10,
-        "shop": "大熊廚房",
+        "shop": "哄供煎餅",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹北市",
+        "market_address": "新竹縣竹北市北崙里光明一路３０７號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "仁義攤販集中場-臨112",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹北市",
-        "market_address": "新竹縣竹北市尚義里鳳岡路五段６４２巷２０號",
+        "market_address": "新竹縣竹北市仁義路129號",
         "pay_list": [
-            "信用卡",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "仁義攤販集中場-臨53",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹北市",
+        "market_address": "新竹縣竹北市仁義路129號",
+        "pay_list": [
             "台灣pay"
         ]
     }

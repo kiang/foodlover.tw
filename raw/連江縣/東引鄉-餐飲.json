@@ -1,34 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "朝露麵小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "東引鄉",
-        "market_address": "連江縣東引鄉中柳村８７號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "國境之北",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "金馬離島",
-        "city": "連江縣",
-        "area": "東引鄉",
-        "market_address": "連江縣東引鄉樂華村１０６號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "頂紅風味小火鍋",
         "category": [
             "餐飲"
@@ -38,11 +10,100 @@
         "area": "東引鄉",
         "market_address": "連江縣東引鄉樂華村１２１號",
         "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
+        "index": 2,
+        "shop": "烹小鮮小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉中柳村６７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "國境之北",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉樂華村１０６號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 4,
+        "shop": "東湧行旅旅店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉樂華村２９號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "國境之北二館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉樂華村１０６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "昕華二館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉中柳村３２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "昕華飯店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉樂華村４７號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
         "shop": "今友緣餐廳",
         "category": [
             "餐飲"
@@ -54,11 +115,12 @@
         "pay_list": [
             "信用卡",
             "悠遊卡",
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
-        "index": 5,
+        "index": 9,
         "shop": "東引飲茶店",
         "category": [
             "餐飲"
@@ -69,6 +131,21 @@
         "market_address": "連江縣東引鄉樂華村９０號",
         "pay_list": [
             "悠遊卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "朝露麵小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "東引鄉",
+        "market_address": "連江縣東引鄉中柳村８７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
         ]
     }
 ]

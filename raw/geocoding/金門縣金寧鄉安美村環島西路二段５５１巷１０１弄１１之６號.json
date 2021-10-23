@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金寧鄉安美村環島西路二段５５１巷１０１弄１１之６號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[金門縣]\tFULL:1",
+      "OutTraceInfo": "[金門縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "金門縣金寧鄉安美村14鄰環島西路二段551巷101弄11之6號",
+      "COUNTY": "金門縣",
+      "TOWN": "金寧鄉",
+      "VILLAGE": "安美村",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "環島西路",
+      "SECTION": "2",
+      "LANE": "551巷",
+      "ALLEY": "101弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "11之6號",
+      "X": 118.319633,
+      "Y": 24.454003
+    }
+  ]
+}

@@ -1,6 +1,23 @@
 [
     {
         "index": 1,
+        "shop": "久保田烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "南投縣",
+        "area": "鹿谷鄉",
+        "market_address": "南投縣鹿谷鄉內湖村興產路２－３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "松林町股份有限公司",
         "category": [
             "餐飲",
@@ -11,25 +28,10 @@
         "area": "鹿谷鄉",
         "market_address": "南投縣鹿谷鄉內湖村興產路２―２號",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "久保田烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "鹿谷鄉",
-        "market_address": "南投縣鹿谷鄉內湖村興產路２－３號",
-        "pay_list": [
             "街口",
-            "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     }
 ]

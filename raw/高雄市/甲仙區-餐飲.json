@@ -10,9 +10,10 @@
         "area": "甲仙區",
         "market_address": "高雄市甲仙區西安里文化路５２號",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -27,11 +28,46 @@
         "market_address": "高雄市甲仙區西安里文化路７５之１號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
+        "shop": "皇都飯店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "甲仙區",
+        "market_address": "高雄市甲仙區西安里中正路７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "第一家芋冰城",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "甲仙區",
+        "market_address": "高雄市甲仙區西安里文化路１０２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "吉利芋冰城",
         "category": [
             "餐飲"
@@ -42,11 +78,12 @@
         "market_address": "高雄市甲仙區西安里１４鄰文化路６４號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 6,
         "shop": "樂鳴食堂",
         "category": [
             "餐飲"
@@ -60,23 +97,7 @@
         ]
     },
     {
-        "index": 5,
-        "shop": "皇都飯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "甲仙區",
-        "market_address": "高雄市甲仙區西安里中正路７號",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 6,
+        "index": 7,
         "shop": "小奇冰果室",
         "category": [
             "餐飲",
@@ -91,7 +112,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 8,
         "shop": "三冠王芋冰城",
         "category": [
             "餐飲",
@@ -102,11 +123,25 @@
         "area": "甲仙區",
         "market_address": "高雄市甲仙區西安里文化路５１號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "雅雪芋餅屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "甲仙區",
+        "market_address": "高雄市甲仙區大田里新興路９２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
         ]
     }
 ]

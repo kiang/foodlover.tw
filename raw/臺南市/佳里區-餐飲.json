@@ -1,35 +1,74 @@
 [
     {
         "index": 1,
-        "shop": "紅屋頂餐飲店",
+        "shop": "友間爹豆花",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區南勢里建南１５６－５２號",
+        "market_address": "臺南市佳里區六安里０１０鄰安北路５８巷１５號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "Pi 拍錢包",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "阿絲麵店",
+        "shop": "拿鐵咖啡店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區忠仁里中山路１５６號",
+        "market_address": "臺南市佳里區建南里復興路１０９號１號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡",
+            "街口"
         ]
     },
     {
         "index": 3,
+        "shop": "賓寶食品企業有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里進學路１６９號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "群惠商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里光復路２７０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "發玖玖商行",
         "category": [
             "餐飲"
@@ -39,11 +78,12 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區六安里００２鄰延平路４１８號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 6,
         "shop": "曾強茶行",
         "category": [
             "餐飲"
@@ -54,11 +94,26 @@
         "market_address": "臺南市佳里區忠仁里０１０鄰延平路２５０號１樓",
         "pay_list": [
             "悠遊付",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
+        "index": 7,
+        "shop": "天子牛排館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區安西里忠孝路８２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
         "shop": "尚豪家小館",
         "category": [
             "餐飲"
@@ -73,7 +128,7 @@
         ]
     },
     {
-        "index": 6,
+        "index": 9,
         "shop": "茶刻先生茶行",
         "category": [
             "餐飲"
@@ -83,13 +138,14 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區建南里００３鄰新生路２６４號１樓",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
+        "index": 10,
         "shop": "維恩飲料店",
         "category": [
             "餐飲"
@@ -99,15 +155,42 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區安西里０１８鄰光復路３６９號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
             "信用卡",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
+        "index": 11,
+        "shop": "阪泉麵食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區六安里０１０鄰延平路５４０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "沐植覓物工作坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里００９鄰光復路１２０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
         "shop": "叡丰商行",
         "category": [
             "餐飲"
@@ -117,12 +200,13 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區文新里１４鄰光復路２９１號１樓",
         "pay_list": [
+            "信用卡",
             "街口",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
+        "index": 14,
         "shop": "金宇茶水舖",
         "category": [
             "餐飲"
@@ -137,55 +221,166 @@
         ]
     },
     {
-        "index": 10,
-        "shop": "友間爹豆花",
+        "index": 15,
+        "shop": "微光早午餐",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區六安里０１０鄰安北路５８巷１５號１樓",
+        "market_address": "臺南市佳里區建南里建南街１０２號",
         "pay_list": [
-            "街口",
-            "悠遊卡",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 11,
-        "shop": "拼豆咖啡館",
+        "index": 16,
+        "shop": "鈞悅餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區六安里０２１鄰延平路５８１號１樓",
+        "market_address": "臺南市佳里區東寧里進學路７號",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "信用卡",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "巴豆咖啡餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里新生東路１０號１樓",
+        "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 12,
-        "shop": "玄品飲料店",
+        "index": 18,
+        "shop": "東隆興美食店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區忠仁里０１０鄰延平路２６６號１樓",
+        "market_address": "臺南市佳里區安西里光復路３７３號１樓",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 13,
+        "index": 19,
+        "shop": "Starbucks星巴克台南市第二十一分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里新生東路１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "麥當勞台南佳里分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里延平路２５７號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "五鮮級國際餐飲股份有限公司台南佳里分店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區安西里０２２鄰安西路３６６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "紅屋頂餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區南勢里建南１５６－５２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "捌角捌茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里光復路２３８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "阿絲麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里中山路１５６號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "三角堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區鎮山里中山路７６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 26,
         "shop": "禾棠飲品屋",
         "category": [
             "餐飲"
@@ -195,14 +390,15 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區東寧里００９鄰延平路３５９號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 14,
+        "index": 27,
         "shop": "繽熊手作水果雪酪冰",
         "category": [
             "餐飲"
@@ -212,11 +408,12 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區民安里０１２鄰新宅１５―９號",
         "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
-        "index": 15,
+        "index": 28,
         "shop": "風味佳里冷飲店",
         "category": [
             "餐飲"
@@ -230,7 +427,7 @@
         ]
     },
     {
-        "index": 16,
+        "index": 29,
         "shop": "覺饕餐館",
         "category": [
             "餐飲"
@@ -245,7 +442,7 @@
         ]
     },
     {
-        "index": 17,
+        "index": 30,
         "shop": "好日小吃店",
         "category": [
             "餐飲"
@@ -260,7 +457,7 @@
         ]
     },
     {
-        "index": 18,
+        "index": 31,
         "shop": "栩菖社",
         "category": [
             "餐飲"
@@ -270,15 +467,15 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區忠仁里０１０鄰延平路２６０號１樓",
         "pay_list": [
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 19,
+        "index": 32,
         "shop": "泰禾霖商行",
         "category": [
             "餐飲"
@@ -288,12 +485,12 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區忠仁里００４鄰延平路２１７號１樓",
         "pay_list": [
-            "悠遊卡",
-            "icash pay"
+            "icash pay",
+            "悠遊卡"
         ]
     },
     {
-        "index": 20,
+        "index": 33,
         "shop": "楊公館當歸食堂",
         "category": [
             "餐飲"
@@ -303,26 +500,186 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區東寧里０１４鄰延平路３５２號１樓",
         "pay_list": [
+            "悠遊卡",
             "街口",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 21,
-        "shop": "錦繡茶行",
+        "index": 34,
+        "shop": "佳利家企業社",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里１０鄰義民街２５４號",
+        "market_address": "臺南市佳里區東寧里１鄰中山路３７９號１樓",
         "pay_list": [
-            "悠遊付"
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 22,
+        "index": 35,
+        "shop": "老闆餐飲顧問有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區南勢里成功路１９８號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "弘御茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里延平路３６０號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "佳里火雞肉飯",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里００６鄰中山路１３８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "玄品飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里０１０鄰延平路２６６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "爭鮮股份有限公司佳里潤門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區民安里００７鄰同安寮８０―２號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "名匠食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里光復路３０６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "滋康商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里新生路２８２－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "堤卡異國料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里新生路３５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "好味早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區鎮山里延平路１０５號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "田隆興美食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區鎮山里延平路７１號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
         "shop": "灃盈商行",
         "category": [
             "餐飲"
@@ -332,12 +689,11 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區六安里００２鄰延平路４３６號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 23,
+        "index": 46,
         "shop": "林家紅茶冰",
         "category": [
             "餐飲"
@@ -348,88 +704,81 @@
         "market_address": "臺南市佳里區六安里０３０鄰光復路３４２號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "原味佳里冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區安西里光復路３３３號１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "晨馨商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區六安里進學路１４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "喬之品手作廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區六安里延平路５９３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "德盛行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區六安里延平路６２４號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "群惠商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里光復路２７０號",
-        "pay_list": [
             "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 29,
+        "index": 47,
+        "shop": "迷客夏有限公司佳里營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里公園路２８５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "迷客夏有限公司佳里文化營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里００９鄰延平路３５９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "秀芬冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區鎮山里延平路２０號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "早安菇菇蔬食餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區忠仁里延平路１６６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 51,
         "shop": "奕植鑽複合式餐廳",
         "category": [
             "餐飲"
@@ -443,7 +792,7 @@
         ]
     },
     {
-        "index": 30,
+        "index": 52,
         "shop": "唯饌義大利麵",
         "category": [
             "餐飲"
@@ -458,213 +807,146 @@
         ]
     },
     {
-        "index": 31,
-        "shop": "祐誠餐飲店",
+        "index": 53,
+        "shop": "原味佳里冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區六安里００２鄰中山路４６６號１樓",
+        "market_address": "臺南市佳里區安西里光復路３３３號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "天淥商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區安西里光復路３５５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "好味早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區鎮山里延平路１０５號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "田隆興美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區鎮山里延平路７１號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "名匠食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里光復路３０６號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "滋康商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區建南里新生路２８２－１號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "堤卡異國料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區忠仁里新生路３５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "秀芬冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區鎮山里延平路２０號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "迷客夏有限公司佳里營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區建南里公園路２８５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "迷客夏有限公司佳里文化營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里００９鄰延平路３５９號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "爭鮮股份有限公司佳里潤門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區民安里００７鄰同安寮８０―２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "老闆餐飲顧問有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區南勢里成功路１９８號１樓",
-        "pay_list": [
-            "街口",
-            "悠遊卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "弘御茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里延平路３６０號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
             "悠遊卡"
         ]
     },
     {
-        "index": 44,
+        "index": 54,
+        "shop": "晨馨商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區六安里進學路１４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "喬之品手作廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區六安里延平路５９３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "覺品小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里新生路３４９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "德盛行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區六安里延平路６２４號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "陰却休閒育樂有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區鎮山里佳東路２１１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "金文堂文具有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里光復路２００號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "迷客夏有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里０３５鄰公園路２８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "拼豆咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區六安里０２１鄰延平路５８１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 62,
         "shop": "佳利商行",
         "category": [
             "餐飲"
@@ -674,13 +956,14 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區忠仁里００２鄰延平路２４５號１樓",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 45,
+        "index": 63,
         "shop": "言永幸福美食屋",
         "category": [
             "餐飲",
@@ -691,14 +974,15 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區忠仁里００８鄰延平路２１２號１樓",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 46,
+        "index": 64,
         "shop": "成初商行",
         "category": [
             "餐飲"
@@ -708,15 +992,14 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區東寧里中山路３９２號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 47,
+        "index": 65,
         "shop": "安峻商行",
         "category": [
             "餐飲"
@@ -726,15 +1009,30 @@
         "area": "佳里區",
         "market_address": "臺南市佳里區東寧里新生路１０８號１樓",
         "pay_list": [
-            "橘子支付",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 48,
+        "index": 66,
+        "shop": "翰霓冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區東寧里延平路２７９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 67,
         "shop": "弘韵商行",
         "category": [
             "餐飲"
@@ -748,122 +1046,52 @@
         ]
     },
     {
-        "index": 49,
-        "shop": "三角堂",
+        "index": 68,
+        "shop": "祐誠餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "佳里區",
-        "market_address": "臺南市佳里區鎮山里中山路７６號１樓",
+        "market_address": "臺南市佳里區六安里００２鄰中山路４６６號１樓",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 50,
-        "shop": "迷客夏飲品屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區建南里公園路２８５號１樓",
-        "pay_list": [
+            "Pi 拍錢包",
             "信用卡",
             "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "天淥商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區安西里光復路３５５號１樓",
+        "pay_list": [
             "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 51,
-        "shop": "賓寶食品企業有限公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里進學路１６９號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "和德昌股份有限公司台南佳里分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區忠仁里延平路２５７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "巴豆咖啡餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里新生東路１０號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "東隆興美食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區安西里光復路３７３號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "鈞悅餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區東寧里進學路７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "拿鐵咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "佳里區",
-        "market_address": "臺南市佳里區建南里復興路１０９號１號",
-        "pay_list": [
-            "信用卡",
+            "悠遊付",
+            "悠遊卡",
             "街口",
-            "台灣pay"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 70,
+        "shop": "PIZZA HUT必勝客-台南佳里店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "佳里區",
+        "market_address": "臺南市佳里區建南里光復路１９２號",
+        "pay_list": [
+            "信用卡"
         ]
     }
 ]

@@ -1,6 +1,51 @@
 [
     {
         "index": 1,
+        "shop": "二頭海產部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "口湖鄉",
+        "market_address": "雲林縣口湖鄉下崙村漁港路２６０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "海口有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "口湖鄉",
+        "market_address": "雲林縣口湖鄉梧南村東興路１―１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "來來便當店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "口湖鄉",
+        "market_address": "雲林縣口湖鄉崙東村中山路７０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "尚發早餐店",
         "category": [
             "餐飲"
@@ -15,7 +60,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 5,
         "shop": "一元冷飲站",
         "category": [
             "餐飲"
@@ -25,40 +70,11 @@
         "area": "口湖鄉",
         "market_address": "雲林縣口湖鄉湖東村中正路一段１９８號",
         "pay_list": [
-            "悠遊付",
-            "街口",
             "Pi 拍錢包",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "海口有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "口湖鄉",
-        "market_address": "雲林縣口湖鄉梧南村東興路１―１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "二頭海產部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "口湖鄉",
-        "market_address": "雲林縣口湖鄉下崙村漁港路２６０號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
         ]
     }
 ]

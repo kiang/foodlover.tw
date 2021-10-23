@@ -1,21 +1,39 @@
 [
     {
         "index": 1,
-        "shop": "紅磨坊蛋糕工作室",
+        "shop": "凱樂企業社",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮仁愛里１１鄰北興路２段９５號１樓及２樓",
+        "market_address": "新竹縣竹東鎮竹東里００３鄰東寧路三段５２號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
         ]
     },
     {
         "index": 2,
+        "shop": "拉凡德手作坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹東鎮",
+        "market_address": "新竹縣竹東鎮頭重里０１２鄰竹中路８７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "東順烘焙坊",
         "category": [
             "糕餅"
@@ -30,7 +48,7 @@
         ]
     },
     {
-        "index": 3,
+        "index": 4,
         "shop": "有田手工烘焙坊",
         "category": [
             "糕餅"
@@ -45,48 +63,29 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "樂多手作現烤蛋糕",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮東華里長春路２段３號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
         "index": 5,
-        "shop": "凱樂企業社",
+        "shop": "菓風小舖股份有限公司新竹門市部",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮竹東里００３鄰東寧路三段５２號",
+        "market_address": "新竹縣竹東鎮瑞峰里００４鄰瑞峰９６號",
         "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "金聯成食品行",
+        "shop": "紅磨坊蛋糕工作室",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮仁愛路２４６號",
+        "market_address": "新竹縣竹東鎮仁愛里１１鄰北興路２段９５號１樓及２樓",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -94,17 +93,15 @@
     },
     {
         "index": 7,
-        "shop": "拉凡德手作坊",
+        "shop": "法森食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮頭重里０１２鄰竹中路８７號１樓",
+        "market_address": "新竹縣竹東鎮頭重里００８鄰中興路４段９００巷１號１樓",
         "pay_list": [
-            "街口",
-            "信用卡",
             "台灣pay"
         ]
     },
@@ -125,16 +122,34 @@
     },
     {
         "index": 9,
-        "shop": "法森食品有限公司",
+        "shop": "金聯成食品行",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "竹東鎮",
-        "market_address": "新竹縣竹東鎮頭重里００８鄰中興路４段９００巷１號１樓",
+        "market_address": "新竹縣竹東鎮仁愛路２４６號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "樂多手作現烤蛋糕",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "竹東鎮",
+        "market_address": "新竹縣竹東鎮東華里長春路２段３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

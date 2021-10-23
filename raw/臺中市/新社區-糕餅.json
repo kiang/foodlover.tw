@@ -1,21 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "初啼健康烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "新社區",
-        "market_address": "臺中市新社區協成里興隆街８３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "墨鏵國際有限公司",
         "category": [
             "糕餅"
@@ -26,6 +11,22 @@
         "market_address": "臺中市新社區東興里東湖街一段８８號",
         "pay_list": [
             "歐付寶"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "初啼健康烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "新社區",
+        "market_address": "臺中市新社區協成里興隆街８３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -40,10 +41,11 @@
         "area": "新社區",
         "market_address": "臺中市新社區新社里興安路２２號",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     }
 ]

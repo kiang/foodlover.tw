@@ -1,6 +1,38 @@
 [
     {
         "index": 1,
+        "shop": "卷卷有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里００５鄰學田路８巷６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "歐付寶",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "歡迎棄標企業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里中山路３段１２０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "小蜜蜂商行",
         "category": [
             "糕餅"
@@ -14,93 +46,23 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "古舍穀香養生食品坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區烏日里光日路４０６號２樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "柴窯火腿製造所股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區前竹里中山路一段２２９巷２５弄１２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
         "index": 4,
-        "shop": "六月初一股份有限公司",
+        "shop": "卷卷有限公司烏日店",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區北里里太明路６７巷１９號",
+        "market_address": "臺中市烏日區三和里學田路８巷４０號",
         "pay_list": [
-            "信用卡"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 5,
-        "shop": "黑沃餐飲股份有限公司林新營業處",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區榮泉里榮和路１６８號１樓",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "吳寶春食品股份有限公司台中高鐵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "金布丹中央山脈生物科技有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里中山路三段２９７號１樓",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "桂香新綠有限公司",
+        "shop": "花灑果食有限公司台中高鐵營業所",
         "category": [
             "糕餅"
         ],
@@ -109,14 +71,42 @@
         "area": "烏日區",
         "market_address": "臺中市烏日區三和里站區二路８號",
         "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
+            "街口",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 9,
+        "index": 6,
+        "shop": "胖先生食品股份有限公司高鐵分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號２樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "丰丹嚴選本舖股份有限公司台中高鐵營業所",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
         "shop": "裕珍馨食品股份有限公司台中烏日高鐵門市",
         "category": [
             "糕餅"
@@ -130,7 +120,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 9,
         "shop": "沃農士食品股份有限公司高鐵台中店",
         "category": [
             "糕餅"
@@ -140,12 +130,13 @@
         "area": "烏日區",
         "market_address": "臺中市烏日區三和里站區二路８號",
         "pay_list": [
-            "悠遊付",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 11,
+        "index": 10,
         "shop": "法布甜股份有限公司台中高鐵門市",
         "category": [
             "糕餅"
@@ -155,44 +146,29 @@
         "area": "烏日區",
         "market_address": "臺中市烏日區三和里站區二路８號",
         "pay_list": [
-            "悠遊付",
             "信用卡",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 12,
-        "shop": "卷卷有限公司",
+        "index": 11,
+        "shop": "金布丹中央山脈生物科技有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "烏日區",
-        "market_address": "臺中市烏日區三和里００５鄰學田路８巷６８號１樓",
+        "market_address": "臺中市烏日區三和里中山路三段２９７號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "歐付寶"
         ]
     },
     {
-        "index": 13,
-        "shop": "胖先生食品股份有限公司高鐵分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "烏日區",
-        "market_address": "臺中市烏日區三和里站區二路８號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "花灑果食有限公司台中高鐵營業所",
+        "index": 12,
+        "shop": "桂香新綠有限公司",
         "category": [
             "糕餅"
         ],
@@ -201,7 +177,85 @@
         "area": "烏日區",
         "market_address": "臺中市烏日區三和里站區二路８號",
         "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "黑沃餐飲股份有限公司林新營業處",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區榮泉里榮和路１６８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "統一多拿滋股份有限公司烏日高鐵門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區三和里站區二路８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "柴窯火腿製造所股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區前竹里中山路一段２２９巷２５弄１２號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "六月初一股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區北里里太明路６７巷１９號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "古舍穀香養生食品坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "烏日區",
+        "market_address": "臺中市烏日區烏日里光日路４０６號２樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

@@ -1,6 +1,65 @@
 [
     {
         "index": 1,
+        "shop": "皇珈早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村中山路１５５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "池上飯包有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村忠孝路２５９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "山東小吃",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村１鄰中山路１９號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "池上飯包店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村忠孝路２５９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "賴老師的家企業社",
         "category": [
             "餐飲"
@@ -14,7 +73,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 6,
         "shop": "巧本味蔬食人文料理",
         "category": [
             "餐飲"
@@ -24,11 +83,12 @@
         "area": "池上鄉",
         "market_address": "臺東縣池上鄉福原村０１１鄰靜修路１０２號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 7,
         "shop": "郁川餐坊",
         "category": [
             "餐飲"
@@ -38,100 +98,57 @@
         "area": "池上鄉",
         "market_address": "臺東縣池上鄉福原村０１１鄰中山路２８４號１樓",
         "pay_list": [
+            "Pi 拍錢包",
             "台灣pay",
-            "悠遊卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "瑞尹咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村忠孝路１３６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "古大俠藥膳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村０１２鄰中山路２５５－１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "樂貝商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村中山路２４５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
             "悠遊卡"
         ]
     },
     {
-        "index": 7,
-        "shop": "池上綠之鄉飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村００１鄰中山路６１號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
         "index": 8,
-        "shop": "明園小館",
+        "shop": "池上豆之間",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村中山路２００號",
+        "market_address": "臺東縣池上鄉福原村中山路通水巷１２號",
         "pay_list": [
-            "台灣pay"
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
         ]
     },
     {
         "index": 9,
-        "shop": "田味家手作工坊",
+        "shop": "大地飯店",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村００９鄰中山路２４２號",
+        "market_address": "臺東縣池上鄉福原村忠孝路２１０號",
         "pay_list": [
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
         "index": 10,
+        "shop": "漢堡大師池上中山店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村中山路２６８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "玉蟾園陶藝坊",
         "category": [
             "餐飲"
@@ -140,20 +157,6 @@
         "city": "臺東縣",
         "area": "池上鄉",
         "market_address": "臺東縣池上鄉錦園村新開園路１６２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "東港生魚片小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "池上鄉",
-        "market_address": "臺東縣池上鄉新興村新興路１２７號",
         "pay_list": [
             "信用卡"
         ]
@@ -175,31 +178,237 @@
     },
     {
         "index": 13,
-        "shop": "山東小吃",
+        "shop": "原鄉豆花",
         "category": [
-            "餐飲"
+            "餐飲",
+            "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村１鄰中山路１９號",
+        "market_address": "臺東縣池上鄉福原村福吉二街５７巷１４號１樓",
         "pay_list": [
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 14,
-        "shop": "池上飯包有限公司",
+        "shop": "池上綠之鄉飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "池上鄉",
-        "market_address": "臺東縣池上鄉福原村忠孝路２５９號１樓",
+        "market_address": "臺東縣池上鄉福原村００１鄰中山路６１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "明園小館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村中山路２００號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "瑞尹咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村忠孝路１３６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "如初蓋飯",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福文村中華路５５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "古大俠藥膳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村０１２鄰中山路２５５－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "樂貝商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村中山路２４５號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "九號咖啡室內裝修工作室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉慶豐村６鄰５６號",
         "pay_list": [
             "信用卡",
-            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "萬安稻米原鄉館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉萬安村萬安路１－１２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "台灣糖業股份有限公司休閒遊憩事業部池上牧野渡假村",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉新興村１１０－１２７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "關山汽車股份有限公司池上站營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福文村鐵花路３０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "台灣糖業股份有限公司池上會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉新興村新興路１１０－１２７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "好室長濱有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福文村０１３鄰大同路６３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "水也上居",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村中華路２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "日暉池上股份有限公司台東分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉新興村新興路１０７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "田味家手作工坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "池上鄉",
+        "market_address": "臺東縣池上鄉福原村００９鄰中山路２４２號",
+        "pay_list": [
             "台灣pay"
         ]
     }

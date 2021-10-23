@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "宜蘭縣五結鄉協和村親河路一段９１、９３號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[宜蘭縣]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-8984),E:-1,N:-1",
+      "OutTraceInfo": "[宜蘭縣]\t { 模糊比對 } (五結鄉)\t找到符合的[鄉鎮市區]，(協和村)\t找到符合的[村里]，(親河路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(9193號)\t進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -8984 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "宜蘭縣五結鄉協和村20鄰親河路一段209號",
+      "COUNTY": "宜蘭縣",
+      "TOWN": "五結鄉",
+      "VILLAGE": "協和村",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "親河路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "209號",
+      "X": 121.816590,
+      "Y": 24.668032
+    }
+  ]
+}

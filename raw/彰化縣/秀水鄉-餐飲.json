@@ -1,6 +1,42 @@
 [
     {
         "index": 1,
+        "shop": "喬品壽司店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉安東村彰水路２段７０２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "樂洋早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉埔崙村番花路５５８號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "鴻鑫小吃店",
         "category": [
             "餐飲"
@@ -14,7 +50,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 4,
         "shop": "和樂茶飲店",
         "category": [
             "餐飲"
@@ -24,15 +60,14 @@
         "area": "秀水鄉",
         "market_address": "彰化縣秀水鄉埔崙村彰水路二段２６９號１樓",
         "pay_list": [
-            "iPASS 一卡通",
             "icash pay",
+            "台灣pay",
             "信用卡",
-            "悠遊卡",
-            "台灣pay"
+            "悠遊卡"
         ]
     },
     {
-        "index": 3,
+        "index": 5,
         "shop": "毛尖茶行",
         "category": [
             "餐飲"
@@ -42,63 +77,79 @@
         "area": "秀水鄉",
         "market_address": "彰化縣秀水鄉福安村彰水路二段６２３號１樓",
         "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "東昇茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉安東村彰水路一段９７、９９號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "喬品壽司店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉安東村彰水路２段７０２號１樓",
-        "pay_list": [
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "樂洋早餐店",
+        "shop": "多多茶行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉埔崙村番花路５５８號",
+        "market_address": "彰化縣秀水鄉福安村彰水路２段５４９號１樓",
         "pay_list": [
-            "悠遊付",
+            "icash pay",
             "信用卡",
             "悠遊卡",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
+        "shop": "杉沐有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉福安村彰水路２段３５８－２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "享樂茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉福安村彰水路２段６０３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "沏翠堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉福安村彰水路二段４８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "阿爽小吃",
         "category": [
             "餐飲"
@@ -112,41 +163,54 @@
         ]
     },
     {
-        "index": 8,
-        "shop": "泉泉飲料店",
+        "index": 11,
+        "shop": "動心國際股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉鶴鳴村１２鄰民主街２１７號１樓",
+        "market_address": "彰化縣秀水鄉曾厝村０１２鄰曾福巷１０５號",
         "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
             "台灣pay",
-            "街口"
+            "信用卡"
         ]
     },
     {
-        "index": 9,
-        "shop": "杉沐有限公司",
+        "index": 12,
+        "shop": "全國加油站股份有限公司全國鹿港加油站販售部",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉福安村彰水路２段３５８－２號",
+        "market_address": "彰化縣秀水鄉鶴鳴村彰鹿路４１４號",
         "pay_list": [
-            "街口",
             "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 10,
+        "index": 13,
+        "shop": "東昇茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉安東村彰水路一段９７、９９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
         "shop": "天都日式料理店",
         "category": [
             "餐飲"
@@ -160,7 +224,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 15,
         "shop": "秀中冷飲店",
         "category": [
             "餐飲"
@@ -170,17 +234,17 @@
         "area": "秀水鄉",
         "market_address": "彰化縣秀水鄉安東村中山路３６９號１樓",
         "pay_list": [
-            "橘子支付",
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 12,
+        "index": 16,
         "shop": "鴻鈺小吃店",
         "category": [
             "餐飲"
@@ -190,43 +254,55 @@
         "area": "秀水鄉",
         "market_address": "彰化縣秀水鄉安東村彰水路二段７５４號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 13,
-        "shop": "多多茶行",
+        "index": 17,
+        "shop": "泉泉飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉福安村彰水路２段５４９號１樓",
+        "market_address": "彰化縣秀水鄉鶴鳴村１２鄰民主街２１７號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "享樂茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "秀水鄉",
-        "market_address": "彰化縣秀水鄉福安村彰水路２段６０３號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
+            "Pi 拍錢包",
             "台灣pay",
-            "街口"
+            "悠遊付",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "天富小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉福安村中山路５１１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "PIZZA HUT必勝客-彰化秀水店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "秀水鄉",
+        "market_address": "彰化縣秀水鄉福安村０２３鄰彰水路二段６５９號",
+        "pay_list": [
+            "信用卡"
         ]
     }
 ]

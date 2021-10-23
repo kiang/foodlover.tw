@@ -1,20 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "波波餃食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "思穎企業社",
         "category": [
             "餐飲"
@@ -24,15 +10,16 @@
         "area": "瑞穗鄉",
         "market_address": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號１樓",
         "pay_list": [
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 2,
         "shop": "老家小吃店",
         "category": [
             "餐飲"
@@ -46,23 +33,7 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "瑞興飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "花蓮",
-        "city": "花蓮縣",
-        "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 5,
+        "index": 3,
         "shop": "草原健康美食館",
         "category": [
             "餐飲"
@@ -76,57 +47,82 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "帕芙比比商行",
+        "index": 4,
+        "shop": "掃叭頂民宿",
         "category": [
-            "餐飲",
-            "糕餅"
+            "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞穗村０１５鄰中正北路一段１８９號",
+        "market_address": "花蓮縣瑞穗鄉舞鶴村９鄰舞鶴２１１―１號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "悠遊卡",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "原鄉溫泉民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村五福路３２５號",
+        "pay_list": [
             "台灣pay",
-            "街口"
+            "信用卡"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "虎爺溫泉休閒雅居",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村３鄰祥北路２段１０１―１號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
-        "shop": "陳家小館",
+        "shop": "愛樂分民宿",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞穗村１６鄰國光北路２６９號",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村０１２鄰國光北路８８號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "街口"
+            "信用卡"
         ]
     },
     {
         "index": 8,
-        "shop": "饗饕美食部",
+        "shop": "奕倫實業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞穗村４鄰中山路１段６５號",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村３鄰溫泉路１段２３１號",
         "pay_list": [
+            "icash pay",
+            "Pi 拍錢包",
             "台灣pay",
-            "悠遊卡"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
@@ -145,40 +141,287 @@
     },
     {
         "index": 10,
-        "shop": "掃叭頂民宿",
+        "shop": "陳家小館",
         "category": [
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉舞鶴村９鄰舞鶴２１１―１號",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村１６鄰國光北路２６９號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "饗饕美食部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村４鄰中山路１段６５號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "黃家民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村５鄰北五路３２１號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 11,
-        "shop": "奕倫實業有限公司",
+        "index": 13,
+        "shop": "新鶴茶園",
         "category": [
-            "夜市\/市場攤販",
             "餐飲"
         ],
         "zone": "花蓮",
         "city": "花蓮縣",
         "area": "瑞穗鄉",
-        "market_address": "花蓮縣瑞穗鄉瑞祥村３鄰溫泉路１段２３１號",
+        "market_address": "花蓮縣瑞穗鄉舞鶴村中正南路２段７６―５號",
         "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "千草園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞美村１３鄰中山路２段２０８－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "羊仔厝生態庭園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村００５鄰中正北路一段２９號一樓",
+        "pay_list": [
             "icash pay",
-            "悠遊付",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "蝴蝶谷實業股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉富源村廣東路１６１號",
+        "pay_list": [
             "台灣pay",
-            "街口"
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "元福產業股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞北村８鄰瑞北１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "瑞穗天合國際觀光酒店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村０１２鄰溫泉路二段３６８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "虎爺溫泉休閒事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村祥北路２段１０１號",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "蜜滋賀實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村１４鄰溫泉一街１７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "吉蒸牧場有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞良村９鄰中山路３段２３０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "瑞興飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "波波餃食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "東戀民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞祥村０１３鄰溫泉路二段１６７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "鶴山茶園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉舞鶴村０１４鄰中正南路２段７６－１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "北回的咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉舞鶴村０１４鄰中正南路二段３３２－１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "帕芙比比商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "花蓮",
+        "city": "花蓮縣",
+        "area": "瑞穗鄉",
+        "market_address": "花蓮縣瑞穗鄉瑞穗村０１５鄰中正北路一段１８９號",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

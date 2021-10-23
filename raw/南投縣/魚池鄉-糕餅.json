@@ -1,6 +1,25 @@
 [
     {
         "index": 1,
+        "shop": "歐根國際有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "南投縣",
+        "area": "魚池鄉",
+        "market_address": "南投縣魚池鄉水社村名勝街３２號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "上品行",
         "category": [
             "糕餅"
@@ -11,20 +30,6 @@
         "market_address": "南投縣魚池鄉日月村義勇街４２號",
         "pay_list": [
             "信用卡"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "十字初戀伊達邵紅茶奶香酥",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "魚池鄉",
-        "market_address": "南投縣魚池鄉日月村文化街９８號",
-        "pay_list": [
-            "台灣pay"
         ]
     },
     {
@@ -39,25 +44,23 @@
         "area": "魚池鄉",
         "market_address": "南投縣魚池鄉中明村文化巷４１號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 4,
-        "shop": "歐根國際有限公司",
+        "shop": "十字初戀伊達邵紅茶奶香酥",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "南投縣",
         "area": "魚池鄉",
-        "market_address": "南投縣魚池鄉水社村名勝街３２號",
+        "market_address": "南投縣魚池鄉日月村文化街９８號",
         "pay_list": [
-            "悠遊付",
             "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     }
 ]

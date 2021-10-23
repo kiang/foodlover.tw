@@ -29,28 +29,29 @@
     },
     {
         "index": 3,
-        "shop": "哞哞屋烘焙食品",
+        "shop": "九宮酪二吋創意甜點",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新東里６鄰新興路東興巷４０號１樓",
+        "market_address": "臺中市龍井區新東里新興路１巷２號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 4,
-        "shop": "騰懿食品行",
+        "shop": "惡魔家",
         "category": [
-            "糕餅"
+            "糕餅",
+            "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區山腳里０１３鄰沙田路６段１２８號",
+        "market_address": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號１樓",
         "pay_list": [
             "台灣pay",
             "街口"
@@ -73,17 +74,32 @@
     },
     {
         "index": 6,
-        "shop": "惡魔家",
+        "shop": "哞哞屋烘焙食品",
         "category": [
-            "糕餅",
-            "餐飲"
+            "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "龍井區",
-        "market_address": "臺中市龍井區新東里臺灣大道５段３巷６２弄２０號１樓",
+        "market_address": "臺中市龍井區新東里６鄰新興路東興巷４０號１樓",
         "pay_list": [
-            "街口"
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "騰懿食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "龍井區",
+        "market_address": "臺中市龍井區山腳里０１３鄰沙田路６段１２８號",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

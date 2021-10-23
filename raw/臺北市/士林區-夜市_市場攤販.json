@@ -1,6 +1,37 @@
 [
     {
         "index": 1,
+        "shop": "士林夜市-018\/麻辣魚蛋",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "士林夜市-037佩佩屋服飾",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "春和捲食",
         "category": [
             "夜市\/市場攤販"
@@ -15,50 +46,23 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "超級好吃小吃店",
+        "index": 4,
+        "shop": "雨農市場-雨儂花房",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區中正路１９９號旁",
+        "market_address": "臺北市士林區雨農路25 號",
         "pay_list": [
+            "信用卡",
             "街口"
         ]
     },
     {
-        "index": 3,
-        "shop": "福華廣場攤販集中場-86",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區通河街323巷與325巷間",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "福華廣場攤販集中場-24",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區通河街323巷與325巷間",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
         "index": 5,
-        "shop": "士林市場-短棟35號",
+        "shop": "士林市場-短棟40號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -67,12 +71,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 6,
-        "shop": "士林市場-短棟27號",
+        "shop": "士林市場-短棟38號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -81,12 +85,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 7,
-        "shop": "士林市場-短棟19號",
+        "shop": "士林市場-短棟30號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -95,12 +99,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 8,
-        "shop": "士林市場-短棟07號",
+        "shop": "士林市場-短棟23號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -109,12 +113,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "台灣pay"
         ]
     },
     {
         "index": 9,
-        "shop": "士林市場-長棟08號",
+        "shop": "士林市場-短棟18號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -123,12 +127,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 10,
-        "shop": "士林市場-地下1樓94號",
+        "shop": "士林市場-短棟17號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -137,12 +141,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 11,
-        "shop": "士林市場-地下1樓92號",
+        "shop": "士林市場-長棟14號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -151,12 +155,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 12,
-        "shop": "士林市場-地下1樓90號",
+        "shop": "士林市場-長棟05號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -165,12 +169,13 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "信用卡",
+            "橘子支付"
         ]
     },
     {
         "index": 13,
-        "shop": "士林市場-地下1樓78號",
+        "shop": "士林市場-地下1樓85號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -179,12 +184,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "台灣pay"
         ]
     },
     {
         "index": 14,
-        "shop": "士林市場-地下1樓56號",
+        "shop": "士林市場-地下1樓81號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -193,12 +198,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 15,
-        "shop": "士林市場-地下1樓36號上午",
+        "shop": "士林市場-地下1樓62號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -207,12 +212,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
         ]
     },
     {
         "index": 16,
-        "shop": "士林市場-地下1樓35號",
+        "shop": "士林市場-地下1樓34號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -221,12 +226,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 17,
-        "shop": "士林市場-地下1樓25號",
+        "shop": "士林市場-地下1樓26號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -235,13 +240,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 18,
-        "shop": "士林市場-地下1樓23號",
+        "shop": "士林市場-地下1樓21號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -250,13 +254,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 19,
-        "shop": "士林市場-地下1樓20號",
+        "shop": "士林市場-地下1樓15號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -265,12 +268,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 20,
-        "shop": "士林市場-地下1樓13號",
+        "shop": "士林市場-地下1樓05號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -279,12 +282,13 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "信用卡",
+            "街口"
         ]
     },
     {
         "index": 21,
-        "shop": "士林市場-地下1樓03號",
+        "shop": "士林市場-地下1樓02號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -293,12 +297,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 22,
-        "shop": "士林市場-一樓225號下午",
+        "shop": "士林市場-一樓220號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -307,12 +311,13 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "iPASS 一卡通"
+            "LINE Pay Money",
+            "橘子支付"
         ]
     },
     {
         "index": 23,
-        "shop": "士林市場-一樓219號下午",
+        "shop": "士林市場-一樓217號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -321,12 +326,13 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 24,
-        "shop": "士林市場-一樓218號下午",
+        "shop": "士林市場-一樓216號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -335,12 +341,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay"
         ]
     },
     {
         "index": 25,
-        "shop": "士林市場-一樓198號下午",
+        "shop": "士林市場-一樓214號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -349,12 +355,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay"
         ]
     },
     {
         "index": 26,
-        "shop": "士林市場-一樓196號下午",
+        "shop": "士林市場-一樓213號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -368,7 +374,7 @@
     },
     {
         "index": 27,
-        "shop": "士林市場-一樓184號下午",
+        "shop": "士林市場-一樓212號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -377,12 +383,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 28,
-        "shop": "士林市場-一樓180號上午",
+        "shop": "士林市場-一樓211號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -391,12 +397,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 29,
-        "shop": "士林市場-一樓178號下午",
+        "shop": "士林市場-一樓211號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -405,12 +411,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay"
         ]
     },
     {
         "index": 30,
-        "shop": "士林市場-一樓175號上午",
+        "shop": "士林市場-一樓208號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -419,12 +425,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 31,
-        "shop": "士林市場-一樓172號下午",
+        "shop": "士林市場-一樓201號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -433,13 +439,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
-            "iPASS 一卡通"
+            "信用卡"
         ]
     },
     {
         "index": 32,
-        "shop": "士林市場-一樓163號下午",
+        "shop": "士林市場-一樓199號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -448,12 +453,13 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "LINE Pay Money",
+            "橘子支付"
         ]
     },
     {
         "index": 33,
-        "shop": "士林市場-一樓159號上午",
+        "shop": "士林市場-一樓189號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -462,12 +468,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "台灣pay"
         ]
     },
     {
         "index": 34,
-        "shop": "士林市場-一樓158號下午",
+        "shop": "士林市場-一樓187號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -476,12 +482,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 35,
-        "shop": "士林市場-一樓150號",
+        "shop": "士林市場-一樓186號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -490,12 +496,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "街口"
         ]
     },
     {
         "index": 36,
-        "shop": "士林市場-一樓149號下午",
+        "shop": "士林市場-一樓182號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -504,12 +510,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 37,
-        "shop": "士林市場-一樓143號上午",
+        "shop": "士林市場-一樓157號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -518,12 +524,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 38,
-        "shop": "士林市場-一樓122號上午",
+        "shop": "士林市場-一樓154號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -532,12 +538,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay"
         ]
     },
     {
         "index": 39,
-        "shop": "士林市場-一樓121號上午",
+        "shop": "士林市場-一樓152號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -546,12 +552,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶"
+            "橘子支付"
         ]
     },
     {
         "index": 40,
-        "shop": "士林市場-一樓120號下午",
+        "shop": "士林市場-一樓151號",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -560,13 +566,12 @@
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "iPASS 一卡通"
+            "橘子支付"
         ]
     },
     {
         "index": 41,
-        "shop": "士林市場-一樓118號上午",
+        "shop": "士林市場-一樓148號下午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -580,7 +585,7 @@
     },
     {
         "index": 42,
-        "shop": "士林市場-一樓114號下午",
+        "shop": "士林市場-一樓147號上午",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -588,529 +593,546 @@
         "city": "臺北市",
         "area": "士林區",
         "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "士林市場-一樓108號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 44,
-        "shop": "士林市場-一樓101號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "士林市場-一樓100號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "士林市場-一樓099號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 47,
-        "shop": "士林市場-一樓097號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 48,
-        "shop": "士林市場-一樓070號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 49,
-        "shop": "士林市場-一樓051號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 50,
-        "shop": "士林市場-一樓048號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 51,
-        "shop": "士林市場-一樓045號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "士林市場-一樓035號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "士林市場-一樓033號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "士林市場-一樓032號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "士東市場-0113",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
             "橘子支付"
         ]
     },
     {
-        "index": 56,
-        "shop": "士東市場-0111",
+        "index": 43,
+        "shop": "士林市場-一樓144號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "士林市場-一樓141號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "士林市場-一樓141號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "士林市場-一樓135號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "士林市場-一樓131號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "士林市場-一樓127號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "士林市場-一樓126號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "士林市場-一樓119號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "士林市場-一樓114號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "士林市場-一樓113號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "士林市場-一樓112號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "士林市場-一樓112號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "士林市場-一樓111號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "士林市場-一樓110號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
             "橘子支付"
         ]
     },
     {
         "index": 57,
-        "shop": "士東市場-0103",
+        "shop": "士林市場-一樓108號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 58,
-        "shop": "士東市場-0101",
+        "shop": "士林市場-一樓106號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 59,
-        "shop": "士東市場-0093",
+        "shop": "士林市場-一樓098號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 60,
-        "shop": "士東市場-0084",
+        "shop": "士林市場-一樓096號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 61,
-        "shop": "士東市場-0083",
+        "shop": "士林市場-一樓090號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 62,
-        "shop": "士東市場-0080",
+        "shop": "士林市場-一樓087號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 63,
-        "shop": "士東市場-0077",
+        "shop": "士林市場-一樓086號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 64,
-        "shop": "士東市場-0076",
+        "shop": "士林市場-一樓085號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 65,
-        "shop": "士東市場-0074",
+        "shop": "士林市場-一樓080號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 66,
-        "shop": "士東市場-0070",
+        "shop": "士林市場-一樓077號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 67,
-        "shop": "士東市場-0068",
+        "shop": "士林市場-一樓072號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "橘子支付"
         ]
     },
     {
         "index": 68,
-        "shop": "士東市場-0057",
+        "shop": "士林市場-一樓067號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付",
-            "iPASS 一卡通"
+            "橘子支付"
         ]
     },
     {
         "index": 69,
-        "shop": "士東市場-0054",
+        "shop": "士林市場-一樓065號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
             "橘子支付"
         ]
     },
     {
         "index": 70,
-        "shop": "士東市場-0042",
+        "shop": "士林市場-一樓063號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 71,
-        "shop": "士東市場-0040",
+        "shop": "士林市場-一樓053號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "橘子支付",
-            "iPASS 一卡通"
+            "橘子支付"
         ]
     },
     {
         "index": 72,
-        "shop": "士東市場-0039",
+        "shop": "士林市場-一樓031號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
             "橘子支付"
         ]
     },
     {
         "index": 73,
-        "shop": "士東市場-0032",
+        "shop": "士林市場-一樓026號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 74,
-        "shop": "士東市場-0010",
+        "shop": "士林市場-一樓024號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
             "橘子支付"
         ]
     },
     {
         "index": 75,
-        "shop": "士東市場-0009",
+        "shop": "士林市場-一樓020號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 76,
-        "shop": "士東市場-0008",
+        "shop": "士林市場-一樓010號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 77,
-        "shop": "士東市場-0003",
+        "shop": "士林市場-一樓007號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 78,
-        "shop": "士東市場-0002",
+        "shop": "士林市場-一樓006號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 79,
+        "shop": "士林市場-一樓002號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 80,
+        "shop": "士林市場-一樓001號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 81,
+        "shop": "士東市場-0249",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -1119,25 +1141,921 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
-        "index": 79,
-        "shop": "薛玄微",
+        "index": 82,
+        "shop": "士東市場-0237",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區文林路３９號後",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 80,
+        "index": 83,
+        "shop": "士東市場-0236",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 84,
+        "shop": "士東市場-0229",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 85,
+        "shop": "士東市場-0227",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 86,
+        "shop": "士東市場-0216",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "士東市場-0211",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "士東市場-0207",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 89,
+        "shop": "士東市場-0205",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 90,
+        "shop": "士東市場-0202",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 91,
+        "shop": "士東市場-0201",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 92,
+        "shop": "士東市場-0196",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 93,
+        "shop": "士東市場-0192",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 94,
+        "shop": "士東市場-0189",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 95,
+        "shop": "士東市場-0186",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 96,
+        "shop": "士東市場-0183",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 97,
+        "shop": "士東市場-0175",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 98,
+        "shop": "士東市場-0173",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 99,
+        "shop": "士東市場-0171",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 100,
+        "shop": "士東市場-0148",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 101,
+        "shop": "士東市場-0147",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 102,
+        "shop": "士東市場-0142",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 103,
+        "shop": "士東市場-0129",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 104,
+        "shop": "士東市場-0127",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 105,
+        "shop": "士東市場-0122",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 106,
+        "shop": "士東市場-0119",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 107,
+        "shop": "士東市場-0118",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 108,
+        "shop": "士東市場-0116",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 109,
+        "shop": "士東市場-0115",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 110,
+        "shop": "士東市場-0114",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 111,
+        "shop": "士東市場-0110",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 112,
+        "shop": "士東市場-0106",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 113,
+        "shop": "士東市場-0098",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 114,
+        "shop": "士東市場-0097",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 115,
+        "shop": "士東市場-0096",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 116,
+        "shop": "士東市場-0095",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 117,
+        "shop": "士東市場-0094",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 118,
+        "shop": "士東市場-0087",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 119,
+        "shop": "士東市場-0081",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 120,
+        "shop": "士東市場-0075",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 121,
+        "shop": "士東市場-0071",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 122,
+        "shop": "士東市場-0062",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 123,
+        "shop": "士東市場-0061",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 124,
+        "shop": "士東市場-0056",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 125,
+        "shop": "士東市場-0046",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 126,
+        "shop": "士東市場-0036",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 127,
+        "shop": "士東市場-0034",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 128,
+        "shop": "士東市場-0026",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 129,
+        "shop": "士東市場-0016",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 130,
+        "shop": "士東市場-0014",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 131,
+        "shop": "士東市場-0005",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 132,
+        "shop": "士東市場-0001",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 133,
+        "shop": "化骨綿掌排骨酥",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區大南路８４號前",
+        "pay_list": [
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 134,
+        "shop": "阿威地瓜球",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區大南路１２號１樓（左側）",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 135,
+        "shop": "老大薯條二店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區文林路４１號（後）",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 136,
+        "shop": "士林廟口我豪蝦",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區大南路８４號前（路旁）",
+        "pay_list": [
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 137,
+        "shop": "宏業早餐店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區社新里社子街４７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 138,
+        "shop": "揚陞商號",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區福華里承德路４段４０巷１０８號左旁",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 139,
+        "shop": "乾燒蛤專賣士林店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區文林路４１號（後）",
+        "pay_list": [
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 140,
+        "shop": "乾燒蛤大東店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區文林路４１號（前）",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 141,
         "shop": "美味第一",
         "category": [
             "夜市\/市場攤販"
@@ -1151,7 +2069,7 @@
         ]
     },
     {
-        "index": 81,
+        "index": 142,
         "shop": "士林廟口烤魷魚",
         "category": [
             "夜市\/市場攤販"
@@ -1166,7 +2084,7 @@
         ]
     },
     {
-        "index": 82,
+        "index": 143,
         "shop": "浪花捲手作霜淇淋",
         "category": [
             "夜市\/市場攤販"
@@ -1181,1220 +2099,364 @@
         ]
     },
     {
-        "index": 83,
-        "shop": "化骨綿掌排骨酥",
+        "index": 144,
+        "shop": "鱻品珍美食坊",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區大南路８４號前",
+        "market_address": "臺北市士林區富光里延平北路５段１５９號",
         "pay_list": [
-            "街口",
-            "橘子支付"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 84,
-        "shop": "阿威地瓜球",
+        "index": 145,
+        "shop": "士林市場-一樓108號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區大南路１２號１樓（左側）",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 146,
+        "shop": "士林市場-一樓104號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 85,
-        "shop": "老大薯條二店",
+        "index": 147,
+        "shop": "士林市場-一樓101號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區文林路４１號（後）",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 148,
+        "shop": "士林市場-一樓100號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 149,
+        "shop": "士林市場-一樓099號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 150,
+        "shop": "士林市場-一樓097號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 151,
+        "shop": "士林市場-一樓090號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 152,
+        "shop": "士林市場-一樓070號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 153,
+        "shop": "士林市場-一樓051號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 154,
+        "shop": "士林市場-一樓048號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 155,
+        "shop": "士林市場-一樓045號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 156,
+        "shop": "士林市場-一樓035號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 157,
+        "shop": "士林市場-一樓033號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 158,
+        "shop": "士林市場-一樓032號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 159,
+        "shop": "士東市場-0113",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
             "悠遊付"
         ]
     },
     {
-        "index": 86,
-        "shop": "士林廟口我豪蝦",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區大南路８４號前（路旁）",
-        "pay_list": [
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 87,
-        "shop": "吳順楓",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區福華路１６４巷１６號旁",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 88,
-        "shop": "陳偉芬",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓２３６",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 89,
-        "shop": "戴孟松",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓１４８攤",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 90,
-        "shop": "陳柏桐",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓１２９攤",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 91,
-        "shop": "雨農市場-雞當家",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區雨農路25 號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 92,
-        "shop": "士林夜市-037佩佩屋服飾",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay",
-            "橘子支付",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 93,
-        "shop": "雞賞放山土雞",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區文林路５０７號騎樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 94,
-        "shop": "大上海生煎包",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區文林路９９號１樓後棟",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 95,
-        "shop": "士林夜市-富發牌",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 96,
-        "shop": "施清泉",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓２４９",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 97,
-        "shop": "施碩彥",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓２３７",
-        "pay_list": [
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 98,
-        "shop": "孟繁荔",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓１４７攤",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 99,
-        "shop": "林智忠",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路１００號２樓１４２攤",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 100,
-        "shop": "林曉丹",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區大南路１０號前面",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 101,
-        "shop": "蕭志宏",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區大南路５２號旁",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 102,
-        "shop": "雨農市場-雨儂花房",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區雨農路25 號",
-        "pay_list": [
-            "icash pay",
-            "iPASS 一卡通",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 103,
-        "shop": "士林夜市-114\/超人氣皮帶包包",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 104,
-        "shop": "士林夜市-士林車輪餅",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 105,
-        "shop": "士林夜市-食在好味濃郁起司章魚燒",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay",
-            "橘子支付",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 106,
-        "shop": "士林夜市-018\/麻辣魚蛋",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "icash pay",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 107,
-        "shop": "士林夜市-94",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "1.臺北市士林區大東路(大南路、大北路之間)、大南路(大東路、小西街之間)及大溪路兩側",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 108,
-        "shop": "士林市場-短棟40號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 109,
-        "shop": "士林市場-短棟38號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 110,
-        "shop": "士林市場-短棟30號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 111,
-        "shop": "士林市場-短棟18號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 112,
-        "shop": "士林市場-短棟17號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 113,
-        "shop": "士林市場-長棟22號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 114,
-        "shop": "士林市場-長棟14號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 115,
-        "shop": "士林市場-長棟05號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 116,
-        "shop": "士林市場-地下1樓81號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 117,
-        "shop": "士林市場-地下1樓62號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 118,
-        "shop": "士林市場-地下1樓34號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 119,
-        "shop": "士林市場-地下1樓26號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 120,
-        "shop": "士林市場-地下1樓21號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "icash pay",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 121,
-        "shop": "士林市場-地下1樓15號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 122,
-        "shop": "士林市場-地下1樓05號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "icash pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 123,
-        "shop": "士林市場-地下1樓02號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 124,
-        "shop": "士林市場-一樓220號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 125,
-        "shop": "士林市場-一樓217號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 126,
-        "shop": "士林市場-一樓215號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 127,
-        "shop": "士林市場-一樓213號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 128,
-        "shop": "士林市場-一樓212號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 129,
-        "shop": "士林市場-一樓211號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 130,
-        "shop": "士林市場-一樓208號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 131,
-        "shop": "士林市場-一樓201號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 132,
-        "shop": "士林市場-一樓199號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 133,
-        "shop": "士林市場-一樓187號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 134,
-        "shop": "士林市場-一樓186號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 135,
-        "shop": "士林市場-一樓182號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 136,
-        "shop": "士林市場-一樓157號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 137,
-        "shop": "士林市場-一樓152號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 138,
-        "shop": "士林市場-一樓151號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 139,
-        "shop": "士林市場-一樓148號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 140,
-        "shop": "士林市場-一樓147號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 141,
-        "shop": "士林市場-一樓144號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 142,
-        "shop": "士林市場-一樓142號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 143,
-        "shop": "士林市場-一樓135號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 144,
-        "shop": "士林市場-一樓126號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 145,
-        "shop": "士林市場-一樓119號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 146,
-        "shop": "士林市場-一樓113號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 147,
-        "shop": "士林市場-一樓112號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 148,
-        "shop": "士林市場-一樓112號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 149,
-        "shop": "士林市場-一樓110號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 150,
-        "shop": "士林市場-一樓109號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 151,
-        "shop": "士林市場-一樓106號上午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 152,
-        "shop": "士林市場-一樓090號下午",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 153,
-        "shop": "士林市場-一樓087號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 154,
-        "shop": "士林市場-一樓086號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 155,
-        "shop": "士林市場-一樓085號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 156,
-        "shop": "士林市場-一樓077號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 157,
-        "shop": "士林市場-一樓072號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 158,
-        "shop": "士林市場-一樓067號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 159,
-        "shop": "士林市場-一樓065號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市基河路101 號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
         "index": 160,
-        "shop": "士林市場-一樓053號",
+        "shop": "士東市場-0111",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 161,
-        "shop": "士林市場-一樓031號",
+        "shop": "士東市場-0103",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "悠遊付"
         ]
     },
     {
         "index": 162,
-        "shop": "士林市場-一樓026號",
+        "shop": "士東市場-0101",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 163,
-        "shop": "士林市場-一樓024號",
+        "shop": "士東市場-0093",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 164,
-        "shop": "士林市場-一樓010號",
+        "shop": "士東市場-0084",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 165,
-        "shop": "士林市場-一樓007號",
+        "shop": "士東市場-0083",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 166,
-        "shop": "士林市場-一樓002號",
+        "shop": "士東市場-0080",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 167,
-        "shop": "士林市場-一樓001號",
+        "shop": "士東市場-0077",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市基河路101 號",
+        "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶"
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 168,
-        "shop": "士東市場-0237",
+        "shop": "士東市場-0076",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2403,13 +2465,15 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "icash pay",
-            "iPASS 一卡通"
+            "台灣pay",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 169,
-        "shop": "士東市場-0236",
+        "shop": "士東市場-0074",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2418,14 +2482,12 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "悠遊付"
         ]
     },
     {
         "index": 170,
-        "shop": "士東市場-0233",
+        "shop": "士東市場-0070",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2434,14 +2496,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付",
-            "iPASS 一卡通"
+            "台灣pay",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 171,
-        "shop": "士東市場-0227",
+        "shop": "士東市場-0068",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2450,12 +2512,13 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
         "index": 172,
-        "shop": "士東市場-0222",
+        "shop": "士東市場-0063",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2464,13 +2527,12 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 173,
-        "shop": "士東市場-0216",
+        "shop": "士東市場-0057",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2479,12 +2541,16 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 174,
-        "shop": "士東市場-0211",
+        "shop": "士東市場-0054",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2493,12 +2559,13 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "悠遊付",
+            "街口"
         ]
     },
     {
         "index": 175,
-        "shop": "士東市場-0207",
+        "shop": "士東市場-0042",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2507,13 +2574,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay",
+            "悠遊付",
+            "街口"
         ]
     },
     {
         "index": 176,
-        "shop": "士東市場-0205",
+        "shop": "士東市場-0040",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2522,12 +2590,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay",
+            "信用卡",
+            "悠遊付"
         ]
     },
     {
         "index": 177,
-        "shop": "士東市場-0202",
+        "shop": "士東市場-0039",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2536,12 +2606,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay",
+            "悠遊付",
+            "街口"
         ]
     },
     {
         "index": 178,
-        "shop": "士東市場-0196",
+        "shop": "士東市場-0032",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2550,13 +2622,13 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay",
+            "街口"
         ]
     },
     {
         "index": 179,
-        "shop": "士東市場-0192",
+        "shop": "士東市場-0028",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2565,12 +2637,12 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
         ]
     },
     {
         "index": 180,
-        "shop": "士東市場-0186",
+        "shop": "士東市場-0015",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2579,13 +2651,12 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 181,
-        "shop": "士東市場-0183",
+        "shop": "士東市場-0010",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2594,13 +2665,12 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "街口"
         ]
     },
     {
         "index": 182,
-        "shop": "士東市場-0175",
+        "shop": "士東市場-0009",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2609,13 +2679,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay",
+            "悠遊付",
+            "街口"
         ]
     },
     {
         "index": 183,
-        "shop": "士東市場-0173",
+        "shop": "士東市場-0008",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2624,13 +2695,14 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
+            "台灣pay",
+            "悠遊付",
             "橘子支付"
         ]
     },
     {
         "index": 184,
-        "shop": "士東市場-0171",
+        "shop": "士東市場-0003",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2639,13 +2711,15 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "icash pay",
+            "台灣pay",
+            "悠遊付",
+            "街口",
             "橘子支付"
         ]
     },
     {
         "index": 185,
-        "shop": "士東市場-0148",
+        "shop": "士東市場-0002",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -2654,516 +2728,816 @@
         "area": "士林區",
         "market_address": "臺北市士林區士東路100號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "悠遊付"
         ]
     },
     {
         "index": 186,
-        "shop": "士東市場-0147",
+        "shop": "福華廣場攤販集中場-108",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市士林區通河街323巷與325巷間",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
         "index": 187,
-        "shop": "士東市場-0129",
+        "shop": "福華廣場攤販集中場-107",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市士林區通河街323巷與325巷間",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 188,
-        "shop": "士東市場-0127",
+        "shop": "福華廣場攤販集中場-86",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市士林區通河街323巷與325巷間",
         "pay_list": [
-            "icash pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 189,
-        "shop": "士東市場-0122",
+        "shop": "福華廣場攤販集中場-76",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市士林區通河街323巷與325巷間",
         "pay_list": [
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 190,
-        "shop": "士東市場-0119",
+        "shop": "士林市場-短棟35號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 191,
-        "shop": "士東市場-0118",
+        "shop": "士林市場-短棟33號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
         "index": 192,
-        "shop": "士東市場-0116",
+        "shop": "士林市場-短棟31號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 193,
-        "shop": "士東市場-0115",
+        "shop": "士林市場-短棟29號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 194,
-        "shop": "士東市場-0114",
+        "shop": "士林市場-短棟27號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "橘子支付"
         ]
     },
     {
         "index": 195,
-        "shop": "士東市場-0110",
+        "shop": "士林市場-短棟19號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "橘子支付"
         ]
     },
     {
         "index": 196,
-        "shop": "士東市場-0106",
+        "shop": "士林市場-短棟16號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 197,
-        "shop": "士東市場-0098",
+        "shop": "士林市場-短棟07號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "橘子支付"
+            "街口"
         ]
     },
     {
         "index": 198,
-        "shop": "士東市場-0097",
+        "shop": "士林市場-長棟08號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "橘子支付"
         ]
     },
     {
         "index": 199,
-        "shop": "士東市場-0096",
+        "shop": "士林市場-地下1樓94號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 200,
-        "shop": "士東市場-0095",
+        "shop": "士林市場-地下1樓92號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 201,
-        "shop": "士東市場-0094",
+        "shop": "士林市場-地下1樓90號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "橘子支付"
         ]
     },
     {
         "index": 202,
-        "shop": "士東市場-0087",
+        "shop": "士林市場-地下1樓78號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "街口"
         ]
     },
     {
         "index": 203,
-        "shop": "士東市場-0081",
+        "shop": "士林市場-地下1樓75號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 204,
-        "shop": "士東市場-0075",
+        "shop": "士林市場-地下1樓56號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
-        ]
-    },
-    {
-        "index": 205,
-        "shop": "士東市場-0071",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
-        "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
-        "index": 206,
-        "shop": "士東市場-0062",
+        "index": 205,
+        "shop": "士林市場-地下1樓36號上午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 206,
+        "shop": "士林市場-地下1樓35號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
         ]
     },
     {
         "index": 207,
-        "shop": "士東市場-0061",
+        "shop": "士林市場-地下1樓25號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay"
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 208,
-        "shop": "士東市場-0056",
+        "shop": "士林市場-地下1樓23號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付",
-            "iPASS 一卡通"
+            "街口",
+            "橘子支付"
         ]
     },
     {
         "index": 209,
-        "shop": "士東市場-0046",
+        "shop": "士林市場-地下1樓20號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
+            "台灣pay",
             "橘子支付"
         ]
     },
     {
         "index": 210,
-        "shop": "士東市場-0036",
+        "shop": "士林市場-地下1樓14號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 211,
-        "shop": "士東市場-0034",
+        "shop": "士林市場-地下1樓13號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 212,
-        "shop": "士東市場-0026",
+        "shop": "士林市場-地下1樓09號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
-            "橘子支付"
+            "台灣pay"
         ]
     },
     {
         "index": 213,
-        "shop": "士東市場-0016",
+        "shop": "士林市場-地下1樓03號",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 214,
-        "shop": "士東市場-0014",
+        "shop": "士林市場-一樓225號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "歐付寶",
-            "橘子支付"
+            "信用卡"
         ]
     },
     {
         "index": 215,
-        "shop": "士東市場-0005",
+        "shop": "士林市場-一樓219號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
             "橘子支付"
         ]
     },
     {
         "index": 216,
-        "shop": "士東市場-0001",
+        "shop": "士林市場-一樓218號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區士東路100號",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "icash pay",
-            "歐付寶",
+            "LINE Pay Money",
             "橘子支付"
         ]
     },
     {
         "index": 217,
-        "shop": "揚陞商號",
+        "shop": "士林市場-一樓210號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區福華里承德路４段４０巷１０８號左旁",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 218,
-        "shop": "乾燒蛤專賣士林店",
+        "shop": "士林市場-一樓202號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區文林路４１號（後）",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
-            "悠遊付",
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 219,
-        "shop": "乾燒蛤大東店",
+        "shop": "士林市場-一樓198號下午",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "士林區",
-        "market_address": "臺北市士林區文林路４１號（前）",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 220,
+        "shop": "士林市場-一樓196號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
         "pay_list": [
             "悠遊付"
+        ]
+    },
+    {
+        "index": 221,
+        "shop": "士林市場-一樓191號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 222,
+        "shop": "士林市場-一樓184號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 223,
+        "shop": "士林市場-一樓180號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 224,
+        "shop": "士林市場-一樓179號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 225,
+        "shop": "士林市場-一樓178號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 226,
+        "shop": "士林市場-一樓176號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 227,
+        "shop": "士林市場-一樓175號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 228,
+        "shop": "士林市場-一樓172號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 229,
+        "shop": "士林市場-一樓163號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "LINE Pay Money",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 230,
+        "shop": "士林市場-一樓159號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 231,
+        "shop": "士林市場-一樓158號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 232,
+        "shop": "士林市場-一樓158號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "LINE Pay Money",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 233,
+        "shop": "士林市場-一樓150號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 234,
+        "shop": "士林市場-一樓149號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 235,
+        "shop": "士林市場-一樓143號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 236,
+        "shop": "士林市場-一樓129號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 237,
+        "shop": "士林市場-一樓122號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 238,
+        "shop": "士林市場-一樓121號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 239,
+        "shop": "士林市場-一樓120號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 240,
+        "shop": "士林市場-一樓118號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 241,
+        "shop": "士林市場-一樓114號下午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 242,
+        "shop": "士林市場-一樓113號上午",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "士林區",
+        "market_address": "臺北市基河路101 號",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

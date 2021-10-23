@@ -1,21 +1,110 @@
 [
     {
         "index": 1,
-        "shop": "鑫鑽飲食店",
+        "shop": "松濤坊",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１２鄰中山路１７０號",
+        "market_address": "苗栗縣苑裡鎮苑南里１０鄰和平路１７４號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "來有商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里１０鄰和平路１６１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "心戀咖啡吧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里１１鄰信義路１０―３號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "靚點休閒小舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里新興路５４號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "悠遊付",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "喜多臭臭鍋館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里客庄７５－３５號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "得揚美式炸雞",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里南興路１５０號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "九和餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑東里建國路９４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
         "shop": "豪韻商行",
         "category": [
             "餐飲"
@@ -25,14 +114,13 @@
         "area": "苑裡鎮",
         "market_address": "苗栗縣苑裡鎮苑南里９鄰為公路５６號１樓",
         "pay_list": [
-            "iPASS 一卡通",
+            "icash pay",
             "信用卡",
-            "悠遊卡",
-            "icash pay"
+            "悠遊卡"
         ]
     },
     {
-        "index": 3,
+        "index": 9,
         "shop": "心雕居生活美學館",
         "category": [
             "餐飲"
@@ -47,10 +135,9 @@
         ]
     },
     {
-        "index": 4,
+        "index": 10,
         "shop": "靖豪雞排",
         "category": [
-            "夜市\/市場攤販",
             "餐飲"
         ],
         "zone": "桃竹苗",
@@ -62,7 +149,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 11,
         "shop": "苑裡好咖商行",
         "category": [
             "餐飲"
@@ -73,11 +160,12 @@
         "market_address": "苗栗縣苑裡鎮苑南里５鄰信義路４７號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 6,
+        "index": 12,
         "shop": "喜樂餐館",
         "category": [
             "餐飲"
@@ -91,187 +179,89 @@
         ]
     },
     {
-        "index": 7,
-        "shop": "鼎珍香烤鴨店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里２鄰世界路一段６０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "巧苙商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里２４鄰新興路２７號",
-        "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "品盈冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里１４鄰８３－３號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "詠欣小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮中正里１３鄰９０―３號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "灣麗海洋驛棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑港里４鄰苑港４５－５號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "山腳下飯糰",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮舊社里６鄰８３―３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
         "index": 13,
-        "shop": "鄉又香餐館",
+        "shop": "麥當勞苑裡介壽分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里１３鄰信義路２１號",
+        "market_address": "苗栗縣苑裡鎮房裡里南房６３―１０號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 14,
-        "shop": "帝田鐵板燒",
+        "shop": "綠意山莊有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里新興路２５號１樓",
+        "market_address": "苗栗縣苑裡鎮蕉埔里蕉埔９６－５號",
         "pay_list": [
-            "悠遊付",
-            "街口"
+            "信用卡"
         ]
     },
     {
         "index": 15,
-        "shop": "靚點休閒小舖",
+        "shop": "鈞芮餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里新興路５４號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "Pi 拍錢包",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "喜多臭臭鍋館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里客庄７５－３５號１樓",
+        "market_address": "苗栗縣苑裡鎮客庄里苑南段８００．８０１地號",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 17,
-        "shop": "得揚美式炸雞",
+        "index": 16,
+        "shop": "鑫鑽飲食店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里南興路１５０號",
+        "market_address": "苗栗縣苑裡鎮苑南里１２鄰中山路１７０號",
         "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "昇鴻商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮舊社里７鄰８８號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
         "index": 18,
-        "shop": "來有商行",
+        "shop": "茜草咖啡商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１０鄰和平路１６１號１樓",
+        "market_address": "苗栗縣苑裡鎮玉田里玉田２５―１號",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -279,77 +269,77 @@
     },
     {
         "index": 19,
-        "shop": "卿峰食堂",
+        "shop": "采果茶坊",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里新興路４８號",
+        "market_address": "苗栗縣苑裡鎮苑南里為公路７３號１樓",
         "pay_list": [
-            "台灣pay"
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 20,
-        "shop": "弈品鮮日式涮涮鍋",
+        "shop": "四川涼麵良麵",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１鄰新興路８６－３號",
+        "market_address": "苗栗縣苑裡鎮苑南里７鄰建國路４９號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "漁香園港式餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里１鄰南興路７１、７３、７５、７７號",
         "pay_list": [
             "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 21,
-        "shop": "紘霖果茶專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
         "index": 22,
-        "shop": "苑南小吃",
+        "shop": "龍園餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里信義路５８號１樓",
+        "market_address": "苗栗縣苑裡鎮苑港里１鄰中山路３２２號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
         "index": 23,
-        "shop": "庭旭早餐坊",
+        "shop": "喜咧烤串燒店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里信義路８９號１樓",
+        "market_address": "苗栗縣苑裡鎮苑南里１鄰新生路５０－１號",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -397,11 +387,10 @@
         "area": "苑裡鎮",
         "market_address": "苗栗縣苑裡鎮苑南里１１鄰為公路８５號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
             "信用卡",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -415,8 +404,7 @@
         "area": "苑裡鎮",
         "market_address": "苗栗縣苑裡鎮苑南里１１鄰中山路１４２號１Ｆ",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
@@ -430,46 +418,17 @@
         "area": "苑裡鎮",
         "market_address": "苗栗縣苑裡鎮苑南里９鄰爲公路５８號１Ｆ",
         "pay_list": [
-            "橘子支付",
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 29,
-        "shop": "喜多餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑北里中山路２９２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "紅蟻商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里２鄰仁愛街２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 31,
         "shop": "旺年商行",
         "category": [
             "餐飲"
@@ -480,12 +439,27 @@
         "market_address": "苗栗縣苑裡鎮苑南里０１１鄰為公路６７號１樓",
         "pay_list": [
             "悠遊付",
+            "悠遊卡",
             "街口",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 32,
+        "index": 30,
+        "shop": "愛蜜莉股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑東里建國路６２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 31,
         "shop": "御廚川菜餐廳",
         "category": [
             "餐飲"
@@ -500,82 +474,113 @@
         ]
     },
     {
-        "index": 33,
-        "shop": "昇鴻商行",
+        "index": 32,
+        "shop": "亭豬手創工作室",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮舊社里７鄰８８號",
+        "market_address": "苗栗縣苑裡鎮西勢里１１鄰西勢２－２２號１樓",
         "pay_list": [
-            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "卿峰食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里新興路４８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "弈品鮮日式涮涮鍋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里１鄰新興路８６－３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "成功牛排",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮西勢里中山路１１０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "紘霖果茶專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
             "街口",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 34,
-        "shop": "愛蜜莉股份有限公司",
+        "index": 37,
+        "shop": "苑南小吃",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑東里建國路６２號",
+        "market_address": "苗栗縣苑裡鎮苑南里信義路５８號１樓",
         "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "龍園餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑港里１鄰中山路３２２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "西納炘商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮西勢里中山路１１６號１樓",
-        "pay_list": [
-            "悠遊付",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "三月食品有限公司苑裡分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑北里建國路１１２號１樓",
-        "pay_list": [
-            "信用卡"
+            "悠遊卡"
         ]
     },
     {
         "index": 38,
+        "shop": "庭旭早餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑南里信義路８９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 39,
         "shop": "阿娟姨餐飲店",
         "category": [
             "餐飲"
@@ -585,39 +590,21 @@
         "area": "苑裡鎮",
         "market_address": "苗栗縣苑裡鎮苑南里４鄰為公路３２―１號",
         "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "采果茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里為公路７３號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
             "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 40,
-        "shop": "漁香園港式餐廳",
+        "shop": "華陶窯文化事業股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１鄰南興路７１、７３、７５、７７號",
+        "market_address": "苗栗縣苑裡鎮南勢里２鄰南勢３１號",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -625,28 +612,28 @@
     },
     {
         "index": 41,
-        "shop": "和德昌股份有限公司苑裡介壽分公司",
+        "shop": "全國高爾夫實業股份有限公司苑裡營業所",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮房裡里南房６３―１０號",
+        "market_address": "苗栗縣苑裡鎮石鎮里１鄰石鎮１―１號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
         "index": 42,
-        "shop": "喜咧烤串燒店",
+        "shop": "紅蟻商行",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮苑南里１鄰新生路５０－１號",
+        "market_address": "苗栗縣苑裡鎮苑南里２鄰仁愛街２號１樓",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -654,42 +641,220 @@
     },
     {
         "index": 43,
-        "shop": "鈞芮餐飲",
+        "shop": "鼎珍香烤鴨店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里苑南段８００．８０１地號",
+        "market_address": "苗栗縣苑裡鎮苑南里２鄰世界路一段６０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "巧苙商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里２４鄰新興路２７號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "品盈冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里１４鄰８３－３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "詠欣小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮中正里１３鄰９０―３號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "灣麗海洋驛棧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑港里４鄰苑港４５－５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "山腳下飯糰",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮舊社里６鄰８３―３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "鄉又香餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里１３鄰信義路２１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "帝田鐵板燒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里新興路２５號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "波達餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮客庄里１１鄰信義路１０－１７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "東里家風民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑坑里２鄰８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "西納炘商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮西勢里中山路１１６號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "三月食品有限公司苑裡分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑北里建國路１１２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "喜多餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苑裡鎮",
+        "market_address": "苗栗縣苑裡鎮苑北里中山路２９２號１樓",
         "pay_list": [
             "街口"
         ]
     },
     {
-        "index": 44,
-        "shop": "綠意山莊有限公司",
+        "index": 56,
+        "shop": "PIZZA HUT必勝客-苗栗苑裡店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮蕉埔里蕉埔９６－５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "心戀咖啡吧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苑裡鎮",
-        "market_address": "苗栗縣苑裡鎮客庄里１１鄰信義路１０―３號１樓",
+        "market_address": "苗栗縣苑裡鎮西勢里中山路１３１―９號",
         "pay_list": [
             "信用卡"
         ]

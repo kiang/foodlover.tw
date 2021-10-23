@@ -1,7 +1,7 @@
 [
     {
         "index": 1,
-        "shop": "蘆洲公有零售市場-蘆洲四口",
+        "shop": "蘆洲公有零售市場-飲食類",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -10,12 +10,12 @@
         "area": "蘆洲區",
         "market_address": "新北市蘆洲區成功路160號",
         "pay_list": [
-            "icash pay"
+            "歐付寶"
         ]
     },
     {
         "index": 2,
-        "shop": "蘆洲公有零售市場-無",
+        "shop": "蘆洲公有零售市場-飲食類",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -24,12 +24,12 @@
         "area": "蘆洲區",
         "market_address": "新北市蘆洲區成功路160號",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
         "index": 3,
-        "shop": "永平公有零售市場-阿文黑豬肉",
+        "shop": "永平公有零售市場-蔬菜類",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -38,11 +38,25 @@
         "area": "蘆洲區",
         "market_address": "新北市蘆洲區永平街1號",
         "pay_list": [
-            "iPASS 一卡通"
+            "台灣pay"
         ]
     },
     {
         "index": 4,
+        "shop": "永平公有零售市場-綉鳳生鮮蔬果行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "蘆洲區",
+        "market_address": "新北市蘆洲區永平街1號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "謝華廣東腸粉",
         "category": [
             "夜市\/市場攤販"
@@ -53,6 +67,63 @@
         "market_address": "新北市蘆洲區中山一路１２９號（騎樓前）",
         "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "蘆洲公有零售市場-佳興燒臘小火鍋",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "蘆洲區",
+        "market_address": "新北市蘆洲區成功路160號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "蘆洲公有零售市場-祥古早味自助水冰",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "蘆洲區",
+        "market_address": "新北市蘆洲區成功路160號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "蘆洲公有零售市場-蘆洲四口",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "蘆洲區",
+        "market_address": "新北市蘆洲區成功路160號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "蘆洲公有零售市場-無",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "蘆洲區",
+        "market_address": "新北市蘆洲區成功路160號",
+        "pay_list": [
+            "歐付寶"
         ]
     }
 ]

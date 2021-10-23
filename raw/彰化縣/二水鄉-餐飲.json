@@ -1,17 +1,16 @@
 [
     {
         "index": 1,
-        "shop": "桃子美食館",
+        "shop": "金玉滿堂商行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "二水鄉",
-        "market_address": "彰化縣二水鄉合和村員集路４段臨３９８號１樓",
+        "market_address": "彰化縣二水鄉二水村民生路３５６號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
@@ -26,7 +25,8 @@
         "market_address": "彰化縣二水鄉聖化村員集路三段７４０號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -40,15 +40,47 @@
         "area": "二水鄉",
         "market_address": "彰化縣二水鄉光化村光文路６８號１樓",
         "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
+            "Pi 拍錢包",
+            "信用卡",
             "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "宝柚食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "二水鄉",
+        "market_address": "彰化縣二水鄉裕民村員集路３段２８９號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "街口"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "桃子美食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "二水鄉",
+        "market_address": "彰化縣二水鄉合和村員集路４段臨３９８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
         ]
     }
 ]

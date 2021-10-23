@@ -1,21 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "大買家國光店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大里區",
-        "market_address": "臺中市大里區大明里國光路２段７１０號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "大買家",
         "category": [
             "百貨美食街"
@@ -25,7 +10,25 @@
         "area": "大里區",
         "market_address": "臺中市大里區東湖里科技路１號十三樓之３",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "大買家國光店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大里區",
+        "market_address": "臺中市大里區大明里國光路２段７１０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
         ]
     }
 ]

@@ -1,71 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "慧敏早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "莿桐鄉",
-        "market_address": "雲林縣莿桐鄉饒平村饒平路７６號",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "悠遊卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "金昌小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "莿桐鄉",
-        "market_address": "雲林縣莿桐鄉莿桐村中正路７９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "樂飲茶莊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "莿桐鄉",
-        "market_address": "雲林縣莿桐鄉莿桐村中正路７５之２號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "聚元商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "莿桐鄉",
-        "market_address": "雲林縣莿桐鄉莿桐村西安路３３號",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "莿桐冷飲站",
         "category": [
             "餐飲"
@@ -75,9 +10,105 @@
         "area": "莿桐鄉",
         "market_address": "雲林縣莿桐鄉莿桐村中山路１６３號１樓",
         "pay_list": [
-            "悠遊付",
             "街口",
+            "悠遊付",
             "橘子支付"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "如何好食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉莿桐村西安路２７巷３３弄１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "金昌小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉莿桐村中正路７９號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "西双版納餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉莿桐村農校路１２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "慧敏早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉饒平村饒平路７６號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "聚元商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉莿桐村西安路３３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "樂飲茶莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "莿桐鄉",
+        "market_address": "雲林縣莿桐鄉莿桐村中正路７５之２號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

@@ -1,114 +1,52 @@
 [
     {
         "index": 1,
-        "shop": "朋騏食饈坊",
+        "shop": "湧泉冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉施厝村仁德東路５１７號１樓",
+        "market_address": "雲林縣麥寮鄉三盛村工業路４７４號",
         "pay_list": [
-            "悠遊卡"
+            "街口",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
-        "shop": "聖品商行",
+        "shop": "一順海鮮熱炒",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥津村豐安路９－３號１樓",
+        "market_address": "雲林縣麥寮鄉麥豐村中山路４０９號",
         "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "五億雞排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥豐村自由路８３－１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "麥查手作茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉橋頭村仁德路２２１號",
-        "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 5,
-        "shop": "萱樺餐坊",
+        "index": 3,
+        "shop": "麥寮中興冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥津村泰順路４３３號１樓",
+        "market_address": "雲林縣麥寮鄉麥津村２３鄰中興路６５號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "百軒商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥津村中興路６６號",
-        "pay_list": [
-            "悠遊付",
             "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "泉湧冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉橋頭村仁德路２１６號",
-        "pay_list": [
             "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
+            "橘子支付"
         ]
     },
     {
-        "index": 8,
+        "index": 4,
         "shop": "瓏銀飲料店",
         "category": [
             "餐飲"
@@ -118,16 +56,15 @@
         "area": "麥寮鄉",
         "market_address": "雲林縣麥寮鄉麥豐村新興路橫街巷６０號一樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
+        "index": 5,
         "shop": "回鄉味小吃店",
         "category": [
             "餐飲"
@@ -142,7 +79,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 6,
         "shop": "親愛芳鄰早餐店",
         "category": [
             "餐飲"
@@ -156,7 +93,125 @@
         ]
     },
     {
+        "index": 7,
+        "shop": "沁茗咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村豐安路９－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "朋騏食饈坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉施厝村仁德東路５１７號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "聖品商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村豐安路９－３號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "五億雞排",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥豐村自由路８３－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 11,
+        "shop": "麥查手作茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉橋頭村仁德路２２１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "Ｃ‧Ｙ僖盈門麥寮店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥豐村６鄰中山路１０９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "鈺手作商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉三盛村中山路１０９５－１地號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "大飯包精緻快餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉橋頭村仁德路２１１號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
         "shop": "芊嵐茶行",
         "category": [
             "餐飲"
@@ -166,15 +221,148 @@
         "area": "麥寮鄉",
         "market_address": "雲林縣麥寮鄉麥豐村１２鄰光復路５５號及５７號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
             "信用卡",
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 12,
+        "index": 16,
+        "shop": "時尚歡唱會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥豐村３鄰光大寮路９―１６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "晁陽農產科技股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉興華村興華路３２號",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "笙鴻有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村泰順路４５７號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "厨匠會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉三盛村工業路４７０－９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "萱樺餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村泰順路４３３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "百軒商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村中興路６６號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "泉湧冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉橋頭村仁德路２１６號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "富達商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "麥寮鄉",
+        "market_address": "雲林縣麥寮鄉麥津村０１７鄰中興路２３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
         "shop": "八方鍋貼館",
         "category": [
             "餐飲"
@@ -185,67 +373,22 @@
         "market_address": "雲林縣麥寮鄉麥豐村中山路３７１號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 13,
-        "shop": "Ｃ‧Ｙ僖盈門麥寮店",
+        "index": 25,
+        "shop": "森燁小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥豐村６鄰中山路１０９號",
+        "market_address": "雲林縣麥寮鄉麥豐村００５鄰光復南路３０２號",
         "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "麥寮中興冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥津村２３鄰中興路６５號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "湧泉冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉三盛村工業路４７４號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "一順海鮮熱炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "麥寮鄉",
-        "market_address": "雲林縣麥寮鄉麥豐村中山路４０９號",
-        "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
         ]
     }
 ]

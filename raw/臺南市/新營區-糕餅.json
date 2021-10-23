@@ -1,20 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "黛艷美容工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新營區",
-        "market_address": "臺南市新營區新南里０２３鄰復興路６２０巷１５弄２１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "千家軒食品行",
         "category": [
             "糕餅"
@@ -24,13 +10,14 @@
         "area": "新營區",
         "market_address": "臺南市新營區民權里民權路６６號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 2,
         "shop": "新營蜜餞行",
         "category": [
             "糕餅"
@@ -44,21 +31,7 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "全味香食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新營區",
-        "market_address": "臺南市新營區永平里延平路１０２號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 5,
+        "index": 3,
         "shop": "滋養軒食品廠",
         "category": [
             "糕餅"
@@ -73,54 +46,21 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "風車鄉村麵包",
+        "index": 4,
+        "shop": "日安漫漫商號",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新營區",
-        "market_address": "臺南市新營區忠政里健康路３２之１號１樓",
+        "market_address": "臺南市新營區新北里０２９鄰周武街６４號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
-        "shop": "千成行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新營區",
-        "market_address": "臺南市新營區南興里延平路１４０巷３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "馬可先生第四股份有限公司新營門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "新營區",
-        "market_address": "臺南市新營區永平里中山路１４１號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 9,
+        "index": 5,
         "shop": "蜜思可可企業有限公司",
         "category": [
             "糕餅"
@@ -130,11 +70,87 @@
         "area": "新營區",
         "market_address": "臺南市新營區中營里００２鄰東平街１０號１樓",
         "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "双春食品有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區民權里三民路８９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "財團法人台南市私立蓮心園社會福利慈善事業基金會",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區新北里１２鄰新北街２４４號",
+        "pay_list": [
             "信用卡"
         ]
     },
     {
+        "index": 8,
+        "shop": "春元麵包坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區民權里三民路８９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "明新食品企業股份有限公司新營分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區忠政里民治路５０－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 10,
+        "shop": "馬可先生第四股份有限公司新營門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區永平里中山路１４１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "良御生技實業有限公司",
         "category": [
             "糕餅"
@@ -148,34 +164,102 @@
         ]
     },
     {
-        "index": 11,
-        "shop": "三商餐飲股份有限公司新營分公司",
+        "index": 12,
+        "shop": "聖保羅企業股份有限公司新營分公司",
         "category": [
-            "夜市\/市場攤販",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區民權里三民路８８―３號１、２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "艾可思手工甜點",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區太南里太子宮１９８―３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "風車鄉村麵包",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區忠政里健康路３２之１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "千成行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區南興里延平路１４０巷３號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "哈燒商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "新營區",
+        "market_address": "臺南市新營區三仙里健康路２５１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "泰尚和咖啡",
+        "category": [
             "餐飲",
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新營區",
-        "market_address": "臺南市新營區中營里中山路１０８號１樓",
+        "market_address": "臺南市新營區民生里三民路１８６巷２―５號",
         "pay_list": [
-            "悠遊付",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 12,
-        "shop": "財團法人台南市私立蓮心園社會福利慈善事業基金會",
+        "index": 18,
+        "shop": "黛艷美容工作坊",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "新營區",
-        "market_address": "臺南市新營區新北里１２鄰新北街２４４號",
+        "market_address": "臺南市新營區新南里０２３鄰復興路６２０巷１５弄２１號",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     }
 ]

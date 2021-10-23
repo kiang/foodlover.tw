@@ -1,6 +1,21 @@
 [
     {
         "index": 1,
+        "shop": "初次約會西式餐廳",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "旗山區",
+        "market_address": "高雄市旗山區三協里旗南一路２１２之１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "吉美西點麵包店",
         "category": [
             "糕餅"
@@ -10,36 +25,21 @@
         "area": "旗山區",
         "market_address": "高雄市旗山區湄洲里中山路６２號",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "月亮香蕉城商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "旗山區",
-        "market_address": "高雄市旗山區湄洲里中山路４９號１樓",
-        "pay_list": [
-            "信用卡"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
-        "shop": "帕蒂斯夢想烘焙屋",
+        "shop": "漢寶食品行",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "旗山區",
-        "market_address": "高雄市旗山區竹峰里文中路１３號",
+        "market_address": "高雄市旗山區大德里延平一路６８４號",
         "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
@@ -54,29 +54,61 @@
         "area": "旗山區",
         "market_address": "高雄市旗山區湄洲里中山路６０之１４號１樓",
         "pay_list": [
-            "橘子支付",
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "icash pay",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 5,
-        "shop": "漢寶食品行",
+        "shop": "旗山老街菠蘿泡芙",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "旗山區",
-        "market_address": "高雄市旗山區大德里延平一路６８４號",
+        "market_address": "高雄市旗山區湄洲里中山路６６號１樓",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "月亮香蕉城商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "旗山區",
+        "market_address": "高雄市旗山區湄洲里中山路４９號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "帕蒂斯夢想烘焙屋",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "旗山區",
+        "market_address": "高雄市旗山區竹峰里文中路１３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     }
 ]

@@ -1,83 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "品香食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文華里和平路９１號",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "和漾手作烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區龍成里自強二路１５８巷２２―１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "香蜜蜜烘焙房",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區新甲里新康街５９號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "吳記餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區新興里光遠路２８４－１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "木木屋手作烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文山里文智街４２號",
-        "pay_list": [
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 6,
         "shop": "中山蛋糕店",
         "category": [
             "糕餅"
@@ -88,11 +11,61 @@
         "market_address": "高雄市鳳山區成功里中山路１１６號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
+        "index": 2,
+        "shop": "喜歡你咖啡鳳山店",
+        "category": [
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區忠孝里光復路二段１３２號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "和漾手作烘焙",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區龍成里自強二路１５８巷２２―１號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "香蜜蜜烘焙房",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區新甲里新康街５９號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "優輝烘焙企業社",
         "category": [
             "糕餅"
@@ -103,11 +76,12 @@
         "market_address": "高雄市鳳山區南成里保安一街９９巷１號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
+        "index": 6,
         "shop": "小倆口商行",
         "category": [
             "糕餅"
@@ -118,164 +92,326 @@
         "market_address": "高雄市鳳山區縣衙里光遠路３４８號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "品香食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文華里和平路９１號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "侑侑商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區三民里大東一路９０號１樓",
+        "pay_list": [
+            "台灣pay"
         ]
     },
     {
         "index": 9,
-        "shop": "輝騰食品行",
+        "shop": "東京日和有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區文山里文龍東路６０３號",
+        "market_address": "高雄市鳳山區忠孝里青年路二段１３２號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 10,
-        "shop": "小螞蟻烘焙坊",
+        "shop": "千裕食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區鳳崗里光復路１６１號１樓",
+        "market_address": "高雄市鳳山區新興里光遠路２８４號１樓",
         "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
     {
         "index": 11,
-        "shop": "六度健康食品廚房",
+        "shop": "聰蘋企業有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區誠義里凱旋路１９２號１樓",
+        "market_address": "高雄市鳳山區誠義里誠愛路１００巷１號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 12,
-        "shop": "駱駝商行",
+        "shop": "老魯記有限公司",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區忠義里中山西路３０６號１樓",
+        "market_address": "高雄市鳳山區文華里建國路三段６９號２１樓",
         "pay_list": [
-            "悠遊付",
             "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
+            "街口",
+            "LINE Pay Money",
+            "歐付寶"
         ]
     },
     {
         "index": 13,
-        "shop": "蓓蓓結婚禮品屋",
+        "shop": "可利丹食品行",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區天興里天興街３２－１號１樓",
+        "market_address": "高雄市鳳山區二甲里五甲二路２５５、２５７號",
         "pay_list": [
             "台灣pay",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 14,
-        "shop": "志明花生糖專賣店",
+        "shop": "日暮里商行",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區五福里五甲三路１６３號１樓",
+        "market_address": "高雄市鳳山區縣口里三民路２９６號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 15,
-        "shop": "美好食品",
+        "shop": "漢成食品行",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區武松里經武路３５３之１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "鄭大衛飲食股份有限公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文德里青年路二段４６２號、４６２號２樓、４６２號３樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "天才食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文衡里文衡路４５３號及４５５號",
+        "market_address": "高雄市鳳山區一甲里五甲二路３６０號１樓",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 18,
-        "shop": "馬可先生第十股份有限公司",
+        "index": 16,
+        "shop": "郭元益食品股份有限公司鳳山分公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區協和里自由路２６１號１樓",
+        "market_address": "高雄市鳳山區新興里光遠路２７６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "懿品股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區鎮北里北堤街２３號１樓",
+        "pay_list": [
             "台灣pay",
-            "街口"
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "六泰國際有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文衡里文衡路４９１號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
         "index": 19,
+        "shop": "拾柒號吐司有限公司鳳山文濱分店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文德里文濱路１２３號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "本格商號",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區興仁里０１６鄰中山路１３３號騎樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "巴特里食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區武慶里００２鄰輜汽路２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "木木屋手作烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文山里文智街４２號",
+        "pay_list": [
+            "LINE Pay Money",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "聰穎生活國際股份有限公司文衡分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文衡里文衡路４９５號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "懿品股份有限公司中正分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文山里文龍東路６２２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "美味達人股份有限公司文濱分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文德里文濱路１４３號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "美食達人股份有限公司高雄分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區武慶里輜汽南路１９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "逸蓁食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區中和里青年路一段３７１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
         "shop": "坤鼎食品有限公司",
         "category": [
             "糕餅"
@@ -289,22 +425,21 @@
         ]
     },
     {
-        "index": 20,
-        "shop": "拾柒號吐司有限公司鳳山文濱分店",
+        "index": 29,
+        "shop": "海之子有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區文德里文濱路１２３號１樓",
+        "market_address": "高雄市鳳山區文德里文清街１１６號４樓",
         "pay_list": [
-            "iPASS 一卡通",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 21,
+        "index": 30,
         "shop": "吳記食品有限公司",
         "category": [
             "糕餅"
@@ -318,7 +453,129 @@
         ]
     },
     {
-        "index": 22,
+        "index": 31,
+        "shop": "蓓蓓結婚禮品屋",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區天興里天興街３２－１號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "美好食品",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區武松里經武路３５３之１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "天才食品股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區文衡里文衡路４５３號及４５５號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "馬可先生第十股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區協和里自由路２６１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "喜憨兒高雄庇護工場",
+        "category": [
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區鎮北里鳳仁路９７－６９號",
+        "pay_list": [
+            "信用卡",
+            "iPASS 一卡通",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "浤宇有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區新樂里新康街１７１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "吳記餅店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區新興里光遠路２８４－１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "春餘食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區福祥里五甲三路１２０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
         "shop": "粵心坊",
         "category": [
             "餐飲",
@@ -333,7 +590,21 @@
         ]
     },
     {
-        "index": 23,
+        "index": 40,
+        "shop": "全恒企業行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區五福里００１鄰五甲三路１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
         "shop": "美味達人股份有限公司五甲分公司",
         "category": [
             "餐飲",
@@ -344,250 +615,73 @@
         "area": "鳳山區",
         "market_address": "高雄市鳳山區南和里五甲二路４９３號",
         "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "本格商號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區興仁里０１６鄰中山路１３３號騎樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "巴特里食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區武慶里００２鄰輜汽路２號",
-        "pay_list": [
-            "街口",
             "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "聰穎生活國際股份有限公司文衡分公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文衡里文衡路４９５號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "懿品股份有限公司中正分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文山里文龍東路６２２號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "美味達人股份有限公司文濱分公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文德里文濱路１４３號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "美食達人股份有限公司高雄分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區武慶里輜汽南路１９號",
-        "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 30,
-        "shop": "侑侑商行",
+        "index": 42,
+        "shop": "輝騰食品行",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區三民里大東一路９０號１樓",
+        "market_address": "高雄市鳳山區文山里文龍東路６０３號",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "漢成食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區一甲里五甲二路３６０號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "郭元益食品股份有限公司鳳山分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區新興里光遠路２７６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "喜歡你咖啡鳳山店",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區忠孝里光復路二段１３２號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "iPASS 一卡通",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 34,
-        "shop": "可利丹食品行",
+        "index": 43,
+        "shop": "小螞蟻烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "鳳山區",
-        "market_address": "高雄市鳳山區二甲里五甲二路２５５、２５７號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "懿品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區鎮北里北堤街２３號１樓",
+        "market_address": "高雄市鳳山區鳳崗里光復路１６１號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "千裕食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區新興里光遠路２８４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "聰蘋企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區誠義里誠愛路１００巷１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "老魯記有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區文華里建國路三段６９號２１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "喜憨兒高雄庇護工場",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鳳山區",
-        "market_address": "高雄市鳳山區鎮北里鳳仁路９７－６９號",
-        "pay_list": [
-            "悠遊付",
             "信用卡",
-            "iPASS 一卡通"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "六度健康食品廚房",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區誠義里凱旋路１９２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "駱駝商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鳳山區",
+        "market_address": "高雄市鳳山區忠義里中山西路３０６號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
         ]
     }
 ]

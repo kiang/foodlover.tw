@@ -1,73 +1,49 @@
 [
     {
         "index": 1,
-        "shop": "鼎鈞茶舖",
+        "shop": "花自在",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮中街里中正路８５號",
-        "pay_list": [
-            "Pi 拍錢包",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "品香冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮中街里２鄰中山路８９號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "吉利茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮中街里２鄰中山路９１號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "新昇發飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮新厝里１５鄰中山路１６８號",
+        "market_address": "苗栗縣卓蘭鎮西坪里４鄰３７―２號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 5,
+        "index": 2,
+        "shop": "自然風情休閒事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮西坪里１２鄰西坪１３４－７號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "月玥廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮中街里中山路６４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "海園飲食店",
         "category": [
             "餐飲"
@@ -82,21 +58,7 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "水舞西坪股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮新厝里中山路１３６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 7,
+        "index": 5,
         "shop": "良美豆花",
         "category": [
             "餐飲"
@@ -110,30 +72,142 @@
         ]
     },
     {
-        "index": 8,
-        "shop": "自然風情休閒事業有限公司",
+        "index": 6,
+        "shop": "台三休閒農場",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮西坪里１２鄰西坪１３４－７號",
+        "market_address": "苗栗縣卓蘭鎮西坪里４鄰４３－１０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "品香冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮中街里２鄰中山路８９號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "新昇發飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮新厝里１５鄰中山路１６８號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
         "index": 9,
-        "shop": "花自在",
+        "shop": "水舞西坪股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "卓蘭鎮",
-        "market_address": "苗栗縣卓蘭鎮西坪里４鄰３７―２號",
+        "market_address": "苗栗縣卓蘭鎮新厝里中山路１３６號１樓",
         "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "鼎鈞茶舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮中街里中正路８５號",
+        "pay_list": [
+            "icash pay",
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "岩川民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮景山里４鄰景山６３－１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "吉利茶坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮中街里２鄰中山路９１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "雲也山莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮西坪里１０鄰西坪１２２－６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "逸香園農場",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "卓蘭鎮",
+        "market_address": "苗栗縣卓蘭鎮坪林里８鄰坪林８７號",
+        "pay_list": [
+            "台灣pay",
             "信用卡"
         ]
     }

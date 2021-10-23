@@ -1,56 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "馨旺茶莊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "新園鄉",
-        "market_address": "屏東縣新園鄉烏龍村０１０鄰南興路３２８號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "久昌商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "新園鄉",
-        "market_address": "屏東縣新園鄉仙吉村仙吉路６１―６號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "福春興業冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "新園鄉",
-        "market_address": "屏東縣新園鄉仙吉村００４鄰仙吉路６３號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
-        ]
-    },
-    {
-        "index": 4,
         "shop": "瑞成冷飲店",
         "category": [
             "餐飲"
@@ -60,9 +10,57 @@
         "area": "新園鄉",
         "market_address": "屏東縣新園鄉仙吉村０１４鄰仙吉路５７號",
         "pay_list": [
-            "悠遊付",
             "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "鶴貳樓食府",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "新園鄉",
+        "market_address": "屏東縣新園鄉鹽埔村新生路１２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "久昌商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "新園鄉",
+        "market_address": "屏東縣新園鄉仙吉村仙吉路６１―６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "福春興業冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "新園鄉",
+        "market_address": "屏東縣新園鄉仙吉村００４鄰仙吉路６３號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
         ]
     },
     {
@@ -91,7 +89,8 @@
         "market_address": "屏東縣新園鄉仙吉村仙吉路２０－２２號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -105,13 +104,31 @@
         "area": "新園鄉",
         "market_address": "屏東縣新園鄉仙吉村興安路３１６－２３號",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口"
         ]
     },
     {
         "index": 8,
+        "shop": "馨旺茶莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "新園鄉",
+        "market_address": "屏東縣新園鄉烏龍村０１０鄰南興路３２８號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
         "shop": "立華行",
         "category": [
             "餐飲"
@@ -121,11 +138,10 @@
         "area": "新園鄉",
         "market_address": "屏東縣新園鄉仙吉村仙吉路３０號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "信用卡",
             "悠遊卡",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

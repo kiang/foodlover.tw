@@ -1,67 +1,39 @@
 [
     {
         "index": 1,
-        "shop": "彭記山東饅頭專賣店",
+        "shop": "小麥麵包店",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區東興里中北路２段４號１樓",
+        "market_address": "桃園市中壢區東興里３２鄰中北路２段５１號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "素寶齋食品行",
+        "shop": "迴憶冷飲店",
         "category": [
-            "糕餅"
+            "糕餅",
+            "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區興南里４鄰大同路２號",
+        "market_address": "桃園市中壢區新街里延平路廟前３１號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "悠遊卡",
+            "街口"
         ]
     },
     {
         "index": 3,
-        "shop": "胖菓子烘培工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區普仁里力行北街５２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "啡凡美食坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區光明里三光路８４號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "安家咖啡",
+        "shop": "等等法式甜點",
         "category": [
             "餐飲",
             "糕餅"
@@ -69,32 +41,79 @@
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區五權里五族二街１１５號１樓",
+        "market_address": "桃園市中壢區興和里環北路１９５號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "莫甜烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區洽溪里文昌路２２５巷３２弄１６號",
-        "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
     {
+        "index": 4,
+        "shop": "透明烤箱烘焙工作室",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區德義里中山東路１段３２號",
+        "pay_list": [
+            "信用卡",
+            "歐付寶",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "昌杰食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區自強里莊敬路１３９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "威記食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區正義里中山東路１段２７６巷１２弄１９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money",
+            "街口",
+            "歐付寶"
+        ]
+    },
+    {
         "index": 7,
-        "shop": "百馥商行",
+        "shop": "鄉情行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區正義里中北路２段４９３號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "胡思咖啡商行",
         "category": [
             "餐飲",
             "糕餅"
@@ -102,24 +121,7 @@
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區後寮里中山東路３段４８號",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "涼伴堂甜點工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區明德里惠州街１１２號",
+        "market_address": "桃園市中壢區五權里中央路２１６巷９號",
         "pay_list": [
             "街口"
         ]
@@ -151,27 +153,449 @@
         "area": "中壢區",
         "market_address": "桃園市中壢區永光里三光路３２７號１樓",
         "pay_list": [
+            "台灣pay",
             "信用卡",
-            "悠遊卡",
-            "台灣pay"
+            "悠遊卡"
         ]
     },
     {
         "index": 11,
-        "shop": "小麥麵包店",
+        "shop": "宏亞食品股份有限公司中壢分公司",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區東興里３２鄰中北路２段５１號１樓",
+        "market_address": "桃園市中壢區中央里延平路４６１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "統一企業股份有限公司中壢廠",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區內定里定寧路１５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "麥胖國際企業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區篤行里華美一路３３巷２８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "郭元益食品股份有限公司中壢分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區興南里延平路４７０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "復興空廚股份有限公司中壢營業所",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區青埔里高鐵北路１段５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "財團法人桃園市真善美社會福利基金會",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區仁美里仁慈路１６２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "紘懋食品有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區中正里興仁路２段４７０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "歐包烘焙有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區青埔里春德路２８３號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "珍格食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區內定里內定二十街１５巷８號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 12,
+        "index": 20,
+        "shop": "百馥商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區後寮里中山東路３段４８號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "涼伴堂甜點工作室",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區明德里惠州街１１２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "彭記山東饅頭專賣店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區東興里中北路２段４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "安裕蛋糕烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區中建里延平路４７２號１、２樓，４７４號１、２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "素寶齋食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區興南里４鄰大同路２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "胖菓子烘培工作室",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區普仁里力行北街５２號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "啡凡美食坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區光明里三光路８４號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "二十一世紀生活事業股份有限公司內壢家福門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區中原里中華路１段４５０號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "龍情食品有限公司中壢環北店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區幸福里延平路１２４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "一覺有限公司桃園分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區青埔里高鐵北路１段６號地下１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "揚秦國際企業股份有限公司中壢海華分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區金華里九和二街１７、１９號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "安家咖啡",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區五權里五族二街１１５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "強毅烘焙",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區興南里新生路１５８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "洪瑞珍傳世有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區水尾里環北路３５９號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "米多甜食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區舊明里中山路３６７號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "馬匯麵包坊有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區中榮里延平路５９４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "原選製菓有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區普仁里實踐路２２５―１０號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "億祥西點麵包店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區明德里吉長二街１０巷１號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "千禾烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區正義里中北路２段４５９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "台灣伊莎貝爾食品股份有限公司中壢中正店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區中央里延平路４５５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
         "shop": "沃德先生烘焙家作館",
         "category": [
             "餐飲",
@@ -187,7 +611,7 @@
         ]
     },
     {
-        "index": 13,
+        "index": 41,
         "shop": "野兔專業烘焙",
         "category": [
             "糕餅"
@@ -201,212 +625,7 @@
         ]
     },
     {
-        "index": 14,
-        "shop": "億祥西點麵包店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區明德里吉長二街１０巷１號",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "等等法式甜點",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區興和里環北路１９５號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "透明烤箱烘焙工作室",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區德義里中山東路１段３２號",
-        "pay_list": [
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "昌杰食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區自強里莊敬路１３９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "威記食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區正義里中山東路１段２７６巷１２弄１９號１樓",
-        "pay_list": [
-            "歐付寶",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "千禾烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區正義里中北路２段４５９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "米多甜食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區舊明里中山路３６７號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "原選製菓有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區普仁里實踐路２２５―１０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "二十一世紀生活事業股份有限公司內壢家福門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區中原里中華路１段４５０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "龍情食品有限公司中壢環北店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區幸福里延平路１２４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "紘懋食品有限公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區中正里興仁路２段４７０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "歐包烘焙有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區青埔里春德路２８３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "珍格食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區內定里內定二十街１５巷８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "財團法人桃園市真善美社會福利基金會",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區仁美里仁慈路１６２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 28,
+        "index": 42,
         "shop": "德昌製麵店",
         "category": [
             "糕餅"
@@ -416,12 +635,12 @@
         "area": "中壢區",
         "market_address": "桃園市中壢區五福里五穀街１０號",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 29,
+        "index": 43,
         "shop": "局外人甜點工作室",
         "category": [
             "糕餅"
@@ -435,7 +654,7 @@
         ]
     },
     {
-        "index": 30,
+        "index": 44,
         "shop": "金渼星藝術蛋糕專賣店",
         "category": [
             "糕餅"
@@ -450,7 +669,7 @@
         ]
     },
     {
-        "index": 31,
+        "index": 45,
         "shop": "零食嗑休閒食品行",
         "category": [
             "糕餅"
@@ -460,12 +679,12 @@
         "area": "中壢區",
         "market_address": "桃園市中壢區龍安里龍東路３３４號",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 32,
+        "index": 46,
         "shop": "歐亞諾烘焙坊",
         "category": [
             "糕餅"
@@ -480,7 +699,7 @@
         ]
     },
     {
-        "index": 33,
+        "index": 47,
         "shop": "一之鄉股份有限公司中壢分公司",
         "category": [
             "糕餅"
@@ -490,127 +709,22 @@
         "area": "中壢區",
         "market_address": "桃園市中壢區興南里延平路４６６號１樓",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "一覺有限公司桃園分公司",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區青埔里高鐵北路１段６號地下１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "揚秦國際企業股份有限公司中壢海華分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區金華里九和二街１７、１９號１樓",
-        "pay_list": [
-            "悠遊付",
             "信用卡",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 36,
-        "shop": "宏亞食品股份有限公司中壢分公司",
+        "index": 48,
+        "shop": "仙貝朵烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區中央里延平路４６１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "郭元益食品股份有限公司中壢分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區興南里延平路４７０號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "迴憶冷飲店",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區新街里延平路廟前３１號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "iPASS 一卡通",
-            "街口"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "統一企業股份有限公司中壢廠",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區內定里定寧路１５號",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "麥胖國際企業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區篤行里華美一路３３巷２８號１樓",
+        "market_address": "桃園市中壢區龍昌里龍東路４６７號１樓",
         "pay_list": [
             "街口"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "鄉情行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區正義里中北路２段４９３號１樓",
-        "pay_list": [
-            "信用卡"
         ]
     }
 ]

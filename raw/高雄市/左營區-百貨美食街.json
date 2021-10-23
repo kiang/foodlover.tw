@@ -1,52 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "漢神巨蛋購物廣場",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "左營區",
-        "market_address": "高雄市左營區新下里博愛二路７７７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "漢神購物中心股份有限公司高雄分公司",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "左營區",
-        "market_address": "高雄市左營區新下里博愛二路７６７及７７７號",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "iPASS 一卡通",
-            "街口"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "新光三越高雄左營店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "左營區",
-        "market_address": "高雄市左營區菜公里高鐵路１２３號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
         "shop": "Global Mall新左營車站",
         "category": [
             "百貨美食街"
@@ -56,15 +10,35 @@
         "area": "左營區",
         "market_address": "高雄市左營區站前北路1號1-4樓",
         "pay_list": [
-            "悠遊卡",
+            "LINE Pay Money",
+            "Pi 拍錢包",
             "信用卡",
-            "橘子支付",
             "悠遊付",
-            "Pi 拍錢包"
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "iPASS 一卡通",
+            "台灣pay"
         ]
     },
     {
-        "index": 5,
+        "index": 2,
+        "shop": "新光三越高雄左營店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "左營區",
+        "market_address": "高雄市左營區菜公里高鐵路１２３號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "新光三越高雄左營店二館",
         "category": [
             "百貨美食街"
@@ -74,8 +48,9 @@
         "area": "左營區",
         "market_address": "高雄市左營區菜公里高鐵路１１５號",
         "pay_list": [
-            "悠遊卡",
-            "信用卡"
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
         ]
     }
 ]

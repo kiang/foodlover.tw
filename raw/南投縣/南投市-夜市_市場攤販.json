@@ -1,31 +1,28 @@
 [
     {
         "index": 1,
-        "shop": "日日春食品商行",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "南投縣",
-        "area": "南投市",
-        "market_address": "南投縣南投市三和里０１３鄰中興路５６８號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "哺哺商行",
+        "shop": "中興新村第一市場-冬冬的店",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "中彰投",
         "city": "南投縣",
         "area": "南投市",
-        "market_address": "南投縣南投市三和里三和三路２１號",
+        "market_address": "南投縣南投市光華二路13號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "中興新村光明市場-咖啡",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "南投縣",
+        "area": "南投市",
+        "market_address": "南投縣南投市光明一路60號",
         "pay_list": [
             "台灣pay"
         ]
@@ -46,7 +43,22 @@
     },
     {
         "index": 4,
-        "shop": "中興新村第三市場-北方麵食",
+        "shop": "榕樹下麵攤",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "南投縣",
+        "area": "南投市",
+        "market_address": "南投縣南投市永豐里彰南路３段６１０巷２號之１",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "中興新村第三市場-眼鏡行",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -55,25 +67,26 @@
         "area": "南投市",
         "market_address": "南投縣南投市光榮西路13號",
         "pay_list": [
-            "iPASS 一卡通"
+            "LINE Pay Money",
+            "台灣pay"
         ]
     },
     {
-        "index": 5,
-        "shop": "中興新村第一市場-冬冬的店",
+        "index": 6,
+        "shop": "哺哺商行",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "中彰投",
         "city": "南投縣",
         "area": "南投市",
-        "market_address": "南投縣南投市光華二路13號",
+        "market_address": "南投縣南投市三和里三和三路２１號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 6,
+        "index": 7,
         "shop": "中興新村光明市場-咖啡",
         "category": [
             "夜市\/市場攤販"
@@ -84,6 +97,20 @@
         "market_address": "南投縣南投市光明一路60號",
         "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "興大新商行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "中彰投",
+        "city": "南投縣",
+        "area": "南投市",
+        "market_address": "南投縣南投市三和里００４鄰彰南路一段９６０號一樓",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

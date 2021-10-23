@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新北市萬里區萬里里瑪鍊路２６２號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新北市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+4)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[新北市]\t { 模糊比對 } (萬里區)\t找到符合的[鄉鎮市區]，(萬里里)\t找到符合的[村里]，(瑪鍊路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(262號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "新北市萬里區萬里里10鄰瑪鋉路260號",
+      "COUNTY": "新北市",
+      "TOWN": "萬里區",
+      "VILLAGE": "萬里里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "瑪鋉路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "260號",
+      "X": 121.689488,
+      "Y": 25.180833
+    },
+    {
+      "FULL_ADDR": "新北市萬里區萬里里34鄰瑪鋉路266號",
+      "COUNTY": "新北市",
+      "TOWN": "萬里區",
+      "VILLAGE": "萬里里",
+      "NEIGHBORHOOD": "34鄰",
+      "ROAD": "瑪鋉路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "266號",
+      "X": 121.689240,
+      "Y": 25.181024
+    }
+  ]
+}

@@ -1,21 +1,77 @@
 [
     {
         "index": 1,
-        "shop": "旺萊山(高鐵嘉義站)",
+        "shop": "Starbucks星巴克嘉義縣第一分公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "太保市",
+        "market_address": "嘉義縣太保市太保里高鐵西路１６８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "雪花方塊酥股份有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "太保市",
-        "market_address": "嘉義縣太保市太保里高鐵西路168號1樓",
+        "market_address": "嘉義縣太保市南新里１２鄰南埤路１２０巷５６號",
         "pay_list": [
-            "信用卡",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "一成觀光事業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "太保市",
+        "market_address": "嘉義縣太保市東勢里健康路１６７號１樓",
+        "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 2,
+        "index": 4,
+        "shop": "貝蒂烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "太保市",
+        "market_address": "嘉義縣太保市安仁里祥和三路東段１８６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "新寶珍餅店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "太保市",
+        "market_address": "嘉義縣太保市安仁里１１鄰祥和三路東段２９６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "自在山林咖啡農莊",
         "category": [
             "餐飲",
@@ -31,23 +87,7 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "掬湘烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "太保市",
-        "market_address": "嘉義縣太保市麻寮里中山路二段２１４號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 4,
+        "index": 7,
         "shop": "兆富商行",
         "category": [
             "餐飲",
@@ -58,24 +98,42 @@
         "area": "太保市",
         "market_address": "嘉義縣太保市南新里北港路二段１０２號",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
-        "shop": "雪花方塊酥股份有限公司",
+        "index": 8,
+        "shop": "尚一豆烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "太保市",
-        "market_address": "嘉義縣太保市南新里１２鄰南埤路１２０巷５６號",
+        "market_address": "嘉義縣太保市安仁里頂港仔墘９號",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "掬湘烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "太保市",
+        "market_address": "嘉義縣太保市麻寮里中山路二段２１４號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

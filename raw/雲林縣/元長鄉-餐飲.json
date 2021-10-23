@@ -1,6 +1,36 @@
 [
     {
         "index": 1,
+        "shop": "誌鍛冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "元長鄉",
+        "market_address": "雲林縣元長鄉長南村中山路２２－１０號",
+        "pay_list": [
+            "街口",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "姊妹企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "元長鄉",
+        "market_address": "雲林縣元長鄉長南村中山路７號１樓、７之１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "橙果冷熱飲店",
         "category": [
             "餐飲"
@@ -10,11 +40,12 @@
         "area": "元長鄉",
         "market_address": "雲林縣元長鄉長南村中山路２６號１樓",
         "pay_list": [
-            "悠遊卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 2,
+        "index": 4,
         "shop": "雅樺餐坊",
         "category": [
             "餐飲"
@@ -29,19 +60,17 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "誌鍛冷飲店",
+        "index": 5,
+        "shop": "世玹晨食館",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "元長鄉",
-        "market_address": "雲林縣元長鄉長南村中山路２２－１０號",
+        "market_address": "雲林縣元長鄉長南村０１１鄰元西路３號",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
+            "LINE Pay Money"
         ]
     }
 ]

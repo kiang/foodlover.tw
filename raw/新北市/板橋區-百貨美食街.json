@@ -1,67 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "誠品新板店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "板橋區",
-        "market_address": "新北市板橋區縣民大道二段66號",
-        "pay_list": [
-            "悠遊卡",
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "愛買南雅店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "板橋區",
-        "market_address": "新北市板橋區華貴里貴興路１０１號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "MegaCity 板橋大遠百",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "板橋區",
-        "market_address": "新北市板橋區福丘里新站路１８及２８號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "遠東百貨股份有限公司",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "板橋區",
-        "market_address": "新北市板橋區福丘里新站路１６號１８樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "愛買",
         "category": [
             "百貨美食街"
@@ -71,42 +10,44 @@
         "area": "板橋區",
         "market_address": "新北市板橋區華貴里貴興路１０１號",
         "pay_list": [
-            "悠遊卡",
-            "信用卡"
+            "信用卡",
+            "悠遊卡"
         ]
     },
     {
-        "index": 6,
-        "shop": "遠東百貨板橋中山店",
+        "index": 2,
+        "shop": "誠品亞東醫院店",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "板橋區",
-        "market_address": "新北市板橋區深丘里中山路１段１５２號１至１３樓及地下１樓",
+        "market_address": "新北市板橋區南雅南路二段21號1F",
         "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "信用卡",
             "悠遊卡",
-            "信用卡"
+            "街口"
         ]
     },
     {
-        "index": 7,
-        "shop": "遠東百貨",
+        "index": 3,
+        "shop": "愛買南雅店",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "板橋區",
-        "market_address": "新北市板橋區福丘里新站路１６號１８樓",
+        "market_address": "新北市板橋區華貴里貴興路１０１號",
         "pay_list": [
-            "悠遊卡",
             "信用卡"
         ]
     },
     {
-        "index": 8,
+        "index": 4,
         "shop": "麗寶百貨廣場",
         "category": [
             "百貨美食街"
@@ -120,34 +61,52 @@
         ]
     },
     {
-        "index": 9,
-        "shop": "誠品亞東醫院店",
+        "index": 5,
+        "shop": "Global Mall 環球板橋車站",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "板橋區",
-        "market_address": "新北市板橋區南雅南路二段21號1F",
+        "market_address": "新北市板橋區新民里縣民大道２段７號Ｂ１、１樓、２樓、２４樓、２５樓",
         "pay_list": [
+            "信用卡",
             "悠遊卡",
-            "台灣pay",
+            "悠遊付",
+            "Pi 拍錢包",
+            "橘子支付",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "街口",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "遠東百貨板橋中山店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "板橋區",
+        "market_address": "新北市板橋區深丘里中山路１段１５２號１至１３樓及地下１樓",
+        "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 10,
-        "shop": "誠品板橋店",
+        "index": 7,
+        "shop": "MegaCity 板橋大遠百",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "板橋區",
-        "market_address": "新北市板橋區中山路1段46號地下1樓及1~4樓",
+        "market_address": "新北市板橋區福丘里新站路１８及２８號",
         "pay_list": [
-            "悠遊卡",
-            "台灣pay",
             "信用卡"
         ]
     }

@@ -1,6 +1,35 @@
 [
     {
         "index": 1,
+        "shop": "方師傅食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區瑞文里瑞北路１３８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "煮客股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區信義里新衙路２８８之４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "里歐手作坊",
         "category": [
             "糕餅"
@@ -15,35 +44,21 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "江鳥言己商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "前鎮區",
-        "market_address": "高雄市前鎮區西山里一心二路８３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "巴特里食品有限公司一心店營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "前鎮區",
-        "market_address": "高雄市前鎮區興東里一心一路３９４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
         "index": 4,
+        "shop": "海搖滾有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區明孝里漁港中二路８０號３樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "馬可先生第三股份有限公司瑞隆門市部",
         "category": [
             "糕餅"
@@ -53,40 +68,127 @@
         "area": "前鎮區",
         "market_address": "高雄市前鎮區瑞昌里瑞隆路２３４號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "張簡千巧",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "前鎮區",
-        "market_address": "高雄市前鎮區良和里民權二路６６號",
-        "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "方師傅食品有限公司",
+        "shop": "味印食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "前鎮區",
-        "market_address": "高雄市前鎮區瑞文里瑞北路１３８號１樓",
+        "market_address": "高雄市前鎮區明義里金福路８９號２樓",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "舊振南食品股份有限公司臨廣分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區明孝里新生路２４８之２６號３樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "多鑫咖啡蛋糕烘焙坊",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區瑞昌里瑞隆路２３２號１、２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "布里歐休烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區盛興里一心二路２０６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "巴特里食品有限公司一心店營業所",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區興東里一心一路３９４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "南方食在股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區建隆里中華五路７６２號２５樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "江鳥言己商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區西山里一心二路８３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "阿塔烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "前鎮區",
+        "market_address": "高雄市前鎮區振興里中華五路１３９１號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

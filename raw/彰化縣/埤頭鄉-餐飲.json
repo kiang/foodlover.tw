@@ -1,41 +1,20 @@
 [
     {
         "index": 1,
-        "shop": "井野商行",
+        "shop": "可口菸酒專賣店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "埤頭鄉",
-        "market_address": "彰化縣埤頭鄉合興村００８鄰斗苑西路２８４號１樓",
+        "market_address": "彰化縣埤頭鄉合興村彰水路三段４２２之１號",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "欣意軒商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "埤頭鄉",
-        "market_address": "彰化縣埤頭鄉豊崙村彰水路四段２５１號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "LINE Pay Money",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "景茗餐館",
         "category": [
             "餐飲"
@@ -46,7 +25,22 @@
         "market_address": "彰化縣埤頭鄉合興村彰水路三段６０７號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "椿記麵館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉合興村０１２鄰斗苑西路３０８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
@@ -60,13 +54,13 @@
         "area": "埤頭鄉",
         "market_address": "彰化縣埤頭鄉合興村彰水路三段４５８號",
         "pay_list": [
-            "橘子支付",
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -80,27 +74,111 @@
         "area": "埤頭鄉",
         "market_address": "彰化縣埤頭鄉和豊村斗苑東路７８號",
         "pay_list": [
-            "橘子支付",
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "輕食館",
+        "shop": "芊益冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "埤頭鄉",
-        "market_address": "彰化縣埤頭鄉元埔村文化路３６９號（佰苓大樓１樓）",
+        "market_address": "彰化縣埤頭鄉合興村彰水路三段４４６號１樓",
         "pay_list": [
-            "悠遊卡"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "欣意軒商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉豊崙村彰水路四段２５１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "采軒商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉豊崙村彰水路四段５２５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "昱瑒實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉合興村００２鄰斗苑西路１８５號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "登鋒有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉合興村００２鄰斗苑西路２０２巷８―１號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "井野商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "埤頭鄉",
+        "market_address": "彰化縣埤頭鄉合興村００８鄰斗苑西路２８４號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

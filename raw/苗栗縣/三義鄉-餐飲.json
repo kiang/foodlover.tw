@@ -1,6 +1,36 @@
 [
     {
         "index": 1,
+        "shop": "川味仙客家餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村１３鄰水美２４１號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "山雞小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "魏姑姑私房菜",
         "category": [
             "餐飲"
@@ -10,11 +40,12 @@
         "area": "三義鄉",
         "market_address": "苗栗縣三義鄉勝興村０１４鄰勝興８３號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 2,
+        "index": 4,
         "shop": "娛樂咖啡餐廳",
         "category": [
             "餐飲"
@@ -28,7 +59,21 @@
         ]
     },
     {
-        "index": 3,
+        "index": 5,
+        "shop": "大頭站文創懷古餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村０１３鄰５０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "福厚餐飲",
         "category": [
             "餐飲"
@@ -39,41 +84,155 @@
         "market_address": "苗栗縣三義鄉西湖村０１６鄰伯公坑１６３號",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
-        "shop": "山雞小吃店",
+        "index": 7,
+        "shop": "居鳩堂有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號",
+        "market_address": "苗栗縣三義鄉勝興村０１９鄰水美４８號１樓",
         "pay_list": [
-            "街口",
             "信用卡"
         ]
     },
     {
-        "index": 5,
-        "shop": "羅馬早午餐坊",
+        "index": 8,
+        "shop": "麥當勞苗栗三義分公司",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村０１４鄰八股３６―５號１樓",
+        "market_address": "苗栗縣三義鄉西湖村００３鄰下湖５―１５號",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 6,
+        "index": 9,
+        "shop": "振峰育樂有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双湖村０１６鄰雙湖３５―１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "綠葉方舟休閒莊園有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村１２鄰勝興３４―１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "黃石山莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉雙潭村１３鄰崩山下２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "集元裕",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉西湖村０１６鄰伯公坑１７３―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "巨缿民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村２２鄰水美１０５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "漫步雲端飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村１３鄰崩山下２２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "向陽田園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉龍騰村１鄰龍騰９－５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "有隻喵商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村０１２鄰勝興３６―９號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
         "shop": "喆娟夢田茶館",
         "category": [
             "餐飲"
@@ -87,7 +246,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 18,
         "shop": "奇將工坊",
         "category": [
             "餐飲"
@@ -102,7 +261,21 @@
         ]
     },
     {
-        "index": 8,
+        "index": 19,
+        "shop": "庄腳店仔",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村０１４鄰勝興８２－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
         "shop": "三叉河餐館",
         "category": [
             "餐飲"
@@ -116,7 +289,375 @@
         ]
     },
     {
-        "index": 9,
+        "index": 21,
+        "shop": "幸福猫驛站",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村１３鄰勝興５７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "卓也小屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村１３鄰崩山下１－９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "五月雪茶舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村１４鄰勝興６９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "茗緣居",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村８鄰雙連潭１０９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "蒸烹派客家美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉雙湖村１３鄰雙湖５－５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "新月梧桐股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村９鄰勝興１―３號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "神雕邨複合式茶棧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷２６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "羅馬早午餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村０１４鄰八股３６―５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "富貴牡丹食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村０３９鄰八股路館前３巷１－１２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "綠波浪森林會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉龍騰村０１３鄰龍騰３－６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "樹也民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉龍騰村５鄰外庄２７－１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "福軒養生館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村１０鄰雙連潭１５５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "桐花村股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村２２鄰水美１１４號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "弘義股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村０３９鄰八股路館前１巷１－１７號３樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "一米食有限公司三義營業處",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村００９鄰中正路１７０號之２２",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "卓也文旅景觀事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村０１３鄰崩山下１―５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "樂容飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村００６鄰復興路１６－１號地下一樓至８樓、１６－２號１至８樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "叁代堂國際事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉勝興村０２５鄰水美２８３―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "櫻花渡假會館有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村０４１鄰八股路館前８巷１－１８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "好客坊文化事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉龍騰村４鄰外庄２０－２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "春田窯文化事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉双潭村７鄰大坪７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "素顏浣美企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉西湖村００３鄰下湖５―１０號２樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "哲林商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "水龍冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "三義鄉",
+        "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１７０―５號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
         "shop": "大眾庭園客家小館",
         "category": [
             "餐飲"
@@ -131,7 +672,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 46,
         "shop": "香淳茶舖",
         "category": [
             "餐飲"
@@ -141,231 +682,7 @@
         "area": "三義鄉",
         "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１６８號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "卓也小屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉双潭村１３鄰崩山下１－９號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "茗緣居",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉双潭村８鄰雙連潭１０９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "蒸烹派客家美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉雙湖村１３鄰雙湖５－５號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "神雕邨複合式茶棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村３８鄰廣聲新城２巷２６號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "新月梧桐股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉勝興村９鄰勝興１―３號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "振峰育樂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉双湖村０１６鄰雙湖３５―１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "哲林商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "水龍冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１７０―５號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "綠葉方舟休閒莊園有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉勝興村１２鄰勝興３４―１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "富貴牡丹食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉廣盛村０３９鄰八股路館前３巷１－１２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "漫步雲端飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉双潭村１３鄰崩山下２２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "向陽田園",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉龍騰村１鄰龍騰９－５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "有隻喵商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉勝興村０１２鄰勝興３６―９號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "和德昌股份有限公司苗栗三義分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉西湖村００３鄰下湖５―１５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "居鳩堂有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "三義鄉",
-        "market_address": "苗栗縣三義鄉勝興村０１９鄰水美４８號１樓",
-        "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
         ]
     }
 ]

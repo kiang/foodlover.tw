@@ -1,21 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "台東縣農會東遊季溫泉渡假村",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉溫泉村溫泉路３７６巷１８號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "果珍濃實業社",
         "category": [
             "餐飲"
@@ -25,61 +10,30 @@
         "area": "卑南鄉",
         "market_address": "臺東縣卑南鄉賓朗村後湖路４８號",
         "pay_list": [
-            "橘子支付",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "悠遊付",
             "信用卡",
-            "悠遊卡"
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "山豬園牧場社會企業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉明峰村龍過脈１１２―６號",
+        "pay_list": [
+            "信用卡"
         ]
     },
     {
         "index": 3,
-        "shop": "可可娜咖啡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉富山村杉原路２２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "小魚兒的家",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉富山村杉原３２號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "寒舍山莊茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉賓朗村頂岩灣路１－９號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 6,
         "shop": "大頭目野食館",
         "category": [
             "餐飲"
@@ -94,7 +48,181 @@
         ]
     },
     {
+        "index": 4,
+        "shop": "小儀小米甜甜圈",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉太平村太平路１０６巷２５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "想不起來霜淇淋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉太平村太平路３５２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "古沙奈小米甜甜圈",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉太平村太平路３５２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 7,
+        "shop": "蘇菇炸物舖",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉太平村００２鄰民生路１９６巷２８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "龍泉鄉茶藝館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１１３巷３５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "可可娜咖啡屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉富山村杉原路２２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "小魚兒的家",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉富山村杉原３２號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "寒舍山莊茶坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉賓朗村頂岩灣路１－９號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "金谷農莊民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉利吉村０１６鄰環山路１４６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "ＰＡＳＡ海岸空間民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉富山村郡界５１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "台東縣農會東遊季農特產品展售中心",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村溫泉路３８８號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "名泓餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１３９巷１號地下室",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 16,
         "shop": "原始部落山地美食館",
         "category": [
             "餐飲"
@@ -108,7 +236,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 17,
         "shop": "泓翔商號",
         "category": [
             "餐飲"
@@ -119,11 +247,12 @@
         "market_address": "臺東縣卑南鄉明峰村龍過脈１１２號",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
+        "index": 18,
         "shop": "响羅雷美食",
         "category": [
             "餐飲"
@@ -138,35 +267,7 @@
         ]
     },
     {
-        "index": 10,
-        "shop": "名泓餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉溫泉村龍泉路１３９巷１號地下室",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "龍泉鄉茶藝館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉溫泉村龍泉路１１３巷３５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
+        "index": 19,
         "shop": "順龍餐廳",
         "category": [
             "餐飲"
@@ -180,17 +281,212 @@
         ]
     },
     {
-        "index": 13,
-        "shop": "山豬園牧場社會企業",
+        "index": 20,
+        "shop": "泓泉旅社股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "卑南鄉",
-        "market_address": "臺東縣卑南鄉明峰村龍過脈１１２―６號",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１３９巷１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "東台旅社股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１４７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "宏宜大飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路５７號",
         "pay_list": [
             "信用卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "創立生物科技股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉明峰村試驗場８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "高野大飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路３０－２號５樓之４１",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "亞莊酒店企業股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村溫泉路６８號１樓至７樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "知本老爺大酒店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１１３巷２３號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "超能生化科技股份有限公司台東分公司初鹿牧場",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉明峰村牧場街１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "宗和食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉賓朗村賓朗路３０３號",
+        "pay_list": [
+            "信用卡",
+            "歐付寶",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "奉禮食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉明峰村文泰路１８號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "亞灣飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村鎮樂路１號１至６樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "淞巨開發股份有限公司台東分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉嘉豐村稻葉路４０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "高野大飯店股份有限公司知本分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路１６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "蜜月四季餐旅購有限公司知本金聯世紀酒店分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "卑南鄉",
+        "market_address": "臺東縣卑南鄉溫泉村龍泉路３０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     }
 ]

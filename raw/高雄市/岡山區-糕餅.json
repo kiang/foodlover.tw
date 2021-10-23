@@ -1,38 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "安佳賀佳企業社",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "岡山區",
-        "market_address": "高雄市岡山區後協里大義二路３３２號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "一初烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "岡山區",
-        "market_address": "高雄市岡山區維仁里壽天路１０３－７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "誠兌商行",
         "category": [
             "餐飲",
@@ -43,13 +11,14 @@
         "area": "岡山區",
         "market_address": "高雄市岡山區後協里大義二路３３２號１樓",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "信用卡",
-            "Pi 拍錢包"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 2,
         "shop": "三藹走廊手工甜點",
         "category": [
             "糕餅"
@@ -60,11 +29,12 @@
         "market_address": "高雄市岡山區岡山里民享路５０巷９號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "街口"
         ]
     },
     {
-        "index": 5,
+        "index": 3,
         "shop": "嘉仁食品行",
         "category": [
             "糕餅"
@@ -78,7 +48,84 @@
         ]
     },
     {
+        "index": 4,
+        "shop": "一初烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "岡山區",
+        "market_address": "高雄市岡山區維仁里壽天路１０３－７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "台祥商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "岡山區",
+        "market_address": "高雄市岡山區仁壽里前峰路６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 6,
+        "shop": "愛米堤西點麵包店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "岡山區",
+        "market_address": "高雄市岡山區後協里大義二路６０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "安佳賀佳企業社",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "岡山區",
+        "market_address": "高雄市岡山區後協里大義二路３３２號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "源力商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "岡山區",
+        "market_address": "高雄市岡山區仁壽里前峰路２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
         "shop": "巴特里食品有限公司岡山店營業所",
         "category": [
             "糕餅"
@@ -89,7 +136,9 @@
         "market_address": "高雄市岡山區平安里岡山路１９３號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

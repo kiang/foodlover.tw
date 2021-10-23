@@ -1,34 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "京昌餐飲社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區中山路１段９８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "恩媞小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區龍源里０１９鄰龍米路１段２３１號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "八里海神茶行",
         "category": [
             "餐飲"
@@ -39,11 +11,12 @@
         "market_address": "新北市八里區訊塘里００２鄰中山路二段３６５號（１樓）",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 2,
         "shop": "約翰太太早午餐",
         "category": [
             "餐飲"
@@ -53,57 +26,109 @@
         "area": "八里區",
         "market_address": "新北市八里區訊塘里００３鄰中山路２段５４２號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
-        "shop": "品霑食品餐飲企業社",
+        "index": 3,
+        "shop": "阿里巴巴茶飲店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區訊塘里商港六路５５號",
+        "market_address": "新北市八里區訊塘里００２鄰中山路２段３９７號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "龍米茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區龍源里０２３鄰龍米路１段１５２號",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "討海人的厝",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區下罟里中山路３段２４０號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 6,
-        "shop": "厚癮咖啡",
+        "shop": "張媽媽米苔目",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區頂罟里中山路２段３３０號（１樓）",
+        "market_address": "新北市八里區舊城里舊城路１９號．下圧公有零售市場第５、６號攤位",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡"
+            "街口"
         ]
     },
     {
         "index": 7,
-        "shop": "三豐小吃店",
+        "shop": "旺京小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區大崁里忠四街４７號（１樓）",
+        "market_address": "新北市八里區舊城里１９鄰中華路２段５１６號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
         "index": 8,
+        "shop": "利得小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區埤頭里０１２鄰中山路一段３９６號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
         "shop": "安然商行",
         "category": [
             "餐飲"
@@ -118,7 +143,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 10,
         "shop": "超好飲商行",
         "category": [
             "餐飲"
@@ -128,208 +153,181 @@
         "area": "八里區",
         "market_address": "新北市八里區中山路２段２９８號",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "口品鮮食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區龍源里０２８鄰龍米路１段３９０號",
-        "pay_list": [
-            "台灣pay"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 11,
-        "shop": "叁柒零早餐店",
+        "shop": "蜜獾特調飲品店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區埤頭里０１１鄰中山路１段３７０號１樓",
+        "market_address": "新北市八里區大崁里觀海大道９５號",
         "pay_list": [
-            "Pi 拍錢包"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 12,
-        "shop": "阿里巴巴茶飲店",
+        "shop": "芭達桑有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區訊塘里００２鄰中山路２段３９７號１樓",
+        "market_address": "新北市八里區大崁里觀海大道１１１號１樓",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 13,
-        "shop": "龍米茶行",
+        "shop": "烤雞咬一口商號",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區龍源里０２３鄰龍米路１段１５２號",
+        "market_address": "新北市八里區大崁里觀海大道３９號",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
+            "橘子支付"
         ]
     },
     {
         "index": 14,
-        "shop": "提立歐餐坊",
+        "shop": "禾家歡餐飲有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區商港路２號",
+        "market_address": "新北市八里區荖阡里商港路２號２樓",
         "pay_list": [
             "信用卡"
         ]
     },
     {
         "index": 15,
-        "shop": "利得小吃店",
+        "shop": "禇家油飯行",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區埤頭里０１２鄰中山路一段３９６號",
+        "market_address": "新北市八里區舊城里０１８鄰華峰三街３６號３樓",
         "pay_list": [
-            "街口",
-            "悠遊卡",
             "台灣pay"
         ]
     },
     {
         "index": 16,
-        "shop": "青林小吃店",
+        "shop": "麗游創投股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區訊塘里２３鄰商港路４０號．４２號",
+        "market_address": "新北市八里區荖阡里商港路２－１號",
         "pay_list": [
-            "台灣pay",
             "信用卡"
         ]
     },
     {
         "index": 17,
-        "shop": "舞茶八里飲料店",
+        "shop": "貪杯咖啡烘焙有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區中山路２段４７２號",
+        "market_address": "新北市八里區訊塘里００４鄰訊埔路１１號２樓",
         "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡"
+            "信用卡",
+            "街口"
         ]
     },
     {
         "index": 18,
-        "shop": "利昇小吃店",
+        "shop": "品霑食品餐飲企業社",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區中山路２段３８３號",
+        "market_address": "新北市八里區訊塘里商港六路５５號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 19,
-        "shop": "聖嵐小吃店",
+        "shop": "京昌餐飲社",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區龍米路１段２１９號",
+        "market_address": "新北市八里區中山路１段９８號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 20,
-        "shop": "銅饗商行",
+        "shop": "恩媞小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區舊城里０１１鄰中山路２段３３１號２樓",
+        "market_address": "新北市八里區龍源里０１９鄰龍米路１段２３１號",
         "pay_list": [
-            "街口",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "吉澄商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區訊塘里００９鄰中山路二段４６８號",
-        "pay_list": [
-            "歐付寶",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
-        "index": 22,
-        "shop": "八方雲集餐飲股份有限公司御廚八里中華店",
+        "index": 21,
+        "shop": "景松小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區舊城里０１７鄰中華路２段４６６―１號１樓",
+        "market_address": "新北市八里區中山路２段３８９號１樓",
         "pay_list": [
+            "台灣pay",
             "悠遊卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "PIZZA HUT必勝客-八里店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區舊城里０１９鄰中華路２段５１２號",
+        "pay_list": [
+            "信用卡"
         ]
     },
     {
@@ -348,63 +346,122 @@
     },
     {
         "index": 24,
-        "shop": "貪杯咖啡烘焙有限公司",
+        "shop": "舞茶八里飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區訊塘里００４鄰訊埔路１１號２樓",
+        "market_address": "新北市八里區中山路２段４７２號",
         "pay_list": [
-            "信用卡"
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 25,
-        "shop": "張媽媽米苔目",
+        "shop": "利昇小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區舊城里舊城路１９號．下圧公有零售市場第５、６號攤位",
+        "market_address": "新北市八里區中山路２段３８３號",
         "pay_list": [
-            "街口"
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 26,
-        "shop": "旺京小吃店",
+        "shop": "巴黎灣商行",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區舊城里１９鄰中華路２段５１６號",
+        "market_address": "新北市八里區龍米路２段１５２號",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 27,
-        "shop": "芭達桑有限公司",
+        "shop": "吉澄商行",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區大崁里觀海大道１１１號１樓",
+        "market_address": "新北市八里區訊塘里００９鄰中山路二段４６８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "歐付寶",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "八方雲集餐飲股份有限公司御廚八里中華店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區舊城里０１７鄰中華路２段４６６―１號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "新哲學咖啡屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區中山路２段５３８號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "八里柚香農場股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區荖阡坑路６９號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 28,
-        "shop": "烤雞咬一口商號",
+        "index": 31,
+        "shop": "峇里水灣有限公司",
         "category": [
             "餐飲"
         ],
@@ -413,92 +470,116 @@
         "area": "八里區",
         "market_address": "新北市八里區大崁里觀海大道３９號",
         "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
             "橘子支付"
         ]
     },
     {
-        "index": 29,
-        "shop": "景松小吃店（通訊處：新北市三芝區中正路１段３０號）",
+        "index": 32,
+        "shop": "聖嵐小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區中山路２段３８９號１樓",
+        "market_address": "新北市八里區龍米路１段２１９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "銅饗商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區舊城里０１１鄰中山路２段３３１號２樓",
+        "pay_list": [
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "口品鮮食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區龍源里０２８鄰龍米路１段３９０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "叁柒零早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區埤頭里０１１鄰中山路１段３７０號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "厚癮咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "八里區",
+        "market_address": "新北市八里區頂罟里中山路２段３３０號（１樓）",
         "pay_list": [
             "台灣pay",
             "悠遊卡"
         ]
     },
     {
-        "index": 30,
-        "shop": "尚豐企業社",
+        "index": 37,
+        "shop": "三豐小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區大崁里忠孝路１８７號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "禇家油飯行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區舊城里０１８鄰華峰三街３６號３樓",
+        "market_address": "新北市八里區大崁里忠四街４７號（１樓）",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 32,
-        "shop": "麗游創投股份有限公司",
+        "index": 38,
+        "shop": "青林小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "八里區",
-        "market_address": "新北市八里區荖阡里商港路２－１號",
+        "market_address": "新北市八里區訊塘里２３鄰商港路４０號．４２號",
         "pay_list": [
+            "台灣pay",
             "信用卡"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "禾家歡餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區荖阡里商港路２號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "討海人的厝",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "八里區",
-        "market_address": "新北市八里區下罟里中山路３段２４０號１樓",
-        "pay_list": [
-            "台灣pay"
         ]
     }
 ]

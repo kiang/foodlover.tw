@@ -1,173 +1,37 @@
 [
     {
         "index": 1,
-        "shop": "珍健康商行",
+        "shop": "大苑子茶飲專賣店",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里東興路２６８號",
+        "market_address": "彰化縣溪湖鎮平和里彰水路３段２９０號旁１樓",
         "pay_list": [
-            "街口"
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "溪湖南海茶道行",
+        "shop": "包子世家",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路三段２５８號",
+        "market_address": "彰化縣溪湖鎮湖東里員鹿路２段５５８號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
             "街口"
         ]
     },
     {
         "index": 3,
-        "shop": "唯宇商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路三段２５２號１樓",
-        "pay_list": [
-            "街口",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "吉利果食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮光平里興學街３２２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "饕客燒烤火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里興學街７５號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "婕瑜冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路三段２４４號１樓",
-        "pay_list": [
-            "街口",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "柴之餚美食屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮太平里大發路４０號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "高棧庭園餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮大庭里崙子腳路４０巷２２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "惠專飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮光華里二溪路一段９４號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "楊樂多餐館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮東寮里７鄰員鹿路三段４１０號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "品怡茶舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮光華里平和街３１３號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 12,
         "shop": "成品壽司坊",
         "category": [
             "餐飲"
@@ -177,14 +41,15 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮光平里彰水路三段３３１號１樓",
         "pay_list": [
-            "悠遊付",
+            "台灣pay",
             "信用卡",
+            "悠遊付",
             "悠遊卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 13,
+        "index": 4,
         "shop": "莉莉餐館",
         "category": [
             "餐飲"
@@ -195,11 +60,12 @@
         "market_address": "彰化縣溪湖鎮光華里西環路臨３８２號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 14,
+        "index": 5,
         "shop": "二余氏茶飲店",
         "category": [
             "餐飲"
@@ -209,15 +75,14 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮光平里信善街臨２號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
             "信用卡",
             "悠遊卡",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 15,
+        "index": 6,
         "shop": "品味軒商行",
         "category": [
             "餐飲"
@@ -227,11 +92,12 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮光平里環中街１０６號１樓",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 16,
+        "index": 7,
         "shop": "鉦達商行",
         "category": [
             "餐飲"
@@ -241,27 +107,14 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮光平里彰水路三段５０４號１樓",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 17,
-        "shop": "涼元商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路三段２２６號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 18,
+        "index": 8,
         "shop": "狀元紅商行",
         "category": [
             "餐飲"
@@ -271,11 +124,26 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮光平里東環路５３９號１樓",
         "pay_list": [
+            "LINE Pay Money",
             "橘子支付"
         ]
     },
     {
-        "index": 19,
+        "index": 9,
+        "shop": "真滿美食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里西環路７２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "阿清羊肉爐",
         "category": [
             "餐飲"
@@ -290,7 +158,7 @@
         ]
     },
     {
-        "index": 20,
+        "index": 11,
         "shop": "福鴻冷飲店",
         "category": [
             "餐飲"
@@ -300,13 +168,14 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮大竹里西環路７９號",
         "pay_list": [
-            "悠遊付",
             "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
         ]
     },
     {
-        "index": 21,
+        "index": 12,
         "shop": "活力屋早餐店",
         "category": [
             "餐飲"
@@ -320,7 +189,7 @@
         ]
     },
     {
-        "index": 22,
+        "index": 13,
         "shop": "宜興餐館",
         "category": [
             "餐飲"
@@ -331,154 +200,176 @@
         "market_address": "彰化縣溪湖鎮湖東里大溪路二段３４８號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 23,
-        "shop": "松神居日本料理店",
+        "index": 14,
+        "shop": "珍健康商行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮大突里地政路７７號１樓",
+        "market_address": "彰化縣溪湖鎮湖東里東興路２６８號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "街口"
         ]
     },
     {
-        "index": 24,
-        "shop": "回香咖啡",
+        "index": 15,
+        "shop": "職人茶行",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮太平里福安路７９號",
+        "market_address": "彰化縣溪湖鎮光平里彰水路三段３３０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "溪湖南海茶道行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮平和里彰水路三段２５８號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "唯宇商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮平和里彰水路三段２５２號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "美毅早餐屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光平里東環路５４９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "吉利果食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光平里興學街３２２號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
+        "index": 20,
+        "shop": "饕客燒烤火鍋店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮湖東里興學街７５號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "群生甜品工作坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光華里員鹿路三段１５３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "婕瑜冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮平和里彰水路三段２４４號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "邵立有限公司彰化溪湖分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮平和里員鹿路三段７５號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "麥當勞彰化溪湖分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮湖東里１８鄰員鹿路２段４３０號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 25,
-        "shop": "阿讚爌肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里員鹿路二段４８２號旁（變電所右邊第一間）",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "二溪茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮光華里二溪路１段８８號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "彰化星爌肉豬腳專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里員鹿路２段５２２巷９號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "阿秀羊肉有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里長青街１５、１７、１９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "魚魚料理有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮大突里大同路１３２巷１８號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "品茶福茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮大竹里西環路２５９號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "Pi 拍錢包",
-            "台灣pay",
-            "橘子支付",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "永鑫茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮光平里２鄰彰水路３段３４７號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 32,
         "shop": "楊仔頭羊肉店",
         "category": [
             "餐飲"
@@ -488,46 +379,60 @@
         "area": "溪湖鎮",
         "market_address": "彰化縣溪湖鎮湖東里員鹿路東環路口（西溪段１１４２地號上）",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "老春芳羊肉爐老店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里員鹿路二段３３２號",
-        "pay_list": [
             "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 34,
-        "shop": "淳品茶飲",
+        "index": 26,
+        "shop": "南澤老爹國際開發股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮太平里太平街１９４號１樓",
+        "market_address": "彰化縣溪湖鎮番婆里彰水路二段２７６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "台灣pay"
         ]
     },
     {
-        "index": 35,
+        "index": 27,
+        "shop": "心琥冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮平和里彰水路３段２７３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "台灣糖業股份有限公司中彰區處綜合經營課",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里彰水路２段７６３巷１６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
         "shop": "老客馥廣東粥",
         "category": [
             "餐飲"
@@ -541,7 +446,21 @@
         ]
     },
     {
-        "index": 36,
+        "index": 30,
+        "shop": "北島商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮東寮里頂新一街１３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 31,
         "shop": "三代傳承春芳燒烤羊肉",
         "category": [
             "餐飲"
@@ -556,7 +475,7 @@
         ]
     },
     {
-        "index": 37,
+        "index": 32,
         "shop": "阿明羊肉店",
         "category": [
             "餐飲"
@@ -570,7 +489,7 @@
         ]
     },
     {
-        "index": 38,
+        "index": 33,
         "shop": "兆洋餐飲事業股份有限公司溪湖太平分公司",
         "category": [
             "餐飲"
@@ -581,19 +500,100 @@
         "market_address": "彰化縣溪湖鎮太平里０１０鄰太平街２０７號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 39,
-        "shop": "皇家婚宴餐廳",
+        "index": 34,
+        "shop": "阿秀羊肉有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮西溪里忠溪路１８０、１８２號",
+        "market_address": "彰化縣溪湖鎮湖東里長青街１５、１７、１９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "魚魚料理有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大突里大同路１３２巷１８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "品茶福茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里西環路２５９號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "永鑫茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光平里２鄰彰水路３段３４７號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "五鮮級國際餐飲股份有限公司彰化溪湖分店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里彰水路三段１７０，１７２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "松神居日本料理店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大突里地政路７７號１樓",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -601,94 +601,294 @@
     },
     {
         "index": 40,
-        "shop": "心琥冷飲站",
+        "shop": "回香咖啡",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路３段２７３號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "邵立有限公司彰化溪湖分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里員鹿路三段７５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "和德昌股份有限公司彰化溪湖分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里１８鄰員鹿路２段４３０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "大苑子茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮平和里彰水路３段２９０號旁１樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "iPASS 一卡通",
-            "街口"
-        ]
-    },
-    {
-        "index": 44,
-        "shop": "南澤老爹國際開發股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮番婆里彰水路二段２７６號１樓",
+        "market_address": "彰化縣溪湖鎮太平里福安路７９號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 45,
-        "shop": "包子世家",
+        "index": 41,
+        "shop": "阿讚爌肉飯",
         "category": [
             "餐飲"
         ],
         "zone": "中彰投",
         "city": "彰化縣",
         "area": "溪湖鎮",
-        "market_address": "彰化縣溪湖鎮湖東里員鹿路２段５５８號",
+        "market_address": "彰化縣溪湖鎮湖東里員鹿路二段４８２號旁（變電所右邊第一間）",
         "pay_list": [
             "街口"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "彰化星爌肉豬腳專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮湖東里員鹿路２段５２２巷９號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "台灣小品蝸牛生技股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮西勢里環河路１段１７０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "百桂食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮東溪里１１鄰員鹿路一段３３６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "竣暉國際實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里１２鄰彰水路二段７６３巷７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "黏土屋文化事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮東寮里彰水路４段４３９巷１５１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "多點咖啡有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮河東里二溪路二段６３４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "樂貝兒國際有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里福德路２１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "柴之餚美食屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮太平里大發路４０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "高棧庭園餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大庭里崙子腳路４０巷２２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "惠專飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光華里二溪路一段９４號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "楊樂多餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮東寮里７鄰員鹿路三段４１０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "品怡茶舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光華里平和街３１３號",
+        "pay_list": [
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "金旺早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大突里１２鄰二溪路一段４１６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "老春芳羊肉爐老店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮湖東里員鹿路二段３３２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "淳品茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮太平里太平街１９４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "二溪茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮光華里二溪路１段８８號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "PIZZA HUT必勝客-彰化溪湖店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "溪湖鎮",
+        "market_address": "彰化縣溪湖鎮大竹里彰水路３段１７３號",
+        "pay_list": [
+            "信用卡"
         ]
     }
 ]

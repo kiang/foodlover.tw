@@ -11,25 +11,12 @@
         "market_address": "高雄市路竹區社西里大社路５９―１號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "虹屋手工烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "路竹區",
-        "market_address": "高雄市路竹區社西里００２鄰金平路３８６號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "華進商行",
         "category": [
             "餐飲",
@@ -41,10 +28,25 @@
         "market_address": "高雄市路竹區竹東里４鄰中山路９３５號１樓",
         "pay_list": [
             "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "虹屋手工烘焙",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "路竹區",
+        "market_address": "高雄市路竹區社西里００２鄰金平路３８６號",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

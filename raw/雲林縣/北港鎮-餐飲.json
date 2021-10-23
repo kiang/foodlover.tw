@@ -1,49 +1,69 @@
 [
     {
         "index": 1,
-        "shop": "吉輝海鮮川菜館",
+        "shop": "大同冷飲站",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮大同里太平路２２號",
+        "market_address": "雲林縣北港鎮光復里大同路２６１號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
-        "shop": "三媽臭臭鍋店",
+        "shop": "三角廚房",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里１０鄰民享路３１―３號１樓",
+        "market_address": "雲林縣北港鎮扶朝里未編門牌（扶朝段１０００地號）",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 3,
-        "shop": "弘爺企業社",
+        "shop": "清心福全冷飲站北港二店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮西勢里義民路２５－１號",
+        "market_address": "雲林縣北港鎮華勝里民享路２號",
         "pay_list": [
-            "台灣pay"
+            "Pi 拍錢包",
+            "街口",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 4,
+        "shop": "元木同商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里新德路１３６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "悅心鍋物料理",
         "category": [
             "餐飲"
@@ -58,7 +78,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 6,
         "shop": "造里居酒屋",
         "category": [
             "餐飲"
@@ -73,7 +93,7 @@
         ]
     },
     {
-        "index": 6,
+        "index": 7,
         "shop": "旭騰茶行",
         "category": [
             "餐飲"
@@ -83,13 +103,14 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮東陽里中山路３２號一樓",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
+        "index": 8,
         "shop": "名揚四海早午餐店",
         "category": [
             "餐飲"
@@ -99,13 +120,57 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮新街里華勝路３９６號",
         "pay_list": [
+            "Pi 拍錢包",
             "悠遊付",
             "悠遊卡",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 8,
+        "index": 9,
+        "shop": "橋頭肆拾肆號",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮義民里義民路４４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "麻雀大俠商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮賜福里義民路１５８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "甘乃滴冷泡飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮義民里義民路９２―１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
         "shop": "澵滎茶行",
         "category": [
             "餐飲"
@@ -115,11 +180,12 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮仁安里大同路１４５號",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
+        "index": 13,
         "shop": "映星園商行",
         "category": [
             "餐飲"
@@ -129,11 +195,26 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮東華里中華路２―９號２―１０號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 10,
+        "index": 14,
+        "shop": "北港晨食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里公園路１４５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
         "shop": "八方饌餐飲",
         "category": [
             "餐飲"
@@ -144,11 +225,12 @@
         "market_address": "雲林縣北港鎮西勢里文化路５２號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 11,
+        "index": 16,
         "shop": "轉角飲料店",
         "category": [
             "餐飲"
@@ -158,136 +240,48 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮義民里民主路５１號１樓",
         "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "隆昌茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮義民里民主路６５號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "回饗早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮大同里文化路１２８號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "善霆茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮西勢里文化路４２之１９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "誠鴻餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮新街里公園路５６―１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "京讚茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮仁安里大同路１８１號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 17,
-        "shop": "富康茶行",
+        "shop": "金德美有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里公園路１５號１樓",
+        "market_address": "雲林縣北港鎮新街里新西街１６號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
+            "信用卡"
         ]
     },
     {
         "index": 18,
-        "shop": "滎澵茶行",
+        "shop": "芬媽咪魔法廚房",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里公園路７１號１樓",
+        "market_address": "雲林縣北港鎮華勝里文仁路２８５號",
         "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "街口"
+            "信用卡"
         ]
     },
     {
         "index": 19,
-        "shop": "北港元氣石鍋專賣店",
+        "shop": "峰碩商行",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里大同路２０７號",
+        "market_address": "雲林縣北港鎮大同里文化路１２９號",
         "pay_list": [
             "台灣pay",
             "信用卡"
@@ -295,6 +289,268 @@
     },
     {
         "index": 20,
+        "shop": "Starbucks星巴克北港門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁安里華南路３８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "尊任有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里吉祥路１４８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "吉輝海鮮川菜館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮大同里太平路２２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "三媽臭臭鍋店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里１０鄰民享路３１―３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "弘爺企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮西勢里義民路２５－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "北港號商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮東華里厚生路５５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "爭鮮股份有限公司北港門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮光復里華南路１０１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "小島屋餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里吉祥路１００號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "金多蝦複合式餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮樹腳里文仁路４０８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "品味牛排火鍋簡餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里１１鄰公園路９７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "冰緣企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里新德路１２３號Ｂ１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "北港保生堂有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮中和里中山路６１號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "佳萱冷熱飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里文化路１６７號",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "北港鍋物店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里華勝路２６０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "蘇家飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮共榮里民主路２５號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "三商餐飲股份有限公司北港門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮光復里華南路１０１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "三商餐飲股份有限公司北港一門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮光復里華南路１０１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "六九生猛海鮮",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里華勝路２９４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
         "shop": "柏瑋商號",
         "category": [
             "餐飲"
@@ -309,7 +565,7 @@
         ]
     },
     {
-        "index": 21,
+        "index": 39,
         "shop": "八方通路館",
         "category": [
             "餐飲"
@@ -320,11 +576,327 @@
         "market_address": "雲林縣北港鎮華勝里民政路１４－１號",
         "pay_list": [
             "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "福泉餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里１１鄰公園路９５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "尚禾冷飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里公園路５０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "季節生活藝術有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里文昌路９３號１樓",
+        "pay_list": [
+            "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 22,
+        "index": 43,
+        "shop": "買樂文創有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里華勝路３３０號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "元福麻油有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮西勢里光明路１３６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "阿寶晨食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里１７鄰民享路３８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "米亞糖茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮東陽里中山路８６號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "隆昌茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮義民里民主路６５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "回饗早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮大同里文化路１２８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "善霆茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮西勢里文化路４２之１９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "誠鴻餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮新街里公園路５６―１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "京讚茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁安里大同路１８１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "富康茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里公園路１５號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "滎澵茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里公園路７１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "北港元氣石鍋專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮光復里大同路２０７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "元福麻油食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮共榮里中山路１４５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "全佑煙酒專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮華勝里公園路１１１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "鳳緹商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮仁安里大同路１８９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "風雅商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮大同里大同路１２９號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "麥當勞北港華勝分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "北港鎮",
+        "market_address": "雲林縣北港鎮光復里華南路６０號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 60,
         "shop": "泔田企業社",
         "category": [
             "餐飲"
@@ -334,16 +906,17 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮共榮里１０鄰中山路１５３號",
         "pay_list": [
-            "橘子支付",
             "Pi 拍錢包",
+            "台灣pay",
             "悠遊付",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 23,
+        "index": 61,
         "shop": "蘭叨小吃店",
         "category": [
             "餐飲"
@@ -353,12 +926,11 @@
         "area": "北港鎮",
         "market_address": "雲林縣北港鎮華勝里華勝路２０２號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 24,
+        "index": 62,
         "shop": "鱻田便當",
         "category": [
             "餐飲"
@@ -373,7 +945,7 @@
         ]
     },
     {
-        "index": 25,
+        "index": 63,
         "shop": "青森實業社",
         "category": [
             "餐飲"
@@ -388,348 +960,45 @@
         ]
     },
     {
-        "index": 26,
-        "shop": "米亞糖茶行",
+        "index": 64,
+        "shop": "店小二小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮東陽里中山路８６號１樓",
+        "market_address": "雲林縣北港鎮新街里文仁路３４６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 27,
-        "shop": "福泉餐飲店",
+        "index": 65,
+        "shop": "PIZZA HUT必勝客-雲林北港店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里１１鄰公園路９５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "三商餐飲股份有限公司北港門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里華南路１０１號",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "三商餐飲股份有限公司北港一門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里華南路１０１號",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "佳萱冷熱飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里文化路１６７號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "爭鮮股份有限公司北港門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里華南路１０１號",
+        "market_address": "雲林縣北港鎮華勝里華勝路７８號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 32,
-        "shop": "尊任有限公司",
+        "index": 66,
+        "shop": "肯德基KFC-雲林北港店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里吉祥路１４８號１樓",
+        "market_address": "雲林縣北港鎮仁安里華南路３６號",
         "pay_list": [
             "信用卡"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "清心福全冷飲站北港二店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里民享路２號",
-        "pay_list": [
-            "街口",
-            "Pi 拍錢包",
-            "橘子支付",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "元木同商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮新街里新德路１３６號１樓",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "風雅商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮大同里大同路１２９號",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "和德昌股份有限公司北港華勝分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里華南路６０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "冰緣企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮新街里新德路１２３號Ｂ１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "芬媽咪魔法廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里文仁路２８５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "陳雅琴",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里民享路２２號旁",
-        "pay_list": [
-            "悠遊卡",
-            "icash pay",
-            "信用卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "益臻國際有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮南安里民生路１９９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "北港鍋物店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮新街里華勝路２６０號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "蘇家飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮共榮里民主路２５號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "峰碩商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮大同里文化路１２９號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 44,
-        "shop": "大同冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮光復里大同路２６１號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "金德美有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮新街里新西街１６號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "三角廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮扶朝里未編門牌（扶朝段１０００地號）",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 47,
-        "shop": "品味牛排火鍋簡餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里１１鄰公園路９７號",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 48,
-        "shop": "小島屋餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "北港鎮",
-        "market_address": "雲林縣北港鎮華勝里吉祥路１００號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "icash pay",
-            "信用卡",
-            "iPASS 一卡通"
         ]
     }
 ]

@@ -1,6 +1,23 @@
 [
     {
         "index": 1,
+        "shop": "芹沃咖啡烘焙館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉芹壁村１１號　（５３之１號）",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "北竿塘海鮮樓",
         "category": [
             "餐飲"
@@ -15,7 +32,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 3,
         "shop": "饌食地方小吃館",
         "category": [
             "餐飲"
@@ -25,13 +42,14 @@
         "area": "北竿鄉",
         "market_address": "連江縣北竿鄉塘岐村９０號",
         "pay_list": [
-            "街口",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
-        "index": 3,
+        "index": 4,
         "shop": "龍和閩東風味館",
         "category": [
             "餐飲"
@@ -41,14 +59,15 @@
         "area": "北竿鄉",
         "market_address": "連江縣北竿鄉塘岐村８８號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
-        "index": 4,
+        "index": 5,
         "shop": "韓上樓飲食店",
         "category": [
             "餐飲"
@@ -62,23 +81,69 @@
         ]
     },
     {
-        "index": 5,
-        "shop": "芹沃咖啡烘焙館",
+        "index": 6,
+        "shop": "田園山莊民宿",
         "category": [
             "餐飲"
         ],
         "zone": "金馬離島",
         "city": "連江縣",
         "area": "北竿鄉",
-        "market_address": "連江縣北竿鄉芹壁村１１號　（５３之１號）",
+        "market_address": "連江縣北竿鄉坂里村３６號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
-        "index": 6,
+        "index": 7,
+        "shop": "龍福山莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉塘岐村２７３―８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "清雅民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉塘岐村２２５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "協和食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉塘岐村２２９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "亞特森林咖啡坊股份有限公司",
         "category": [
             "餐飲"
@@ -90,6 +155,155 @@
         "pay_list": [
             "台灣pay",
             "信用卡"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "一九六民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉塘岐村１９６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "芹壁青年民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉芹壁村２２－１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "星漾海景民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉橋仔村１２７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "木喜海景民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉橋仔村１２０號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "龍福山莊股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉塘岐村２７３―８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "島之島事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉芹壁村５４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "舒漫活海景旅宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉橋仔村８５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "藍映海岸景觀民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉橋仔村７３號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "家適咖啡民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉芹壁村６０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "芹壁愛情海",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "金馬離島",
+        "city": "連江縣",
+        "area": "北竿鄉",
+        "market_address": "連江縣北竿鄉芹壁村５４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

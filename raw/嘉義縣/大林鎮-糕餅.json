@@ -1,6 +1,36 @@
 [
     {
         "index": 1,
+        "shop": "法羅米食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "大林鎮",
+        "market_address": "嘉義縣大林鎮平林里００６鄰新興街１５１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "老楊食品股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "大林鎮",
+        "market_address": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "詠岳烘焙坊",
         "category": [
             "糕餅"
@@ -15,21 +45,50 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "法羅米食品行",
+        "index": 4,
+        "shop": "老楊食品股份有限公司老楊方城市",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "大林鎮",
-        "market_address": "嘉義縣大林鎮平林里００６鄰新興街１５１號１樓",
+        "market_address": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號２、３樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 5,
+        "shop": "大潁國際股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "大林鎮",
+        "market_address": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號三樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "藏林飲料店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "大林鎮",
+        "market_address": "嘉義縣大林鎮平林里００６鄰新興街１４７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "禾田商行",
         "category": [
             "餐飲",
@@ -40,25 +99,11 @@
         "area": "大林鎮",
         "market_address": "嘉義縣大林鎮西林里中山路２３７號１樓",
         "pay_list": [
-            "悠遊付",
+            "Pi 拍錢包",
             "台灣pay",
             "信用卡",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "老楊食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "大林鎮",
-        "market_address": "嘉義縣大林鎮中坑里０２２鄰大埔美園區五路３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "悠遊付",
+            "LINE Pay Money"
         ]
     }
 ]

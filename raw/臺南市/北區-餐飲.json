@@ -1,21 +1,660 @@
 [
     {
         "index": 1,
-        "shop": "FunKing 桌遊概念輕食館",
+        "shop": "皇豆豆花",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "台南市北區北門路二段143號",
+        "market_address": "臺南市北　區文成里文賢路４６６號",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "小北平麵食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段４７、４９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "席瑪朵珈琲烘焙棧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段５６９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "永泰大興冷飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大港里中華北路１段１３６號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "成大歲月美食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里長榮路４段１３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "旺旺小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里北園街５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "辰翔小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路３９３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "大可屋食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路４２２號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "妤妃職人茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大和里文賢路８２７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "日十小北餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里西門路３段２９６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "景福老牌石頭火鍋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里和緯路３段１７８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "尚品商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段３３號",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "翊仁牛排館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區東興里小東路１５１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "泰赫商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段６５０巷３０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "弄雞料理製造所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路４０２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "天籟藝文市集商行文成門市",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成三路７３６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "賀淋商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５５６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "清心武聖冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里武聖路２８號",
+        "pay_list": [
+            "街口",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "鼎富餐飲顧問有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里開元路３６４號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "栢和餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―２５號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "極鮮企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區東興里東興路２段６號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "善肆工作室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里北門路２段１５巷１７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "貓島廚房商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里長北街１５７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "道延有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里海安路３段３３８巷８９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "盈滿賓有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文元里文賢路１１１２號２樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "一郎愛美麗有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路１７９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "三點三餐飲有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里西門路４段１５３號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "鮮汁霸果汁店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長榮路４段４３號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "美而美早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街８巷７８號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "清心冷飲武聖店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園路５２０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "大鴻小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北安路１段２３５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "杏海商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里小北路２７巷４７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "四葉草古早味紅茶",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文元里文賢路１１０８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "晨翊早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區永祥里實踐街１００巷２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "淩酒冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８之３０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "晞果甜點",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街１１６號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "誼日企業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路４３３巷５０號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "塏晟商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里文賢路５６６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "花梅蘭日式概念料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路１３８號地下１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "原初咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里北忠街１６巷３３弄６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "慶有餘炭火燒土司店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里文賢路５１６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "多麼一號早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里海安路３段９１６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "宇田家菓子燒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里西門路４段３２７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "老夫子牛肉麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路３９６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "和佐企業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里文賢一路１７０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 46,
         "shop": "雞湯麵店",
         "category": [
             "餐飲"
@@ -30,7 +669,77 @@
         ]
     },
     {
-        "index": 3,
+        "index": 47,
+        "shop": "可可尼商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路３８９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "小冰豚冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街５６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "匯潁商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里北園街１－１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "立威飲料商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里開元路１９２－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "宮本武丼餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里西門路３段２９６號之１",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
         "shop": "微碳饅點心舖",
         "category": [
             "餐飲"
@@ -41,11 +750,26 @@
         "market_address": "臺南市北　區大興里公園路４６４號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 53,
+        "shop": "陞富企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里長榮路４段４２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
         "shop": "鑫福鍋物",
         "category": [
             "餐飲"
@@ -60,7 +784,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 55,
         "shop": "尚何麥飲品屋",
         "category": [
             "餐飲"
@@ -70,15 +794,14 @@
         "area": "北區",
         "market_address": "臺南市北　區福德里育德路４８２號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 6,
+        "index": 56,
         "shop": "臨安晨食館",
         "category": [
             "餐飲"
@@ -88,11 +811,12 @@
         "area": "北區",
         "market_address": "臺南市北　區雙安里臨安路２段１９７號１樓",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
+        "index": 57,
         "shop": "金咼食品行",
         "category": [
             "餐飲"
@@ -102,12 +826,11 @@
         "area": "北區",
         "market_address": "臺南市北　區華德里海安路３段９３０號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
-        "index": 8,
+        "index": 58,
         "shop": "樂麥福冷飲店",
         "category": [
             "餐飲"
@@ -118,11 +841,12 @@
         "market_address": "臺南市北　區北華里成功路２３０號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 9,
+        "index": 59,
         "shop": "芳鄰商行",
         "category": [
             "餐飲"
@@ -132,11 +856,12 @@
         "area": "北區",
         "market_address": "臺南市北　區和順里西門路３段１７９號１樓",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 10,
+        "index": 60,
         "shop": "合賀企業社",
         "category": [
             "餐飲"
@@ -150,7 +875,37 @@
         ]
     },
     {
-        "index": 11,
+        "index": 61,
+        "shop": "旺旺萊商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里公園路５９５之２４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "鼎香飯糰",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里和緯路４段４２６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 63,
         "shop": "泰和賞健康餐飲店",
         "category": [
             "餐飲"
@@ -165,7 +920,21 @@
         ]
     },
     {
-        "index": 12,
+        "index": 64,
+        "shop": "巧多企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里文賢路２７１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 65,
         "shop": "大芝佬餐飲企業社",
         "category": [
             "餐飲"
@@ -175,11 +944,26 @@
         "area": "北區",
         "market_address": "臺南市北　區北華里成功路２７６之２號",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 13,
+        "index": 66,
+        "shop": "深思茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長勝里長榮路５段２７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 67,
         "shop": "昱祐餐館",
         "category": [
             "餐飲"
@@ -193,7 +977,21 @@
         ]
     },
     {
-        "index": 14,
+        "index": 68,
+        "shop": "百年鍋燒複合式餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區民權路４段３１３之１１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 69,
         "shop": "雅優冷飲店",
         "category": [
             "餐飲"
@@ -207,7 +1005,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 70,
         "shop": "芸紫茶坊",
         "category": [
             "餐飲"
@@ -217,11 +1015,40 @@
         "area": "北區",
         "market_address": "臺南市北　區福德里育德路４６０號１樓",
         "pay_list": [
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 16,
+        "index": 71,
+        "shop": "大良商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路５４１－１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "晨之美早午餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５７０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 73,
         "shop": "次航餐飲",
         "category": [
             "餐飲"
@@ -235,7 +1062,36 @@
         ]
     },
     {
-        "index": 17,
+        "index": 74,
+        "shop": "黑美企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里北園街９５―１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 75,
+        "shop": "泓陞企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大和里文賢路６０７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 76,
         "shop": "盈豐茶飲店",
         "category": [
             "餐飲"
@@ -245,15 +1101,28 @@
         "area": "北區",
         "market_address": "臺南市北　區福德里和緯路２段３７６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 18,
+        "index": 77,
+        "shop": "賞品商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里文賢路６０２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 78,
         "shop": "台南早安有喜商行",
         "category": [
             "餐飲"
@@ -267,3058 +1136,49 @@
         ]
     },
     {
-        "index": 19,
-        "shop": "大可屋食堂",
+        "index": 79,
+        "shop": "誠仔刈包餐飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區大興里公園路４２２號",
+        "market_address": "臺南市北　區大港里大興街２９０巷３３號１樓",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "景福老牌石頭火鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元美里和緯路３段１７８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "尚品商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段３３號",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "翊仁牛排館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區東興里小東路１５１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "弄雞料理製造所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大興里公園路４０２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "永林小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區重興里東豐路４１１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "巧元餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里勝利路４４１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "一番冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―３９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "高麗館小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路３０７號１、２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "烏玖茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里文賢路３３９號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "金亞卉食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大光里北門路２段５５８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "日萃商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北門里長榮路５段３７２號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "懷特艾利茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里勝利路１９８號１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "雅德商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里海安路３段３７８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "鉑金會館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里公園路３１７號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "花格冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里公園南路２３８巷１１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "黎明鐵板燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里中華北路１段１０８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "晨港企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大港里大港街８７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "荏梓茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北成路４３６號１樓",
-        "pay_list": [
-            "悠遊付",
-            "悠遊卡",
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "米栗企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長榮路５段１０之３號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "饗義廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路３１３號１、２樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "丞恬鍋物",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里勝利路２８２號１樓",
-        "pay_list": [
-            "街口",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "洁茂牛肉麵館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大光里北門路２段５６８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "通盛商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里公園南路２２２巷２８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 43,
-        "shop": "八道江山韓式在地料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大和里中華北路１段６２７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 44,
-        "shop": "叁拾柒飲料專門店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里忠義路３段６８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "食味仙商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里文賢路２８７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "珍饌餐飲事業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段３１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 47,
-        "shop": "金禾冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里西門路３段１５６號１樓",
-        "pay_list": [
-            "悠遊付",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 48,
-        "shop": "溫爸鵝肉",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長勝里西門路３段２７４號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 49,
-        "shop": "簡單就好小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段２００巷１９號３樓",
-        "pay_list": [
-            "iPASS 一卡通",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 50,
-        "shop": "迦美小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區西門路３段２６之１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 51,
-        "shop": "台中楊麵線",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里開元路６４―８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "公主生活商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里富北街６４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "寶鉦實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元美里文賢路１００８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "歡喜冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里西門路４段３６７號７樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "喜烘廚美味廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里西門路４段１７１巷２０弄１７之１９號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "綠晶咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北安路１段２２５號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 57,
-        "shop": "開元早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里北園街６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 58,
-        "shop": "佳品實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段１２０、１２２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 59,
-        "shop": "造啡機咖啡專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大興里公園路４６８－３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 60,
-        "shop": "胖廚國際企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―３２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 61,
-        "shop": "盈心實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區開元里開元路３５５－１號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 62,
-        "shop": "共嚐美式料理坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大興里公園路６３０號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 63,
-        "shop": "好客美食企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成功里西門路４段４５５號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 64,
-        "shop": "鳳樲二食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文元里海安路３段９７９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 65,
-        "shop": "妙妙早餐屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段１３５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 66,
-        "shop": "兵工廠餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里公園南路８２號１、２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 67,
-        "shop": "ㄧ㭍沏健康茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成功路２７２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 68,
-        "shop": "永泰大興冷飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大港里中華北路１段１３６號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 69,
-        "shop": "成大歲月美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里長榮路４段１３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 70,
-        "shop": "旺德小舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路４３７巷１０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 71,
-        "shop": "淑琦晨食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里長榮路４段８８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 72,
-        "shop": "允暘美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大和里文賢路６９５之１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 73,
-        "shop": "灃瀅原生茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區正覺里公園路５９５―１６號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 74,
-        "shop": "小魚兒企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區西門路３段１９、２１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 75,
-        "shop": "瑪谷多元技術服務行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里西門路４段３１１號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 76,
-        "shop": "茶來富茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區合興里開元路３５２―１號１樓",
-        "pay_list": [
-            "悠遊付",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 77,
-        "shop": "閤苑坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里成功路４２６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 78,
-        "shop": "金同木反咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區西門路４段１７１巷５７號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 79,
-        "shop": "三商餐飲股份有限公司民德門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區和順里臨安路２段３１０號",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
         "index": 80,
-        "shop": "古根餐飲店",
+        "shop": "廣鮮企業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區開元里開元路３３９－１號",
+        "market_address": "臺南市北　區文元里文賢路１１１６號２樓",
         "pay_list": [
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
         "index": 81,
-        "shop": "日十早午餐",
+        "shop": "哈圃文賢有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區公園里成功路２２巷５之５號１樓",
+        "market_address": "臺南市北　區大豐里文賢路２９５號",
         "pay_list": [
-            "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 82,
-        "shop": "藝咖啡鮮焙咖啡店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北成路４６６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 83,
-        "shop": "好餃子商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里西門路３段２１４號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 84,
-        "shop": "汏凉企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段４５號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 85,
-        "shop": "摩爾先生冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區正覺里北安路１段４１號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 86,
-        "shop": "育德早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德路５９９巷２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 87,
-        "shop": "嘉美食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里北園街６之２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 88,
-        "shop": "金富菊日式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北安路１段１４９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 89,
-        "shop": "喝茶到飲品特調飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北門里長榮路５段３２２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 90,
-        "shop": "呈祥企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里育德路１７０號",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "悠遊卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 91,
-        "shop": "原則國際企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里西華街３４號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 92,
-        "shop": "台東春牛豆漿",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里成功路１７６號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 93,
-        "shop": "貳捌私房手作坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里小北路２８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 94,
-        "shop": "應瑞企業行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里勝利路１３８號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 95,
-        "shop": "北穀盤早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區勝利路３９１號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 96,
-        "shop": "大鴻小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北安路１段２３５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 97,
-        "shop": "杏海商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里小北路２７巷４７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 98,
-        "shop": "晨翊早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區永祥里實踐街１００巷２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 99,
-        "shop": "淩酒冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８之３０號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 100,
-        "shop": "誼日企業",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路４３３巷５０號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 101,
-        "shop": "花梅蘭日式概念料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里勝利路１３８號地下１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 102,
-        "shop": "多麼一號早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里海安路３段９１６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 103,
-        "shop": "晨間育德早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德二路３１３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 104,
-        "shop": "麴町食堂傳統家庭料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大興里公園路７１０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 105,
-        "shop": "文賢冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里文賢路３６３號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 106,
-        "shop": "小米的茶飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路５８７號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 107,
-        "shop": "瑭德茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德路６０１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 108,
-        "shop": "昶态商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文成里和緯路３段３７１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 109,
-        "shop": "西門粉圓冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路四段１４８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 110,
-        "shop": "蚵男鮮蚵本舖",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里海安路３段９２６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 111,
-        "shop": "邱家咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區合興里南園街１０５巷１３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 112,
-        "shop": "合芯飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區延平里公園路８２２―１號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 113,
-        "shop": "福相麻辣香鍋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里公園南路２８１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 114,
-        "shop": "錦玉家火雞肉飯",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文成里文賢路２５６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 115,
-        "shop": "台南晨曦早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里北園街３２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 116,
-        "shop": "緣鴻商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大和里大和路３３０巷５２號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 117,
-        "shop": "延齡堂商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里富北街５０號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 118,
-        "shop": "樂源茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里成功路３８４號１樓",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 119,
-        "shop": "昱景茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長勝里開元路１０９號１樓",
-        "pay_list": [
-            "悠遊付",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 120,
-        "shop": "玖佰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里成功路２２巷２０號",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 121,
-        "shop": "雅雅冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―２４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 122,
-        "shop": "蟲子咖啡館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段５９１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 123,
-        "shop": "亞芙餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路１８３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 124,
-        "shop": "福村居小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區重興里林森路３段１３８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 125,
-        "shop": "加賀塢早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里武聖路５２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 126,
-        "shop": "淞鈺冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區重興里東豐路３５５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 127,
-        "shop": "沁沅精緻茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里長北街１８５號",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "icash pay"
-        ]
-    },
-    {
-        "index": 128,
-        "shop": "豪恩早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元美里文賢三街２６３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 129,
-        "shop": "叢林冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長勝里開元路１３９號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 130,
-        "shop": "自在北門冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北門里長榮路５段３１０號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 131,
-        "shop": "同慈素食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里文賢路３３３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 132,
-        "shop": "佳佳天然有機生活館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里長榮路４段１２１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 133,
-        "shop": "東豐亭小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路３３３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 134,
-        "shop": "萬伯鹹粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里長榮路４段１５４號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 135,
-        "shop": "洋玩藝西式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段２８４號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 136,
-        "shop": "紅葉餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―２３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 137,
-        "shop": "昕安冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里西門路４段２７５號１樓",
-        "pay_list": [
-            "悠遊付",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 138,
-        "shop": "屋根餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里東豐路３７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 139,
-        "shop": "雅漾冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―３６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 140,
-        "shop": "茗棠商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北門里公園路８５８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 141,
-        "shop": "謬思企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區合興里南園街１０１巷３４弄１７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 142,
-        "shop": "永佳小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文元里文賢路１１０６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 143,
-        "shop": "拿破崙冰菓室",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里小北路５１號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 144,
-        "shop": "小芽點現代美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段４０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 145,
-        "shop": "廚神廣東粥",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區勝利路３７９號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 146,
-        "shop": "麗莉冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里裕民街８４巷９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 147,
-        "shop": "連恩小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里開元路１３８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 148,
-        "shop": "老恆春碳烤店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里海安路３段７２號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 149,
-        "shop": "清君冷飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元美里文賢三街１２８號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "Pi 拍錢包",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 150,
-        "shop": "加倍桔茶飲便利商店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區賢北里和緯路５段６８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 151,
-        "shop": "春心得意堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德路５２０－１號",
-        "pay_list": [
-            "橘子支付",
-            "Pi 拍錢包",
-            "悠遊付",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 152,
-        "shop": "鴻益冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里公園南路２５９號１樓",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 153,
-        "shop": "森恃企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里自強街５３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 154,
-        "shop": "識好茶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區賢北里和緯路５段６６號１樓",
-        "pay_list": [
-            "悠遊付",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 155,
-        "shop": "西部冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北華里公園路２２９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 156,
-        "shop": "如意樓餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里林森路３段１５３－３０號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 157,
-        "shop": "竹軒漢堡屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北成路３５１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 158,
-        "shop": "豪徠餐旅事業股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里長榮路４段８８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 159,
-        "shop": "王品餐飲股份有限公司夏慕尼台南公園南店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園南路３７７號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 160,
-        "shop": "日光徐徐餐飲有限公司台南前鋒營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里前鋒路３１８號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 161,
-        "shop": "樂送揚食品有限公司和緯營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里和緯路二段１６１號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 162,
-        "shop": "鴻藝企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里公園南路３７１號１樓、２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 163,
-        "shop": "易雲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路４０９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 164,
-        "shop": "壹陸壹頻道咖啡有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里中華北路２段１６０號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 165,
-        "shop": "銘壕科技有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北門里公園路８６４號１樓",
-        "pay_list": [
-            "橘子支付",
-            "台灣pay",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 166,
-        "shop": "羿品祥餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區北安路１段１６１號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 167,
-        "shop": "拾壹國際企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區重興里東豐路４３９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 168,
-        "shop": "三商餐飲股份有限公司台南一門市部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區和順里臨安路２段３１０號",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 169,
-        "shop": "納貝餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里文成路１９２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 170,
-        "shop": "鎮慧國際有限公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里開元路４５７號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 171,
-        "shop": "洁洁國際企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元美里海安路３段７８１巷５１號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 172,
-        "shop": "阿成炒飯有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里西門路３段２１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 173,
-        "shop": "道延有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里海安路３段３３８巷８９號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 174,
-        "shop": "盈滿賓有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文元里文賢路１１１２號２樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 175,
-        "shop": "一郎愛美麗有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路１７９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 176,
-        "shop": "鮮汁霸果汁店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長榮路４段４３號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 177,
-        "shop": "美而美早餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里北園街８巷７８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 178,
-        "shop": "金鑫小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里開元路４８５巷３８號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 179,
-        "shop": "北門鍋物店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里北門路２段１５０、１５０之１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 180,
-        "shop": "欣展茶坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路５８９－７號　",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 181,
-        "shop": "胖米熊茶飲專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大光里公園路７７６號１樓",
-        "pay_list": [
-            "悠遊付",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 182,
-        "shop": "圖蕾實業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里和緯路二段４５０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 183,
-        "shop": "日光緩緩早午餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里東豐路２４１號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 184,
-        "shop": "和德昌股份有限公司台南西門Ⅱ分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段６６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 185,
-        "shop": "異人館國際餐飲股份有限公司開元分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區元寶里開元路５１５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 186,
-        "shop": "三商餐飲股份有限公司台南成功分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里成功路１２號１樓",
-        "pay_list": [
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 187,
-        "shop": "集朗有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區正覺里公園路５９５―１７號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 188,
-        "shop": "鯨吞燒餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里海安路３段４７號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 189,
-        "shop": "全壘打牛排武聖店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里武聖路１３０號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 190,
-        "shop": "胖喵蔬食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里大興街２３３巷４６弄５６號騎樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 191,
-        "shop": "老友小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區振興里勝利路２６６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 192,
-        "shop": "初恩茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區文成里文賢路２７８號１樓",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 193,
-        "shop": "榮星川菜餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里北安路１段１７７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 194,
-        "shop": "安成冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區開元里開元路３５９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 195,
-        "shop": "和家鍋貼店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區開元里開元路３５５－６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 196,
-        "shop": "鼎富餐飲顧問有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區合興里開元路３６４號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 197,
-        "shop": "栢和餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里公園路１２８―２５號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 198,
-        "shop": "翁守芳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大光里長榮路５段３４１號騎樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 199,
-        "shop": "極鮮企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區東興里東興路２段６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 200,
-        "shop": "善肆工作室",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區公園里北門路２段１５巷１７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 201,
-        "shop": "貓島廚房商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里長北街１５７號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 202,
-        "shop": "希望餐飲台南商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區大豐里中華北路１段１００、１０２號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 203,
-        "shop": "總理大餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里西門路４段２５８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 204,
-        "shop": "盛凱餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段４３號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 205,
-        "shop": "碳味哩咖啡坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里立賢路１段３９號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 206,
-        "shop": "豐盈喜商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里東豐路６、８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 207,
-        "shop": "銘仁堂餐飲文化商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區仁愛里勝利路１３８號地下一樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 208,
-        "shop": "赤客燒肉店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里公園南路３８５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 209,
-        "shop": "常暙自助餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區新勝里開元路３５５－２號、３５５－３號１樓",
-        "pay_list": [
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 210,
-        "shop": "兆洛餐飲事業股份有限公司台南中華北分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區賢北里中華北路１段１１１、１１３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 211,
-        "shop": "異人館國際餐飲股份有限公司文成分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區華德里文成三路２０８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 212,
-        "shop": "異人館國際餐飲股份有限公司育德分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德路５５２號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 213,
-        "shop": "阿安牛肉湯店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中華北路１段１８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 214,
-        "shop": "文明餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里西門路３段１７６號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 215,
-        "shop": "多麼餐飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區長興里公園北路９２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 216,
-        "shop": "尼法咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區中樓里東豐路１１１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 217,
-        "shop": "萬香羊排火鍋店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區小北里公園路４２９號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 218,
-        "shop": "美恩快餐店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區正覺里北安路１段９３號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 219,
-        "shop": "西園日本料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區和順里臨安路２段２５１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 220,
-        "shop": "優膳糧府城餐飲股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里國華街４段５巷１２號２樓之２",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 221,
-        "shop": "慶山股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區立人里公園南路３８５號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 222,
-        "shop": "專成國際股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成德里西門路４段１１７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 223,
-        "shop": "八方雲集餐飲股份有限公司御廚台南育德店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區福德里育德路４０７號１樓",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 224,
-        "shop": "麟咖啡有限公司春福年年店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區成功里北安路一段３１４號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 225,
-        "shop": "鮮自然企業有限公司大興營運處",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北區",
-        "market_address": "臺南市北　區賢北里大興街４６１號１樓",
-        "pay_list": [
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 226,
         "shop": "挺鮮實業有限公司",
         "category": [
             "餐飲"
@@ -3328,12 +1188,13 @@
         "area": "北區",
         "market_address": "臺南市北　區大光里公園路７９８號１樓",
         "pay_list": [
+            "Pi 拍錢包",
             "悠遊卡",
-            "Pi 拍錢包"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 227,
+        "index": 83,
         "shop": "鮮自然企業有限公司鄭仔寮營運處",
         "category": [
             "餐飲"
@@ -3343,11 +1204,12 @@
         "area": "北區",
         "market_address": "臺南市北　區華德里北安路１段１９１號１樓",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 228,
+        "index": 84,
         "shop": "酒賀霖有限公司",
         "category": [
             "餐飲"
@@ -3362,7 +1224,7 @@
         ]
     },
     {
-        "index": 229,
+        "index": 85,
         "shop": "秀枝企業有限公司",
         "category": [
             "餐飲"
@@ -3377,7 +1239,1291 @@
         ]
     },
     {
-        "index": 230,
+        "index": 86,
+        "shop": "萬香羊排火鍋店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路４２９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "美恩快餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里北安路１段９３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "西園日本料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區和順里臨安路２段２５１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 89,
+        "shop": "銘仁堂餐飲文化商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路１３８號地下一樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 90,
+        "shop": "赤客燒肉店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里公園南路３８５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 91,
+        "shop": "稷霖商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長勝里長榮路５段１３５－１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 92,
+        "shop": "常暙自助餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區新勝里開元路３５５－２號、３５５－３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 93,
+        "shop": "祖母茶葉股份有限公司開元分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里開元路３７４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 94,
+        "shop": "兆洛餐飲事業股份有限公司台南中華北分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里中華北路１段１１１、１１３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 95,
+        "shop": "異人館國際餐飲股份有限公司文成分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里文成三路２０８號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 96,
+        "shop": "異人館國際餐飲股份有限公司育德分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德路５５２號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 97,
+        "shop": "優膳糧府城餐飲股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里國華街４段５巷１２號２樓之２",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 98,
+        "shop": "麟咖啡有限公司春福年年店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成功里北安路一段３１４號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 99,
+        "shop": "鮮自然企業有限公司大興營運處",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里大興街４６１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 100,
+        "shop": "鎮慧國際有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里開元路４５７號",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 101,
+        "shop": "洁洁國際企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里海安路３段７８１巷５１號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 102,
+        "shop": "羽嵐茶飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里公園路７９０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 103,
+        "shop": "普森美式早點",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大港里中華北路１段１３８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 104,
+        "shop": "多麼餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里公園北路９２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 105,
+        "shop": "尼法咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里東豐路１１１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 106,
+        "shop": "阿安牛肉湯店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中華北路１段１８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 107,
+        "shop": "總理大餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段２５８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 108,
+        "shop": "盛凱餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段４３號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 109,
+        "shop": "碳味哩咖啡坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段３９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 110,
+        "shop": "豐盈喜商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里東豐路６、８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 111,
+        "shop": "全津冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里中華北路１段８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 112,
+        "shop": "聚會所飲食店林森店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區重興里林森路３段１９６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 113,
+        "shop": "納貝餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里文成路１９２號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 114,
+        "shop": "千森國際餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里裕民街７１號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 115,
+        "shop": "拾壹國際企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區重興里東豐路４３９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 116,
+        "shop": "柏壹生活有限公司文元店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里海安路３段８００號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 117,
+        "shop": "文明餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里西門路３段１７６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 118,
+        "shop": "三商餐飲股份有限公司台南一門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區和順里臨安路２段３１０號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 119,
+        "shop": "集朗有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里公園路５９５―１７號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 120,
+        "shop": "鯨吞燒餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里海安路３段４７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 121,
+        "shop": "全壘打牛排武聖店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里武聖路１３０號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 122,
+        "shop": "古家餐飲企業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路４２８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 123,
+        "shop": "沅味香拉麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里開元路３３７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 124,
+        "shop": "米栗企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長榮路５段１０之３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 125,
+        "shop": "饗義廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路３１３號１、２樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 126,
+        "shop": "丞恬鍋物",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里勝利路２８２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 127,
+        "shop": "洁茂牛肉麵館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５６８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 128,
+        "shop": "通盛商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里公園南路２２２巷２８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 129,
+        "shop": "八道江山韓式在地料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大和里中華北路１段６２７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 130,
+        "shop": "嘉大商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德路６０７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 131,
+        "shop": "叁拾柒飲料專門店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里忠義路３段６８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 132,
+        "shop": "櫻之庭食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路２０６巷８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 133,
+        "shop": "食味仙商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里文賢路２８７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 134,
+        "shop": "珍饌餐飲事業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段３１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 135,
+        "shop": "啜癮珈琲館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里北華街２４８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 136,
+        "shop": "金禾冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里西門路３段１５６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 137,
+        "shop": "盧西咖啡工作室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德二路３４０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 138,
+        "shop": "溫爸鵝肉",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長勝里西門路３段２７４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 139,
+        "shop": "台南大馬料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區永祥里大武街５９７巷１０弄７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 140,
+        "shop": "迦美小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區西門路３段２６之１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 141,
+        "shop": "台中楊麵線",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里開元路６４―８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 142,
+        "shop": "小敏炸雞",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里公園路９８０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 143,
+        "shop": "公主生活商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里富北街６４號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 144,
+        "shop": "寶鉦實業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里文賢路１００８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 145,
+        "shop": "歡喜冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里西門路４段３６７號７樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 146,
+        "shop": "布瑞克飲茶專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里文賢路９９８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 147,
+        "shop": "喜烘廚美味廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里西門路４段１７１巷２０弄１７之１９號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 148,
+        "shop": "玖貳號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文元里文賢路１０９２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 149,
+        "shop": "綠晶咖啡店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北安路１段２２５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 150,
+        "shop": "開元早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 151,
+        "shop": "佳品實業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段１２０、１２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 152,
+        "shop": "造啡機咖啡專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路４６８－３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 153,
+        "shop": "胖廚國際企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―３２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 154,
+        "shop": "喬貝克餐飲屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路２３８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 155,
+        "shop": "盈心實業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里開元路３５５－１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 156,
+        "shop": "共嚐美式料理坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路６３０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 157,
+        "shop": "好客美食企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成功里西門路４段４５５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 158,
+        "shop": "弘穩企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街８巷５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 159,
+        "shop": "鳳樲二食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文元里海安路３段９７９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 160,
+        "shop": "旺福早午點",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區西門路３段７２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 161,
+        "shop": "妙妙早餐屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段１３５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 162,
+        "shop": "兵工廠餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里公園南路８２號１、２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 163,
+        "shop": "ㄧ㭍沏健康茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成功路２７２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 164,
+        "shop": "異人館國際餐飲股份有限公司開元分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里開元路５１５號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 165,
+        "shop": "三商餐飲股份有限公司台南成功分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里成功路１２號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 166,
+        "shop": "簡單就好小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段２００巷１９號３樓",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 167,
+        "shop": "祥禾商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里長榮路５段３０８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 168,
+        "shop": "安成冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里開元路３５９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 169,
+        "shop": "和家鍋貼店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里開元路３５５－６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 170,
+        "shop": "Starbucks星巴克台南市第十九分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區西門路４段３０７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 171,
+        "shop": "竹軒漢堡屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路３５１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 172,
+        "shop": "巴人川味重慶江湖菜",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區東興里小東路１５３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 173,
         "shop": "勁于茶行",
         "category": [
             "餐飲"
@@ -3387,13 +2533,13 @@
         "area": "北區",
         "market_address": "臺南市北　區和緯路４段４２６號（Ａ９９、Ａ１００、Ａ１０２）",
         "pay_list": [
-            "悠遊付",
             "台灣pay",
+            "悠遊付",
             "街口"
         ]
     },
     {
-        "index": 231,
+        "index": 174,
         "shop": "一本家企業有限公司",
         "category": [
             "餐飲"
@@ -3404,52 +2550,2513 @@
         "market_address": "臺南市北　區立人里公園南路３５７號１樓",
         "pay_list": [
             "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 175,
+        "shop": "鈞嵐茶飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里南園街１１８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 176,
+        "shop": "羿品祥餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北安路１段１６１號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 177,
+        "shop": "雅德商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里海安路３段３７８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 178,
+        "shop": "鉑金會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里公園路３１７號１樓",
+        "pay_list": [
             "信用卡"
+        ]
+    },
+    {
+        "index": 179,
+        "shop": "花格冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里公園南路２３８巷１１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 180,
+        "shop": "黎明鐵板燒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里中華北路１段１０８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 181,
+        "shop": "晨港企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大港里大港街８７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 182,
+        "shop": "荏梓茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路４３６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 183,
+        "shop": "青綠園冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里公園路１３９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 184,
+        "shop": "希望餐飲台南商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里中華北路１段１００、１０２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 185,
+        "shop": "Starbucks星巴克成大醫院Ｂ１門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區勝利路１３８號地下一層",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 186,
+        "shop": "王品餐飲股份有限公司夏慕尼台南公園南店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園南路３７７號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 187,
+        "shop": "日光徐徐餐飲有限公司台南前鋒營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里前鋒路３１８號２樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 188,
+        "shop": "樂送揚食品有限公司和緯營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里和緯路二段１６１號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 189,
+        "shop": "洋玩藝西式料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段２８４號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 190,
+        "shop": "紅葉餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―２３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 191,
+        "shop": "緹克廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里勝利路４０７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 192,
+        "shop": "屋根餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里東豐路３７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 193,
+        "shop": "南島夢遊複合餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路４８７巷１８－１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 194,
+        "shop": "雅漾冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―３６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 195,
+        "shop": "茶樹之味生活茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里西門路４段４５６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 196,
+        "shop": "茗棠商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里公園路８５８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 197,
+        "shop": "謬思企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里南園街１０１巷３４弄１７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 198,
+        "shop": "永佳小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文元里文賢路１１０６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 199,
+        "shop": "花開富貴美食館",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里開元路１４８巷７號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 200,
+        "shop": "拿破崙冰菓室",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里小北路５１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 201,
+        "shop": "小芽點現代美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段４０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 202,
+        "shop": "淞鈺冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區重興里東豐路３５５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 203,
+        "shop": "沁沅精緻茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里長北街１８５號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 204,
+        "shop": "豪恩早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里文賢三街２６３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 205,
+        "shop": "叢林冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長勝里開元路１３９號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 206,
+        "shop": "自在北門冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里長榮路５段３１０號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 207,
+        "shop": "費尼希卡義式冰淇淋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里和緯路２段３８６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 208,
+        "shop": "同慈素食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里文賢路３３３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 209,
+        "shop": "育晴商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里北安路１段１７７－３０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 210,
+        "shop": "佳佳天然有機生活館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里長榮路４段１２１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 211,
+        "shop": "東豐亭小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路３３３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 212,
+        "shop": "萬伯鹹粥",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里長榮路４段１５４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 213,
+        "shop": "旺德小舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路４３７巷１０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 214,
+        "shop": "金周到小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里開元路４０２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 215,
+        "shop": "淑琦晨食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里長榮路４段８８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 216,
+        "shop": "允暘美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大和里文賢路６９５之１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 217,
+        "shop": "灃瀅原生茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里公園路５９５―１６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 218,
+        "shop": "小魚兒企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區西門路３段１９、２１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 219,
+        "shop": "瑪谷多元技術服務行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里西門路４段３１１號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 220,
+        "shop": "茶來富茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里開元路３５２―１號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 221,
+        "shop": "閤苑坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路４２６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 222,
+        "shop": "凱昕商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德路５１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 223,
+        "shop": "湧鑫商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里長榮路四段２３１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 224,
+        "shop": "金同木反咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區西門路４段１７１巷５７號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 225,
+        "shop": "三商餐飲股份有限公司民德門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區和順里臨安路２段３１０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 226,
+        "shop": "廚神廣東粥",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區勝利路３７９號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 227,
+        "shop": "麗莉冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里裕民街８４巷９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 228,
+        "shop": "連恩小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里開元路１３８號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 229,
+        "shop": "老恆春碳烤店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里海安路３段７２號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 230,
+        "shop": "清君冷飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元美里文賢三街１２８號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 231,
+        "shop": "加倍桔茶飲便利商店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里和緯路５段６８號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 232,
-        "shop": "廣鮮企業有限公司",
+        "shop": "春心得意堂",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區文元里文賢路１１１６號２樓",
+        "market_address": "臺南市北　區福德里育德路５２０－１號",
         "pay_list": [
-            "信用卡"
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 233,
-        "shop": "清心武聖冷飲店",
+        "shop": "鴻益冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區大豐里武聖路２８號",
+        "market_address": "臺南市北　區北華里公園南路２５９號１樓",
         "pay_list": [
-            "悠遊付",
             "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
         ]
     },
     {
         "index": 234,
-        "shop": "清心冷飲武聖店",
+        "shop": "繆思小廚",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北區",
-        "market_address": "臺南市北　區公園路５２０號",
+        "market_address": "臺南市北　區元寶里北園街８巷５８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 235,
+        "shop": "森恃企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里自強街５３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 236,
+        "shop": "識好茶店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里和緯路５段６６號１樓",
         "pay_list": [
             "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 237,
+        "shop": "西部冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里公園路２２９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 238,
+        "shop": "如意樓餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里林森路３段１５３－３０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 239,
+        "shop": "晨間育德早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德二路３１３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 240,
+        "shop": "公園餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路６６０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 241,
+        "shop": "文賢冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里文賢路３６３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 242,
+        "shop": "小米的茶飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路５８７號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 243,
+        "shop": "東星茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成功里北安路１段９２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 244,
+        "shop": "瑭德茶坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德路６０１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 245,
+        "shop": "昶态商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里和緯路３段３７１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 246,
+        "shop": "西門粉圓冰店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路四段１４８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 247,
+        "shop": "性格朝午食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里成功路６８巷４―５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 248,
+        "shop": "蚵男鮮蚵本舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里海安路３段９２６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 249,
+        "shop": "邱家咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里南園街１０５巷１３號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 250,
+        "shop": "古根餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里開元路３３９－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 251,
+        "shop": "日十早午餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里成功路２２巷５之５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 252,
+        "shop": "藝咖啡鮮焙咖啡店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北成路４６６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 253,
+        "shop": "波可紅茶冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大興里公園路７００號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 254,
+        "shop": "好餃子商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長興里西門路３段２１４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 255,
+        "shop": "汏凉企業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段４５號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 256,
+        "shop": "摩爾先生冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里北安路１段４１號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 257,
+        "shop": "育德早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里育德路５９９巷２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 258,
+        "shop": "金富菊日式料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北安路１段１４９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 259,
+        "shop": "億品茶企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５５３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 260,
+        "shop": "小羋莉餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５１３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 261,
+        "shop": "金三益健康茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里林森路３段１８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 262,
+        "shop": "喝茶到飲品特調飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里長榮路５段３２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 263,
+        "shop": "呈祥企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里育德路１７０號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 264,
+        "shop": "原則國際企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里西華街３４號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 265,
+        "shop": "台東春牛豆漿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里成功路１７６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 266,
+        "shop": "貳捌私房手作坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里小北路２８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 267,
+        "shop": "應瑞企業行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路１３８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 268,
+        "shop": "北穀盤早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區勝利路３９１號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 269,
+        "shop": "胖喵蔬食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里大興街２３３巷４６弄５６號騎樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 270,
+        "shop": "老友小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區振興里勝利路２６６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 271,
+        "shop": "初恩茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里文賢路２７８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 272,
+        "shop": "榮星川菜餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里北安路１段１７７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 273,
+        "shop": "品味耳機音響企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路３３５號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 274,
+        "shop": "永義豐商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里成功路９６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 275,
+        "shop": "天下大飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里成功路２０２號１，４至１１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 276,
+        "shop": "首相大旅店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８號１樓、８樓及地下室",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 277,
+        "shop": "榮美金鬱金香酒店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區海安路３段５０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 278,
+        "shop": "東洲飲品有限公司第一營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園路２９１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 279,
+        "shop": "鳩鷺生技有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街８巷６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 280,
+        "shop": "陸合創意國際有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里開元路３９４巷５４號１樓",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 281,
+        "shop": "瑪薩拉企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路２４７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 282,
+        "shop": "家新管理實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里海安路３段２８７號１－８樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 283,
+        "shop": "立紘飲品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里西門路４段２７１號７樓之８",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 284,
+        "shop": "九杯精品咖啡有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里文成五街６６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 285,
+        "shop": "傑克堡旅舘有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里民德路５８巷１０６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 286,
+        "shop": "黎氏國際貿易有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里金華路５段２２號２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 287,
+        "shop": "台灣愛買有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區雙安里海安路３段１３５巷１０３號１樓",
+        "pay_list": [
+            "信用卡",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 288,
+        "shop": "盛通泰農產商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里育成路６１號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 289,
+        "shop": "洁品景觀小館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里海安路３段６０６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 290,
+        "shop": "蜜可企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里和緯路１段１０２號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 291,
+        "shop": "海港城商務會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路３９６之５號２、３樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 292,
+        "shop": "奇樂達商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里西門路４段２７７、２７９號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 293,
+        "shop": "新朝代飯店股份有限公司台南分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里成功路４６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 294,
+        "shop": "三商家購股份有限公司台南北園分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里北園街１２６號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 295,
+        "shop": "富信大飯店股份有限公司台南分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路３３６號（１至１２樓）",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 296,
+        "shop": "鴻藝企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里公園南路３７１號１樓、２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 297,
+        "shop": "易雲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路４０９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 298,
+        "shop": "壹陸壹頻道咖啡有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區華德里中華北路２段１６０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 299,
+        "shop": "戰鬥雞",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區武聖路６９巷１３５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 300,
+        "shop": "永林小吃",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區重興里東豐路４１１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 301,
+        "shop": "巧元餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區中樓里勝利路４４１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 302,
+        "shop": "一番冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―３９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 303,
+        "shop": "安徒生冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路２４９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 304,
+        "shop": "高麗館小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路３０７號１、２樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 305,
+        "shop": "烏玖茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里文賢路３３９號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 306,
+        "shop": "金亞卉食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里北門路２段５５８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 307,
+        "shop": "日萃商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北門里長榮路５段３７２號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 308,
+        "shop": "和偉麵館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里和緯路２段２５３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 309,
+        "shop": "懷特艾利茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路１９８號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 310,
+        "shop": "品常創意料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區開元里北園街１３之３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 311,
+        "shop": "元帥茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路５６８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 312,
+        "shop": "松鶴食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區賢北里中華北路１段１０７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 313,
+        "shop": "果蒲手作烘焙",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區正覺里公園路７６９巷６―１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 314,
+        "shop": "天天有魚虱目魚專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段２１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 315,
+        "shop": "倆伙餐飲企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里勝利路１９６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 316,
+        "shop": "金鑫小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里開元路４８５巷３８號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 317,
+        "shop": "北門鍋物店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里北門路２段１５０、１５０之１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 318,
+        "shop": "欣展茶坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里公園路５８９－７號　",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 319,
+        "shop": "胖米熊茶飲專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大光里公園路７７６號１樓",
+        "pay_list": [
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 320,
+        "shop": "圖蕾實業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區福德里和緯路二段４５０號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 321,
+        "shop": "日光緩緩早午餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路２４１號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 322,
+        "shop": "麥當勞台南西門Ⅱ分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區小北里西門路４段６６號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 323,
+        "shop": "合芯飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區延平里公園路８２２―１號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
+        ]
+    },
+    {
+        "index": 324,
+        "shop": "福相麻辣香鍋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區北華里公園南路２８１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 325,
+        "shop": "錦玉家火雞肉飯",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區文成里文賢路２５６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 326,
+        "shop": "貓門珈琲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區合興里南園街８７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 327,
+        "shop": "台南晨曦早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區元寶里北園街３２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 328,
+        "shop": "緣鴻商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大和里大和路３３０巷５２號１樓",
+        "pay_list": [
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 329,
+        "shop": "延齡堂商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里富北街５０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 330,
+        "shop": "樂源茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區立人里成功路３８４號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 331,
+        "shop": "一方咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路２４５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 332,
+        "shop": "昱景茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區長勝里開元路１０９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 333,
+        "shop": "玖佰商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里成功路２２巷２０號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 334,
+        "shop": "雅雅冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區公園里公園路１２８―２４號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 335,
+        "shop": "蟲子咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里立賢路１段５９１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 336,
+        "shop": "亞芙餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區仁愛里東豐路１８３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 337,
+        "shop": "福村居小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區重興里林森路３段１３８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 338,
+        "shop": "加賀塢早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區大豐里武聖路５２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 339,
+        "shop": "客美多台南小北店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北　區成德里西門路４段１１７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 340,
+        "shop": "PIZZA HUT必勝客-台南西門店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北區西門路３段２７０號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 341,
+        "shop": "肯德基KFC-台南西門二店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北區",
+        "market_address": "臺南市北區成德里西門路４段１５５號１﹒２樓",
+        "pay_list": [
+            "信用卡"
         ]
     }
 ]

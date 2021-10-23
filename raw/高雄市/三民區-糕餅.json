@@ -1,34 +1,49 @@
 [
     {
         "index": 1,
-        "shop": "全佳福糕餅麵包店",
+        "shop": "紅鞋女孩手作甜點工作室",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區同德里山東街１０６－１０８號",
+        "market_address": "高雄市三民區灣復里民族一路３８４號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "六龜餅家",
+        "shop": "寶兒企業社",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區寶民里水源路４０號",
+        "market_address": "高雄市三民區灣復里鼎山街６９４號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
+        "shop": "金亞米企業行建元分店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區正興里建元路５６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "樂山企業社",
         "category": [
             "糕餅"
@@ -38,11 +53,12 @@
         "area": "三民區",
         "market_address": "高雄市三民區安和里綏遠一街１６９號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
+        "index": 5,
         "shop": "吉林巴特里麵包坊",
         "category": [
             "糕餅"
@@ -52,12 +68,11 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里吉林街１５１號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
+        "index": 6,
         "shop": "施傅烘焙坊",
         "category": [
             "糕餅"
@@ -67,53 +82,37 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里熱河一街３６０號１樓",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付",
             "橘子支付"
         ]
     },
     {
-        "index": 6,
-        "shop": "參陸玖甜點",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區正興里建興路３６９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
         "index": 7,
-        "shop": "旭冠企業社",
+        "shop": "興光商行",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區立業里恆豐街２９０號",
+        "market_address": "高雄市三民區鳳北里三鳳中街１１４之１號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 8,
-        "shop": "三隻羊手作雞蛋糕",
+        "shop": "聚鑫家開發實業有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區鼎泰里民族一路６３８巷５０弄７―１號",
+        "market_address": "高雄市三民區本安里汾陽路２７號１樓",
         "pay_list": [
-            "iPASS 一卡通",
-            "LINE Pay Money"
+            "信用卡"
         ]
     },
     {
@@ -127,117 +126,85 @@
         "area": "三民區",
         "market_address": "高雄市三民區昌裕街２１２號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 10,
-        "shop": "法朗西斯烘焙坊",
+        "shop": "六龜餅家",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區本和里大昌一路２―３號１樓",
+        "market_address": "高雄市三民區寶民里水源路４０號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 11,
-        "shop": "寶兒企業社",
+        "shop": "比歐波波法式甜點",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區灣復里鼎山街６９４號",
+        "market_address": "高雄市三民區寶中里大順二路１７９號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 12,
-        "shop": "津香企業社",
+        "shop": "其祥食品有限公司多栗燒菓子製造館",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區本館里昌裕街９６號",
+        "market_address": "高雄市三民區德西里中華二路４２５號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 13,
-        "shop": "韋伯創作小吃店",
+        "shop": "需要點甜有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區鼎泰里鼎瑞街８８號１樓",
+        "market_address": "高雄市三民區愛國路１５７號６樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 14,
-        "shop": "多那之國際股份有限公司",
+        "shop": "維格餅家股份有限公司高雄分公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區安邦里康平街２６８號",
+        "market_address": "高雄市三民區安邦里同協路１９９號",
         "pay_list": [
-            "LINE Pay Money",
-            "街口",
-            "iPASS 一卡通"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 15,
-        "shop": "品卓國際事業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區灣興里灣興街３６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "吳寶春食品股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區德西里中和街１２號",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡",
-            "悠遊卡",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "永心鳳茶有限公司同盟營業所",
+        "shop": "點多多有限公司",
         "category": [
             "餐飲",
             "糕餅"
@@ -245,187 +212,57 @@
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區德西里同盟三路５９０號",
+        "market_address": "高雄市三民區灣愛里大昌一路３０２巷３５號１樓",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "馬可先生食品企業股份有限公司天祥門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區鼎力里天祥一路２０８－２號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
             "台灣pay",
-            "街口"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 19,
-        "shop": "巴貝多食品實業有限公司",
+        "index": 16,
+        "shop": "恆順食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區建工路５９７號",
-        "pay_list": [
-            "街口",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "匯裕實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區鼎泰里明仁路１６之１號５樓之１",
+        "market_address": "高雄市三民區灣興里灣興街５０巷１號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 21,
-        "shop": "根圓食品有限公司",
+        "index": 17,
+        "shop": "全佳福糕餅麵包店",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區鼎泰里明仁路１５９號１樓",
+        "market_address": "高雄市三民區同德里山東街１０６－１０８號",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
-        "index": 22,
-        "shop": "健成國際有限公司",
+        "index": 18,
+        "shop": "金賀好食企業社",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區寶華里陽明路１６巷２８號１樓",
+        "market_address": "高雄市三民區精華里遼寧二街１９５號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 23,
-        "shop": "鉅麒國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區安泰里察哈爾二街１０巷５號５樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "我家是巴特李有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區正興里建元路５６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "馬可先生第五有限公司十全門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區德智里十全一路６１號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "拾柒號吐司有限公司三民建工分店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區正興里建工路６７７號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "馬可先生第十股份有限公司澄清門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區本揚里澄清路７５０號",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "巴特里食品有限公司九如店營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區安發里九如一路８１８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 29,
+        "index": 19,
         "shop": "法品食品有限公司",
         "category": [
             "糕餅"
@@ -439,7 +276,146 @@
         ]
     },
     {
-        "index": 30,
+        "index": 20,
+        "shop": "馬可先生第五有限公司十全門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區德智里十全一路６１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "拾柒號吐司有限公司三民建工分店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區正興里建工路６７７號１樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "馬可先生第十股份有限公司澄清門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區本揚里澄清路７５０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "巴特里食品有限公司九如店營業所",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區安發里九如一路８１８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "新東陽股份有限公司建國門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區港東里建國二路２６５―２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "漢合食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區寶業里覺民路２６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "拾柒號穀倉有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區寶德里光武路８０巷３弄７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "旭冠企業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區立業里恆豐街２９０號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "雪莉的手作點心坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區德仁里遼寧一街９３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
         "shop": "康廚生技有限公司",
         "category": [
             "餐飲",
@@ -454,79 +430,21 @@
         ]
     },
     {
+        "index": 30,
+        "shop": "元滋品牌股份有限公司高雄分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區義華路１９９巷８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 31,
-        "shop": "點多多有限公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區灣愛里大昌一路３０２巷３５號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "恆順食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區灣興里灣興街５０巷１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "聚鑫家開發實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區本安里汾陽路２７號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "拎果有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區正興里建元路８號２１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "漢合食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區寶業里覺民路２６號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 36,
         "shop": "暳昇食品行",
         "category": [
             "糕餅"
@@ -540,83 +458,21 @@
         ]
     },
     {
-        "index": 37,
-        "shop": "比歐波波法式甜點",
+        "index": 32,
+        "shop": "多里沙麵包坊",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區寶中里大順二路１７９號１樓",
+        "market_address": "高雄市三民區寶泰里大豐二路２８０號１樓",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 38,
-        "shop": "幸福巷食品",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區安泰里博愛一路２７９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "維格餅家股份有限公司高雄分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區安邦里同協路１９９號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "財團法人喜憨兒社會福利基金會喜憨兒園藝餐廳",
-        "category": [
-            "糕餅",
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區鼎泰里河堤路６８２號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "悠遊付",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "需要點甜有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區愛國路１５７號６樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 42,
+        "index": 33,
         "shop": "帕莎蒂娜國際有限公司",
         "category": [
             "餐飲",
@@ -631,19 +487,338 @@
         ]
     },
     {
-        "index": 43,
-        "shop": "財團法人喜憨兒社會福利基金會喜憨兒烘焙屋",
+        "index": 34,
+        "shop": "鉅麒國際有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "三民區",
-        "market_address": "高雄市三民區正順里大順二路３６５號",
+        "market_address": "高雄市三民區安泰里察哈爾二街１０巷５號５樓",
         "pay_list": [
-            "悠遊付",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "馬荃麵包坊有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區德智里十全一路６１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "瑞冠餐飲有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區灣興里灣興街４６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "我家是巴特李有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區正興里建元路５６號１樓",
+        "pay_list": [
+            "台灣pay",
             "信用卡",
-            "iPASS 一卡通"
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "三隻羊手作雞蛋糕",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎泰里民族一路６３８巷５０弄７―１號",
+        "pay_list": [
+            "iPASS 一卡通",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "幸福巷食品",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區安泰里博愛一路２７９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "永心鳳茶有限公司同盟營業所",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區德西里同盟三路５９０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "馬可先生食品企業股份有限公司天祥門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎力里天祥一路２０８－２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "雲朵家綿花糖",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區立誠里嫩江街２巷８號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "多那之國際股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區安邦里康平街２６８號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "品卓國際事業股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區灣興里灣興街３６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "歐付寶",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "津香企業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區本館里昌裕街９６號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "韋伯創作小吃店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎泰里鼎瑞街８８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "財團法人喜憨兒社會福利基金會喜憨兒園藝餐廳",
+        "category": [
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎泰里河堤路６８２號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "iPASS 一卡通",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "巴貝多食品實業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區建工路５９７號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "匯裕實業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎泰里明仁路１６之１號５樓之１",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "根圓食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區鼎泰里明仁路１５９號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "健成國際有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區寶華里陽明路１６巷２８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "真食生活麵包工坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區本元里大豐二路５１８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "參陸玖甜點",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區正興里建興路３６９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "米奇餐包工坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區安和里松江街３５１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "南風洋菓子",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區安泰里同盟二路３７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

@@ -1,21 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "廢墟吧商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區中原里瀨南街２０５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "家絲印甜飲店",
         "category": [
             "餐飲",
@@ -26,12 +11,12 @@
         "area": "鹽埕區",
         "market_address": "高雄市鹽埕區育仁里五福四路８４號１樓",
         "pay_list": [
-            "街口",
-            "信用卡"
+            "信用卡",
+            "街口"
         ]
     },
     {
-        "index": 3,
+        "index": 2,
         "shop": "幸福兜圈商行",
         "category": [
             "糕餅"
@@ -42,12 +27,13 @@
         "market_address": "高雄市鹽埕區中原里大公路７０巷６―３號１樓",
         "pay_list": [
             "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
-        "shop": "溫柔甜點店",
+        "index": 3,
+        "shop": "捷登商行",
         "category": [
             "餐飲",
             "糕餅"
@@ -55,91 +41,13 @@
         "zone": "高屏",
         "city": "高雄市",
         "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區中原里大公路６２號１樓",
+        "market_address": "高雄市鹽埕區新樂里大勇路１１１巷７號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 5,
-        "shop": "米諾琪烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區港都里七賢三路６６號",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "杰菕甜點",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區江西里五福四路３２１號",
-        "pay_list": [
-            "LINE Pay Money",
-            "台灣pay",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "瑪莉食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區沙地里五福四路２５號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "新順發製麵行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區陸橋里建國四路２５１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "十五之一甜點屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區教仁里大安街１２９號",
-        "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 10,
+        "index": 4,
         "shop": "艾樂比手作烘焙坊",
         "category": [
             "糕餅"
@@ -149,58 +57,15 @@
         "area": "鹽埕區",
         "market_address": "高雄市鹽埕區中山里新興街１３７號１樓",
         "pay_list": [
-            "街口",
-            "信用卡",
             "Pi 拍錢包",
-            "台灣pay"
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 11,
-        "shop": "驢派烘焙飲料店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區壽星里建國四路２７６號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "帕莎蒂娜國際有限公司駁二特區店",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區新化里駁二Ｃ－３倉庫",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "中巷手作",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "鹽埕區",
-        "market_address": "高雄市鹽埕區新樂里瀨南街１７０―１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 14,
+        "index": 5,
         "shop": "巴堂企業股份有限公司",
         "category": [
             "糕餅"
@@ -215,7 +80,82 @@
         ]
     },
     {
-        "index": 15,
+        "index": 6,
+        "shop": "廢墟吧商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區中原里瀨南街２０５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "中巷手作",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區新樂里瀨南街１７０―１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "杰菕甜點",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區江西里五福四路３２１號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "瑪莉食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區沙地里五福四路２５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "新順發製麵行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區陸橋里建國四路２５１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "禾秝國際有限公司",
         "category": [
             "糕餅"
@@ -226,6 +166,81 @@
         "market_address": "高雄市鹽埕區港都里瀨南街４３號２樓",
         "pay_list": [
             "信用卡"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "十五之一甜點屋",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區教仁里大安街１２９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "存在甜點工作室",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區光明里莒光街１７１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "溫柔甜點店",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區中原里大公路６２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "米諾琪烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區港都里七賢三路６６號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "驢派烘焙飲料店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "鹽埕區",
+        "market_address": "高雄市鹽埕區壽星里建國四路２７６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

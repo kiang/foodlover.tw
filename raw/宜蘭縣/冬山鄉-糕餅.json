@@ -1,6 +1,20 @@
 [
     {
         "index": 1,
+        "shop": "瑞珍香糕餅舖",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "冬山鄉",
+        "market_address": "宜蘭縣冬山鄉南興村冬山路１４２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "小豆莢記",
         "category": [
             "糕餅"
@@ -14,7 +28,38 @@
         ]
     },
     {
-        "index": 2,
+        "index": 3,
+        "shop": "鑫藝有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "冬山鄉",
+        "market_address": "宜蘭縣冬山鄉０６４鄰冬山路五段２９７巷１弄４７號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "森林派工作室",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "冬山鄉",
+        "market_address": "宜蘭縣冬山鄉廣安村廣安路９７巷１弄１６號４樓",
+        "pay_list": [
+            "icash pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
         "shop": "威澔企業社",
         "category": [
             "糕餅"
@@ -28,35 +73,17 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "森林派工作室",
+        "index": 6,
+        "shop": "糖磚食坊",
         "category": [
             "糕餅"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "冬山鄉",
-        "market_address": "宜蘭縣冬山鄉廣安村廣安路９７巷１弄１６號４樓",
+        "market_address": "宜蘭縣冬山鄉南興村中華路１９號一樓",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "icash pay",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "鑫藝有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "冬山鄉",
-        "market_address": "宜蘭縣冬山鄉０６４鄰冬山路五段２９７巷１弄４７號",
-        "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     }
 ]

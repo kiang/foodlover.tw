@@ -10,15 +10,30 @@
         "area": "林內鄉",
         "market_address": "雲林縣林內鄉林中村中山路３５號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "八色鳥咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "林內鄉",
+        "market_address": "雲林縣林內鄉湖本村三權路５７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "燚茶咖啡店",
         "category": [
             "餐飲"
@@ -28,6 +43,7 @@
         "area": "林內鄉",
         "market_address": "雲林縣林內鄉林南村中正路１８７號１樓",
         "pay_list": [
+            "LINE Pay Money",
             "歐付寶"
         ]
     }

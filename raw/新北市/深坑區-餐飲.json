@@ -1,24 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "糖果小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "深坑區",
-        "market_address": "新北市深坑區萬福里北深路３段１７０號",
-        "pay_list": [
-            "Pi 拍錢包",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "一番私廚餐館",
         "category": [
             "餐飲"
@@ -32,34 +14,45 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "南方紀事小吃店",
+        "index": 2,
+        "shop": "埔新小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區萬福里北深路３段２５８號",
+        "market_address": "新北市深坑區埔新里埔新街１２５號",
         "pay_list": [
-            "街口",
-            "信用卡"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "蘭亭池上便當",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段１２號（１樓）",
+        "pay_list": [
+            "台灣pay"
         ]
     },
     {
         "index": 4,
-        "shop": "饗樂牛排店",
+        "shop": "源春小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區萬順里北深路３段２９５號",
+        "market_address": "新北市深坑區深坑里深坑街１１９號",
         "pay_list": [
-            "街口",
-            "信用卡",
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
@@ -73,10 +66,9 @@
         "area": "深坑區",
         "market_address": "新北市深坑區賴仲里深南路５８號",
         "pay_list": [
-            "iPASS 一卡通",
+            "icash pay",
             "信用卡",
-            "悠遊卡",
-            "icash pay"
+            "悠遊卡"
         ]
     },
     {
@@ -90,30 +82,167 @@
         "area": "深坑區",
         "market_address": "新北市深坑區萬順里北深路３段１７１號（１樓）",
         "pay_list": [
-            "悠遊付",
-            "街口",
             "Pi 拍錢包",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
             "橘子支付"
         ]
     },
     {
         "index": 7,
-        "shop": "荳荳之家美式餐坊",
+        "shop": "賺錢湯養生企業社",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街８２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "歐付寶",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "湘霖餐飲",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區埔新里北深路２段５５巷１２弄８號",
+        "market_address": "新北市深坑區埔新里埔新街９７號１樓",
         "pay_list": [
-            "街口",
-            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "好拾光２．０",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里文化街１０２號１樓",
+        "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 8,
+        "index": 10,
+        "shop": "大樹下雪子肉粽",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑街１５３號（福德宮）",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "糖果小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段１７０號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "古早厝小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街１３８號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "天空之城義式廚房深坑分店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段１８８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "故鄉的口味小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑街１４６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "凱威茶坊有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區埔新里埔新街９４號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "永豐林有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街１６３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
         "shop": "嵐威商行",
         "category": [
             "餐飲"
@@ -128,49 +257,35 @@
         ]
     },
     {
-        "index": 9,
-        "shop": "蘭亭池上便當",
+        "index": 18,
+        "shop": "嘉義閣小吃店",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區萬福里北深路３段１２號（１樓）",
+        "market_address": "新北市深坑區深坑里深坑街５６號１樓及５８號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 10,
-        "shop": "夏日櫻桃咖啡館",
+        "index": 19,
+        "shop": "老地方豆腐美食",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區埔新里文化街１２號",
+        "market_address": "新北市深坑區深坑里深坑街１４３號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 11,
-        "shop": "三拾堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "深坑區",
-        "market_address": "新北市深坑區深坑里深坑街１５８號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 12,
+        "index": 20,
         "shop": "暢飲安達商行",
         "category": [
             "餐飲"
@@ -180,12 +295,13 @@
         "area": "深坑區",
         "market_address": "新北市深坑區萬順里北深路３段２２５號",
         "pay_list": [
-            "橘子支付",
-            "街口"
+            "LINE Pay Money",
+            "街口",
+            "橘子支付"
         ]
     },
     {
-        "index": 13,
+        "index": 21,
         "shop": "三胞胎小吃坊",
         "category": [
             "餐飲"
@@ -199,7 +315,7 @@
         ]
     },
     {
-        "index": 14,
+        "index": 22,
         "shop": "鮮芋企業社",
         "category": [
             "餐飲"
@@ -209,11 +325,12 @@
         "area": "深坑區",
         "market_address": "新北市深坑區萬順里北深路３段２５７號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 15,
+        "index": 23,
         "shop": "深嵐茶行",
         "category": [
             "餐飲"
@@ -223,11 +340,13 @@
         "area": "深坑區",
         "market_address": "新北市深坑區萬福里北深路３段１９０號",
         "pay_list": [
-            "悠遊卡"
+            "台灣pay",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 16,
+        "index": 24,
         "shop": "永泰小吃店",
         "category": [
             "餐飲"
@@ -237,43 +356,165 @@
         "area": "深坑區",
         "market_address": "新北市深坑區埔新里埔新街６６號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 17,
-        "shop": "古早厝小吃店",
+        "index": 25,
+        "shop": "荳荳之家美式餐坊",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區深坑里深坑街１３８號",
+        "market_address": "新北市深坑區埔新里北深路２段５５巷１２弄８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "萬吉豆腐美食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑街１２２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "豆腐娘美食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街１１２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "馥昱豐食品股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬順里北深路３段１５５巷９號７樓",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 18,
-        "shop": "地中海私房料理",
+        "index": 29,
+        "shop": "巧蕾國際貿易股份有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區萬福里北深路３段２２號",
+        "market_address": "新北市深坑區萬順里北深路３段１５５巷７號６樓",
         "pay_list": [
-            "iPASS 一卡通",
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 19,
+        "index": 30,
+        "shop": "鮮一杯有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段２７０巷１８號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "廟前阿家的店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街１２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "南方紀事小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段２５８號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "饗樂牛排店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬順里北深路３段２９５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "海偕會海鮮餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區萬福里北深路３段１６６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 35,
         "shop": "路易莎職人咖啡股份有限公司深坑分公司",
         "category": [
             "餐飲"
@@ -283,35 +524,65 @@
         "area": "深坑區",
         "market_address": "新北市深坑區萬福里北深路３段２０４號１樓、２樓",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 20,
-        "shop": "好拾光２．０",
+        "index": 36,
+        "shop": "Starbucks星巴克新北市第五十四分公司",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區深坑里文化街１０２號１樓",
+        "market_address": "新北市深坑區萬福里北深路３段１５２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "夏日櫻桃咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區埔新里文化街１２號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 21,
-        "shop": "凱威茶坊有限公司",
+        "index": 38,
+        "shop": "高老莊茶舖",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "深坑區",
-        "market_address": "新北市深坑區埔新里埔新街９４號",
+        "market_address": "新北市深坑區深坑里深坑街１２２號",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "三拾堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "深坑區",
+        "market_address": "新北市深坑區深坑里深坑街１５８號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
         ]
     }
 ]

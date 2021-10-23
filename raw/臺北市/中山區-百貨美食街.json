@@ -1,17 +1,16 @@
 [
     {
         "index": 1,
-        "shop": "微風廣場Ａ１機場捷運站",
+        "shop": "欣欣大眾百貨",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "中山區",
-        "market_address": "臺北市中正區黎明里鄭州路８號",
+        "market_address": "臺北市中山區康樂里林森北路２４７號",
         "pay_list": [
-            "橘子支付",
-            "街口",
+            "iPASS 一卡通",
             "信用卡",
             "悠遊卡"
         ]
@@ -27,93 +26,12 @@
         "area": "中山區",
         "market_address": "臺北市中山區民安里中山北路２段４８巷７號Ｂ１",
         "pay_list": [
-            "悠遊卡",
-            "台灣pay",
-            "信用卡",
-            "Pi 拍錢包"
+            "LINE Pay Money",
+            "信用卡"
         ]
     },
     {
         "index": 3,
-        "shop": "新光三越台北南西店二館",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中山區",
-        "market_address": "臺北市中山區民安里南京西路１５號Ｂ３至８樓，１７號，１９號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "美麗華百樂園",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中山區",
-        "market_address": "臺北市中山區金泰里敬業三路２０號１至５樓地下１層，２２號１至５樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "橘子支付",
-            "悠遊付",
-            "Pi 拍錢包"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "新光三越台北南西店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中山區",
-        "market_address": "臺北市中山區南京西路１２號地下１樓至地下４樓，１樓至１０樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "欣欣大眾百貨",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中山區",
-        "market_address": "臺北市中山區康樂里林森北路２４７號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "誠品南西店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中山區",
-        "market_address": "臺北市中山區南京西路14號",
-        "pay_list": [
-            "悠遊卡",
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
         "shop": "ATT e life大直店",
         "category": [
             "百貨美食街"
@@ -123,9 +41,91 @@
         "area": "中山區",
         "market_address": "臺北市中山區成功里敬業三路１２１號、１２３號",
         "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "誠品南西店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中山區",
+        "market_address": "臺北市中山區南京西路14號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "新光三越台北南西店二館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中山區",
+        "market_address": "臺北市中山區民安里南京西路１５號Ｂ３至８樓，１７號，１９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "新光三越台北南西店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中山區",
+        "market_address": "臺北市中山區南京西路１２號地下１樓至地下４樓，１樓至１０樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "美麗華百樂園",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中山區",
+        "market_address": "臺北市中山區金泰里敬業三路２０號１至５樓地下１層，２２號１至５樓",
+        "pay_list": [
+            "icash pay",
+            "iPASS 一卡通",
+            "LINE Pay Money",
+            "Pi 拍錢包",
             "信用卡",
             "悠遊付",
-            "Pi 拍錢包"
+            "悠遊卡",
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "家樂福台北大直店美食街",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中山區",
+        "market_address": "臺北市中山區金泰里樂群三路２１８號、２１８之１號～２１８之１３號、２１８號２樓、２１８號４樓之１",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡"
         ]
     }
 ]

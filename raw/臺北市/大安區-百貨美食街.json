@@ -1,69 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "杏一台大癌醫商場",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區學府里基隆路３段１５５巷５７號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "遠東SOGO 臺北敦化館",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區仁愛里敦化南路１段２４６號地下二樓\n台北市敦化南路1段246號地下1樓、地下2樓、地下4樓、1樓至5樓",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "微風廣場 大安",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區仁愛里大安路１段１１３號",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "中壢大江國際購物中心",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區建倫里仁愛路４段１０９號１５樓",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "誠品台大店",
         "category": [
             "百貨美食街"
@@ -73,8 +10,64 @@
         "area": "大安區",
         "market_address": "台北市大安區新生南路三段98號3F",
         "pay_list": [
-            "悠遊卡",
-            "台灣pay",
+            "LINE Pay Money",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "遠東SOGO台北",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "大安區",
+        "market_address": "臺北市大安區忠孝東路４段４５號１－１３樓地下１－３樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "遠東SOGO台北復興館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "大安區",
+        "market_address": "臺北市大安區義村里忠孝東路３段３００號地下１樓至地下６樓，１樓至１２",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "禮客LEECO OUTLET",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "大安區",
+        "market_address": "臺北市大安區仁愛里忠孝東路４段３０號１０樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "遠東SOGO 臺北敦化館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "大安區",
+        "market_address": "臺北市大安區仁愛里敦化南路１段２４６號地下二樓\n台北市敦化南路1段246號地下1樓、地下2樓、地下4樓、1樓至5樓",
+        "pay_list": [
             "信用卡"
         ]
     },
@@ -94,49 +87,45 @@
     },
     {
         "index": 7,
-        "shop": "遠東SOGO台北",
+        "shop": "Global Mall新左營車站",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "大安區",
-        "market_address": "臺北市大安區忠孝東路４段４５號１－１３樓地下１－３樓",
+        "market_address": "臺北市大安區全安里和平東路３段１３１號８樓",
         "pay_list": [
             "悠遊卡",
-            "信用卡"
+            "悠遊付",
+            "Pi 拍錢包",
+            "橘子支付",
+            "信用卡",
+            "LINE Pay Money",
+            "iPASS 一卡通",
+            "街口",
+            "台灣pay"
         ]
     },
     {
         "index": 8,
-        "shop": "統領百貨",
+        "shop": "微風廣場 大安",
         "category": [
             "百貨美食街"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "大安區",
-        "market_address": "臺北市大安區建安里忠孝東路４段１９７號１０樓之６",
+        "market_address": "臺北市大安區仁愛里大安路１段１１３號",
         "pay_list": [
-            "信用卡"
+            "悠遊卡",
+            "橘子支付",
+            "信用卡",
+            "街口"
         ]
     },
     {
         "index": 9,
-        "shop": "禮客LEECO OUTLET",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區仁愛里忠孝東路４段３０號１０樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
         "shop": "遠企購物中心",
         "category": [
             "百貨美食街"
@@ -146,36 +135,6 @@
         "area": "大安區",
         "market_address": "臺北市大安區敦化南路2段203號地下2樓至地上5樓及209號1樓",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "遠東SOGO台北復興館",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區義村里忠孝東路３段３００號地下１樓至地下６樓，１樓至１２",
-        "pay_list": [
-            "悠遊卡",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "Big City遠東巨城購物中心",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "大安區",
-        "market_address": "臺北市大安區仁愛路四段64號7樓",
-        "pay_list": [
-            "悠遊卡",
             "信用卡"
         ]
     }

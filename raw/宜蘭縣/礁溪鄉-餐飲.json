@@ -1,80 +1,413 @@
 [
     {
         "index": 1,
-        "shop": "上鼎日式涮涮鍋",
+        "shop": "法璽咖啡專賣店",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段３７號１樓",
+        "market_address": "宜蘭縣礁溪鄉六結村３鄰育才路２號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
         "index": 2,
-        "shop": "憶鄉園海鮮店",
+        "shop": "鬼匠拉麵",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽路２３之１號",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路３２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "泉鄉佳品麵食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村００４鄰中山路一段２３３號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "緣品包子店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村００４鄰中山路一段２８２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "上乘三家有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１７１―１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "復興小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村４鄰溫泉路５７號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "正鮮鮮肉小湯包店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽街１號１樓",
         "pay_list": [
             "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 3,
-        "shop": "田各企業社",
+        "index": 8,
+        "shop": "台西鵝肉王",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村０１０鄰礁溪路六段３５號",
+        "market_address": "宜蘭縣礁溪鄉大義村義興街３４號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 4,
-        "shop": "邦尼好蒔輕食館",
+        "index": 9,
+        "shop": "明溱禪悅坊",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉光村００１鄰瑪僯路１４號",
+        "market_address": "宜蘭縣礁溪鄉光武村武暖路１２１－７號１樓",
         "pay_list": [
-            "街口",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "浦島海鮮炸霸",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "跨力企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村００８鄰礁溪路四段１９３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "華金斯太太咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉三民村０１０鄰十六結路１０３―６號１樓",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
             "信用卡",
-            "台灣pay"
+            "悠遊卡"
         ]
     },
     {
-        "index": 5,
-        "shop": "龍鳳湯品小吃部",
+        "index": 13,
+        "shop": "蘋果樹廚房",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村德陽路３０號",
+        "market_address": "宜蘭縣礁溪鄉六結村００５鄰礁溪路四段１８２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "亀山串燒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號之１２０號店鋪",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "礁溪魚丸米粉",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１１４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "東大門滷味",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００１鄰中山路二段１４３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "錦富企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路五段４５－１號一樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "伍順洋行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "麥當勞宜蘭礁溪分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村００４鄰礁溪路四段１５８號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "結伙餐飲有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉白鵝村礁溪路二段８８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "武暖有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉光武村武暖路１２１－７號２樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 6,
+        "index": 22,
+        "shop": "有麵煮私房小吃",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段３３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "平和溫泉拉麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村５鄰礁溪路５段１０８巷１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "艮乾食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１鄰健康路３２號１樓﹒３６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "Starbucks星巴克宜蘭縣第三分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段１１８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "波波食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉協天段１號地",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "松桂軒國際股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村五峰路８９－６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "金麗海有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉林美村００５鄰林尾路４２―９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 29,
         "shop": "玉仁香菇肉羹",
         "category": [
             "餐飲"
@@ -90,7 +423,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 30,
         "shop": "晚點邂逅食堂",
         "category": [
             "餐飲"
@@ -104,7 +437,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 31,
         "shop": "藍城燒貨串燒",
         "category": [
             "餐飲"
@@ -114,468 +447,70 @@
         "area": "礁溪鄉",
         "market_address": "宜蘭縣礁溪鄉德陽村００７鄰礁溪路五段１５０號１樓",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "伍順洋行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號",
-        "pay_list": [
             "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "宥昌早午餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大忠村００７鄰礁溪路四段１０５號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "Pi 拍錢包",
-            "街口"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "聚鮮平價快炒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段９６―３號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "明溱禪悅坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉光武村武暖路１２１－７號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "華金斯太太咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉三民村０１０鄰十六結路１０３―６號１樓",
-        "pay_list": [
-            "iPASS 一卡通",
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "蘋果樹廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村００５鄰礁溪路四段１８２號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "亀山串燒",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村０１５鄰溫泉路８５號之１２０號店鋪",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "法璽咖啡專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村３鄰育才路２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "鬼匠拉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村德陽路３２號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "穩泰美食部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉龍潭村大坡路１０６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "利群美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１３０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "看見廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村００５鄰中山路一段２２５號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "里海咖啡",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大忠村０１０鄰和平路１０７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "鴨咪村食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村育才路２０－２號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "泉鄉佳品麵食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村００４鄰中山路一段２３３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "正鮮鮮肉小湯包店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村德陽街１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "台西鵝肉王",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大義村義興街３４號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "喜芃烘焙坊",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村中山路一段２８６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "犇喜客餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村礁溪路六段１３３巷１－１號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "豆豆食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大忠村礁溪路４段２０３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "大塭休閒農場",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉時潮村玉龍路２段４９７號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "五更餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村溫泉路４８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "禾米小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村４鄰溫泉路１５號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付",
-            "iPASS 一卡通"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 32,
-        "shop": "鴨依露美食",
+        "shop": "上鼎日式涮涮鍋",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村２鄰溫泉路３４號",
+        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段３７號１樓",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 33,
-        "shop": "鼎華小吃店",
+        "shop": "憶鄉園海鮮店",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村１鄰健康路５０號１樓之７",
+        "market_address": "宜蘭縣礁溪鄉德陽路２３之１號",
         "pay_list": [
+            "台灣pay",
             "信用卡"
         ]
     },
     {
         "index": 34,
-        "shop": "潘姨小吃部",
+        "shop": "宏澄商行",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村１鄰礁溪路５段５０巷５號１樓",
+        "market_address": "宜蘭縣礁溪鄉德陽村００２鄰溫泉路５６號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 35,
-        "shop": "礁溪鐘氏肉??",
+        "shop": "田各企業社",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉中山路２段１９號",
-        "pay_list": [
-            "街口",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "悟饕美食部礁溪分店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村０１３鄰礁溪路五段５巷１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "巴黎渡假別墅",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉時潮村大??路３４－１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "經典美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村仁愛路２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "美慶大廈休閒實業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大忠村１７鄰五峯路８９號１樓",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１０鄰礁溪路六段３５號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 40,
+        "index": 36,
         "shop": "八寶冬粉",
         "category": [
             "餐飲"
@@ -585,54 +520,109 @@
         "area": "礁溪鄉",
         "market_address": "宜蘭縣礁溪鄉六結村中山路一段３２６號",
         "pay_list": [
+            "台灣pay",
             "信用卡",
-            "歐付寶",
-            "台灣pay"
+            "歐付寶"
         ]
     },
     {
-        "index": 41,
-        "shop": "金麗海有限公司",
+        "index": 37,
+        "shop": "林紅牛排",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉林美村００５鄰林尾路４２―９號",
+        "market_address": "宜蘭縣礁溪鄉德陽村５鄰礁溪路５段７２號１樓",
         "pay_list": [
             "台灣pay",
             "信用卡"
         ]
     },
     {
-        "index": 42,
-        "shop": "摸九企業社",
+        "index": 38,
+        "shop": "大舟小樹民宿",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村００１鄰礁溪路五段５６號１樓",
+        "market_address": "宜蘭縣礁溪鄉二龍村淇武蘭路８１之１６號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口"
+            "信用卡"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "悅來客棧",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉田村１６鄰玉龍路１段５０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "山水妍温泉會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉仁愛路５０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "抹茶山名產",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉白雲段３３９地號（礁溪路七段２３號對面）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "富盛休閒農業",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉吳沙村開蘭路２０９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 43,
-        "shop": "樂山麵屋",
+        "shop": "高益發宜蘭名產店",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村公園路２０號",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段１５８號",
         "pay_list": [
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
@@ -661,8 +651,8 @@
         "area": "礁溪鄉",
         "market_address": "宜蘭縣礁溪鄉協天段一號地（礁溪星巴克對面）",
         "pay_list": [
-            "信用卡",
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
@@ -682,6 +672,21 @@
     },
     {
         "index": 47,
+        "shop": "喜拉朵美式早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村大忠路４２－１號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
         "shop": "爭鮮股份有限公司礁溪分公司",
         "category": [
             "餐飲"
@@ -691,11 +696,12 @@
         "area": "礁溪鄉",
         "market_address": "宜蘭縣礁溪鄉德陽村０１３鄰礁溪路五段２５號１樓",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 48,
+        "index": 49,
         "shop": "藍海國際餐飲股份有限公司礁溪庄分公司",
         "category": [
             "餐飲"
@@ -709,168 +715,22 @@
         ]
     },
     {
-        "index": 49,
-        "shop": "和德昌股份有限公司宜蘭礁溪分公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉六結村００４鄰礁溪路四段１５８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
         "index": 50,
-        "shop": "上乘三家有限公司",
+        "shop": "經典美食坊",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１７１―１號",
+        "market_address": "宜蘭縣礁溪鄉德陽村仁愛路２號１樓",
         "pay_list": [
-            "LINE Pay Money",
             "台灣pay",
-            "信用卡",
-            "iPASS 一卡通"
+            "信用卡"
         ]
     },
     {
         "index": 51,
-        "shop": "光鮮生活美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉光武村武暖路１１３―５號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "平和溫泉拉麵店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村５鄰礁溪路５段１０８巷１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "艮乾食品行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉玉石村１鄰健康路３２號１樓﹒３６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "波波食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉協天段１號地",
-        "pay_list": [
-            "信用卡",
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "林紅牛排",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村５鄰礁溪路５段７２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "有麵煮私房小吃",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段３３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 57,
-        "shop": "松桂軒國際股份有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉大忠村五峰路８９－６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 58,
-        "shop": "結伙餐飲有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉白鵝村礁溪路二段８８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 59,
-        "shop": "武暖有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉光武村武暖路１２１－７號２樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 60,
         "shop": "金悅心有限公司",
         "category": [
             "餐飲"
@@ -885,7 +745,7 @@
         ]
     },
     {
-        "index": 61,
+        "index": 52,
         "shop": "皇泰國際餐飲有限公司",
         "category": [
             "餐飲"
@@ -896,19 +756,1397 @@
         "market_address": "宜蘭縣礁溪鄉大忠村和平路１２２號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 62,
-        "shop": "復興小吃部",
+        "index": 53,
+        "shop": "邦尼好蒔輕食館",
         "category": [
             "餐飲"
         ],
         "zone": "宜蘭",
         "city": "宜蘭縣",
         "area": "礁溪鄉",
-        "market_address": "宜蘭縣礁溪鄉德陽村４鄰溫泉路５７號１樓",
+        "market_address": "宜蘭縣礁溪鄉玉光村００１鄰瑪僯路１４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "龍鳳湯品小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路３０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "美慶大廈休閒實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村１７鄰五峯路８９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "光鮮生活美食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉光武村武暖路１１３―５號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "惠寶早午餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路７９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "摸九企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００１鄰礁溪路五段５６號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "安心食品服務股份有限公司礁溪門市部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段５１，５３號１－２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "礁溪鐘氏肉??",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉中山路２段１９號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "米可義麵屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村５鄰礁溪路４段６０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "鴨依露美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村２鄰溫泉路３４號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "悟饕美食部礁溪分店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村０１３鄰礁溪路五段５巷１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "巴黎渡假別墅",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉時潮村大??路３４－１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "義衆小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村２鄰中山路１段４３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "喜芃烘焙坊",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村中山路一段２８６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "犇喜客餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村礁溪路六段１３３巷１－１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "豆豆食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村礁溪路４段２０３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "大塭休閒農場",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉時潮村玉龍路２段４９７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 70,
+        "shop": "五更餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村溫泉路４８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 71,
+        "shop": "和斯頓旅社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段９９號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "喜芃民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村興農路２３８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 73,
+        "shop": "雅閣溫泉行館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１２鄰忠孝路１０７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 74,
+        "shop": "金牌食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村４鄰礁溪路４段１３２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 75,
+        "shop": "皇泰大飯店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村仁愛路１００號１至６樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 76,
+        "shop": "原湯旅店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村７鄰仁愛路６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 77,
+        "shop": "葛瑪蘭風呂溫泉飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉礁溪路５段９７號１至６樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 78,
+        "shop": "山多利股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉興農路２９１巷１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 79,
+        "shop": "了了生活股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村公園路７０巷３０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 80,
+        "shop": "雲頂國際開發股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路６號１至６樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 81,
+        "shop": "風祿股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉二結村００１鄰二結路８―２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 82,
+        "shop": "幸福之鄉股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村公園路７２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 83,
+        "shop": "楓葉亭飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段１１８號１至６樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 84,
+        "shop": "史塔瑞麗股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１３鄰健康一街１１６號２、３、４、５、６、７樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 85,
+        "shop": "太子股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段６７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 86,
+        "shop": "中天大飯店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村健康一街１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "川湯春天溫泉酒店股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段２１８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "亞達育樂事業股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉林美村林尾路１５６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 89,
+        "shop": "山那邊有限公司礁溪營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村健康二街２１巷２號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 90,
+        "shop": "東之順股份有限公司礁溪營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村仁愛路４８巷１８弄１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 91,
+        "shop": "賜禧有限公司礁溪亞諾分館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００７鄰仁愛路３號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 92,
+        "shop": "東旅休閒股份有限公司礁溪東旅青宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村００１鄰公園路５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 93,
+        "shop": "有朋生活有限公司二結營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉二結村二結路３６之１２號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 94,
+        "shop": "泉鄉風華有限公司信義營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村０１３鄰信義路３６號及信義路３４巷８號２樓之１～３及５～８",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 95,
+        "shop": "日光山有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村０２３鄰興農路３２２巷１－２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 96,
+        "shop": "金玉滿堂休閒事業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村忠孝一路１８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 97,
+        "shop": "福岡一號溫泉飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路６２巷６號１至６樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 98,
+        "shop": "泉鄉風華有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村０１３鄰信義路３６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 99,
+        "shop": "泉鄉雅舍有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村信義路４０號１樓及信義路３４巷８號３樓之１、之２、之３、之５、之６、之７、之８、之９、之１０、之１１",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 100,
+        "shop": "湯圍溝有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村信義路３４巷６號６樓之９",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 101,
+        "shop": "伍拾捌度湯苑溫泉旅店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村１３鄰礁溪路５段６１號２樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 102,
+        "shop": "綠動湯泉原宿有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１２鄰公園路８５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 103,
+        "shop": "靜界會館有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１１鄰公園路７０巷３９弄２６號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 104,
+        "shop": "禾業投資有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１３鄰忠孝路９７巷２８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 105,
+        "shop": "大林商務有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉龍潭村漳福路５３巷１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 106,
+        "shop": "瑞德童話藝宿有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００４鄰溫泉路５１－１號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 107,
+        "shop": "園仔湯商旅有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路３３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 108,
+        "shop": "礁溪多愛溫泉會館有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村信義路３４巷８、１０、１２號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 109,
+        "shop": "嘉一大旅社有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村德陽路１６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 110,
+        "shop": "帥王企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村公園路１號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 111,
+        "shop": "天隆大飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村礁溪路５段１２１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 112,
+        "shop": "華閣大飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村公園路２５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 113,
+        "shop": "允傳企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路２段１６３號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 114,
+        "shop": "三合晴食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉吳沙村礁溪路一段３００號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 115,
+        "shop": "豪美日月光大飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００２鄰礁溪路五段１８２號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 116,
+        "shop": "蘭陽溫泉飯店有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００７鄰德陽路２４巷８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 117,
+        "shop": "沐谷親子溫泉會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村中山路二段２６８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 118,
+        "shop": "福岡五號溫泉會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路２段２４６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 119,
+        "shop": "宜蘭礁溪溫泉商旅",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村１０鄰德陽路１９８號１至３樓",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 120,
+        "shop": "鼎鮮美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村７鄰德陽路１２號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 121,
+        "shop": "雲頂國際開發股份有限公司雪山分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路２段１５９號１－８樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 122,
+        "shop": "寒舍餐旅管理顧問股份有限公司礁溪分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村０１４鄰健康路１號及健康路２號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 123,
+        "shop": "伯朗咖啡股份有限公司礁溪店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村玉石路４４―５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 124,
+        "shop": "鼎華小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村１鄰健康路５０號１樓之７",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 125,
+        "shop": "柯氏蔥油餅",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉礁溪路４段１２８號旁第１間",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 126,
+        "shop": "潘姨小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村１鄰礁溪路５段５０巷５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 127,
+        "shop": "穩泰美食部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉龍潭村大坡路１０６號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 128,
+        "shop": "品珍早餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村中山路一段２３９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 129,
+        "shop": "利群美食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１３０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 130,
+        "shop": "看見廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村００５鄰中山路一段２２５號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 131,
+        "shop": "里海咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村０１０鄰和平路１０７號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 132,
+        "shop": "鴨咪村食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村育才路２０－２號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 133,
+        "shop": "木木韓食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村０１１鄰仁愛路１６２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 134,
+        "shop": "宥昌早午餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村００７鄰礁溪路四段１０５號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 135,
+        "shop": "阿田師平價小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段１６８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 136,
+        "shop": "小武海鮮燒烤",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大忠村００７鄰礁溪路四段７９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 137,
+        "shop": "聚鮮平價快炒",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村中山路二段９６―３號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 138,
+        "shop": "湯匙溫泉會館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村仁愛路２７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 139,
+        "shop": "可澄寵物美容",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉六結村０１５鄰復興街４１號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 140,
+        "shop": "水耕園農莊民宿",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村奇立丹路１０１之１號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 141,
+        "shop": "厝尾頂輕食手作坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉龍潭村龍泉路２巷６２號",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 142,
+        "shop": "樂山麵屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉玉石村公園路２０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 143,
+        "shop": "劉客快炒店",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉協天段０００１－０００５、０００１－０００６地號之土地",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 144,
+        "shop": "禾米小吃部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村４鄰溫泉路１５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 145,
+        "shop": "義義食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉大義村１鄰中山路１段５８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 146,
+        "shop": "肯德基KFC-宜蘭礁溪店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "礁溪鄉",
+        "market_address": "宜蘭縣礁溪鄉德陽村００７鄰礁溪路五段６７號１、２樓",
         "pay_list": [
             "信用卡"
         ]

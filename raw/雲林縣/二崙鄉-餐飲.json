@@ -10,31 +10,15 @@
         "area": "二崙鄉",
         "market_address": "雲林縣二崙鄉崙東村中興路３０號",
         "pay_list": [
-            "LINE Pay Money",
-            "iPASS 一卡通",
+            "台灣pay",
             "信用卡",
             "悠遊卡",
-            "台灣pay"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "嘉裕冰店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "二崙鄉",
-        "market_address": "雲林縣二崙鄉崙西村１１鄰中山路２０７號",
-        "pay_list": [
-            "悠遊付",
-            "街口",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "８８２倉庫",
         "category": [
             "餐飲"
@@ -44,14 +28,12 @@
         "area": "二崙鄉",
         "market_address": "雲林縣二崙鄉崙東村中華路１５０號旁　",
         "pay_list": [
-            "iPASS 一卡通",
-            "信用卡",
-            "LINE Pay Money",
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 4,
+        "index": 3,
         "shop": "第一舞稻館",
         "category": [
             "餐飲"
@@ -61,9 +43,27 @@
         "area": "二崙鄉",
         "market_address": "雲林縣二崙鄉崙西村中山路３６５號",
         "pay_list": [
-            "悠遊付",
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "嘉裕冰店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "二崙鄉",
+        "market_address": "雲林縣二崙鄉崙西村１１鄰中山路２０７號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
         ]
     }
 ]
