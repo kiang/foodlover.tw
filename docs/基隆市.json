@@ -6906,11 +6906,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司基隆第二門市部",
+                "shop": "福勝亭 基隆店",
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區玉田里愛四路４５號２樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10650,7 +10650,7 @@
                 "category": "餐飲",
                 "area": "信義區",
                 "market_address": "基隆市信義區孝忠里深溪路５３號地下一層",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10901,11 +10901,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司基隆愛買一門市部",
+                "shop": "福勝亭 基隆愛買",
                 "category": "餐飲",
                 "area": "信義區",
                 "market_address": "基隆市信義區孝忠里深溪路５３號地下一層",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -12384,7 +12384,7 @@
                 "category": "餐飲",
                 "area": "安樂區",
                 "market_address": "基隆市安樂區鶯歌里安樂路二段１６４號地下１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13462,6 +13462,23 @@
                 "coordinates": [
                     121.73479719525,
                     25.097614142632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "想不到小食堂",
+                "category": "餐飲",
+                "area": "暖暖區",
+                "market_address": "基隆市暖暖區暖西里暖暖街３７９巷１８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736076,
+                    25.093118
                 ]
             }
         },

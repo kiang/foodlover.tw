@@ -3574,7 +3574,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "士岱企業社",
+                "shop": "羅斯朵晴天咖啡站前店",
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區寶安里大昌二路１１１―１號９樓",
@@ -6791,7 +6791,7 @@
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區灣子里大昌一路３０５號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -10021,7 +10021,7 @@
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區灣成里大順二路８４９號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/iPASS 一卡通\/台灣pay\/愛金卡"
             },
             "geometry": {
                 "type": "Point",
@@ -10816,17 +10816,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "捷利富股份有限公司三民營業所",
+                "shop": "捷果咖啡",
                 "category": "餐飲",
                 "area": "三民區",
-                "market_address": "高雄市三民區德西里同盟三路５９８號二樓",
+                "market_address": "高雄市三民區同盟三路５９６號２樓",
                 "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.28556525362,
-                    22.64792654861
+                    120.286288,
+                    22.64888
                 ]
             }
         },
@@ -23073,91 +23073,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "四季旺仙草專賣店",
-                "category": "夜市\/市場攤販",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞隆里瑞隆路１７７號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.335611,
-                    22.605696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "槿珊餐飲店",
-                "category": "夜市\/市場攤販",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞文里瑞興街１１９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.329893,
-                    22.611008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "進發商號",
-                "category": "餐飲\/夜市\/市場攤販",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區復國里光華二路３３９號前",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.318057,
-                    22.615796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小嚕嚕泰式鹽水雞",
-                "category": "餐飲\/夜市\/市場攤販",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞豐里瑞隆路５８９號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.326317,
-                    22.605004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昌平二聖炸雞王",
-                "category": "夜市\/市場攤販",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區興東里二聖二路３號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317687,
-                    22.612767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "高雄SOGO",
                 "category": "百貨美食街",
                 "area": "前鎮區",
@@ -25882,7 +25797,7 @@
                 "category": "餐飲",
                 "area": "前鎮區",
                 "market_address": "高雄市前鎮區興東里光華二路１５７號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -27106,7 +27021,7 @@
                 "category": "餐飲",
                 "area": "前鎮區",
                 "market_address": "高雄市前鎮區忠純里中華五路１１１１號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/iPASS 一卡通\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -32903,7 +32818,7 @@
                 "category": "餐飲",
                 "area": "大社區",
                 "market_address": "高雄市大社區神農里翠屏路１１２巷５之４號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -38173,7 +38088,7 @@
                 "category": "餐飲",
                 "area": "岡山區",
                 "market_address": "高雄市岡山區維仁里壽天路１２１號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/iPASS 一卡通\/街口\/悠遊卡\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -48475,7 +48390,7 @@
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區新上里明誠二路３５２號１、２樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -57842,7 +57757,7 @@
                 "category": "餐飲",
                 "area": "新興區",
                 "market_address": "高雄市新興區建華里中山一路２８１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -66036,7 +65951,7 @@
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區惠楠里建楠路１２６號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -67498,7 +67413,7 @@
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區藍田里藍田路２８８號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -69028,7 +68943,7 @@
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區清豐里土庫一路６０號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -72666,7 +72581,7 @@
                 "category": "餐飲",
                 "area": "燕巢區",
                 "market_address": "高雄市燕巢區角宿里義大路１號地下１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -72700,7 +72615,7 @@
                 "category": "餐飲",
                 "area": "燕巢區",
                 "market_address": "高雄市燕巢區義大路２１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -73091,7 +73006,7 @@
                 "category": "餐飲",
                 "area": "田寮區",
                 "market_address": "高雄市田寮區西德里００８鄰長山路１號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -77426,7 +77341,7 @@
                 "category": "餐飲",
                 "area": "苓雅區",
                 "market_address": "高雄市苓雅區福隆里三多二路３１―１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -80350,7 +80265,7 @@
                 "category": "餐飲",
                 "area": "苓雅區",
                 "market_address": "高雄市苓雅區中正里廣州一街１４１之２號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -91383,7 +91298,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區和興里中山路１２５號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -92998,7 +92913,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區文華里文化路５９號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -93100,7 +93015,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區文華里文化路５９號Ｂ１",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -93181,11 +93096,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司鳳山二門市部",
+                "shop": "福勝亭 鳳山店",
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區忠義里中山西路２３６號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊卡\/街口\/台灣pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -95684,7 +95599,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區忠義里中山西路２３６號２樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -95701,7 +95616,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區富榮里林森路２９１號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/iPASS 一卡通\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
