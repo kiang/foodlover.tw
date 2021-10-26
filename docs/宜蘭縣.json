@@ -514,6 +514,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "宜蘭傳藝園區",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉季新村五濱路二段２０１號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824071,
+                    24.685894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "龍之園小吃部",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -7879,7 +7896,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市復興里神農路一段１６６號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money\/歐付寶"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8028,11 +8045,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司蘭陽門市部",
+                "shop": "拿坡里 宜蘭店",
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市中山里００４鄰中山路三段１７３號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16409,11 +16426,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司羅東門市部",
+                "shop": "拿坡里 羅東店",
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮公正里公正路２５０―２號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

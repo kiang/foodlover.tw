@@ -2503,23 +2503,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "時之幸福輕手工蛋捲",
-                "category": "糕餅",
-                "area": "中西區",
-                "market_address": "臺南市中西區淺草里海安路２段９８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.196725,
-                    22.995054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大饌商行",
                 "category": "餐飲",
                 "area": "中西區",
@@ -9252,11 +9235,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司永華門市部",
+                "shop": "拿坡里 永華店",
                 "category": "餐飲",
                 "area": "中西區",
                 "market_address": "臺南市中西區大涼里永華路１段２９２號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16171,11 +16154,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司仁德門市部",
+                "shop": "拿坡里 仁德店",
                 "category": "餐飲",
                 "area": "仁德區",
                 "market_address": "臺南市仁德區仁義里中山路６２１、６２３號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -22699,11 +22682,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司台南成功分公司",
+                "shop": "拿坡里 成功店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區公園里成功路１２號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -23424,23 +23407,6 @@
                 "coordinates": [
                     120.203801,
                     23.012625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "同慈素食",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區大豐里文賢路３３３號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.193527,
-                    23.007154
                 ]
             }
         },
@@ -34548,11 +34514,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司安南門市部",
+                "shop": "拿坡里 安南店",
                 "category": "餐飲",
                 "area": "安南區",
                 "market_address": "臺南市安南區大安里海佃路２段５６號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -47077,11 +47043,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司新營分公司",
+                "shop": "拿坡里 新營店",
                 "category": "餐飲",
                 "area": "新營區",
                 "market_address": "臺南市新營區中營里中山路１０８號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -47428,23 +47394,6 @@
                 "coordinates": [
                     120.302656,
                     23.302454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佛光素食餐館",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區民生里中華路９３號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.308241,
-                    23.30421
                 ]
             }
         },
@@ -50471,6 +50420,40 @@
                 "coordinates": [
                     120.238298,
                     22.984909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台糖長榮酒店（台南）",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區中華東路三段336巷1號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.220646,
+                    22.974416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "南風村",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "台南市東區中華東路一段88號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23414215737,
+                    22.995455581909
                 ]
             }
         },
@@ -60796,11 +60779,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司台南東寧分公司",
+                "shop": "拿坡里 東寧店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區崇誨里東寧路２６４號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -62541,23 +62524,6 @@
                 "coordinates": [
                     120.286672,
                     22.967466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "田園素食餐飲有限公司",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區八甲里中正北路１段１６８號之１",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.296021,
-                    22.973468
                 ]
             }
         },
@@ -66083,11 +66049,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司台南永康分公司",
+                "shop": "拿坡里 永康店",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區六合里中華二路３２８號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -66440,11 +66406,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司崑大門市部",
+                "shop": "拿坡里炸雞 崑大",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區崑山里崑大路２５３號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -68582,11 +68548,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司永康二門市部",
+                "shop": "拿坡里 永康二",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區塩行里１７鄰中正南路３５８號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

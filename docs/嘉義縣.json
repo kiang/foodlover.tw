@@ -2197,7 +2197,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "文苑股份有限公司",
+                "shop": "長榮文苑(嘉義)",
                 "category": "餐飲",
                 "area": "太保市",
                 "market_address": "嘉義縣太保市東勢里故宮大道７７７號",
@@ -3200,11 +3200,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司朴子分公司",
+                "shop": "拿坡里 朴子店",
                 "category": "餐飲",
                 "area": "朴子市",
                 "market_address": "嘉義縣朴子市安福里１鄰山通路１００－１號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -4282,6 +4282,23 @@
                 "coordinates": [
                     120.43031770682,
                     23.558164248003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "旺萊山(總店)",
+                "category": "糕餅",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉三興村陳厝寮1之3號",
+                "pay_list": "台灣pay\/悠遊卡\/信用卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479664,
+                    23.554831
                 ]
             }
         },
@@ -5444,11 +5461,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司民雄門市部",
+                "shop": "拿坡里 民雄店",
                 "category": "餐飲",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉東榮村００５鄰建國路一段１２１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

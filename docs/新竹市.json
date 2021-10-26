@@ -55,6 +55,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司(新竹營業所)",
+                "category": "百貨美食街",
+                "area": "北區",
+                "market_address": "新竹市北區經國路一段442巷25號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97992,
+                    24.816707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "大魯閣湳雅廣場",
                 "category": "百貨美食街",
                 "area": "北區",
@@ -3506,23 +3523,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "御用排骨酥麵",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區北門里４鄰中正路１６１號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.966285,
-                    24.809442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "名廚飲食店",
                 "category": "餐飲",
                 "area": "北區",
@@ -5444,23 +5444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "中正鴨董店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區文雅里中正路３０５號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.962857,
-                    24.813853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "環盈商行",
                 "category": "餐飲",
                 "area": "北區",
@@ -5699,11 +5682,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司新竹北大分公司",
+                "shop": "拿坡里 北大店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "新竹市北區北大路３１６號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13893,23 +13876,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永記牛肉麵店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區建新路３２號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.996876,
-                    24.798147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "聯廣飲食店",
                 "category": "餐飲",
                 "area": "東區",
@@ -15202,11 +15168,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司林森門市部",
+                "shop": "拿坡里 林森店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區榮光里４鄰林森路１８號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17780,23 +17746,6 @@
                 "coordinates": [
                     120.97601264433,
                     24.796830663233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "漢神飲食店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區科園里６鄰科學園路６１號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01063120226,
-                    24.785390218445
                 ]
             }
         },
@@ -22495,11 +22444,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司新竹光復分公司",
+                "shop": "拿坡里 光復店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區仙水里６鄰光復路１段３２３號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

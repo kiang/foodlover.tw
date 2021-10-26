@@ -3370,11 +3370,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司南投門市部",
+                "shop": "拿坡里 南投店",
                 "category": "餐飲",
                 "area": "南投市",
                 "market_address": "南投縣南投市振興里１７鄰中興路５０１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11513,11 +11513,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司草屯門市部",
+                "shop": "拿坡里 草屯店",
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮明正里中正路７３６號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13717,6 +13717,23 @@
                 "coordinates": [
                     120.930372,
                     23.848251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "雲品酒店",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉水社村中正路２３號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.923429,
+                    23.870854
                 ]
             }
         },

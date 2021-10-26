@@ -2316,6 +2316,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "屏東太平洋百貨",
+                "category": "百貨美食街",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市端正里中正路72號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48965498397,
+                    22.674090379056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "Global Mall 屏東市",
                 "category": "百貨美食街",
                 "area": "屏東市",
@@ -6940,11 +6957,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司屏東分公司",
+                "shop": "拿坡里 屏東店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市崇智里民族路１９１﹒１９３號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10997,6 +11014,23 @@
                 "coordinates": [
                     120.744615,
                     22.003364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "墾丁凱撒大飯店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁里墾丁路６號",
+                "pay_list": "信用卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.805601,
+                    21.942681
                 ]
             }
         },
@@ -17616,11 +17650,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司潮州門市部",
+                "shop": "拿坡里 潮州店",
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮三共里延平路７０號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -18143,11 +18177,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司屏東潮洲分公司",
+                "shop": "三商巧福 潮洲店",
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮新榮里新生路６６號１﹒２樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/iPASS 一卡通\/街口\/愛金卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -20806,23 +20840,6 @@
                 "coordinates": [
                     120.56919920548,
                     22.574583951454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新海鴻食品有限公司",
-                "category": "餐飲",
-                "area": "萬巒鄉",
-                "market_address": "屏東縣萬巒鄉萬巒村民和路１２號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.569036,
-                    22.57402
                 ]
             }
         },

@@ -5155,11 +5155,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司斗六門市部",
+                "shop": "拿坡里 斗六店",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市社口里中山路３３７號１樓，３３７－１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9796,6 +9796,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "旺萊山(高鐵雲林站)",
+                "category": "糕餅",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮廉使里站前東路301號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416197,
+                    23.736533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "福榮食品行",
                 "category": "糕餅",
                 "area": "虎尾鎮",
@@ -11530,11 +11547,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司虎尾門市部",
+                "shop": "拿坡里 虎尾店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮西安里１鄰中正路１９６號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡\/台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
