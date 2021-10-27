@@ -1806,6 +1806,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "台灣一風堂股份有限公司一風堂桃園高鐵店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區高鐵北路一段6號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.215142,
+                    25.013351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "臻好小吃店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -7042,7 +7059,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司中壢中原一門市部",
+                "shop": "三商巧福 中壢中原",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區正義里中北路二段４６８號",
@@ -7059,7 +7076,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司中壢中原門市部",
+                "shop": "三商鮮五丼 中壢中原",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區正義里中北路２段４６８號",
@@ -10765,7 +10782,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司壢福三門市部",
+                "shop": "三商鮮五丼 壢福店",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區後寮里中山東路２段５１０號",
@@ -10833,7 +10850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司內壢門市部",
+                "shop": "三商巧福 內壢店",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區中原里中華路１段４５０號１樓",
@@ -15389,7 +15406,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司壢特門市部",
+                "shop": "三商巧福 壢特店",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區仁義里中華路２段５０１號１樓",
@@ -18755,23 +18772,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豐穀食堂",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區普仁里力行北街３５號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.2398322584,
-                    24.954042702201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "興仁花園夜市-DE33-36-御品香麻辣鍋",
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
@@ -22087,7 +22087,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司大湳分公司",
+                "shop": "三商巧福 大湳店",
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大慶里介壽路１段９３８號",
@@ -23532,7 +23532,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司八德廣豐門市部",
+                "shop": "三商巧福 八德廣豐",
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大智里介壽路一段７２８號之地下二層",
@@ -28870,23 +28870,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商家購股份有限公司大溪僑愛分公司",
-                "category": "餐飲",
-                "area": "大溪區",
-                "market_address": "桃園市大溪區僑愛里０１２鄰僑愛一街１０２號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.29451,
-                    24.923237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "陳師兄素肉圓",
                 "category": "餐飲",
                 "area": "大溪區",
@@ -31658,7 +31641,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司平大門市部",
+                "shop": "三商巧福 平大店",
                 "category": "餐飲",
                 "area": "平鎮區",
                 "market_address": "桃園市平鎮區南勢里南東路５７及５７之１號",
@@ -32474,7 +32457,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司平鎮門市部",
+                "shop": "三商巧福 平鎮店",
                 "category": "餐飲",
                 "area": "平鎮區",
                 "market_address": "桃園市平鎮區莊敬里坤慶路１號",
@@ -40090,7 +40073,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司縣府分公司",
+                "shop": "三商巧福 縣府店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區光興里中山路４８０號１樓",
@@ -43405,7 +43388,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司春日門市部",
+                "shop": "三商巧福 春日店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區汴洲里００７鄰春日路１５９３號",
@@ -43575,7 +43558,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司經國第一門市部",
+                "shop": "三商鮮五丼 經國店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區新埔里經國路３６９號２樓",
@@ -43847,7 +43830,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司桃特門市部",
+                "shop": "三商巧福 桃特店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區新埔里經國路３６９號２樓",
@@ -49916,57 +49899,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商家購股份有限公司桃園大豐分公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區大豐里大豐路１０５號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31574,
-                    24.980245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "三商家購股份有限公司桃園中山北分公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區中興里０３０鄰中山北路１７９號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.302812,
-                    24.996604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "三商家購股份有限公司桃園長春二分公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區長安里長春路１８４、１８４－１號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.3026,
-                    25.005814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "一九一旅店有限公司桃園分公司",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -50035,7 +49967,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司成功分公司",
+                "shop": "三商巧福 桃園店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區武陵里成功路１段１６號１樓",
@@ -52987,6 +52919,57 @@
                 "coordinates": [
                     121.29897739237,
                     25.018601257906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "寶樂商行",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區同德里中寧街９巷１號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29671807079,
+                    25.018339268984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吃多家實業社",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區汴洲里幸福路８０號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.302199,
+                    25.02886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "零夏飲料店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區光興里中山北路７０號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30334380991,
+                    24.993806949757
                 ]
             }
         },
@@ -66474,23 +66457,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商家購股份有限公司龍潭民族分公司",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區三林里０４７鄰民族路４１２號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.233575,
-                    24.8362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "安琪拉營養早餐",
                 "category": "餐飲",
                 "area": "龍潭區",
@@ -71931,7 +71897,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三商餐飲股份有限公司林口長庚門市部",
+                "shop": "三商巧福 林口長庚",
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區公西里復興街５號",
