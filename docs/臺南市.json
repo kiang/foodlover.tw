@@ -19911,6 +19911,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全-育德總店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "台南市北區成德里32鄰育德路520號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206791,
+                    23.014908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "皇豆豆花",
                 "category": "餐飲",
                 "area": "北區",
@@ -32070,7 +32087,7 @@
                 "category": "餐飲",
                 "area": "善化區",
                 "market_address": "臺南市善化區溪美里溪尾２２１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

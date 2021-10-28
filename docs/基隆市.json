@@ -2435,6 +2435,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Ever Rich昇恆昌基隆港店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區港通里中正路1號2樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743336,
+                    25.131805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "基隆區漁會魚貨直銷中心熱食區第２號攤位",
                 "category": "餐飲",
                 "area": "中正區",

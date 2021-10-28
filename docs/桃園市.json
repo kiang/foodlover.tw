@@ -25028,6 +25028,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "義美吉盛美食廣場(桃機二航)",
+                "category": "百貨美食街",
+                "area": "大園區",
+                "market_address": "桃園市大園區航站南路9號(第二航廈管制區外擴建區及南側綜合商場)",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232515,
+                    25.077078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "餃子園手作水餃",
                 "category": "糕餅",
                 "area": "大園區",
@@ -25107,6 +25124,57 @@
                 "coordinates": [
                     121.19508000587,
                     25.061664983891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Ever Rich昇恆昌桃園機場第二航廈店",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區埔心里航站南路9號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232515,
+                    25.077078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Ever Rich昇恆昌桃園機場第一航廈店",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區埔心里航站南路15號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.237422,
+                    25.081382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "環宇商務中心",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區航站南路9號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232515,
+                    25.077078
                 ]
             }
         },
@@ -56132,6 +56200,23 @@
                 "coordinates": [
                     121.14686,
                     24.909208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "阿圖牛肉麵",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區四維里四維路７１號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.18112,
+                    24.913564
                 ]
             }
         },

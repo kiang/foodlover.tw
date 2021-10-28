@@ -837,6 +837,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "澎澄飯店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市同和路168號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.572121,
+                    23.566804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "百世多麗花園酒店",
                 "category": "餐飲",
                 "area": "馬公市",

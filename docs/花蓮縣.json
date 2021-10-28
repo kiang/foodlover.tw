@@ -4645,6 +4645,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "昇恆昌花蓮機場店",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉嘉里村機場1號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610606,
+                    24.02624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "彤杉早餐店",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -5982,6 +5999,23 @@
                 "coordinates": [
                     121.313424,
                     23.33141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "劉○月優質茶飲店",
+                "category": "餐飲",
+                "area": "玉里鎮",
+                "market_address": "花蓮縣玉里鎮泰昌里中山路二段９７―１號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31444485122,
+                    23.334483323859
                 ]
             }
         },

@@ -548,6 +548,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Ever Rich昇恆昌水頭港店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮西海路一段5號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.287007,
+                    24.415424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "尚好小吃店",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -4452,6 +4469,23 @@
                 "coordinates": [
                     118.415164,
                     24.441914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Ever Rich昇恆昌金湖廣場店",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮太湖路二段198號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.418329,
+                    24.439392
                 ]
             }
         },
