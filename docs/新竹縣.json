@@ -3863,6 +3863,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司-湖口休息站(南下)",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉鳳山村國強街1巷8號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008748,
+                    24.858253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "亞爾咖啡",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -4530,7 +4547,7 @@
                 "category": "餐飲",
                 "area": "湖口鄉",
                 "market_address": "新竹縣湖口鄉鳳山村榮光路１５８號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊付\/悠遊卡"
             },
             "geometry": {
                 "type": "Point",

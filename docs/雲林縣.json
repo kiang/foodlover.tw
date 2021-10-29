@@ -1704,6 +1704,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司(綠隧營業所)",
+                "category": "餐飲",
+                "area": "古坑鄉",
+                "market_address": "雲林縣古坑鄉湳仔村1鄰湳子23之32號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54337,
+                    23.654188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "慈園茄苳木棧",
                 "category": "餐飲",
                 "area": "古坑鄉",
@@ -9817,7 +9834,7 @@
                 "category": "糕餅",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮廉使里站前東路301號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

@@ -1806,6 +1806,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南仁湖育樂股份有限公司中壢營業所",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區內定里內定二街998-3號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250896,
+                    25.004028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "台灣一風堂股份有限公司一風堂桃園高鐵店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -10725,23 +10742,6 @@
                 "coordinates": [
                     121.22389744747,
                     24.959539883203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小蒙牛股份有限公司金大鋤中壢門市部",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區石頭里中正路５１號４樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.2240036182,
-                    24.95417866541
                 ]
             }
         },
@@ -36095,6 +36095,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "海底撈火鍋－桃園統領店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區文化里中正路６１號８樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.312523,
+                    24.991112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "千石歌唱城",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -53027,23 +53044,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "零夏飲料店",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區光興里中山北路７０號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.30334380991,
-                    24.993806949757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "萬大小吃店",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "楊梅區",
@@ -57203,6 +57203,23 @@
                 "coordinates": [
                     121.253417,
                     25.031762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "海底撈火鍋－桃園台茂店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區錦中里南崁路一段１１２號３樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288383,
+                    25.053471
                 ]
             }
         },

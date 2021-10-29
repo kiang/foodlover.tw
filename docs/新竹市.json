@@ -55,23 +55,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "南仁湖育樂股份有限公司(新竹營業所)",
-                "category": "百貨美食街",
-                "area": "北區",
-                "market_address": "新竹市北區經國路一段442巷25號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97992,
-                    24.816707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大魯閣湳雅廣場",
                 "category": "百貨美食街",
                 "area": "北區",
@@ -491,6 +474,23 @@
                 "coordinates": [
                     120.973974,
                     24.815996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "南仁湖育樂股份有限公司(新竹營業所)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區經國路一段442巷25號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97992,
+                    24.816707
                 ]
             }
         },
