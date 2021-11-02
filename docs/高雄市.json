@@ -22737,7 +22737,7 @@
                 "category": "餐飲",
                 "area": "前金區",
                 "market_address": "高雄市前金區榮復里五福三路７９號地下１樓",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -27113,23 +27113,6 @@
                 "coordinates": [
                     120.309971,
                     22.605487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大隻牛牛肉麵餐館",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區明孝里平樂街２８號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.322609,
-                    22.576177
                 ]
             }
         },
@@ -63850,6 +63833,57 @@
                 "coordinates": [
                     120.256643,
                     22.727633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "楠梓第一公有零售市場-外戊字5號",
+                "category": "夜市\/市場攤販",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區楠梓東街116號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329579,
+                    22.730332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "河師傅窯烤工作坊",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區慶昌里後昌路６６２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298025,
+                    22.708784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "楠梓第一公有零售市場-新外字1號",
+                "category": "夜市\/市場攤販",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區楠梓東街116號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329579,
+                    22.730332
                 ]
             }
         },
@@ -103460,23 +103494,6 @@
                 "coordinates": [
                     120.297642,
                     22.666871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "研田拉麵",
-                "category": "餐飲",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區龍水里美術東八街１１８號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291338,
-                    22.654048
                 ]
             }
         },
