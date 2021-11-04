@@ -7042,23 +7042,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "軒饌廚坊股份有限公司中壢營業所",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中榮里中正路２１１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.220428,
-                    24.955439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "亞洲藏壽司股份有限公司桃園青埔店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18732,6 +18715,23 @@
                 "coordinates": [
                     121.24834009165,
                     24.94478314956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "豐穀食堂",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區普仁里力行北街３５號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2398322584,
+                    24.954042702201
                 ]
             }
         },
@@ -40243,7 +40243,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "欣葉國際餐飲股份有限公司桃園分公司",
+                "shop": "欣葉日本料理中茂店",
                 "category": "餐飲",
                 "area": "桃園區",
                 "market_address": "桃園市桃園區同安里同德五街６１、６５、６７、６９、７１號１０樓",
@@ -48522,23 +48522,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "軒饌廚坊股份有限公司春日營業所",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區東門里０１３鄰春日路２３３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.315295,
-                    24.99743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "沸活量國際實業有限公司水岸營業所",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -53004,6 +52987,23 @@
                 "coordinates": [
                     121.30334380991,
                     24.993806949757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "曾愛家企業社",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區南華里０１３鄰文化街４２號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30756412558,
+                    24.991832191363
                 ]
             }
         },
