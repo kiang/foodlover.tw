@@ -956,6 +956,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "遠東SOGO中壢店",
+                "category": "百貨美食街",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區元化路357號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223533,
+                    24.962685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "Global Mall 桃園A19",
                 "category": "百貨美食街",
                 "area": "中壢區",
