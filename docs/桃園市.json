@@ -4866,11 +4866,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "延泰商行",
+                "shop": "滝禾製麵所-中壢中山店",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區新明里中山路４００號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -8185,7 +8185,7 @@
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區普忠里實踐路１１０號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -36197,23 +36197,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金正好味麵線店",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區中平里中山路６９１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.291917,
-                    24.990863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小咩廚房",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -53027,6 +53010,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹藝文店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區明德里中正路１２６７號",
+                "pay_list": "街口\/LINE Pay Money\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29608281121,
+                    25.020883350693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "萬大小吃店",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "楊梅區",
@@ -55945,23 +55945,6 @@
                 "coordinates": [
                     121.151559,
                     24.909817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "珍品炸烤店",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區楊梅里大成路１９８號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.145902,
-                    24.912527
                 ]
             }
         },
