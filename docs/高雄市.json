@@ -44514,7 +44514,7 @@
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區新光里立大路３２２號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -45830,6 +45830,23 @@
                 "coordinates": [
                     120.317834,
                     22.671004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "立大美而美",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區新光里立大路１６１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303076,
+                    22.676732
                 ]
             }
         },
