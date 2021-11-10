@@ -10918,6 +10918,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "墾丁壹號",
+                "category": "百貨美食街",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁路2號",
+                "pay_list": "悠遊付\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807539,
+                    21.941687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "恆春默默有限公司",
                 "category": "糕餅",
                 "area": "恆春鎮",

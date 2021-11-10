@@ -854,6 +854,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "澎坊免稅商店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市光復里同和路158號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.572237,
+                    23.567111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "百世多麗花園酒店",
                 "category": "餐飲",
                 "area": "馬公市",
