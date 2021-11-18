@@ -1,6 +1,1462 @@
 [
     {
         "index": 1,
+        "shop": "北港手工早點",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區豐野里中正路１８９號",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "一特食品有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區仁美里００８鄰永美路２１號５樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "禾沏咖啡坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "珍品炸烤店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１９８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "梁記小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區雙榮里民族路５段１４７巷９弄７號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "澤品商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區中山里環東路４３８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "沐樂行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區裕新里裕成南路２５３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "有一間古早味甜品鋪",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路１４８號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "歐巴肉彈吐司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路６６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "春霖企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街６０８號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "享喝紅茶小舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街４６７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "啾迷人鮮茶屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１２２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "漢堡大亨店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路７０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "星月茶舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里中興路１０３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "夢想家小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區光華里文化街８５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "新農彭家牛肉麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街５２９號（１樓）",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "奇得企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里大華街３２號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "洛塔商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路９２號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "忱昕商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１６５號１樓、２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "丞豐商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里中山北路二段２０１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "清暉茶莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞原里民豐路１號（１樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "大山小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里０１１鄰新成路１８６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "容品茶飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里大成路２９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "朕廣商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區雙榮里民族路５段１９３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "第八元素咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區光華里文化街２５９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "秉峰客家飯館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區員本里民富路３段６２２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "大楊梅鵝莊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大平街０４２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "滴音企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區中山里新農街３６６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "辣嘛川湘館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區裕成里裕成路１５８巷６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "根會香企業社",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區富岡里中正路１００號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "熊厚飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里梅獅路二段１９６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "惠圓素食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞塘里萬大路１１５巷３號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "富鈺揚企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里永美路２００號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "鮮晏複合式餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區上田里和平路１９５號一樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "二派客雞排",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里中興路４１號",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "楊成餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１３６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "采憙飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路９６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "予果吉商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街５２１號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "郁麒亞餐飲社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞坪里梅獅路二段２１５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "小玉家",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街４６９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "楊芯茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里文化街２５０號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "丹帝企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路１２０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "楊梅新農功夫茶冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街４６１號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "玖月鍋物",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里梅獅路二段１６２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "蒞臨商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里中興路６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "晨揚冷飲舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里００３鄰文化街２３８號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "昕采商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里梅獅路二段４２號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "金溪商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區三民里中山北路二段８９、９１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "美珍鍋貼水餃專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區中山里環東路４９０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "恭翎冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路７８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "湧翔冷熱餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里大成路３７號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "茶朵兒果汁飲品專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區豐野里００９鄰信義街１９３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "樂彼有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１３８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "馬克商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區青山里青山一街１０７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "雙饗丼企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里中山北路一段４９４巷８８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "振龜茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１４５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "麥賣咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里金山街３５６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "緹客商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里永美路２３５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "方蓋企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里梅獅路二段１９８號（１樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "康食主義企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里新成路１２２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "嘉大企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大成路１５４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "叡叡飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區梅溪里新農街二段５２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "艾亞企業社",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區裕新里裕成南路３１９號１２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "莫忘初衷茶飲行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街３５７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "香蕉星球屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞塘里萬大路１７７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "楊梅超有肉涮涮屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區三民里中山北路二段２３巷２號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "大呼過癮企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路１５７號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "盈菲茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區光華里文化街１８１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "川泰小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里梅獅路二段１８０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 70,
+        "shop": "昭興商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區三民里三民路３４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 71,
+        "shop": "新新小站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區光華里文化街２２３號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "恩緹茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區青山里青山一街２９號（１樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 73,
+        "shop": "楊梅大成茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里大成路１０號１樓",
+        "pay_list": [
+            "街口",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 74,
+        "shop": "筌盛茶業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里文化街２５２號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 75,
+        "shop": "蓁穎小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路９８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 76,
+        "shop": "承豐飲品坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區中山里新農街８２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 77,
+        "shop": "鈿純食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里新梅六街６１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 78,
+        "shop": "刘一手火鍋麵食餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里梅山東街１５４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 79,
+        "shop": "無敵商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街３４７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 80,
+        "shop": "欣榮小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里梅高路５２－６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 81,
+        "shop": "姆姆輕食",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區瑞溪里瑞溪路一段１９２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 82,
+        "shop": "千鈺百貨企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里中山北路一段４９４巷８６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 83,
+        "shop": "惹豪好吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里楊新路５１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 84,
+        "shop": "立豐小吃",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊明里新農街３８１號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 85,
+        "shop": "源茂企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區中山里中山北路一段７７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 86,
+        "shop": "芳園小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊江里０１４鄰武營街６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "朋林商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里大平街４３號（１樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "心韻小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路２１６號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 89,
+        "shop": "糖億商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區青山里青山二街３２７巷１０號１樓",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 90,
+        "shop": "茶色果香冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路９０號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 91,
+        "shop": "昇融商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區雙榮里民族路五段２６１號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 92,
+        "shop": "鱻進來日式料理",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里新成路２６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 93,
+        "shop": "凱翔冰品店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區埔心里中興路３３號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 94,
+        "shop": "毓瑋飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里新成路１３２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 95,
+        "shop": "三寶販商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里梅高路８６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 96,
+        "shop": "阿山哥",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里四維路２０２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 97,
+        "shop": "智揚食品股份有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區高上里８鄰高獅路８６３巷１２弄９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 98,
+        "shop": "老莊園有限公司老莊營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區永寧里老莊路４００巷１５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 99,
+        "shop": "純緻食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區東流里中山南路５６８巷１弄９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 100,
+        "shop": "元喬茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區四維里文化街２５６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 101,
+        "shop": "我想想餐館飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區楊梅里光前街４６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 102,
+        "shop": "柏克飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "楊梅區",
+        "market_address": "桃園市楊梅區三民里三民路４５號１樓",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 103,
         "shop": "茶朵兒果汁飲品專賣店",
         "category": [
             "餐飲"
@@ -17,7 +1473,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 104,
         "shop": "拾捌手作料理",
         "category": [
             "餐飲"
@@ -31,7 +1487,7 @@
         ]
     },
     {
-        "index": 3,
+        "index": 105,
         "shop": "上禾呷",
         "category": [
             "餐飲"
@@ -45,7 +1501,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 106,
         "shop": "東道居滷食",
         "category": [
             "餐飲"
@@ -59,7 +1515,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 107,
         "shop": "晴天夯堡精緻早午餐",
         "category": [
             "餐飲"
@@ -73,7 +1529,7 @@
         ]
     },
     {
-        "index": 6,
+        "index": 108,
         "shop": "晨揚冷飲舖",
         "category": [
             "餐飲"
@@ -89,7 +1545,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 109,
         "shop": "楊梅大成茶行",
         "category": [
             "餐飲"
@@ -106,7 +1562,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 110,
         "shop": "惠圓素食",
         "category": [
             "餐飲"
@@ -121,7 +1577,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 111,
         "shop": "陶朱茶坊",
         "category": [
             "餐飲"
@@ -136,7 +1592,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 112,
         "shop": "承豐飲品坊",
         "category": [
             "餐飲"
@@ -151,7 +1607,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 113,
         "shop": "巧鮮小吃店",
         "category": [
             "餐飲"
@@ -165,7 +1621,7 @@
         ]
     },
     {
-        "index": 12,
+        "index": 114,
         "shop": "長信茶飲",
         "category": [
             "餐飲"
@@ -182,7 +1638,7 @@
         ]
     },
     {
-        "index": 13,
+        "index": 115,
         "shop": "茂瑜商行",
         "category": [
             "餐飲"
@@ -196,7 +1652,7 @@
         ]
     },
     {
-        "index": 14,
+        "index": 116,
         "shop": "榮恩商行",
         "category": [
             "餐飲"
@@ -210,7 +1666,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 117,
         "shop": "紅蕃茄餐飲事業有限公司",
         "category": [
             "餐飲"
@@ -226,7 +1682,7 @@
         ]
     },
     {
-        "index": 16,
+        "index": 118,
         "shop": "昇融商行",
         "category": [
             "餐飲"
@@ -241,7 +1697,7 @@
         ]
     },
     {
-        "index": 17,
+        "index": 119,
         "shop": "韓中國際有限公司",
         "category": [
             "餐飲"
@@ -255,7 +1711,7 @@
         ]
     },
     {
-        "index": 18,
+        "index": 120,
         "shop": "楊上林早點店",
         "category": [
             "餐飲"
@@ -269,7 +1725,7 @@
         ]
     },
     {
-        "index": 19,
+        "index": 121,
         "shop": "善緣小吃",
         "category": [
             "餐飲"
@@ -283,7 +1739,7 @@
         ]
     },
     {
-        "index": 20,
+        "index": 122,
         "shop": "ａ　ｐｌａｃｅ",
         "category": [
             "餐飲"
@@ -297,7 +1753,7 @@
         ]
     },
     {
-        "index": 21,
+        "index": 123,
         "shop": "安賀斯七九八零店",
         "category": [
             "餐飲"
@@ -314,7 +1770,7 @@
         ]
     },
     {
-        "index": 22,
+        "index": 124,
         "shop": "辣嘛川湘館",
         "category": [
             "餐飲"
@@ -330,7 +1786,7 @@
         ]
     },
     {
-        "index": 23,
+        "index": 125,
         "shop": "心韻小吃店",
         "category": [
             "餐飲"
@@ -345,7 +1801,7 @@
         ]
     },
     {
-        "index": 24,
+        "index": 126,
         "shop": "恭翎冷飲店",
         "category": [
             "餐飲"
@@ -362,7 +1818,7 @@
         ]
     },
     {
-        "index": 25,
+        "index": 127,
         "shop": "星月茶舖",
         "category": [
             "餐飲"
@@ -379,7 +1835,7 @@
         ]
     },
     {
-        "index": 26,
+        "index": 128,
         "shop": "叡叡飲料店",
         "category": [
             "餐飲"
@@ -393,7 +1849,7 @@
         ]
     },
     {
-        "index": 27,
+        "index": 129,
         "shop": "姆姆輕食",
         "category": [
             "餐飲"
@@ -408,7 +1864,7 @@
         ]
     },
     {
-        "index": 28,
+        "index": 130,
         "shop": "夢想家小吃店",
         "category": [
             "餐飲"
@@ -423,7 +1879,7 @@
         ]
     },
     {
-        "index": 29,
+        "index": 131,
         "shop": "凱晴小吃店",
         "category": [
             "餐飲"
@@ -440,7 +1896,7 @@
         ]
     },
     {
-        "index": 30,
+        "index": 132,
         "shop": "博芳企業社",
         "category": [
             "餐飲"
@@ -454,7 +1910,7 @@
         ]
     },
     {
-        "index": 31,
+        "index": 133,
         "shop": "喆喆茶行",
         "category": [
             "餐飲"
@@ -471,7 +1927,7 @@
         ]
     },
     {
-        "index": 32,
+        "index": 134,
         "shop": "義享泰小吃店",
         "category": [
             "餐飲"
@@ -485,7 +1941,7 @@
         ]
     },
     {
-        "index": 33,
+        "index": 135,
         "shop": "玖月鍋物",
         "category": [
             "餐飲"
@@ -500,7 +1956,7 @@
         ]
     },
     {
-        "index": 34,
+        "index": 136,
         "shop": "雙饗丼企業社",
         "category": [
             "餐飲"
@@ -516,7 +1972,7 @@
         ]
     },
     {
-        "index": 35,
+        "index": 137,
         "shop": "景信有限公司",
         "category": [
             "餐飲"
@@ -530,7 +1986,7 @@
         ]
     },
     {
-        "index": 36,
+        "index": 138,
         "shop": "歐巴肉彈吐司",
         "category": [
             "餐飲"
@@ -545,7 +2001,7 @@
         ]
     },
     {
-        "index": 37,
+        "index": 139,
         "shop": "丞豐商行",
         "category": [
             "餐飲"
@@ -561,7 +2017,7 @@
         ]
     },
     {
-        "index": 38,
+        "index": 140,
         "shop": "立豐小吃",
         "category": [
             "餐飲"
@@ -576,7 +2032,7 @@
         ]
     },
     {
-        "index": 39,
+        "index": 141,
         "shop": "藍鹿咖啡館",
         "category": [
             "餐飲"
@@ -591,7 +2047,7 @@
         ]
     },
     {
-        "index": 40,
+        "index": 142,
         "shop": "沐樂行",
         "category": [
             "餐飲"
@@ -606,7 +2062,7 @@
         ]
     },
     {
-        "index": 41,
+        "index": 143,
         "shop": "自家廚房麻辣火鍋店",
         "category": [
             "餐飲"
@@ -621,7 +2077,7 @@
         ]
     },
     {
-        "index": 42,
+        "index": 144,
         "shop": "鮮晏複合式餐飲",
         "category": [
             "餐飲"
@@ -635,7 +2091,7 @@
         ]
     },
     {
-        "index": 43,
+        "index": 145,
         "shop": "楊成餐飲",
         "category": [
             "餐飲"
@@ -654,7 +2110,7 @@
         ]
     },
     {
-        "index": 44,
+        "index": 146,
         "shop": "萬大小吃店",
         "category": [
             "餐飲",
@@ -669,7 +2125,7 @@
         ]
     },
     {
-        "index": 45,
+        "index": 147,
         "shop": "豪味手作便當",
         "category": [
             "餐飲"
@@ -683,7 +2139,7 @@
         ]
     },
     {
-        "index": 46,
+        "index": 148,
         "shop": "惠及素食餐館",
         "category": [
             "餐飲"
@@ -697,7 +2153,7 @@
         ]
     },
     {
-        "index": 47,
+        "index": 149,
         "shop": "梁記小吃店",
         "category": [
             "餐飲"
@@ -711,7 +2167,7 @@
         ]
     },
     {
-        "index": 48,
+        "index": 150,
         "shop": "第八元素咖啡館",
         "category": [
             "餐飲"
@@ -729,7 +2185,7 @@
         ]
     },
     {
-        "index": 49,
+        "index": 151,
         "shop": "春霖企業社",
         "category": [
             "餐飲"
@@ -746,7 +2202,7 @@
         ]
     },
     {
-        "index": 50,
+        "index": 152,
         "shop": "首烏之家飲食店",
         "category": [
             "餐飲"
@@ -760,7 +2216,7 @@
         ]
     },
     {
-        "index": 51,
+        "index": 153,
         "shop": "佳豐餐飲服務有限公司",
         "category": [
             "餐飲"
@@ -774,7 +2230,7 @@
         ]
     },
     {
-        "index": 52,
+        "index": 154,
         "shop": "秉峰客家飯館",
         "category": [
             "餐飲"
@@ -789,7 +2245,7 @@
         ]
     },
     {
-        "index": 53,
+        "index": 155,
         "shop": "長旺企業社",
         "category": [
             "餐飲"
@@ -803,7 +2259,7 @@
         ]
     },
     {
-        "index": 54,
+        "index": 156,
         "shop": "米克諾斯香料廚房餐廳",
         "category": [
             "餐飲"
@@ -818,7 +2274,7 @@
         ]
     },
     {
-        "index": 55,
+        "index": 157,
         "shop": "淙仁餐飲社",
         "category": [
             "餐飲"
@@ -833,7 +2289,7 @@
         ]
     },
     {
-        "index": 56,
+        "index": 158,
         "shop": "Starbucks星巴克楊梅中山門市部",
         "category": [
             "餐飲"
@@ -847,7 +2303,7 @@
         ]
     },
     {
-        "index": 57,
+        "index": 159,
         "shop": "摩斯漢堡 楊梅店",
         "category": [
             "餐飲"
@@ -861,7 +2317,7 @@
         ]
     },
     {
-        "index": 58,
+        "index": 160,
         "shop": "麥當勞楊梅中山北路分公司",
         "category": [
             "餐飲"
@@ -876,7 +2332,7 @@
         ]
     },
     {
-        "index": 59,
+        "index": 161,
         "shop": "智揚食品股份有限公司",
         "category": [
             "餐飲"
@@ -892,7 +2348,7 @@
         ]
     },
     {
-        "index": 60,
+        "index": 162,
         "shop": "筌盛茶業有限公司",
         "category": [
             "餐飲"
@@ -909,7 +2365,7 @@
         ]
     },
     {
-        "index": 61,
+        "index": 163,
         "shop": "貴族世家-楊梅埔心店",
         "category": [
             "餐飲"
@@ -923,7 +2379,7 @@
         ]
     },
     {
-        "index": 62,
+        "index": 164,
         "shop": "純緻食堂",
         "category": [
             "餐飲"
@@ -938,7 +2394,7 @@
         ]
     },
     {
-        "index": 63,
+        "index": 165,
         "shop": "振龜茶飲",
         "category": [
             "餐飲"
@@ -953,7 +2409,7 @@
         ]
     },
     {
-        "index": 64,
+        "index": 166,
         "shop": "鱻進來日式料理",
         "category": [
             "餐飲"
@@ -967,7 +2423,7 @@
         ]
     },
     {
-        "index": 65,
+        "index": 167,
         "shop": "湧翔冷熱餐館",
         "category": [
             "餐飲"
@@ -982,7 +2438,7 @@
         ]
     },
     {
-        "index": 66,
+        "index": 168,
         "shop": "三沅早餐店",
         "category": [
             "餐飲"
@@ -996,7 +2452,7 @@
         ]
     },
     {
-        "index": 67,
+        "index": 169,
         "shop": "幸福餐飲",
         "category": [
             "餐飲",
@@ -1011,7 +2467,7 @@
         ]
     },
     {
-        "index": 68,
+        "index": 170,
         "shop": "亞努企業社",
         "category": [
             "餐飲",
@@ -1026,7 +2482,7 @@
         ]
     },
     {
-        "index": 69,
+        "index": 171,
         "shop": "幼展飲料店",
         "category": [
             "餐飲"
@@ -1043,7 +2499,7 @@
         ]
     },
     {
-        "index": 70,
+        "index": 172,
         "shop": "洛塔商行",
         "category": [
             "餐飲"
@@ -1057,7 +2513,7 @@
         ]
     },
     {
-        "index": 71,
+        "index": 173,
         "shop": "朕廣商行",
         "category": [
             "餐飲"
@@ -1071,7 +2527,7 @@
         ]
     },
     {
-        "index": 72,
+        "index": 174,
         "shop": "滴音企業社",
         "category": [
             "餐飲"
@@ -1086,7 +2542,7 @@
         ]
     },
     {
-        "index": 73,
+        "index": 175,
         "shop": "毓瑋飲料店",
         "category": [
             "餐飲"
@@ -1103,7 +2559,7 @@
         ]
     },
     {
-        "index": 74,
+        "index": 176,
         "shop": "美珍鍋貼水餃專賣店",
         "category": [
             "餐飲"
@@ -1119,7 +2575,7 @@
         ]
     },
     {
-        "index": 75,
+        "index": 177,
         "shop": "許育鹹酥雞",
         "category": [
             "餐飲"
@@ -1134,7 +2590,7 @@
         ]
     },
     {
-        "index": 76,
+        "index": 178,
         "shop": "澤品商行",
         "category": [
             "餐飲"
@@ -1152,7 +2608,7 @@
         ]
     },
     {
-        "index": 77,
+        "index": 179,
         "shop": "川泰小吃店",
         "category": [
             "餐飲"
@@ -1169,7 +2625,7 @@
         ]
     },
     {
-        "index": 78,
+        "index": 180,
         "shop": "禾軒小吃店",
         "category": [
             "餐飲"
@@ -1184,7 +2640,7 @@
         ]
     },
     {
-        "index": 79,
+        "index": 181,
         "shop": "享喝紅茶小舖",
         "category": [
             "餐飲"
@@ -1200,7 +2656,7 @@
         ]
     },
     {
-        "index": 80,
+        "index": 182,
         "shop": "誠哥冰品店",
         "category": [
             "餐飲"
@@ -1214,7 +2670,7 @@
         ]
     },
     {
-        "index": 81,
+        "index": 183,
         "shop": "恩緹茶飲",
         "category": [
             "餐飲"
@@ -1231,7 +2687,7 @@
         ]
     },
     {
-        "index": 82,
+        "index": 184,
         "shop": "新農彭家牛肉麵店",
         "category": [
             "餐飲"
@@ -1245,7 +2701,7 @@
         ]
     },
     {
-        "index": 83,
+        "index": 185,
         "shop": "宜霖早午餐",
         "category": [
             "餐飲"
@@ -1261,7 +2717,7 @@
         ]
     },
     {
-        "index": 84,
+        "index": 186,
         "shop": "康食主義企業社",
         "category": [
             "餐飲"
@@ -1276,7 +2732,7 @@
         ]
     },
     {
-        "index": 85,
+        "index": 187,
         "shop": "根會香企業社",
         "category": [
             "餐飲",
@@ -1291,7 +2747,7 @@
         ]
     },
     {
-        "index": 86,
+        "index": 188,
         "shop": "赫鑫小吃店",
         "category": [
             "餐飲"
@@ -1305,7 +2761,7 @@
         ]
     },
     {
-        "index": 87,
+        "index": 189,
         "shop": "小玉家",
         "category": [
             "餐飲"
@@ -1320,7 +2776,7 @@
         ]
     },
     {
-        "index": 88,
+        "index": 190,
         "shop": "宗宗麵食館",
         "category": [
             "餐飲"
@@ -1335,7 +2791,7 @@
         ]
     },
     {
-        "index": 89,
+        "index": 191,
         "shop": "凱翔冰品店",
         "category": [
             "餐飲"
@@ -1349,7 +2805,7 @@
         ]
     },
     {
-        "index": 90,
+        "index": 192,
         "shop": "盈菲茶行",
         "category": [
             "餐飲"
@@ -1364,7 +2820,7 @@
         ]
     },
     {
-        "index": 91,
+        "index": 193,
         "shop": "楊梅新農功夫茶冷飲店",
         "category": [
             "餐飲"
@@ -1379,7 +2835,7 @@
         ]
     },
     {
-        "index": 92,
+        "index": 194,
         "shop": "昕采商行",
         "category": [
             "餐飲"
@@ -1394,7 +2850,7 @@
         ]
     },
     {
-        "index": 93,
+        "index": 195,
         "shop": "鈿純食坊",
         "category": [
             "餐飲"
@@ -1408,7 +2864,7 @@
         ]
     },
     {
-        "index": 94,
+        "index": 196,
         "shop": "熊厚飲店",
         "category": [
             "餐飲"
@@ -1422,7 +2878,7 @@
         ]
     },
     {
-        "index": 95,
+        "index": 197,
         "shop": "爭鮮股份有限公司定食楊梅愛門市部",
         "category": [
             "餐飲"
@@ -1436,7 +2892,7 @@
         ]
     },
     {
-        "index": 96,
+        "index": 198,
         "shop": "瑾晴早午餐",
         "category": [
             "餐飲"
@@ -1450,7 +2906,7 @@
         ]
     },
     {
-        "index": 97,
+        "index": 199,
         "shop": "政瑄",
         "category": [
             "餐飲"
@@ -1464,7 +2920,7 @@
         ]
     },
     {
-        "index": 98,
+        "index": 200,
         "shop": "老客馥粥品",
         "category": [
             "餐飲"
@@ -1478,7 +2934,7 @@
         ]
     },
     {
-        "index": 99,
+        "index": 201,
         "shop": "二派客雞排",
         "category": [
             "餐飲"
@@ -1492,7 +2948,7 @@
         ]
     },
     {
-        "index": 100,
+        "index": 202,
         "shop": "財團法人台灣省私立啓智技藝訓練中心",
         "category": [
             "糕餅",
@@ -1507,7 +2963,7 @@
         ]
     },
     {
-        "index": 101,
+        "index": 203,
         "shop": "悠遊生活事業股份有限公司桃園市第十五分公司",
         "category": [
             "餐飲"
@@ -1521,7 +2977,7 @@
         ]
     },
     {
-        "index": 102,
+        "index": 204,
         "shop": "拿坡里 楊梅店",
         "category": [
             "餐飲"
@@ -1539,7 +2995,7 @@
         ]
     },
     {
-        "index": 103,
+        "index": 205,
         "shop": "阿山哥",
         "category": [
             "餐飲"
@@ -1553,7 +3009,7 @@
         ]
     },
     {
-        "index": 104,
+        "index": 206,
         "shop": "新新小站",
         "category": [
             "餐飲"
@@ -1567,7 +3023,7 @@
         ]
     },
     {
-        "index": 105,
+        "index": 207,
         "shop": "智慧傑克與豌豆商舖",
         "category": [
             "餐飲"
@@ -1581,7 +3037,7 @@
         ]
     },
     {
-        "index": 106,
+        "index": 208,
         "shop": "米菲日式雜貨商行",
         "category": [
             "餐飲"
@@ -1595,7 +3051,7 @@
         ]
     },
     {
-        "index": 107,
+        "index": 209,
         "shop": "東海冰城",
         "category": [
             "餐飲"
@@ -1609,7 +3065,7 @@
         ]
     },
     {
-        "index": 108,
+        "index": 210,
         "shop": "北港手工早點",
         "category": [
             "餐飲"
@@ -1623,7 +3079,7 @@
         ]
     },
     {
-        "index": 109,
+        "index": 211,
         "shop": "辰果商行",
         "category": [
             "餐飲"
@@ -1637,7 +3093,7 @@
         ]
     },
     {
-        "index": 110,
+        "index": 212,
         "shop": "王品餐飲股份有限公司西堤楊梅中山北分公司",
         "category": [
             "餐飲"
@@ -1652,7 +3108,7 @@
         ]
     },
     {
-        "index": 111,
+        "index": 213,
         "shop": "羲沁商行",
         "category": [
             "餐飲"
@@ -1666,7 +3122,7 @@
         ]
     },
     {
-        "index": 112,
+        "index": 214,
         "shop": "忱昕商行",
         "category": [
             "餐飲"
@@ -1683,7 +3139,7 @@
         ]
     },
     {
-        "index": 113,
+        "index": 215,
         "shop": "馬克商行",
         "category": [
             "餐飲"
@@ -1700,7 +3156,7 @@
         ]
     },
     {
-        "index": 114,
+        "index": 216,
         "shop": "嘉大企業社",
         "category": [
             "餐飲"
@@ -1714,7 +3170,7 @@
         ]
     },
     {
-        "index": 115,
+        "index": 217,
         "shop": "方蓋企業社",
         "category": [
             "餐飲"
@@ -1730,7 +3186,7 @@
         ]
     },
     {
-        "index": 116,
+        "index": 218,
         "shop": "秀和創意餐廳",
         "category": [
             "餐飲"
@@ -1745,7 +3201,7 @@
         ]
     },
     {
-        "index": 117,
+        "index": 219,
         "shop": "予果吉商行",
         "category": [
             "餐飲"
@@ -1760,7 +3216,7 @@
         ]
     },
     {
-        "index": 118,
+        "index": 220,
         "shop": "咚賀商行",
         "category": [
             "餐飲",
@@ -1775,7 +3231,7 @@
         ]
     },
     {
-        "index": 119,
+        "index": 221,
         "shop": "朋林商行",
         "category": [
             "餐飲"
@@ -1791,7 +3247,7 @@
         ]
     },
     {
-        "index": 120,
+        "index": 222,
         "shop": "我想想餐館飲食店",
         "category": [
             "餐飲"
@@ -1807,7 +3263,7 @@
         ]
     },
     {
-        "index": 121,
+        "index": 223,
         "shop": "阿渟小吃店",
         "category": [
             "餐飲"
@@ -1821,7 +3277,7 @@
         ]
     },
     {
-        "index": 122,
+        "index": 224,
         "shop": "奇得企業社",
         "category": [
             "餐飲"
@@ -1839,7 +3295,7 @@
         ]
     },
     {
-        "index": 123,
+        "index": 225,
         "shop": "麥賣咖啡館",
         "category": [
             "餐飲"
@@ -1853,7 +3309,7 @@
         ]
     },
     {
-        "index": 124,
+        "index": 226,
         "shop": "清暉茶莊",
         "category": [
             "餐飲"
@@ -1870,7 +3326,7 @@
         ]
     },
     {
-        "index": 125,
+        "index": 227,
         "shop": "初光早午餐館",
         "category": [
             "餐飲"
@@ -1885,7 +3341,7 @@
         ]
     },
     {
-        "index": 126,
+        "index": 228,
         "shop": "程家餐飲",
         "category": [
             "餐飲"
@@ -1900,7 +3356,7 @@
         ]
     },
     {
-        "index": 127,
+        "index": 229,
         "shop": "丹帝企業社",
         "category": [
             "餐飲"
@@ -1915,7 +3371,7 @@
         ]
     },
     {
-        "index": 128,
+        "index": 230,
         "shop": "錦肴樓館",
         "category": [
             "餐飲"
@@ -1929,7 +3385,7 @@
         ]
     },
     {
-        "index": 129,
+        "index": 231,
         "shop": "丹醇美廚有限公司",
         "category": [
             "餐飲"
@@ -1945,7 +3401,7 @@
         ]
     },
     {
-        "index": 130,
+        "index": 232,
         "shop": "伍倉時尚美食有限公司",
         "category": [
             "餐飲"
@@ -1959,7 +3415,7 @@
         ]
     },
     {
-        "index": 131,
+        "index": 233,
         "shop": "一特食品有限公司",
         "category": [
             "餐飲"
@@ -1974,7 +3430,7 @@
         ]
     },
     {
-        "index": 132,
+        "index": 234,
         "shop": "宸食小舖",
         "category": [
             "餐飲"
@@ -1988,7 +3444,7 @@
         ]
     },
     {
-        "index": 133,
+        "index": 235,
         "shop": "一品味小吃店",
         "category": [
             "餐飲"
@@ -2005,7 +3461,7 @@
         ]
     },
     {
-        "index": 134,
+        "index": 236,
         "shop": "爭鮮股份有限公司楊梅愛門市部",
         "category": [
             "餐飲"
@@ -2020,7 +3476,7 @@
         ]
     },
     {
-        "index": 135,
+        "index": 237,
         "shop": "漢堡大亨店",
         "category": [
             "餐飲"
@@ -2035,7 +3491,7 @@
         ]
     },
     {
-        "index": 136,
+        "index": 238,
         "shop": "拉亞漢堡美式早餐店",
         "category": [
             "餐飲"
@@ -2053,7 +3509,7 @@
         ]
     },
     {
-        "index": 137,
+        "index": 239,
         "shop": "馬德里簡餐",
         "category": [
             "餐飲"
@@ -2067,7 +3523,7 @@
         ]
     },
     {
-        "index": 138,
+        "index": 240,
         "shop": "百香餐飲店",
         "category": [
             "餐飲"
@@ -2081,7 +3537,7 @@
         ]
     },
     {
-        "index": 139,
+        "index": 241,
         "shop": "大呼過癮企業社",
         "category": [
             "餐飲"
@@ -2095,7 +3551,7 @@
         ]
     },
     {
-        "index": 140,
+        "index": 242,
         "shop": "長歡茶飲",
         "category": [
             "餐飲"
@@ -2112,7 +3568,7 @@
         ]
     },
     {
-        "index": 141,
+        "index": 243,
         "shop": "百香茶行",
         "category": [
             "餐飲"
@@ -2129,7 +3585,7 @@
         ]
     },
     {
-        "index": 142,
+        "index": 244,
         "shop": "禾沏咖啡坊",
         "category": [
             "餐飲"
@@ -2145,7 +3601,7 @@
         ]
     },
     {
-        "index": 143,
+        "index": 245,
         "shop": "美心廣東粥",
         "category": [
             "餐飲"
@@ -2159,7 +3615,7 @@
         ]
     },
     {
-        "index": 144,
+        "index": 246,
         "shop": "香蕉星球屋",
         "category": [
             "餐飲"
@@ -2173,7 +3629,7 @@
         ]
     },
     {
-        "index": 145,
+        "index": 247,
         "shop": "禾豐冷飲店",
         "category": [
             "餐飲"
@@ -2191,7 +3647,7 @@
         ]
     },
     {
-        "index": 146,
+        "index": 248,
         "shop": "茉莉茶行",
         "category": [
             "餐飲"
@@ -2208,7 +3664,7 @@
         ]
     },
     {
-        "index": 147,
+        "index": 249,
         "shop": "芳園小吃店",
         "category": [
             "餐飲"
@@ -2225,7 +3681,7 @@
         ]
     },
     {
-        "index": 148,
+        "index": 250,
         "shop": "欣榮小吃店",
         "category": [
             "餐飲"
@@ -2241,7 +3697,7 @@
         ]
     },
     {
-        "index": 149,
+        "index": 251,
         "shop": "翔祐小吃店",
         "category": [
             "餐飲"
@@ -2255,7 +3711,7 @@
         ]
     },
     {
-        "index": 150,
+        "index": 252,
         "shop": "貝拉小吃店",
         "category": [
             "餐飲"
@@ -2274,7 +3730,7 @@
         ]
     },
     {
-        "index": 151,
+        "index": 253,
         "shop": "福記富貴餐廳股份有限公司",
         "category": [
             "餐飲"
@@ -2288,7 +3744,7 @@
         ]
     },
     {
-        "index": 152,
+        "index": 254,
         "shop": "蓁穎小吃店",
         "category": [
             "餐飲"
@@ -2305,7 +3761,7 @@
         ]
     },
     {
-        "index": 153,
+        "index": 255,
         "shop": "金溪商行",
         "category": [
             "餐飲"
@@ -2323,7 +3779,7 @@
         ]
     },
     {
-        "index": 154,
+        "index": 256,
         "shop": "嘉福商行",
         "category": [
             "餐飲"
@@ -2337,7 +3793,7 @@
         ]
     },
     {
-        "index": 155,
+        "index": 257,
         "shop": "麗多國際顧問股份有限公司",
         "category": [
             "餐飲"
@@ -2351,7 +3807,7 @@
         ]
     },
     {
-        "index": 156,
+        "index": 258,
         "shop": "音樂世界旅邸股份有限公司",
         "category": [
             "餐飲"
@@ -2366,7 +3822,7 @@
         ]
     },
     {
-        "index": 157,
+        "index": 259,
         "shop": "揚昇育樂事業股份有限公司",
         "category": [
             "餐飲"
@@ -2380,7 +3836,7 @@
         ]
     },
     {
-        "index": 158,
+        "index": 260,
         "shop": "老莊園有限公司老莊營業所",
         "category": [
             "餐飲"
@@ -2394,7 +3850,7 @@
         ]
     },
     {
-        "index": 159,
+        "index": 261,
         "shop": "童學堂有限公司",
         "category": [
             "餐飲"
@@ -2408,7 +3864,7 @@
         ]
     },
     {
-        "index": 160,
+        "index": 262,
         "shop": "齊忻有限公司",
         "category": [
             "餐飲"
@@ -2422,7 +3878,7 @@
         ]
     },
     {
-        "index": 161,
+        "index": 263,
         "shop": "千鈺百貨企業有限公司",
         "category": [
             "餐飲"
@@ -2439,7 +3895,7 @@
         ]
     },
     {
-        "index": 162,
+        "index": 264,
         "shop": "森活工坊有限公司",
         "category": [
             "餐飲"
@@ -2453,7 +3909,7 @@
         ]
     },
     {
-        "index": 163,
+        "index": 265,
         "shop": "派大鮮水產有限公司",
         "category": [
             "餐飲"
@@ -2467,7 +3923,7 @@
         ]
     },
     {
-        "index": 164,
+        "index": 266,
         "shop": "晏品商行",
         "category": [
             "餐飲"
@@ -2485,7 +3941,7 @@
         ]
     },
     {
-        "index": 165,
+        "index": 267,
         "shop": "阿圖牛肉麵",
         "category": [
             "餐飲"
@@ -2499,7 +3955,7 @@
         ]
     },
     {
-        "index": 166,
+        "index": 268,
         "shop": "京都拉麵館",
         "category": [
             "餐飲"
@@ -2513,7 +3969,7 @@
         ]
     },
     {
-        "index": 167,
+        "index": 269,
         "shop": "美香堡早餐店",
         "category": [
             "餐飲"
@@ -2527,7 +3983,7 @@
         ]
     },
     {
-        "index": 168,
+        "index": 270,
         "shop": "邑品涼麵",
         "category": [
             "餐飲"
@@ -2541,7 +3997,7 @@
         ]
     },
     {
-        "index": 169,
+        "index": 271,
         "shop": "旺角小吃店",
         "category": [
             "餐飲"
@@ -2555,7 +4011,7 @@
         ]
     },
     {
-        "index": 170,
+        "index": 272,
         "shop": "大山小吃店",
         "category": [
             "餐飲"
@@ -2573,7 +4029,7 @@
         ]
     },
     {
-        "index": 171,
+        "index": 273,
         "shop": "藝綺地中海私廚餐酒館",
         "category": [
             "餐飲"
@@ -2589,7 +4045,7 @@
         ]
     },
     {
-        "index": 172,
+        "index": 274,
         "shop": "嵐鴻商行",
         "category": [
             "餐飲"
@@ -2604,7 +4060,7 @@
         ]
     },
     {
-        "index": 173,
+        "index": 275,
         "shop": "艾亞企業社",
         "category": [
             "餐飲",
@@ -2621,7 +4077,7 @@
         ]
     },
     {
-        "index": 174,
+        "index": 276,
         "shop": "絕香溢味餐飲",
         "category": [
             "餐飲"
@@ -2636,7 +4092,7 @@
         ]
     },
     {
-        "index": 175,
+        "index": 277,
         "shop": "灰熊大雞腿便當",
         "category": [
             "餐飲"
@@ -2650,7 +4106,7 @@
         ]
     },
     {
-        "index": 176,
+        "index": 278,
         "shop": "昭興商行",
         "category": [
             "餐飲"
@@ -2666,7 +4122,7 @@
         ]
     },
     {
-        "index": 177,
+        "index": 279,
         "shop": "無敵商號",
         "category": [
             "餐飲"
@@ -2680,7 +4136,7 @@
         ]
     },
     {
-        "index": 178,
+        "index": 280,
         "shop": "有一間古早味甜品鋪",
         "category": [
             "餐飲"
@@ -2695,7 +4151,7 @@
         ]
     },
     {
-        "index": 179,
+        "index": 281,
         "shop": "嘻嘻小吃店",
         "category": [
             "餐飲"
@@ -2713,7 +4169,7 @@
         ]
     },
     {
-        "index": 180,
+        "index": 282,
         "shop": "楊芯茶行",
         "category": [
             "餐飲"
@@ -2730,7 +4186,7 @@
         ]
     },
     {
-        "index": 181,
+        "index": 283,
         "shop": "蒞臨商行",
         "category": [
             "餐飲"
@@ -2748,7 +4204,7 @@
         ]
     },
     {
-        "index": 182,
+        "index": 284,
         "shop": "采憙飲料店",
         "category": [
             "餐飲"
@@ -2765,7 +4221,7 @@
         ]
     },
     {
-        "index": 183,
+        "index": 285,
         "shop": "啾迷人鮮茶屋",
         "category": [
             "餐飲"
@@ -2783,7 +4239,7 @@
         ]
     },
     {
-        "index": 184,
+        "index": 286,
         "shop": "源茂企業社",
         "category": [
             "餐飲"
@@ -2801,7 +4257,7 @@
         ]
     },
     {
-        "index": 185,
+        "index": 287,
         "shop": "茶色果香冷飲店",
         "category": [
             "餐飲"
@@ -2816,7 +4272,7 @@
         ]
     },
     {
-        "index": 186,
+        "index": 288,
         "shop": "翔勝商行",
         "category": [
             "餐飲"
@@ -2830,7 +4286,7 @@
         ]
     },
     {
-        "index": 187,
+        "index": 289,
         "shop": "鈺琴美食館",
         "category": [
             "餐飲"
@@ -2845,7 +4301,7 @@
         ]
     },
     {
-        "index": 188,
+        "index": 290,
         "shop": "秀和鐵板燒店",
         "category": [
             "餐飲"
@@ -2859,7 +4315,7 @@
         ]
     },
     {
-        "index": 189,
+        "index": 291,
         "shop": "大成滷味",
         "category": [
             "餐飲"
@@ -2874,7 +4330,7 @@
         ]
     },
     {
-        "index": 190,
+        "index": 292,
         "shop": "羅記臭豆腐",
         "category": [
             "餐飲"
@@ -2888,7 +4344,7 @@
         ]
     },
     {
-        "index": 191,
+        "index": 293,
         "shop": "叉叉餐館",
         "category": [
             "餐飲"
@@ -2903,7 +4359,7 @@
         ]
     },
     {
-        "index": 192,
+        "index": 294,
         "shop": "三寶販商行",
         "category": [
             "餐飲"
@@ -2918,7 +4374,7 @@
         ]
     },
     {
-        "index": 193,
+        "index": 295,
         "shop": "元喬茶行",
         "category": [
             "餐飲"
@@ -2933,7 +4389,7 @@
         ]
     },
     {
-        "index": 194,
+        "index": 296,
         "shop": "緹客商行",
         "category": [
             "餐飲"
@@ -2950,7 +4406,7 @@
         ]
     },
     {
-        "index": 195,
+        "index": 297,
         "shop": "惹豪好吃店",
         "category": [
             "餐飲"
@@ -2967,7 +4423,7 @@
         ]
     },
     {
-        "index": 196,
+        "index": 298,
         "shop": "莫忘初衷茶飲行",
         "category": [
             "餐飲"
@@ -2982,7 +4438,7 @@
         ]
     },
     {
-        "index": 197,
+        "index": 299,
         "shop": "郁麒亞餐飲社",
         "category": [
             "餐飲"
@@ -2999,7 +4455,7 @@
         ]
     },
     {
-        "index": 198,
+        "index": 300,
         "shop": "富鈺揚企業社",
         "category": [
             "餐飲"
@@ -3017,7 +4473,7 @@
         ]
     },
     {
-        "index": 199,
+        "index": 301,
         "shop": "糖億商行",
         "category": [
             "餐飲"
@@ -3031,7 +4487,7 @@
         ]
     },
     {
-        "index": 200,
+        "index": 302,
         "shop": "金鑫堂",
         "category": [
             "餐飲"
@@ -3049,7 +4505,7 @@
         ]
     },
     {
-        "index": 201,
+        "index": 303,
         "shop": "楊梅超有肉涮涮屋",
         "category": [
             "餐飲"
@@ -3066,7 +4522,7 @@
         ]
     },
     {
-        "index": 202,
+        "index": 304,
         "shop": "容品茶飲店",
         "category": [
             "餐飲"
@@ -3082,7 +4538,7 @@
         ]
     },
     {
-        "index": 203,
+        "index": 305,
         "shop": "旅人壹號咖啡館",
         "category": [
             "餐飲"
@@ -3099,7 +4555,7 @@
         ]
     },
     {
-        "index": 204,
+        "index": 306,
         "shop": "承儒飲料店",
         "category": [
             "餐飲"
@@ -3120,7 +4576,7 @@
         ]
     },
     {
-        "index": 205,
+        "index": 307,
         "shop": "嘉廷冷飲店",
         "category": [
             "餐飲"
@@ -3134,7 +4590,7 @@
         ]
     },
     {
-        "index": 206,
+        "index": 308,
         "shop": "大楊梅鵝莊",
         "category": [
             "餐飲"
@@ -3149,7 +4605,7 @@
         ]
     },
     {
-        "index": 207,
+        "index": 309,
         "shop": "凰德食品有限公司楊梅分公司",
         "category": [
             "餐飲"
@@ -3164,7 +4620,7 @@
         ]
     },
     {
-        "index": 208,
+        "index": 310,
         "shop": "麥當勞楊梅中山北分公司",
         "category": [
             "餐飲"
@@ -3179,7 +4635,7 @@
         ]
     },
     {
-        "index": 209,
+        "index": 311,
         "shop": "肯德基KFC-楊梅中山店",
         "category": [
             "餐飲"
@@ -3193,7 +4649,7 @@
         ]
     },
     {
-        "index": 210,
+        "index": 312,
         "shop": "PIZZA HUT必勝客-楊梅埔心店",
         "category": [
             "餐飲"
@@ -3207,7 +4663,7 @@
         ]
     },
     {
-        "index": 211,
+        "index": 313,
         "shop": "肯德基KFC-楊梅大成店",
         "category": [
             "餐飲"
@@ -3221,7 +4677,7 @@
         ]
     },
     {
-        "index": 212,
+        "index": 314,
         "shop": "PIZZA HUT必勝客-桃園楊梅店",
         "category": [
             "餐飲"

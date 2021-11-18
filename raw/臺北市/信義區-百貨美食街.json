@@ -1,6 +1,99 @@
 [
     {
         "index": 1,
+        "shop": "BELLAVITA寶麗廣塲",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "臺北市信義區興雅里松仁路２８號１樓至９樓、地下１樓至地下５樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "新光三越台北信義新天地三館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "臺北市信義區西村里松壽路９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "新光三越台北信義新天地二館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "臺北市信義區西村里松高路１２號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "誠品信義店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "台北市信義區松高路11號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "太平洋百貨",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "臺北市信義區中興里光復南路４９５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "誠品",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "信義區",
+        "market_address": "臺北市信義區安康里松德路１９６號地下１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "台灣Pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "CITYLINK松山壹號店",
         "category": [
             "百貨美食街"
@@ -18,7 +111,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 8,
         "shop": "誠品生活松菸店",
         "category": [
             "百貨美食街"
@@ -32,7 +125,7 @@
         ]
     },
     {
-        "index": 3,
+        "index": 9,
         "shop": "統一時代百貨台北店",
         "category": [
             "百貨美食街"
@@ -52,7 +145,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 10,
         "shop": "ATT4fun",
         "category": [
             "百貨美食街"
@@ -70,7 +163,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 11,
         "shop": "台北101",
         "category": [
             "百貨美食街"
@@ -87,7 +180,7 @@
         ]
     },
     {
-        "index": 6,
+        "index": 12,
         "shop": "誠品信義店",
         "category": [
             "百貨美食街"
@@ -102,7 +195,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 13,
         "shop": "統一時代百貨",
         "category": [
             "百貨美食街"
@@ -117,7 +210,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 14,
         "shop": "新光三越台北信義新天地",
         "category": [
             "百貨美食街"
@@ -133,7 +226,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 15,
         "shop": "新光三越台北信義新天地四館",
         "category": [
             "百貨美食街"
@@ -149,7 +242,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 16,
         "shop": "新光三越百貨",
         "category": [
             "百貨美食街"
@@ -164,7 +257,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 17,
         "shop": "誠品松菸店",
         "category": [
             "百貨美食街"
@@ -179,7 +272,7 @@
         ]
     },
     {
-        "index": 12,
+        "index": 18,
         "shop": "愛買忠孝店",
         "category": [
             "百貨美食街"
@@ -193,7 +286,7 @@
         ]
     },
     {
-        "index": 13,
+        "index": 19,
         "shop": "誠品股份有限公司松菸第一分公司",
         "category": [
             "百貨美食街"
@@ -207,7 +300,7 @@
         ]
     },
     {
-        "index": 14,
+        "index": 20,
         "shop": "微風南山",
         "category": [
             "百貨美食街"
@@ -224,7 +317,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 21,
         "shop": "微風松高",
         "category": [
             "百貨美食街"
@@ -241,7 +334,7 @@
         ]
     },
     {
-        "index": 16,
+        "index": 22,
         "shop": "微風信義",
         "category": [
             "百貨美食街"
@@ -258,7 +351,7 @@
         ]
     },
     {
-        "index": 17,
+        "index": 23,
         "shop": "遠東百貨信義A13",
         "category": [
             "百貨美食街"

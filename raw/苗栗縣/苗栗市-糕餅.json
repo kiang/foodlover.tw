@@ -1,21 +1,35 @@
 [
     {
         "index": 1,
-        "shop": "緣定一生",
+        "shop": "金栗城卡通蛋糕專門店",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市中苗里５鄰中正路５５５號１樓",
+        "market_address": "苗栗縣苗栗市福麗里００２鄰至公路１０５號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "珈特思興業行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市文山里２１鄰正發路２２０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "吉豐商行",
         "category": [
             "餐飲",
@@ -26,30 +40,27 @@
         "area": "苗栗市",
         "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
         "pay_list": [
-            "Pi 拍錢包",
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 3,
-        "shop": "桿麥烘焙坊",
+        "index": 4,
+        "shop": "Bonbons法式甜食工作室",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里至公路８５號１樓",
+        "market_address": "苗栗縣苗栗市縣府路102號2樓",
         "pay_list": [
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 4,
-        "shop": "烏色咖啡",
+        "index": 5,
+        "shop": "鼎億實業社",
         "category": [
             "餐飲",
             "糕餅"
@@ -57,32 +68,14 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市福安里１１鄰安泰４號１樓",
+        "market_address": "苗栗縣苗栗市北苗里中山北路１０５―１號",
         "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "珈特思興業行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里２１鄰正發路２２０號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "悠遊卡",
             "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "大發商業社",
+        "shop": "青舍有限公司",
         "category": [
             "餐飲",
             "糕餅"
@@ -90,11 +83,8 @@
         "zone": "桃竹苗",
         "city": "苗栗縣",
         "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市青苗里中正路６３１號",
+        "market_address": "苗栗縣苗栗市文山里０１４鄰自治路３２７號１樓",
         "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -114,20 +104,6 @@
     },
     {
         "index": 8,
-        "shop": "麵飽包烘焙",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "苗栗縣",
-        "area": "苗栗市",
-        "market_address": "苗栗縣苗栗市文山里０１７鄰正發路１６０號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 9,
         "shop": "瑞士烘焙屋－貝里士",
         "category": [
             "糕餅"
@@ -141,7 +117,193 @@
         ]
     },
     {
+        "index": 9,
+        "shop": "幸福城麵包店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市綠苗里米市街１１鄰５６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 10,
+        "shop": "大發商業社",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市青苗里中正路６３１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "炬楙商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市建功里府東路９１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "緣定一生",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市中苗里５鄰中正路５５５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "吉豐商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "桿麥烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市青苗里至公路８５號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "烏色咖啡",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市福安里１１鄰安泰４號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "珈特思興業行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市文山里２１鄰正發路２２０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "大發商業社",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市青苗里中正路６３１號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "林長累企業社",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市建功里６鄰中山路２０３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "麵飽包烘焙",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市文山里０１７鄰正發路１６０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "瑞士烘焙屋－貝里士",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "苗栗縣",
+        "area": "苗栗市",
+        "market_address": "苗栗縣苗栗市玉華里１鄰玉清街１０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
         "shop": "青舍有限公司",
         "category": [
             "餐飲",
@@ -159,7 +321,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 22,
         "shop": "炬楙商行",
         "category": [
             "餐飲",
@@ -179,7 +341,7 @@
         ]
     },
     {
-        "index": 12,
+        "index": 23,
         "shop": "核果子食品行",
         "category": [
             "糕餅"
@@ -193,7 +355,7 @@
         ]
     },
     {
-        "index": 13,
+        "index": 24,
         "shop": "花田喜有限公司",
         "category": [
             "糕餅"
@@ -208,7 +370,7 @@
         ]
     },
     {
-        "index": 14,
+        "index": 25,
         "shop": "喜朵新洋食館",
         "category": [
             "餐飲",
@@ -223,7 +385,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 26,
         "shop": "幸福城麵包店",
         "category": [
             "糕餅"
@@ -237,7 +399,7 @@
         ]
     },
     {
-        "index": 16,
+        "index": 27,
         "shop": "瑞士烘焙屋",
         "category": [
             "糕餅"
@@ -253,7 +415,7 @@
         ]
     },
     {
-        "index": 17,
+        "index": 28,
         "shop": "鼎億實業社",
         "category": [
             "餐飲",
@@ -268,7 +430,7 @@
         ]
     },
     {
-        "index": 18,
+        "index": 29,
         "shop": "Bonbons法式甜食工作室",
         "category": [
             "糕餅"
@@ -282,7 +444,7 @@
         ]
     },
     {
-        "index": 19,
+        "index": 30,
         "shop": "金栗城卡通蛋糕專門店",
         "category": [
             "糕餅"
@@ -297,7 +459,7 @@
         ]
     },
     {
-        "index": 20,
+        "index": 31,
         "shop": "鳳展手工烘焙坊",
         "category": [
             "糕餅"

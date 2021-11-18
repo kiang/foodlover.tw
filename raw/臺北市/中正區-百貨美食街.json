@@ -1,6 +1,22 @@
 [
     {
         "index": 1,
+        "shop": "新光三越台北站前店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "臺北市中正區忠孝西路１段６６號地下１至２樓及１至１３樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "微風台大醫院商場",
         "category": [
             "百貨美食街"
@@ -17,7 +33,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 3,
         "shop": "誠品站前",
         "category": [
             "百貨美食街"
@@ -26,21 +42,6 @@
         "city": "臺北市",
         "area": "中正區",
         "market_address": "台北市中正區忠孝西路47號B1",
-        "pay_list": [
-            "LINE Pay Money",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "誠品捷運店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "中正區",
-        "market_address": "台北市中正區忠孝西路49號",
         "pay_list": [
             "LINE Pay Money",
             "信用卡"
@@ -78,6 +79,21 @@
     },
     {
         "index": 6,
+        "shop": "誠品捷運店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "中正區",
+        "market_address": "台北市中正區忠孝西路49號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "三創生活園區",
         "category": [
             "百貨美食街"
@@ -96,7 +112,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 8,
         "shop": "微風百貨台北車站",
         "category": [
             "百貨美食街"
@@ -113,7 +129,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 9,
         "shop": "微風廣場 汀州",
         "category": [
             "餐飲",
@@ -131,7 +147,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 10,
         "shop": "遠東百貨 台北寶慶店",
         "category": [
             "百貨美食街"

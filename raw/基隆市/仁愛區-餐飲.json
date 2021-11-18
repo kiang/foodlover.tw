@@ -1,6 +1,1280 @@
 [
     {
         "index": 1,
+        "shop": "樂香冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里仁四路５８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "呷尚寶西式早餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝四路２４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "真鮮小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區智仁里仁二路１２３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "屹申號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里忠二路６８號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "銘傳川壽司小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁一路２４５號（１樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "金承達有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里愛二路３９號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "安樓湧泉商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區忠勇里仁三路１１―３號１、２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "昱昌小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里仁二路１１０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "圓圓珍珠鮮奶飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里仁三路５７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "奕圓小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區吉仁里南榮路１７９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "基隆艋舺雞排店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里愛四路６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "夢想窩咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區明德里忠三路４９－１號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "尹瑅小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里愛二路２７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "那間日食屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區精一路９―５號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "新曙冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里愛一路１０３－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "微醺串燒站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里愛三路９８巷１４號１樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "芙琳卡甜點屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里仁四路２２之１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "蒙古養生食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里愛一路３５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "箏壽司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路６１號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "芝士簡餐咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里愛六路１３號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "翊馨餐飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里孝二路９８號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "鑫鑫美食越南料理店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區明德里忠三路５５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "小絜魯味店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里愛三路８７號（１樓Ｓ３１）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "初沐咖啡專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里忠二路４４號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "鴨肉松小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區孝二路８２、８２之１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "隨緣居料理店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路５９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "伍三玖小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里忠二路６１號４樓",
+        "pay_list": [
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "呷蝶飲料專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁二路７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "雨港有魚餐飲商舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里孝一路１１１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "奧爾斯早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁二路３７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "京讚燒烤店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區光華里成功一路１１８巷３弄７號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "找餐人早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路７９巷６號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "優優飲品屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里仁三路８０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "品味咖啡店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里愛一路７０―１號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "中船牛肉麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區明德里公園街３２６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "拾貳盎司咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁一路２１７巷１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "群星會小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里愛四路３８號２樓",
+        "pay_list": [
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "曜威有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里孝二路８６―４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "多思楓商店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里忠一路３巷７號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "金磚商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁二路６６號（１－２樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "呷灰鍋火鍋店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里忠三路５８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "嗂可司冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區忠勇里仁二路１７２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "丸太小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁一路２０７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "胖哥倆串燒店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁二路１３８號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "堡伯食品商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路３６號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "天元企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區智仁里仁二路９９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "好運殿日式炸物專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里劉銘傳路２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "食運糖水鋪",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里仁四路１３之１號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "眉角國際有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里仁二路２２０號１樓，２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "昱恩國際餐飲有限公司基隆廟口分店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區忠勇里仁一路３２１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "勁將讚有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里劉銘傳路５－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "多田食堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里愛三路４９巷３８號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "糖門冰舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區崇文里精一路１９之１號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "老味坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路５０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "希牛商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區忠勇里仁二路１８２號１－２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "白勺鍋燒烏龍店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里忠三路６８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "醜毛甘蔗堂",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里仁三路３１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "基隆貓腳印企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝二路６３號４樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "樂樂杯冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里孝三路９６號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "迷鹿了嗎咖啡坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里愛一路５０之１號（２樓）",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "尼爾先生熱狗堡專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路２６號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "神樂岡旭川拉麵有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里仁二路２１１號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "月桂食府",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里愛二路５７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "九四咖啡專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區愛一路６１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "漾漾好食餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里愛五路３４號２樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "恬恬商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里００２鄰仁一路２６１－１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "炸雞師父館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區吉仁里南榮路２０３號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "狀元紅餐飲企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里仁一路２９３巷２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "翊豐食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里孝三路２６號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "街口"
+        ]
+    },
+    {
+        "index": 70,
+        "shop": "邦彼諾有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里港西街４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 71,
+        "shop": "華星小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里孝一路５４號地下室",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "思維麵食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里仁四路６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 73,
+        "shop": "二九來吧創意料理店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區文昌里港西街１５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 74,
+        "shop": "丸角自轉生活咖啡",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區同風里孝二路２８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 75,
+        "shop": "大眾滷味店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里仁二路２０４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 76,
+        "shop": "健安雞肉飯",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區明德里孝三路２５號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 77,
+        "shop": "米魯廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區水錦里仁二路４３號２樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 78,
+        "shop": "易程貿易有限公司基隆門市",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里愛四路２４號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 79,
+        "shop": "春風企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里仁二路２０９號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 80,
+        "shop": "周港茶飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區博愛里仁四路２１―１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 81,
+        "shop": "嗎哪食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區龍門里南榮路１３４巷５６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 82,
+        "shop": "愛三牛排館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區仁德里愛三路８３號（１樓）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 83,
+        "shop": "福記蔬菜羊肉小舖",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里仁一路２９５―２４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 84,
+        "shop": "愷欣茶飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區玉田里愛四路２２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 85,
+        "shop": "第三十四夜義大利麵店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區新店里孝一路３４巷２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 86,
+        "shop": "晨之坊早餐店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里愛五路８之１號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 87,
+        "shop": "湯城一族火鍋店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區愛二路２７號１樓",
+        "pay_list": [
+            "icash",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 88,
+        "shop": "紅朗自家烘焙咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "基隆市",
+        "area": "仁愛區",
+        "market_address": "基隆市仁愛區和明里仁二路８２號１樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 89,
         "shop": "象屋小吃店",
         "category": [
             "餐飲"
@@ -14,7 +1288,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 90,
         "shop": "老牌排骨店",
         "category": [
             "餐飲"
@@ -28,7 +1302,7 @@
         ]
     },
     {
-        "index": 3,
+        "index": 91,
         "shop": "阿山哥双胞胎",
         "category": [
             "餐飲"
@@ -42,7 +1316,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 92,
         "shop": "舶食小吃店",
         "category": [
             "餐飲"
@@ -56,7 +1330,7 @@
         ]
     },
     {
-        "index": 5,
+        "index": 93,
         "shop": "芝士簡餐咖啡館",
         "category": [
             "餐飲"
@@ -72,7 +1346,7 @@
         ]
     },
     {
-        "index": 6,
+        "index": 94,
         "shop": "秘密花園小吃店",
         "category": [
             "餐飲"
@@ -86,7 +1360,7 @@
         ]
     },
     {
-        "index": 7,
+        "index": 95,
         "shop": "月見小吃店",
         "category": [
             "餐飲"
@@ -100,7 +1374,7 @@
         ]
     },
     {
-        "index": 8,
+        "index": 96,
         "shop": "大陸新小吃店",
         "category": [
             "餐飲"
@@ -114,7 +1388,7 @@
         ]
     },
     {
-        "index": 9,
+        "index": 97,
         "shop": "臭到府麻辣火鍋店",
         "category": [
             "餐飲"
@@ -128,7 +1402,7 @@
         ]
     },
     {
-        "index": 10,
+        "index": 98,
         "shop": "阿信豆漿店",
         "category": [
             "餐飲"
@@ -142,7 +1416,7 @@
         ]
     },
     {
-        "index": 11,
+        "index": 99,
         "shop": "宵麻辣小吃店",
         "category": [
             "餐飲"
@@ -156,7 +1430,7 @@
         ]
     },
     {
-        "index": 12,
+        "index": 100,
         "shop": "狀元紅餐飲企業社",
         "category": [
             "餐飲"
@@ -173,7 +1447,7 @@
         ]
     },
     {
-        "index": 13,
+        "index": 101,
         "shop": "基隆艋舺雞排店",
         "category": [
             "餐飲"
@@ -188,7 +1462,7 @@
         ]
     },
     {
-        "index": 14,
+        "index": 102,
         "shop": "晨之坊早餐店",
         "category": [
             "餐飲"
@@ -206,7 +1480,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 103,
         "shop": "老味坊",
         "category": [
             "餐飲"
@@ -220,7 +1494,7 @@
         ]
     },
     {
-        "index": 16,
+        "index": 104,
         "shop": "三兄弟大腸圈店",
         "category": [
             "餐飲"
@@ -234,7 +1508,7 @@
         ]
     },
     {
-        "index": 17,
+        "index": 105,
         "shop": "佳味肉圓",
         "category": [
             "餐飲"
@@ -248,7 +1522,7 @@
         ]
     },
     {
-        "index": 18,
+        "index": 106,
         "shop": "香川精緻鐵板燒店",
         "category": [
             "餐飲"
@@ -262,7 +1536,7 @@
         ]
     },
     {
-        "index": 19,
+        "index": 107,
         "shop": "丸太小吃店",
         "category": [
             "餐飲"
@@ -278,7 +1552,7 @@
         ]
     },
     {
-        "index": 20,
+        "index": 108,
         "shop": "吉堡早餐店",
         "category": [
             "餐飲"
@@ -292,7 +1566,7 @@
         ]
     },
     {
-        "index": 21,
+        "index": 109,
         "shop": "快樂廚房",
         "category": [
             "餐飲"
@@ -306,7 +1580,7 @@
         ]
     },
     {
-        "index": 22,
+        "index": 110,
         "shop": "三坑高記手工粉圓",
         "category": [
             "餐飲"
@@ -320,7 +1594,7 @@
         ]
     },
     {
-        "index": 23,
+        "index": 111,
         "shop": "堡伯食品商行",
         "category": [
             "餐飲"
@@ -335,7 +1609,7 @@
         ]
     },
     {
-        "index": 24,
+        "index": 112,
         "shop": "林家麵線??",
         "category": [
             "餐飲"
@@ -349,7 +1623,7 @@
         ]
     },
     {
-        "index": 25,
+        "index": 113,
         "shop": "曜威有限公司",
         "category": [
             "餐飲"
@@ -364,7 +1638,7 @@
         ]
     },
     {
-        "index": 26,
+        "index": 114,
         "shop": "曜勝有限公司",
         "category": [
             "餐飲"
@@ -379,7 +1653,7 @@
         ]
     },
     {
-        "index": 27,
+        "index": 115,
         "shop": "昇美早餐屋",
         "category": [
             "餐飲"
@@ -393,7 +1667,7 @@
         ]
     },
     {
-        "index": 28,
+        "index": 116,
         "shop": "群星會小吃店",
         "category": [
             "餐飲"
@@ -407,7 +1681,7 @@
         ]
     },
     {
-        "index": 29,
+        "index": 117,
         "shop": "憶家香速食早餐站前店",
         "category": [
             "餐飲"
@@ -421,7 +1695,7 @@
         ]
     },
     {
-        "index": 30,
+        "index": 118,
         "shop": "真鮮小吃店",
         "category": [
             "餐飲"
@@ -437,7 +1711,7 @@
         ]
     },
     {
-        "index": 31,
+        "index": 119,
         "shop": "軸心冷飲店",
         "category": [
             "餐飲"
@@ -451,7 +1725,7 @@
         ]
     },
     {
-        "index": 32,
+        "index": 120,
         "shop": "寶媽麵飯館",
         "category": [
             "餐飲"
@@ -465,7 +1739,7 @@
         ]
     },
     {
-        "index": 33,
+        "index": 121,
         "shop": "熊本天月居酒屋",
         "category": [
             "餐飲"
@@ -481,7 +1755,7 @@
         ]
     },
     {
-        "index": 34,
+        "index": 122,
         "shop": "快樂城小吃店",
         "category": [
             "餐飲"
@@ -495,7 +1769,7 @@
         ]
     },
     {
-        "index": 35,
+        "index": 123,
         "shop": "醬品鐵板燒店",
         "category": [
             "餐飲"
@@ -509,7 +1783,7 @@
         ]
     },
     {
-        "index": 36,
+        "index": 124,
         "shop": "京都小吃店",
         "category": [
             "餐飲"
@@ -523,7 +1797,7 @@
         ]
     },
     {
-        "index": 37,
+        "index": 125,
         "shop": "麗惠飲食店",
         "category": [
             "餐飲"
@@ -537,7 +1811,7 @@
         ]
     },
     {
-        "index": 38,
+        "index": 126,
         "shop": "一品香餐館",
         "category": [
             "餐飲"
@@ -551,7 +1825,7 @@
         ]
     },
     {
-        "index": 39,
+        "index": 127,
         "shop": "美有計劃咖啡店",
         "category": [
             "餐飲"
@@ -566,7 +1840,7 @@
         ]
     },
     {
-        "index": 40,
+        "index": 128,
         "shop": "圓圓珍珠鮮奶飲料店",
         "category": [
             "餐飲"
@@ -582,7 +1856,7 @@
         ]
     },
     {
-        "index": 41,
+        "index": 129,
         "shop": "青青炸物店",
         "category": [
             "餐飲"
@@ -597,7 +1871,7 @@
         ]
     },
     {
-        "index": 42,
+        "index": 130,
         "shop": "昱昌小吃店",
         "category": [
             "餐飲"
@@ -615,7 +1889,7 @@
         ]
     },
     {
-        "index": 43,
+        "index": 131,
         "shop": "義思海苔飯捲商店",
         "category": [
             "餐飲"
@@ -630,7 +1904,7 @@
         ]
     },
     {
-        "index": 44,
+        "index": 132,
         "shop": "太和日式料理坊",
         "category": [
             "餐飲"
@@ -644,7 +1918,7 @@
         ]
     },
     {
-        "index": 45,
+        "index": 133,
         "shop": "三奇壹號咖啡店",
         "category": [
             "餐飲"
@@ -659,7 +1933,7 @@
         ]
     },
     {
-        "index": 46,
+        "index": 134,
         "shop": "明萩商行",
         "category": [
             "餐飲"
@@ -674,7 +1948,7 @@
         ]
     },
     {
-        "index": 47,
+        "index": 135,
         "shop": "澤井極鍋物",
         "category": [
             "餐飲"
@@ -690,7 +1964,7 @@
         ]
     },
     {
-        "index": 48,
+        "index": 136,
         "shop": "爸哥弟南洋風味食堂",
         "category": [
             "餐飲"
@@ -705,7 +1979,7 @@
         ]
     },
     {
-        "index": 49,
+        "index": 137,
         "shop": "鴨肉松小吃店",
         "category": [
             "餐飲"
@@ -722,7 +1996,7 @@
         ]
     },
     {
-        "index": 50,
+        "index": 138,
         "shop": "海勒牛排館",
         "category": [
             "餐飲"
@@ -736,7 +2010,7 @@
         ]
     },
     {
-        "index": 51,
+        "index": 139,
         "shop": "天然上湯煮火鍋店",
         "category": [
             "餐飲"
@@ -750,7 +2024,7 @@
         ]
     },
     {
-        "index": 52,
+        "index": 140,
         "shop": "月桂食府",
         "category": [
             "餐飲"
@@ -767,7 +2041,7 @@
         ]
     },
     {
-        "index": 53,
+        "index": 141,
         "shop": "一代佳人小吃店",
         "category": [
             "餐飲"
@@ -781,7 +2055,7 @@
         ]
     },
     {
-        "index": 54,
+        "index": 142,
         "shop": "翊馨餐飲店",
         "category": [
             "餐飲"
@@ -795,7 +2069,7 @@
         ]
     },
     {
-        "index": 55,
+        "index": 143,
         "shop": "初春冰室",
         "category": [
             "餐飲"
@@ -809,7 +2083,7 @@
         ]
     },
     {
-        "index": 56,
+        "index": 144,
         "shop": "安樓湧泉商號",
         "category": [
             "餐飲"
@@ -824,7 +2098,7 @@
         ]
     },
     {
-        "index": 57,
+        "index": 145,
         "shop": "小絜魯味店",
         "category": [
             "餐飲"
@@ -838,7 +2112,7 @@
         ]
     },
     {
-        "index": 58,
+        "index": 146,
         "shop": "呷灰鍋火鍋店",
         "category": [
             "餐飲"
@@ -857,7 +2131,7 @@
         ]
     },
     {
-        "index": 59,
+        "index": 147,
         "shop": "多田食堂",
         "category": [
             "餐飲"
@@ -872,7 +2146,7 @@
         ]
     },
     {
-        "index": 60,
+        "index": 148,
         "shop": "樂樂杯冷飲店",
         "category": [
             "餐飲"
@@ -889,7 +2163,7 @@
         ]
     },
     {
-        "index": 61,
+        "index": 149,
         "shop": "轉角遇見咖啡店",
         "category": [
             "餐飲"
@@ -905,7 +2179,7 @@
         ]
     },
     {
-        "index": 62,
+        "index": 150,
         "shop": "找餐人早餐店",
         "category": [
             "餐飲"
@@ -920,7 +2194,7 @@
         ]
     },
     {
-        "index": 63,
+        "index": 151,
         "shop": "月彎彎小吃店",
         "category": [
             "餐飲"
@@ -934,7 +2208,7 @@
         ]
     },
     {
-        "index": 64,
+        "index": 152,
         "shop": "糖門冰舖",
         "category": [
             "餐飲"
@@ -948,7 +2222,7 @@
         ]
     },
     {
-        "index": 65,
+        "index": 153,
         "shop": "翊豐食品行",
         "category": [
             "餐飲"
@@ -964,7 +2238,7 @@
         ]
     },
     {
-        "index": 66,
+        "index": 154,
         "shop": "金水昇小吃店",
         "category": [
             "餐飲"
@@ -978,7 +2252,7 @@
         ]
     },
     {
-        "index": 67,
+        "index": 155,
         "shop": "周港茶飲料店",
         "category": [
             "餐飲"
@@ -994,7 +2268,7 @@
         ]
     },
     {
-        "index": 68,
+        "index": 156,
         "shop": "多思楓商店",
         "category": [
             "餐飲"
@@ -1013,7 +2287,7 @@
         ]
     },
     {
-        "index": 69,
+        "index": 157,
         "shop": "阿華小吃店",
         "category": [
             "餐飲"
@@ -1028,7 +2302,7 @@
         ]
     },
     {
-        "index": 70,
+        "index": 158,
         "shop": "老司奚鳥炸全雞專賣店",
         "category": [
             "餐飲"
@@ -1043,7 +2317,7 @@
         ]
     },
     {
-        "index": 71,
+        "index": 159,
         "shop": "大間餐飲有限公司",
         "category": [
             "餐飲"
@@ -1057,7 +2331,7 @@
         ]
     },
     {
-        "index": 72,
+        "index": 160,
         "shop": "米魯廚房",
         "category": [
             "餐飲"
@@ -1074,7 +2348,7 @@
         ]
     },
     {
-        "index": 73,
+        "index": 161,
         "shop": "御園小吃店",
         "category": [
             "餐飲"
@@ -1088,7 +2362,7 @@
         ]
     },
     {
-        "index": 74,
+        "index": 162,
         "shop": "第三十四夜義大利麵店",
         "category": [
             "餐飲"
@@ -1106,7 +2380,7 @@
         ]
     },
     {
-        "index": 75,
+        "index": 163,
         "shop": "二九來吧創意料理店",
         "category": [
             "餐飲"
@@ -1122,7 +2396,7 @@
         ]
     },
     {
-        "index": 76,
+        "index": 164,
         "shop": "伍三玖小吃店",
         "category": [
             "餐飲"
@@ -1137,7 +2411,7 @@
         ]
     },
     {
-        "index": 77,
+        "index": 165,
         "shop": "燕子食堂",
         "category": [
             "餐飲"
@@ -1151,7 +2425,7 @@
         ]
     },
     {
-        "index": 78,
+        "index": 166,
         "shop": "炸雞師父館",
         "category": [
             "餐飲"
@@ -1167,7 +2441,7 @@
         ]
     },
     {
-        "index": 79,
+        "index": 167,
         "shop": "鑫鑫美食越南料理店",
         "category": [
             "餐飲"
@@ -1183,7 +2457,7 @@
         ]
     },
     {
-        "index": 80,
+        "index": 168,
         "shop": "奧爾斯早餐店",
         "category": [
             "餐飲"
@@ -1199,7 +2473,7 @@
         ]
     },
     {
-        "index": 81,
+        "index": 169,
         "shop": "金恩小吃店",
         "category": [
             "餐飲"
@@ -1214,7 +2488,7 @@
         ]
     },
     {
-        "index": 82,
+        "index": 170,
         "shop": "奕圓小吃店",
         "category": [
             "餐飲"
@@ -1231,7 +2505,7 @@
         ]
     },
     {
-        "index": 83,
+        "index": 171,
         "shop": "愷欣茶飲店",
         "category": [
             "餐飲"
@@ -1248,7 +2522,7 @@
         ]
     },
     {
-        "index": 84,
+        "index": 172,
         "shop": "爭鮮股份有限公司定食基隆二分公司",
         "category": [
             "餐飲"
@@ -1262,7 +2536,7 @@
         ]
     },
     {
-        "index": 85,
+        "index": 173,
         "shop": "福勝亭 基隆店",
         "category": [
             "餐飲"
@@ -1280,7 +2554,7 @@
         ]
     },
     {
-        "index": 86,
+        "index": 174,
         "shop": "勁將讚有限公司",
         "category": [
             "餐飲"
@@ -1299,7 +2573,7 @@
         ]
     },
     {
-        "index": 87,
+        "index": 175,
         "shop": "眉飛色舞小吃店",
         "category": [
             "餐飲"
@@ -1313,7 +2587,7 @@
         ]
     },
     {
-        "index": 88,
+        "index": 176,
         "shop": "頂呱呱國際股份有限公司基隆仁三店",
         "category": [
             "餐飲"
@@ -1330,7 +2604,7 @@
         ]
     },
     {
-        "index": 89,
+        "index": 177,
         "shop": "爭鮮股份有限公司基隆分公司",
         "category": [
             "餐飲"
@@ -1345,7 +2619,7 @@
         ]
     },
     {
-        "index": 90,
+        "index": 178,
         "shop": "小丸子小吃店",
         "category": [
             "餐飲"
@@ -1359,7 +2633,7 @@
         ]
     },
     {
-        "index": 91,
+        "index": 179,
         "shop": "易程貿易有限公司基隆門市",
         "category": [
             "餐飲"
@@ -1375,7 +2649,7 @@
         ]
     },
     {
-        "index": 92,
+        "index": 180,
         "shop": "昱恩國際餐飲有限公司基隆廟口分店",
         "category": [
             "餐飲"
@@ -1390,7 +2664,7 @@
         ]
     },
     {
-        "index": 93,
+        "index": 181,
         "shop": "萬益國際有限公司",
         "category": [
             "餐飲"
@@ -1404,7 +2678,7 @@
         ]
     },
     {
-        "index": 94,
+        "index": 182,
         "shop": "新曙冷飲店",
         "category": [
             "餐飲"
@@ -1418,7 +2692,7 @@
         ]
     },
     {
-        "index": 95,
+        "index": 183,
         "shop": "食運糖水鋪",
         "category": [
             "餐飲"
@@ -1433,7 +2707,7 @@
         ]
     },
     {
-        "index": 96,
+        "index": 184,
         "shop": "醜毛甘蔗堂",
         "category": [
             "餐飲"
@@ -1447,7 +2721,7 @@
         ]
     },
     {
-        "index": 97,
+        "index": 185,
         "shop": "九八巷咖啡館",
         "category": [
             "餐飲"
@@ -1462,7 +2736,7 @@
         ]
     },
     {
-        "index": 98,
+        "index": 186,
         "shop": "八鮮鍋嗨火鍋店",
         "category": [
             "餐飲"
@@ -1477,7 +2751,7 @@
         ]
     },
     {
-        "index": 99,
+        "index": 187,
         "shop": "嗂可司冷飲店",
         "category": [
             "餐飲"
@@ -1491,7 +2765,7 @@
         ]
     },
     {
-        "index": 100,
+        "index": 188,
         "shop": "芙琳卡甜點屋",
         "category": [
             "餐飲"
@@ -1507,7 +2781,7 @@
         ]
     },
     {
-        "index": 101,
+        "index": 189,
         "shop": "野花香小吃店",
         "category": [
             "餐飲"
@@ -1521,7 +2795,7 @@
         ]
     },
     {
-        "index": 102,
+        "index": 190,
         "shop": "三京麥面店",
         "category": [
             "餐飲"
@@ -1536,7 +2810,7 @@
         ]
     },
     {
-        "index": 103,
+        "index": 191,
         "shop": "青森坊",
         "category": [
             "餐飲"
@@ -1550,7 +2824,7 @@
         ]
     },
     {
-        "index": 104,
+        "index": 192,
         "shop": "尹瑅小吃店",
         "category": [
             "餐飲"
@@ -1570,7 +2844,7 @@
         ]
     },
     {
-        "index": 105,
+        "index": 193,
         "shop": "愛三牛排館",
         "category": [
             "餐飲"
@@ -1584,7 +2858,7 @@
         ]
     },
     {
-        "index": 106,
+        "index": 194,
         "shop": "那間日食屋",
         "category": [
             "餐飲"
@@ -1598,7 +2872,7 @@
         ]
     },
     {
-        "index": 107,
+        "index": 195,
         "shop": "春風企業社",
         "category": [
             "餐飲"
@@ -1617,7 +2891,7 @@
         ]
     },
     {
-        "index": 108,
+        "index": 196,
         "shop": "迷鹿了嗎咖啡坊",
         "category": [
             "餐飲"
@@ -1632,7 +2906,7 @@
         ]
     },
     {
-        "index": 109,
+        "index": 197,
         "shop": "饗食雞小吃店",
         "category": [
             "餐飲"
@@ -1646,7 +2920,7 @@
         ]
     },
     {
-        "index": 110,
+        "index": 198,
         "shop": "蔬福素食早餐店",
         "category": [
             "餐飲"
@@ -1660,7 +2934,7 @@
         ]
     },
     {
-        "index": 111,
+        "index": 199,
         "shop": "越南河粉",
         "category": [
             "餐飲",
@@ -1675,7 +2949,7 @@
         ]
     },
     {
-        "index": 112,
+        "index": 200,
         "shop": "海洋薇琪",
         "category": [
             "餐飲"
@@ -1689,7 +2963,7 @@
         ]
     },
     {
-        "index": 113,
+        "index": 201,
         "shop": "三姐妹餐飲店",
         "category": [
             "餐飲"
@@ -1703,7 +2977,7 @@
         ]
     },
     {
-        "index": 114,
+        "index": 202,
         "shop": "頂呱呱國際股份有限公司基隆分公司",
         "category": [
             "餐飲"
@@ -1720,7 +2994,7 @@
         ]
     },
     {
-        "index": 115,
+        "index": 203,
         "shop": "麥當勞基隆愛三路分公司",
         "category": [
             "餐飲"
@@ -1735,7 +3009,7 @@
         ]
     },
     {
-        "index": 116,
+        "index": 204,
         "shop": "小三視聽歌唱行",
         "category": [
             "餐飲"
@@ -1749,7 +3023,7 @@
         ]
     },
     {
-        "index": 117,
+        "index": 205,
         "shop": "奈克司企業社",
         "category": [
             "餐飲"
@@ -1763,7 +3037,7 @@
         ]
     },
     {
-        "index": 118,
+        "index": 206,
         "shop": "恬恬商號",
         "category": [
             "餐飲"
@@ -1777,7 +3051,7 @@
         ]
     },
     {
-        "index": 119,
+        "index": 207,
         "shop": "基隆貓腳印企業社",
         "category": [
             "餐飲"
@@ -1792,7 +3066,7 @@
         ]
     },
     {
-        "index": 120,
+        "index": 208,
         "shop": "愛琴海小吃店",
         "category": [
             "餐飲"
@@ -1806,7 +3080,7 @@
         ]
     },
     {
-        "index": 121,
+        "index": 209,
         "shop": "蒙古養生食堂",
         "category": [
             "餐飲"
@@ -1821,7 +3095,7 @@
         ]
     },
     {
-        "index": 122,
+        "index": 210,
         "shop": "築間幸福鍋物 基隆南榮店",
         "category": [
             "餐飲"
@@ -1837,7 +3111,7 @@
         ]
     },
     {
-        "index": 123,
+        "index": 211,
         "shop": "大眾滷味店",
         "category": [
             "餐飲"
@@ -1854,7 +3128,7 @@
         ]
     },
     {
-        "index": 124,
+        "index": 212,
         "shop": "滿滿日式炭火燒肉坊",
         "category": [
             "餐飲"
@@ -1868,7 +3142,7 @@
         ]
     },
     {
-        "index": 125,
+        "index": 213,
         "shop": "金承達有限公司",
         "category": [
             "餐飲"
@@ -1885,7 +3159,7 @@
         ]
     },
     {
-        "index": 126,
+        "index": 214,
         "shop": "眉角國際有限公司",
         "category": [
             "餐飲"
@@ -1901,7 +3175,7 @@
         ]
     },
     {
-        "index": 127,
+        "index": 215,
         "shop": "均翊有限公司",
         "category": [
             "餐飲"
@@ -1915,7 +3189,7 @@
         ]
     },
     {
-        "index": 128,
+        "index": 216,
         "shop": "永群餐飲企業有限公司",
         "category": [
             "餐飲"
@@ -1929,7 +3203,7 @@
         ]
     },
     {
-        "index": 129,
+        "index": 217,
         "shop": "神樂岡旭川拉麵有限公司",
         "category": [
             "餐飲"
@@ -1947,7 +3221,7 @@
         ]
     },
     {
-        "index": 130,
+        "index": 218,
         "shop": "雨港有魚餐飲商舖",
         "category": [
             "餐飲"
@@ -1962,7 +3236,7 @@
         ]
     },
     {
-        "index": 131,
+        "index": 219,
         "shop": "合樂咖啡坊",
         "category": [
             "餐飲"
@@ -1976,7 +3250,7 @@
         ]
     },
     {
-        "index": 132,
+        "index": 220,
         "shop": "希牛商行",
         "category": [
             "餐飲"
@@ -1992,7 +3266,7 @@
         ]
     },
     {
-        "index": 133,
+        "index": 221,
         "shop": "輕鬆宴餐廳",
         "category": [
             "餐飲"
@@ -2006,7 +3280,7 @@
         ]
     },
     {
-        "index": 134,
+        "index": 222,
         "shop": "金華園餐廳",
         "category": [
             "餐飲"
@@ -2020,7 +3294,7 @@
         ]
     },
     {
-        "index": 135,
+        "index": 223,
         "shop": "漁師父食品有限公司",
         "category": [
             "餐飲"
@@ -2034,7 +3308,7 @@
         ]
     },
     {
-        "index": 136,
+        "index": 224,
         "shop": "安心食品服務股份有限公司基隆站前門市部",
         "category": [
             "餐飲"
@@ -2048,7 +3322,7 @@
         ]
     },
     {
-        "index": 137,
+        "index": 225,
         "shop": "健安雞肉飯",
         "category": [
             "餐飲"
@@ -2064,7 +3338,7 @@
         ]
     },
     {
-        "index": 138,
+        "index": 226,
         "shop": "鬆餅王子餐館",
         "category": [
             "餐飲"
@@ -2083,7 +3357,7 @@
         ]
     },
     {
-        "index": 139,
+        "index": 227,
         "shop": "呷尚寶西式早餐",
         "category": [
             "餐飲"
@@ -2097,7 +3371,7 @@
         ]
     },
     {
-        "index": 140,
+        "index": 228,
         "shop": "奕澤鹹粥店",
         "category": [
             "餐飲"
@@ -2111,7 +3385,7 @@
         ]
     },
     {
-        "index": 141,
+        "index": 229,
         "shop": "紘麒小吃店",
         "category": [
             "餐飲"
@@ -2125,7 +3399,7 @@
         ]
     },
     {
-        "index": 142,
+        "index": 230,
         "shop": "賴家遠東水煎包",
         "category": [
             "餐飲"
@@ -2139,7 +3413,7 @@
         ]
     },
     {
-        "index": 143,
+        "index": 231,
         "shop": "龍記健康素食",
         "category": [
             "餐飲"
@@ -2154,7 +3428,7 @@
         ]
     },
     {
-        "index": 144,
+        "index": 232,
         "shop": "罌粟花小吃店",
         "category": [
             "餐飲"
@@ -2169,7 +3443,7 @@
         ]
     },
     {
-        "index": 145,
+        "index": 233,
         "shop": "海因絲咖啡烘焙坊",
         "category": [
             "餐飲"
@@ -2183,7 +3457,7 @@
         ]
     },
     {
-        "index": 146,
+        "index": 234,
         "shop": "晨揚小吃店",
         "category": [
             "餐飲"
@@ -2197,7 +3471,7 @@
         ]
     },
     {
-        "index": 147,
+        "index": 235,
         "shop": "佛心素食",
         "category": [
             "餐飲",
@@ -2212,7 +3486,7 @@
         ]
     },
     {
-        "index": 148,
+        "index": 236,
         "shop": "窩心小吃店",
         "category": [
             "餐飲"
@@ -2226,7 +3500,7 @@
         ]
     },
     {
-        "index": 149,
+        "index": 237,
         "shop": "哈姆堡早餐店",
         "category": [
             "餐飲"
@@ -2241,7 +3515,7 @@
         ]
     },
     {
-        "index": 150,
+        "index": 238,
         "shop": "郭記酸辣粉店",
         "category": [
             "餐飲"
@@ -2255,7 +3529,7 @@
         ]
     },
     {
-        "index": 151,
+        "index": 239,
         "shop": "芭比娃娃小吃店",
         "category": [
             "餐飲"
@@ -2269,7 +3543,7 @@
         ]
     },
     {
-        "index": 152,
+        "index": 240,
         "shop": "素慈健康素食",
         "category": [
             "餐飲"
@@ -2284,7 +3558,7 @@
         ]
     },
     {
-        "index": 153,
+        "index": 241,
         "shop": "華星小吃店",
         "category": [
             "餐飲"
@@ -2299,7 +3573,7 @@
         ]
     },
     {
-        "index": 154,
+        "index": 242,
         "shop": "乙樂股份有限公司",
         "category": [
             "餐飲"
@@ -2313,7 +3587,7 @@
         ]
     },
     {
-        "index": 155,
+        "index": 243,
         "shop": "樓垂涎餐飲股份有限公司",
         "category": [
             "餐飲"
@@ -2328,7 +3602,7 @@
         ]
     },
     {
-        "index": 156,
+        "index": 244,
         "shop": "思維麵食館",
         "category": [
             "餐飲"
@@ -2343,7 +3617,7 @@
         ]
     },
     {
-        "index": 157,
+        "index": 245,
         "shop": "崇盛小吃店",
         "category": [
             "餐飲"
@@ -2357,7 +3631,7 @@
         ]
     },
     {
-        "index": 158,
+        "index": 246,
         "shop": "漾漾好食餐廳",
         "category": [
             "餐飲"
@@ -2375,7 +3649,7 @@
         ]
     },
     {
-        "index": 159,
+        "index": 247,
         "shop": "夢想窩咖啡館",
         "category": [
             "餐飲"
@@ -2391,7 +3665,7 @@
         ]
     },
     {
-        "index": 160,
+        "index": 248,
         "shop": "小姑娘小吃店",
         "category": [
             "餐飲"
@@ -2405,7 +3679,7 @@
         ]
     },
     {
-        "index": 161,
+        "index": 249,
         "shop": "福記蔬菜羊肉小舖",
         "category": [
             "餐飲"
@@ -2419,7 +3693,7 @@
         ]
     },
     {
-        "index": 162,
+        "index": 250,
         "shop": "中船牛肉麵店",
         "category": [
             "餐飲"
@@ -2434,7 +3708,7 @@
         ]
     },
     {
-        "index": 163,
+        "index": 251,
         "shop": "呷蝶飲料專賣店",
         "category": [
             "餐飲"
@@ -2453,7 +3727,7 @@
         ]
     },
     {
-        "index": 164,
+        "index": 252,
         "shop": "祥龍小吃店",
         "category": [
             "餐飲"
@@ -2467,7 +3741,7 @@
         ]
     },
     {
-        "index": 165,
+        "index": 253,
         "shop": "越美小吃店",
         "category": [
             "餐飲"
@@ -2481,7 +3755,7 @@
         ]
     },
     {
-        "index": 166,
+        "index": 254,
         "shop": "天使之翼小吃店",
         "category": [
             "餐飲"
@@ -2495,7 +3769,7 @@
         ]
     },
     {
-        "index": 167,
+        "index": 255,
         "shop": "晨耕食品行",
         "category": [
             "餐飲"
@@ -2509,7 +3783,7 @@
         ]
     },
     {
-        "index": 168,
+        "index": 256,
         "shop": "丸角自轉生活咖啡",
         "category": [
             "餐飲"
@@ -2525,7 +3799,7 @@
         ]
     },
     {
-        "index": 169,
+        "index": 257,
         "shop": "金金商務旅館",
         "category": [
             "餐飲"
@@ -2539,7 +3813,7 @@
         ]
     },
     {
-        "index": 170,
+        "index": 258,
         "shop": "嗎哪食品行",
         "category": [
             "餐飲"
@@ -2553,7 +3827,7 @@
         ]
     },
     {
-        "index": 171,
+        "index": 259,
         "shop": "柒零冷飲店",
         "category": [
             "餐飲"
@@ -2567,7 +3841,7 @@
         ]
     },
     {
-        "index": 172,
+        "index": 260,
         "shop": "嘉德堡股份有限公司",
         "category": [
             "餐飲"
@@ -2582,7 +3856,7 @@
         ]
     },
     {
-        "index": 173,
+        "index": 261,
         "shop": "迪富迪股份有限公司",
         "category": [
             "餐飲"
@@ -2596,7 +3870,7 @@
         ]
     },
     {
-        "index": 174,
+        "index": 262,
         "shop": "穩隆企業股份有限公司",
         "category": [
             "餐飲"
@@ -2611,7 +3885,7 @@
         ]
     },
     {
-        "index": 175,
+        "index": 263,
         "shop": "邦彼諾有限公司",
         "category": [
             "餐飲"
@@ -2629,7 +3903,7 @@
         ]
     },
     {
-        "index": 176,
+        "index": 264,
         "shop": "品舜商行",
         "category": [
             "餐飲"
@@ -2648,7 +3922,7 @@
         ]
     },
     {
-        "index": 177,
+        "index": 265,
         "shop": "金莎灣視聽歌唱行",
         "category": [
             "餐飲"
@@ -2662,7 +3936,7 @@
         ]
     },
     {
-        "index": 178,
+        "index": 266,
         "shop": "華帥海景飯店",
         "category": [
             "餐飲"
@@ -2676,7 +3950,7 @@
         ]
     },
     {
-        "index": 179,
+        "index": 267,
         "shop": "嘉穗創意食品股份有限公司基隆分公司",
         "category": [
             "餐飲"
@@ -2692,7 +3966,7 @@
         ]
     },
     {
-        "index": 180,
+        "index": 268,
         "shop": "新東陽股份有限公司基隆分公司",
         "category": [
             "餐飲"
@@ -2706,7 +3980,7 @@
         ]
     },
     {
-        "index": 181,
+        "index": 269,
         "shop": "早安巴黎早餐店",
         "category": [
             "餐飲"
@@ -2720,7 +3994,7 @@
         ]
     },
     {
-        "index": 182,
+        "index": 270,
         "shop": "昇美早餐屋",
         "category": [
             "餐飲"
@@ -2734,7 +4008,7 @@
         ]
     },
     {
-        "index": 183,
+        "index": 271,
         "shop": "哥倫布冷飲店",
         "category": [
             "餐飲"
@@ -2748,7 +4022,7 @@
         ]
     },
     {
-        "index": 184,
+        "index": 272,
         "shop": "合眾小吃店",
         "category": [
             "餐飲"
@@ -2762,7 +4036,7 @@
         ]
     },
     {
-        "index": 185,
+        "index": 273,
         "shop": "狸小路燒肉館",
         "category": [
             "餐飲"
@@ -2780,7 +4054,7 @@
         ]
     },
     {
-        "index": 186,
+        "index": 274,
         "shop": "屹申號",
         "category": [
             "餐飲"
@@ -2799,7 +4073,7 @@
         ]
     },
     {
-        "index": 187,
+        "index": 275,
         "shop": "一燔小吃店",
         "category": [
             "餐飲"
@@ -2813,7 +4087,7 @@
         ]
     },
     {
-        "index": 188,
+        "index": 276,
         "shop": "福欣行",
         "category": [
             "餐飲"
@@ -2828,7 +4102,7 @@
         ]
     },
     {
-        "index": 189,
+        "index": 277,
         "shop": "隨緣居料理店",
         "category": [
             "餐飲"
@@ -2844,7 +4118,7 @@
         ]
     },
     {
-        "index": 190,
+        "index": 278,
         "shop": "老么鍋燒麵",
         "category": [
             "餐飲"
@@ -2858,7 +4132,7 @@
         ]
     },
     {
-        "index": 191,
+        "index": 279,
         "shop": "花珈琲雜貨舖",
         "category": [
             "餐飲"
@@ -2872,7 +4146,7 @@
         ]
     },
     {
-        "index": 192,
+        "index": 280,
         "shop": "大豬滷味店",
         "category": [
             "餐飲"
@@ -2886,7 +4160,7 @@
         ]
     },
     {
-        "index": 193,
+        "index": 281,
         "shop": "名亨餐飲店",
         "category": [
             "餐飲"
@@ -2901,7 +4175,7 @@
         ]
     },
     {
-        "index": 194,
+        "index": 282,
         "shop": "蔡多多小吃店",
         "category": [
             "餐飲"
@@ -2915,7 +4189,7 @@
         ]
     },
     {
-        "index": 195,
+        "index": 283,
         "shop": "刈堡食堂",
         "category": [
             "餐飲"
@@ -2929,7 +4203,7 @@
         ]
     },
     {
-        "index": 196,
+        "index": 284,
         "shop": "品味咖啡店",
         "category": [
             "餐飲"
@@ -2945,7 +4219,7 @@
         ]
     },
     {
-        "index": 197,
+        "index": 285,
         "shop": "白勺鍋燒烏龍店",
         "category": [
             "餐飲"
@@ -2960,7 +4234,7 @@
         ]
     },
     {
-        "index": 198,
+        "index": 286,
         "shop": "鑫水灣小吃店",
         "category": [
             "餐飲"
@@ -2974,7 +4248,7 @@
         ]
     },
     {
-        "index": 199,
+        "index": 287,
         "shop": "巷弄火鍋店",
         "category": [
             "餐飲"
@@ -2988,7 +4262,7 @@
         ]
     },
     {
-        "index": 200,
+        "index": 288,
         "shop": "微醺串燒站",
         "category": [
             "餐飲"
@@ -3006,7 +4280,7 @@
         ]
     },
     {
-        "index": 201,
+        "index": 289,
         "shop": "拾貳盎司咖啡館",
         "category": [
             "餐飲"
@@ -3022,7 +4296,7 @@
         ]
     },
     {
-        "index": 202,
+        "index": 290,
         "shop": "東欣小吃店",
         "category": [
             "餐飲"
@@ -3036,7 +4310,7 @@
         ]
     },
     {
-        "index": 203,
+        "index": 291,
         "shop": "基婆舒食小吃",
         "category": [
             "餐飲"
@@ -3051,7 +4325,7 @@
         ]
     },
     {
-        "index": 204,
+        "index": 292,
         "shop": "好運殿日式炸物專賣店",
         "category": [
             "餐飲"
@@ -3065,7 +4339,7 @@
         ]
     },
     {
-        "index": 205,
+        "index": 293,
         "shop": "富鄰複合式餐坊",
         "category": [
             "餐飲"
@@ -3080,7 +4354,7 @@
         ]
     },
     {
-        "index": 206,
+        "index": 294,
         "shop": "二豐堂冷飲店",
         "category": [
             "餐飲"
@@ -3097,7 +4371,7 @@
         ]
     },
     {
-        "index": 207,
+        "index": 295,
         "shop": "十二橋麵食館",
         "category": [
             "餐飲"
@@ -3111,7 +4385,7 @@
         ]
     },
     {
-        "index": 208,
+        "index": 296,
         "shop": "大富貴小吃店",
         "category": [
             "餐飲"
@@ -3125,7 +4399,7 @@
         ]
     },
     {
-        "index": 209,
+        "index": 297,
         "shop": "日町飲食店",
         "category": [
             "餐飲"
@@ -3139,7 +4413,7 @@
         ]
     },
     {
-        "index": 210,
+        "index": 298,
         "shop": "逸品快餐店",
         "category": [
             "餐飲"
@@ -3153,7 +4427,7 @@
         ]
     },
     {
-        "index": 211,
+        "index": 299,
         "shop": "佶林企業行",
         "category": [
             "餐飲"
@@ -3167,7 +4441,7 @@
         ]
     },
     {
-        "index": 212,
+        "index": 300,
         "shop": "美人魚小吃店",
         "category": [
             "餐飲"
@@ -3181,7 +4455,7 @@
         ]
     },
     {
-        "index": 213,
+        "index": 301,
         "shop": "初沐咖啡專賣店",
         "category": [
             "餐飲"
@@ -3199,7 +4473,7 @@
         ]
     },
     {
-        "index": 214,
+        "index": 302,
         "shop": "九四咖啡專賣店",
         "category": [
             "餐飲"
@@ -3215,7 +4489,7 @@
         ]
     },
     {
-        "index": 215,
+        "index": 303,
         "shop": "群豐美味小吃店",
         "category": [
             "餐飲"
@@ -3230,7 +4504,7 @@
         ]
     },
     {
-        "index": 216,
+        "index": 304,
         "shop": "女人花小吃店",
         "category": [
             "餐飲"
@@ -3244,7 +4518,7 @@
         ]
     },
     {
-        "index": 217,
+        "index": 305,
         "shop": "啡髮美容院",
         "category": [
             "餐飲"
@@ -3259,7 +4533,7 @@
         ]
     },
     {
-        "index": 218,
+        "index": 306,
         "shop": "空白服飾店",
         "category": [
             "餐飲"
@@ -3274,7 +4548,7 @@
         ]
     },
     {
-        "index": 219,
+        "index": 307,
         "shop": "艾迪洋行",
         "category": [
             "餐飲"
@@ -3288,7 +4562,7 @@
         ]
     },
     {
-        "index": 220,
+        "index": 308,
         "shop": "胖哥倆串燒店",
         "category": [
             "餐飲"
@@ -3303,7 +4577,7 @@
         ]
     },
     {
-        "index": 221,
+        "index": 309,
         "shop": "御品鮮餐飲店",
         "category": [
             "餐飲"
@@ -3317,7 +4591,7 @@
         ]
     },
     {
-        "index": 222,
+        "index": 310,
         "shop": "采裕企業社",
         "category": [
             "餐飲"
@@ -3331,7 +4605,7 @@
         ]
     },
     {
-        "index": 223,
+        "index": 311,
         "shop": "優優飲品屋",
         "category": [
             "餐飲"
@@ -3349,7 +4623,7 @@
         ]
     },
     {
-        "index": 224,
+        "index": 312,
         "shop": "金磚商行",
         "category": [
             "餐飲"
@@ -3366,7 +4640,7 @@
         ]
     },
     {
-        "index": 225,
+        "index": 313,
         "shop": "均典牛排館",
         "category": [
             "餐飲"
@@ -3380,7 +4654,7 @@
         ]
     },
     {
-        "index": 226,
+        "index": 314,
         "shop": "天元企業社",
         "category": [
             "餐飲"
@@ -3398,7 +4672,7 @@
         ]
     },
     {
-        "index": 227,
+        "index": 315,
         "shop": "興發冷飲站",
         "category": [
             "餐飲"
@@ -3416,7 +4690,7 @@
         ]
     },
     {
-        "index": 228,
+        "index": 316,
         "shop": "樂香冷飲站",
         "category": [
             "餐飲"
@@ -3436,7 +4710,7 @@
         ]
     },
     {
-        "index": 229,
+        "index": 317,
         "shop": "箏壽司",
         "category": [
             "餐飲"
@@ -3450,7 +4724,7 @@
         ]
     },
     {
-        "index": 230,
+        "index": 318,
         "shop": "摩斯漢堡 基隆仁二店",
         "category": [
             "餐飲"
@@ -3464,7 +4738,7 @@
         ]
     },
     {
-        "index": 231,
+        "index": 319,
         "shop": "拿坡里 基隆店",
         "category": [
             "餐飲"
@@ -3482,7 +4756,7 @@
         ]
     },
     {
-        "index": 232,
+        "index": 320,
         "shop": "尼爾先生熱狗堡專賣店",
         "category": [
             "餐飲"
@@ -3498,7 +4772,7 @@
         ]
     },
     {
-        "index": 233,
+        "index": 321,
         "shop": "蓁緗咖啡館",
         "category": [
             "餐飲"
@@ -3512,7 +4786,7 @@
         ]
     },
     {
-        "index": 234,
+        "index": 322,
         "shop": "銘傳川壽司小吃店",
         "category": [
             "餐飲"
@@ -3531,7 +4805,7 @@
         ]
     },
     {
-        "index": 235,
+        "index": 323,
         "shop": "永傳燒臘店",
         "category": [
             "餐飲"
@@ -3545,7 +4819,7 @@
         ]
     },
     {
-        "index": 236,
+        "index": 324,
         "shop": "肯德基KFC-基隆忠二店",
         "category": [
             "餐飲"
@@ -3559,7 +4833,7 @@
         ]
     },
     {
-        "index": 237,
+        "index": 325,
         "shop": "肯德基KFC-基隆忠二一店",
         "category": [
             "餐飲"
@@ -3573,7 +4847,7 @@
         ]
     },
     {
-        "index": 238,
+        "index": 326,
         "shop": "PIZZA HUT必勝客-基隆店",
         "category": [
             "餐飲"
@@ -3587,7 +4861,7 @@
         ]
     },
     {
-        "index": 239,
+        "index": 327,
         "shop": "肯德基KFC-基隆仁一店",
         "category": [
             "餐飲"
