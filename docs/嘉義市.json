@@ -905,6 +905,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "旺萊山(圓環分店)",
+                "category": "糕餅",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里中山路282號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44981,
+                    23.480129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "裕展烘焙坊",
                 "category": "糕餅",
                 "area": "東區",
@@ -1483,7 +1500,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "飲亨商行",
+                "shop": "TEA TOP 第一味 嘉義後庄店(飲亨商行)",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區興仁里吳鳳南路５７５之３號１樓",
@@ -2752,23 +2769,6 @@
                 "coordinates": [
                     120.45937,
                     23.477319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "聚茶會本鋪",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中央里文化路１９２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44959,
-                    23.48034
                 ]
             }
         },
@@ -5359,7 +5359,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "飲亨商行",
+                "shop": "TEA TOP 第一味 嘉義後庄店(飲亨商行)",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區興仁里吳鳳南路５７５之３號１樓",
@@ -8589,7 +8589,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "聚茶會本鋪",
+                "shop": "茶湯會 嘉義文化店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區中央里文化路１９２號１樓",
@@ -13264,23 +13264,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "玉璽茶行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區導明里民生南路２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44673,
-                    23.47334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "緣圻冷飲",
                 "category": "餐飲",
                 "area": "西區",
@@ -16511,7 +16494,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "玉璽茶行",
+                "shop": "茶湯會 嘉義民生南店",
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "嘉義市西區導明里民生南路２號１樓",
@@ -21101,7 +21084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "巧芳茶舖",
+                "shop": "茶湯會 嘉義仁愛店",
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "嘉義市西區垂楊里仁愛路２３９號",

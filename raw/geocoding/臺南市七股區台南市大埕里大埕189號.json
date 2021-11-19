@@ -1,0 +1,80 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市七股區臺南市大埕里大埕189號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "3",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:-1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (七股區)\t找到符合的[鄉鎮市區]，(臺南市大埕里大埕)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(189號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 3 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "臺南市七股區大埕里1鄰大埕189號",
+      "COUNTY": "臺南市",
+      "TOWN": "七股區",
+      "VILLAGE": "大埕里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "大埕",
+      "NUMBER": "189號",
+      "X": 120.145405,
+      "Y": 23.146321
+    },
+    {
+      "FULL_ADDR": "臺南市七股區龍山里9鄰龍山189號",
+      "COUNTY": "臺南市",
+      "TOWN": "七股區",
+      "VILLAGE": "龍山里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "龍山",
+      "NUMBER": "189號",
+      "X": 120.111881,
+      "Y": 23.138559
+    },
+    {
+      "FULL_ADDR": "臺南市七股區塩埕里2鄰塩埕189號",
+      "COUNTY": "臺南市",
+      "TOWN": "七股區",
+      "VILLAGE": "塩埕里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "塩埕",
+      "NUMBER": "189號",
+      "X": 120.089099,
+      "Y": 23.150870
+    }
+  ]
+}

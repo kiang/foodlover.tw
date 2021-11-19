@@ -21,6 +21,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "和明織品文化館",
+                "category": "觀光工廠",
+                "area": "七股區",
+                "market_address": "台南市七股區大埕里大埕189號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.145405,
+                    23.146321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "琦程實業有限公司",
                 "category": "餐飲",
                 "area": "七股區",
@@ -24943,23 +24960,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安峻商行",
-                "category": "餐飲",
-                "area": "佳里區",
-                "market_address": "臺南市佳里區東寧里新生路１０８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.178489,
-                    23.16081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "佳利商行",
                 "category": "餐飲",
                 "area": "佳里區",
@@ -26643,7 +26643,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安峻商行",
+                "shop": "茶湯會 台南佳里店",
                 "category": "餐飲",
                 "area": "佳里區",
                 "market_address": "臺南市佳里區東寧里新生路１０８號１樓",
@@ -29901,23 +29901,6 @@
                 "coordinates": [
                     120.20572,
                     23.005261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂源茶行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區立人里成功路３８４號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.199929,
-                    23.000305
                 ]
             }
         },
@@ -37132,7 +37115,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂源茶行",
+                "shop": "茶湯會 台南成功店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區立人里成功路３８４號１樓",
@@ -44476,23 +44459,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "上真茶行",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區東關里中山路４４７號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.290097,
-                    23.132328
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樂澄茶行",
                 "category": "餐飲",
                 "area": "善化區",
@@ -46040,7 +46006,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "上真茶行",
+                "shop": "茶湯會 台南善化店",
                 "category": "餐飲",
                 "area": "善化區",
                 "market_address": "臺南市善化區東關里中山路４４７號",
@@ -50290,23 +50256,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "仲毅茶行",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區海佃里海佃路１段１８７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.191378,
-                    23.024076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茗園冷飲店",
                 "category": "餐飲",
                 "area": "安南區",
@@ -54115,7 +54064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "仲毅茶行",
+                "shop": "茶湯會 台南海佃店",
                 "category": "餐飲",
                 "area": "安南區",
                 "market_address": "臺南市安南區海佃里海佃路１段１８７號１樓",
@@ -56472,23 +56421,6 @@
                 "coordinates": [
                     120.165519,
                     22.987154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鼎豐冷飲店",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區華平里華平路６０５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.175638,
-                    22.996009
                 ]
             }
         },
@@ -61731,7 +61663,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鼎豐冷飲店",
+                "shop": "茶湯會 台南華平店",
                 "category": "餐飲",
                 "area": "安平區",
                 "market_address": "臺南市安平區華平里華平路６０５號１樓",
@@ -63040,23 +62972,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "伯勝有限公司",
-                "category": "餐飲",
-                "area": "新化區",
-                "market_address": "臺南市新化區東榮里中正路３５２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.308381,
-                    23.034901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小森活餐飲",
                 "category": "餐飲",
                 "area": "新化區",
@@ -63533,7 +63448,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "伯勝有限公司",
+                "shop": "茶湯會 台南新化中正店",
                 "category": "餐飲",
                 "area": "新化區",
                 "market_address": "臺南市新化區東榮里中正路３５２號１樓",
@@ -64292,23 +64207,6 @@
                 "coordinates": [
                     120.293218,
                     23.083145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "聚品茗有限公司",
-                "category": "餐飲",
-                "area": "新市區",
-                "market_address": "臺南市新市區新市里仁愛街３００號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.293875,
-                    23.077152
                 ]
             }
         },
@@ -66100,7 +65998,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "聚品茗有限公司",
+                "shop": "茶湯會 台南新市店",
                 "category": "餐飲",
                 "area": "新市區",
                 "market_address": "臺南市新市區新市里仁愛街３００號",
@@ -75620,23 +75518,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "茗泉茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區大學里長榮路３段３２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.221765,
-                    22.992906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "麥面拉麵",
                 "category": "餐飲",
                 "area": "東區",
@@ -78629,23 +78510,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永淳茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區路東里大同路２段５３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.212958,
-                    22.979799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "約客咖啡店",
                 "category": "餐飲",
                 "area": "東區",
@@ -80737,7 +80601,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永淳茶行",
+                "shop": "茶湯會 台南大同店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區路東里大同路２段５３號１樓",
@@ -80924,7 +80788,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "茗泉茶行",
+                "shop": "茶湯會 台南長榮店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區大學里長榮路３段３２號１樓",
@@ -92297,23 +92161,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "玖壹茶行",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區後市里中山路二段１２１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291497,
-                    22.966913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "恆廣飲品實業社",
                 "category": "餐飲",
                 "area": "歸仁區",
@@ -93368,7 +93215,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "玖壹茶行",
+                "shop": "茶湯會 歸仁中山店",
                 "category": "餐飲",
                 "area": "歸仁區",
                 "market_address": "臺南市歸仁區後市里中山路二段１２１號１樓",
@@ -95017,23 +94864,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "民美茶行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區永康里０２６鄰永明街５１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.259629,
-                    23.025648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樂饕居享食生活館",
                 "category": "餐飲",
                 "area": "永康區",
@@ -95147,23 +94977,6 @@
                 "coordinates": [
                     120.23682583394,
                     23.040780412989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "得川商行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區崑山里０３１鄰大灣路７９９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.256513,
-                    22.999618
                 ]
             }
         },
@@ -96694,23 +96507,6 @@
                 "coordinates": [
                     120.232159,
                     23.02239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "古月茶行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區六合里中華路５３９號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2311,
-                    23.012637
                 ]
             }
         },
@@ -103075,7 +102871,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "得川商行",
+                "shop": "茶湯會 永康大灣店",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區崑山里０３１鄰大灣路７９９號",
@@ -103857,7 +103653,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "民美茶行",
+                "shop": "茶湯會 永康永明店",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區永康里０２６鄰永明街５１號１樓",
@@ -106866,7 +106662,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "古月茶行",
+                "shop": "茶湯會 永康中華店",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區六合里中華路５３９號１樓",
