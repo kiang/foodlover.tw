@@ -2775,6 +2775,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "聚茶會本鋪",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里文化路１９２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44959,
+                    23.48034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "美好咖啡",
                 "category": "餐飲",
                 "area": "東區",
@@ -11377,6 +11394,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漢堡王 嘉義店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區中山路421.423號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439715,
+                    23.475501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "一茶工房 嘉義店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區垂楊里垂楊路５６３號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44069,
+                    23.472799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "薯職人",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區車店里青年街１５號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43765,
+                    23.4689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "先味鮮小吃店",
                 "category": "餐飲",
                 "area": "西區",
@@ -13264,6 +13332,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "玉璽茶行",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區導明里民生南路２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44673,
+                    23.47334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "緣圻冷飲",
                 "category": "餐飲",
                 "area": "西區",
@@ -13995,6 +14080,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶磚飲料店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區書院里新榮路１１５號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44441,
+                    23.47588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "羽麻糬紅茶冰",
                 "category": "餐飲",
                 "area": "西區",
@@ -14390,7 +14492,7 @@
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "嘉義市西區劉厝里博愛路２段８６４號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

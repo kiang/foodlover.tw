@@ -888,6 +888,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "台東縣農會東遊季溫泉渡假村",
+                "category": "餐飲",
+                "area": "卑南鄉",
+                "market_address": "臺東縣卑南鄉溫泉村溫泉路３７６巷１８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022182,
+                    22.696991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "台東優質羊肉爐",
                 "category": "餐飲",
                 "area": "大武鄉",
@@ -8015,7 +8032,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市中正里中華路一段３５０號一樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11343,7 +11360,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司台東新生門市部",
+                "shop": "摩斯漢堡台東新生門市部",
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市文化里新生路１５９號",
@@ -13077,7 +13094,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司台東新生二門市部",
+                "shop": "摩斯漢堡台東新生二門市部",
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市文化里新生路１４１．１４３號",
@@ -17280,7 +17297,7 @@
                 "category": "餐飲",
                 "area": "關山鎮",
                 "market_address": "臺東縣關山鎮德高里００５鄰永豐路４８號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -17331,7 +17348,7 @@
                 "category": "餐飲",
                 "area": "關山鎮",
                 "market_address": "臺東縣關山鎮德高里００５鄰永豐路４８號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

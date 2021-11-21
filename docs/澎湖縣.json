@@ -144,7 +144,7 @@
                 "category": "餐飲",
                 "area": "湖西鄉",
                 "market_address": "澎湖縣湖西鄉隘門村１２６－５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -905,6 +905,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Pier3 三號港",
+                "category": "百貨美食街",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市光復里同和路158號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.572237,
+                    23.567111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "菁豪手作烘培坊",
                 "category": "糕餅",
                 "area": "馬公市",
@@ -1228,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "萬波島嶼紅茶澎湖門市",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市中興路67號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.564893,
+                    23.567056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "仙人掌冰城",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -1521,7 +1555,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市中央里仁愛路７７號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2762,7 +2796,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市同和路168號",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2779,7 +2813,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市光復里同和路158號",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",

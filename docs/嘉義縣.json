@@ -1976,6 +1976,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "勇伯地瓜酥",
+                "category": "糕餅",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市後庄里後庄１０－６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329311,
+                    23.468444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "兆富商行",
                 "category": "餐飲\/糕餅",
                 "area": "太保市",
@@ -4469,6 +4486,23 @@
                 "coordinates": [
                     120.288776,
                     23.455133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "祥美冷飲店",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市大葛里朴子七路２２６號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285567,
+                    23.460764
                 ]
             }
         },
@@ -6978,7 +7012,7 @@
                 "category": "餐飲",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉福樂村０１５鄰埤角２２１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7172,6 +7206,23 @@
                 "coordinates": [
                     120.4301925777,
                     23.553153248414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鴻鼎商行",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉福樂村０１８鄰建國路三段１５２號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439724,
+                    23.523363
                 ]
             }
         },

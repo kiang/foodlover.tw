@@ -140,6 +140,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "夷茗茶行",
+                "category": "餐飲",
+                "area": "二林鎮",
+                "market_address": "彰化縣二林鎮東和里中正路２３號一樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368945,
+                    23.899203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沁映茗茶",
                 "category": "餐飲",
                 "area": "二林鎮",
@@ -202,6 +219,23 @@
                 "coordinates": [
                     120.375877,
                     23.899441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小萍茶行",
+                "category": "餐飲",
+                "area": "二林鎮",
+                "market_address": "彰化縣二林鎮東和里０１６鄰新生路４０號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368612,
+                    23.900352
                 ]
             }
         },
@@ -916,6 +950,23 @@
                 "coordinates": [
                     120.622321,
                     23.808634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅騰茶行",
+                "category": "餐飲",
+                "area": "二水鄉",
+                "market_address": "彰化縣二水鄉光化村光文路６８號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.616848,
+                    23.812163
                 ]
             }
         },
@@ -3387,6 +3438,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "雲怡茶行",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮和北里彰美路６段３９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497699,
+                    24.112977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "彰美壽司店",
                 "category": "餐飲",
                 "area": "和美鎮",
@@ -3398,6 +3466,23 @@
                 "coordinates": [
                     120.496278,
                     24.114729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "第一味冷飲店",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮竹營里８鄰美寮路２段４８７號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.503707,
+                    24.11331
                 ]
             }
         },
@@ -6005,6 +6090,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "第一名店",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市中山路一段789號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570648,
+                    23.958494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金瀧易食品有限公司",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市莒光路328號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566845,
+                    23.959827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "四國餐飲顧問股份有限公司員林分公司",
                 "category": "餐飲",
                 "area": "員林市",
@@ -6458,6 +6577,23 @@
                 "coordinates": [
                     120.579258,
                     23.965765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "品香茶行",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市仁美里２鄰靜修路２９號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571732,
+                    23.962389
                 ]
             }
         },
@@ -7722,6 +7858,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "群賢茶行",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市三和里大同路１段３５４號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579723,
+                    23.963531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "熊多人文茶飲",
                 "category": "餐飲",
                 "area": "員林市",
@@ -7998,7 +8151,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市中山里中山路一段７８５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -9664,7 +9817,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市新興里０１０鄰萬年路三段２０７號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13336,7 +13489,7 @@
                 "category": "餐飲",
                 "area": "埔心鄉",
                 "market_address": "彰化縣埔心鄉埤腳村柳橋東路８２９號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13411,6 +13564,23 @@
                 "coordinates": [
                     120.558175,
                     23.937909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "冰葉茶行",
+                "category": "餐飲",
+                "area": "埔心鄉",
+                "market_address": "彰化縣埔心鄉東門村員鹿路２段２４９號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545488,
+                    23.952656
                 ]
             }
         },
@@ -14743,6 +14913,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "禾風館",
+                "category": "餐飲",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉大村村１鄰大仁路１段１１４號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54543,
+                    23.991913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鴻富麵食館",
                 "category": "餐飲",
                 "area": "大村鄉",
@@ -15281,6 +15468,23 @@
                 "coordinates": [
                     120.540547,
                     24.079409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "華陽公有零售市場-林應蕙",
+                "category": "夜市\/市場攤販",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市華陽里旭光路69號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5469785371,
+                    24.074355118121
                 ]
             }
         },
@@ -16562,6 +16766,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漢堡王 彰化店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市中山路二段521號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544655,
+                    24.078797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "上品軒商行",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市彰美路一段159號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538174,
+                    24.088318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "糖糖餐飲館",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -16930,6 +17168,23 @@
                 "coordinates": [
                     120.545651,
                     24.083396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晟瑜茶飲有限公司",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市成功里０１６鄰大埔路６３３號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542489,
+                    24.067208
                 ]
             }
         },
@@ -17548,6 +17803,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "名佳茶行",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市華陽里南郭路１段１９１巷１４號２樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549047,
+                    24.073302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮友商行",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -17620,7 +17892,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市永生里華山路１６號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -18181,7 +18453,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市光南里００６鄰中興路１３６－１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -18198,7 +18470,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市信義里民生路３０１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -18432,6 +18704,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "斌良茶飲店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市茄南里永安街４８０號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541908,
+                    24.094227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "本美企業社",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -18487,7 +18776,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市南瑤里中正路二段６８０―５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -21462,7 +21751,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市南瑤里中正路二段６８０―５號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -26154,7 +26443,7 @@
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市信義里民生路３０１號",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -26467,6 +26756,23 @@
                 "coordinates": [
                     120.535383,
                     23.92225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "羿軒茶行",
+                "category": "餐飲",
+                "area": "永靖鄉",
+                "market_address": "彰化縣永靖鄉永西村瑚璉路３６９號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545126,
+                    23.923487
                 ]
             }
         },
@@ -27306,6 +27612,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "大頌有限公司",
+                "category": "餐飲",
+                "area": "溪湖鎮",
+                "market_address": "彰化縣溪湖鎮福德路6號1、2樓",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477187,
+                    23.95672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "婕瑜冷飲店",
                 "category": "餐飲",
                 "area": "溪湖鎮",
@@ -27565,7 +27888,7 @@
                 "category": "餐飲",
                 "area": "溪湖鎮",
                 "market_address": "彰化縣溪湖鎮東寮里彰水路４段４３９巷１５１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -27589,6 +27912,23 @@
                 "coordinates": [
                     120.482678,
                     23.964616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "二溪茶行",
+                "category": "餐飲",
+                "area": "溪湖鎮",
+                "market_address": "彰化縣溪湖鎮光華里二溪路１段８８號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477468,
+                    23.959503
                 ]
             }
         },
@@ -29108,6 +29448,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "淨益茶飲店",
+                "category": "餐飲",
+                "area": "田中鎮",
+                "market_address": "彰化縣田中鎮東路里中州路１段２２４號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585952,
+                    23.857945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "潭大吉商行",
                 "category": "餐飲\/糕餅",
                 "area": "田中鎮",
@@ -29329,7 +29686,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司高鐵彰化門市部",
+                "shop": "摩斯漢堡高鐵彰化門市部",
                 "category": "餐飲",
                 "area": "田中鎮",
                 "market_address": "彰化縣田中鎮龍潭里站區路二段９９號",
@@ -30190,6 +30547,23 @@
                 "coordinates": [
                     120.587457,
                     23.899287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "社頭員集冷飲店",
+                "category": "餐飲",
+                "area": "社頭鄉",
+                "market_address": "彰化縣社頭鄉社頭村員集路２段３０２號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587267,
+                    23.900189
                 ]
             }
         },
@@ -31114,6 +31488,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "泉泉飲料店",
+                "category": "餐飲",
+                "area": "秀水鄉",
+                "market_address": "彰化縣秀水鄉鶴鳴村１２鄰民主街２１７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495876,
+                    24.058015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "毛尖茶行",
                 "category": "餐飲",
                 "area": "秀水鄉",
@@ -31781,7 +32172,7 @@
                 "category": "餐飲",
                 "area": "芬園鄉",
                 "market_address": "彰化縣芬園鄉竹林村彰南路四段４４９號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊付\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -35062,7 +35453,7 @@
                 "category": "餐飲",
                 "area": "鹿港鎮",
                 "market_address": "彰化縣鹿港鎮中興里中山路２４６號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

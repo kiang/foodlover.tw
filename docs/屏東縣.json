@@ -1215,7 +1215,7 @@
                 "category": "餐飲",
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉建興村００３鄰信義路５８８號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2146,7 +2146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司屏科大門市部",
+                "shop": "摩斯漢堡屏科大門市部",
                 "category": "餐飲",
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉老埤村學府路１號１樓",
@@ -5472,6 +5472,23 @@
                 "coordinates": [
                     120.482511,
                     22.635825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "艾幸福企業社",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市安樂里１１鄰林森路１１９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490551,
+                    22.673272
                 ]
             }
         },
@@ -14781,7 +14798,7 @@
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市華山里廣東路５７０號",
-                "pay_list": "台灣pay\/街口"
+                "pay_list": "台灣pay\/街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -21067,11 +21084,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "云亘企業社",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興東里中正路一段２３３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457793,
+                    22.473714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "幸依商行",
                 "category": "餐飲",
                 "area": "東港鎮",
                 "market_address": "屏東縣東港鎮興東里中正路一段２２３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -23345,6 +23379,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "蘭欣辣汗花果休閒農場",
+                "category": "餐飲",
+                "area": "枋寮鄉",
+                "market_address": "屏東縣枋寮鄉人和村中正大路６６６－８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.602394,
+                    22.37543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "枋寮冷飲站",
                 "category": "餐飲",
                 "area": "枋寮鄉",
@@ -25457,13 +25508,30 @@
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮潮州里長興路５４號之３",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.540915,
                     22.551487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鼎林茶舖",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮同榮里建基路１８３號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540361,
+                    22.551255
                 ]
             }
         },
@@ -29567,6 +29635,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "可茵山可可莊園休閒農場",
+                "category": "觀光工廠",
+                "area": "萬巒鄉",
+                "market_address": "屏東縣萬巒鄉萬和村復興路２之５５號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565533,
+                    22.567744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沐茶商行",
                 "category": "餐飲",
                 "area": "萬巒鄉",
@@ -32478,7 +32563,7 @@
                 "category": "餐飲",
                 "area": "麟洛鄉",
                 "market_address": "屏東縣麟洛鄉麟蹄村六雅街３８號２樓（供辦公室使用）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -32580,7 +32665,7 @@
                 "category": "餐飲",
                 "area": "麟洛鄉",
                 "market_address": "屏東縣麟洛鄉麟蹄村六雅街３８號２樓（供辦公室使用）",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

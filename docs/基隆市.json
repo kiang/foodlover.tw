@@ -89,6 +89,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "乘富商行",
+                "category": "餐飲",
+                "area": "七堵區",
+                "market_address": "基隆市七堵區福五街28號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.699217,
+                    25.083172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八八八鍋貼水餃專賣店",
                 "category": "餐飲",
                 "area": "七堵區",
@@ -3302,6 +3319,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "和平島公園",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區平寮里平一路３６０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765262,
+                    25.160001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "麻甲有限公司",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐街233號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788313,
+                    25.136752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和奕早餐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區信一路168號1樓",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745405,
+                    25.130337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "歐特儀股份有限公司基隆市信二立體停車場",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4343,7 +4411,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區港通里中正路1號2樓",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6706,7 +6774,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區長潭里北寧路３６９巷４５―６號１樓",
-                "pay_list": "台灣pay"
+                "pay_list": "台灣pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7620,6 +7688,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "瑜嵐慶君商行",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區孝三路109號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739829,
+                    25.131104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "樂香冷飲站",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -8287,7 +8372,7 @@
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區水錦里仁二路６６號（１－２樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11411,7 +11496,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司基隆站前門市部",
+                "shop": "摩斯漢堡基隆站前門市部",
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區文昌里忠一路１８號１樓－３樓",
@@ -13377,6 +13462,23 @@
                 "coordinates": [
                     121.782565,
                     25.133419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漢堡王 基隆中正店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區信一路91號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751095,
+                    25.12865
                 ]
             }
         },
@@ -16239,6 +16341,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "毅汌咖啡行",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區武嶺街136號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710454,
+                    25.139955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "惜緣早午餐店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -16413,7 +16532,7 @@
                 "category": "餐飲",
                 "area": "安樂區",
                 "market_address": "基隆市安樂區鶯安里麥金路２３１─５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

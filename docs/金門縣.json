@@ -1538,7 +1538,7 @@
                 "category": "餐飲",
                 "area": "金城鎮",
                 "market_address": "金門縣金城鎮西門里環島北路一段１９號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -6073,6 +6073,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "金獅影城",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮中山路8之8號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.364237,
+                    24.441466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "彤馨茶舖",
                 "category": "餐飲",
                 "area": "金湖鎮",
@@ -6468,7 +6485,7 @@
                 "category": "餐飲",
                 "area": "金湖鎮",
                 "market_address": "金門縣金湖鎮太湖路二段198號",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",

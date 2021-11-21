@@ -837,6 +837,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "新天堂樂園商場",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉光華村１８鄰南濱路一段５０３、５０５號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592147,
+                    23.92728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "水色咖啡",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -7709,7 +7726,7 @@
                 "category": "餐飲",
                 "area": "新城鄉",
                 "market_address": "花蓮縣新城鄉嘉里村機場1號",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11292,6 +11309,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "公有零售復興市場-鄭雯潔",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮市復興街31-1號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61068496269,
+                    23.976370694947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "花蓮縣東大門攤販集中區-Calaxy Silver 925 純銀鈦鋼飾品",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
@@ -12652,6 +12686,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "公有零售復興市場-李威",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮市復興街31-1號",
+                "pay_list": "台灣Pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61068496269,
+                    23.976370694947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "花蓮縣東大門攤販集中區-原香嘟論竹筒飯",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
@@ -12759,6 +12810,23 @@
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
                 "pay_list": "橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-放棄攤位",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -20510,7 +20578,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國安里８鄰復興街８５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -20748,7 +20816,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市民心里３鄰美工六街３１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -22931,6 +22999,23 @@
                 "coordinates": [
                     121.620653,
                     24.005306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮味茶道泡沫舖",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主權里００９鄰中華路３４７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.596137,
+                    23.974665
                 ]
             }
         },
@@ -33715,6 +33800,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "蜂之鄉有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民心里３鄰美工六街３１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.626621,
+                    24.012291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "杰克山莊渡假大飯店有限公司",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -35885,40 +35987,6 @@
                 "coordinates": [
                     121.60150581691,
                     23.986744132677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "藍色卡杜拉咖啡館",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主勤里０１１鄰中華路７０號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.607136,
-                    23.976102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "巧克咖啡",
-                "category": "餐飲\/糕餅",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主信里００４鄰忠孝街７０號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605652,
-                    23.975161
                 ]
             }
         },

@@ -3425,7 +3425,7 @@
                 "category": "餐飲",
                 "area": "新豐鄉",
                 "market_address": "新竹縣新豐鄉建興路一段１５５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5822,7 +5822,7 @@
                 "category": "餐飲",
                 "area": "湖口鄉",
                 "market_address": "新竹縣湖口鄉中山路２段１７６號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5863,6 +5863,23 @@
                 "coordinates": [
                     121.044515,
                     24.901145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "湖工茶行",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉鳳凰村仁和路９２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014391,
+                    24.872921
                 ]
             }
         },
@@ -9286,6 +9303,91 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漢堡王 竹北店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市光明六路89號120室",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.009172,
+                    24.826364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎職人咖啡股份有限公司台元聯發科營業所",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市台元街26號3樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012832,
+                    24.841314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小蒙牛竹北有限公司",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市文化里０１２鄰文田街６６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01544,
+                    24.830974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "錸工場",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中山路２２０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018024,
+                    24.836981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "錸麥亭商行",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市科大一路28號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007808,
+                    24.821808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蘿蔔台元小吃店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -10038,7 +10140,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市文化里０３３鄰光明一路１９６號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11755,7 +11857,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市北崙里縣政九路１５１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -12146,7 +12248,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市鹿場里００３鄰自強七街４２號",
-                "pay_list": "iPASS一卡通\/LINE Pay Money\/歐付寶"
+                "pay_list": "iPASS一卡通\/LINE Pay Money\/歐付寶\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -12248,7 +12350,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市北崙里博愛街２３９號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -12979,7 +13081,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市中興里文興路二段１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13523,7 +13625,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市縣政二路５５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13982,7 +14084,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市十興里莊敬五街３８號一樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "LINE Pay Money\/悠遊付\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -18432,7 +18534,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司竹北文興門市部",
+                "shop": "摩斯漢堡竹北文興門市部",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市文興路一段３０８號１樓及嘉政二街１號１樓",
@@ -20098,7 +20200,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安心食品服務股份有限公司竹北光明門市部",
+                "shop": "摩斯漢堡竹北光明門市部",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市十興里光明六路東一段２３１號１樓",
@@ -23111,7 +23213,7 @@
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市鹿場里００３鄰自強七街４２號",
-                "pay_list": "台灣pay\/LINE Pay Money\/歐付寶"
+                "pay_list": "台灣pay\/LINE Pay Money\/歐付寶\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -26184,91 +26286,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "十五郎餐飲股份有限公司竹北分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東平里文興路一段３９６號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.03236597094,
-                    24.808370687509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佐亨國際有限公司縣政分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市縣政二路３６８之２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.016163,
-                    24.826658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "爭鮮股份有限公司竹北光明分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市興安里光明一路９８號１樓",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01806156802,
-                    24.829872536506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "阿官國際餐飲股份有限公司元手竹北分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市成功八路２２３號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02060950398,
-                    24.816878612598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鬍鬚張股份有限公司竹北光明分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中崙里光明六路１０５號",
-                "pay_list": "Pi 拍錢包\/信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.00835748844,
-                    24.827478208256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "育樂迴廊及橋頭攤販集中場-育樂橋頭12",
                 "category": "夜市\/市場攤販",
                 "area": "竹東鎮",
@@ -26507,6 +26524,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "艾記海南雞飯",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮東林路196號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094831,
+                    24.738177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "又可飲品",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -26613,7 +26647,7 @@
                 "category": "餐飲",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮仁愛里００７鄰北興路二段３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",

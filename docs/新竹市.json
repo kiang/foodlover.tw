@@ -144,7 +144,7 @@
                 "category": "百貨美食街",
                 "area": "北區",
                 "market_address": "新竹市北區湳雅街91-2號",
-                "pay_list": "LINE Pay Money\/街口"
+                "pay_list": "LINE Pay Money\/街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2388,7 +2388,7 @@
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "新竹市北區湳中里武陵路１７３―３號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -10272,6 +10272,193 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漢堡王 竹科台積P1店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區力行六路8號（台積電總部美食街）",
+                "pay_list": "信用卡\/悠遊付\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013281,
+                    24.772665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漢堡王 新竹忠孝店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區忠孝路300號41櫃",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986056,
+                    24.805505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漢堡王 交大店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區大學路1001號研三舍餐廳",
+                "pay_list": "信用卡\/悠遊付\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999493,
+                    24.789142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漢堡王竹科店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區工業東二路1號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.005629,
+                    24.779786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎職人咖啡股份有限公司一二四分公司",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區光復路二段101號(國立清華大學圖書館-旺宏館)",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996864,
+                    24.796398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎職人咖啡股份有限公司新竹巨城分公司",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區民生路99號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.977442,
+                    24.809436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎職人咖啡股份有限公司新竹站前分公司",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區中正路2號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971521,
+                    24.802723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "國賓大飯店股份有限公司",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區中華路二段１８８，１９０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964074,
+                    24.797523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "錵鑶日本料理-新竹旗艦店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區埔頂一路162號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.015046,
+                    24.791713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新竹老爺酒店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區光復路一段227號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020459,
+                    24.781829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "樂慕有限公司",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區埔頂二路2號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014886,
+                    24.790376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "明德素食園",
                 "category": "餐飲",
                 "area": "東區",
@@ -12588,7 +12775,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區東山里食品路６３號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13319,7 +13506,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區東園里中華路一段４２６號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -27028,193 +27215,6 @@
                 "coordinates": [
                     120.97749519606,
                     24.809766558935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清嵐茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區軍功里１６鄰建新路５０號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.99726173417,
-                    24.798326527572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金山三媽小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區金山里金山九街４５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020967,
-                    24.777376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吉川小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區復興里自由路１１２號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.98010687154,
-                    24.814291797417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "而可欣海苔飯卷專賣店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區高峰里寶山路４６號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97372472104,
-                    24.79360534273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "東家麵食",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區金山里金山八街６２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020377,
-                    24.77749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佳銓冷飲站",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區高峰里寶山路１２２號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97501752029,
-                    24.792503800074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "饌記有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區東園里中華路二段３號",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.98335955497,
-                    24.809280954809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "山上走走有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區復中里三民路９９號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97784656342,
-                    24.809686708159
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "蔚河有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區新莊里光復路一段３７２號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01547200467,
-                    24.784266633256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吉安諾食品有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區復中里中央路２３０號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97542460078,
-                    24.809091705456
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "群大餐飲有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區榮光里林森路２號２樓",
-                "pay_list": "信用卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97082429113,
-                    24.801915746565
                 ]
             }
         },

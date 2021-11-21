@@ -1245,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "信義鄉農會梅子夢工廠",
+                "category": "餐飲",
+                "area": "信義鄉",
+                "market_address": "南投縣信義鄉明德村新開巷１１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.861403,
+                    23.688469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "山城小吃部",
                 "category": "餐飲",
                 "area": "信義鄉",
@@ -2429,6 +2446,23 @@
                 "coordinates": [
                     120.705507,
                     23.919468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "南投稅務出張所",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市康壽里中山街２６０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684605,
+                    23.910634
                 ]
             }
         },
@@ -4598,7 +4632,7 @@
                 "category": "餐飲",
                 "area": "南投市",
                 "market_address": "南投縣南投市平和里０３３鄰民族路１１０號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -7144,6 +7178,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "天水蓮大飯店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮蜈蚣里鯉魚二巷２０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996985,
+                    23.96255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "女兒紅美食館",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮大城里中山路３段１７８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.959981,
+                    23.968297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雞朝文創故事館有限公司",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -7359,6 +7427,23 @@
                 "coordinates": [
                     120.968948,
                     23.963926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "菩提茶行",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮東門里中正路３８９號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96771,
+                    23.964531
                 ]
             }
         },
@@ -7665,6 +7750,23 @@
                 "coordinates": [
                     120.962234,
                     23.967397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "笙飴茶行",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮薰化里南昌街３１３號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962328,
+                    23.967355
                 ]
             }
         },
@@ -8015,7 +8117,7 @@
                 "category": "餐飲",
                 "area": "埔里鎮",
                 "market_address": "南投縣埔里鎮大城里中山路三段２１９號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11534,7 +11636,7 @@
                 "category": "餐飲",
                 "area": "水里鄉",
                 "market_address": "南投縣水里鄉車埕村民權巷１０１－３號",
-                "pay_list": "台灣pay"
+                "pay_list": "台灣pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -11898,6 +12000,23 @@
                 "coordinates": [
                     120.702617,
                     23.768635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "天利茶行",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮中正里００１鄰下橫街４７―２號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6842575042,
+                    23.756589867711
                 ]
             }
         },
@@ -13132,7 +13251,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "草屯鎮",
                 "market_address": "草屯鎮和興街55號",
-                "pay_list": "街口"
+                "pay_list": "街口\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13893,6 +14012,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "絲酥入叩",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮山腳里虎山路１５６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685357,
+                    23.961385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "貽豐小吃店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -14414,6 +14550,23 @@
                 "coordinates": [
                     120.685496,
                     23.978069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "子賢商行",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮和平里中山街１７４號",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682968,
+                    23.977536
                 ]
             }
         },
@@ -17110,7 +17263,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮炎峰里大成街１０８－１號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
