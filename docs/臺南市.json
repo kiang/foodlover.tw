@@ -68752,23 +68752,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "陽光茶坊",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區三仙里復興路１８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.312811,
-                    23.302959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "呷咖商行",
                 "category": "餐飲",
                 "area": "新營區",
@@ -69670,7 +69653,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "陽光茶坊",
+                "shop": "茶湯會 新營復興店",
                 "category": "餐飲",
                 "area": "新營區",
                 "market_address": "臺南市新營區三仙里復興路１８號１樓",
@@ -98468,23 +98451,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榛蘊善商行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區復國里復國一路３０５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24627,
-                    23.009993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和家餐飲店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -100219,7 +100185,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榛蘊善商行",
+                "shop": "茶湯會 台南復國店",
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區復國里復國一路３０５號１樓",
@@ -104480,23 +104446,6 @@
                 "coordinates": [
                     120.231935,
                     23.008293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "采田壽司",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區復華里復國一路３７５號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.246352,
-                    23.012851
                 ]
             }
         },
@@ -109920,6 +109869,40 @@
                 "coordinates": [
                     120.335486,
                     22.952452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蔡家香腸",
+                "category": "夜市\/市場攤販",
+                "area": "鹽水區",
+                "market_address": "臺南市鹽水區水秀里朝琴路１４０號旁邊",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272023,
+                    23.323222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蔡家香腸",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "鹽水區",
+                "market_address": "臺南市鹽水區水秀里朝琴路１４０號旁邊",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.272023,
+                    23.323222
                 ]
             }
         },

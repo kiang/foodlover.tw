@@ -10442,23 +10442,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "良知茶行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中興里福興東路二段５６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026795,
-                    24.815673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "日食時光咖啡輕食",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -11371,23 +11354,6 @@
                 "coordinates": [
                     121.024113,
                     24.821587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "婕云逸茶行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中崙里光明六路８９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.009172,
-                    24.826364
                 ]
             }
         },
@@ -14624,7 +14590,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "婕云逸茶行",
+                "shop": "茶湯會 竹北光明六店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市中崙里光明六路８９號",
@@ -17310,7 +17276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "良知茶行",
+                "shop": "茶湯會 竹北福興東店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市中興里福興東路二段５６號１樓",
@@ -26280,6 +26246,40 @@
                 "coordinates": [
                     121.01117888865,
                     24.823566503043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "十五郎餐飲股份有限公司竹北分公司",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東平里文興路一段３９６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03236597094,
+                    24.808370687509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "佐亨國際有限公司縣政分公司",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市縣政二路３６８之２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016163,
+                    24.826658
                 ]
             }
         },
