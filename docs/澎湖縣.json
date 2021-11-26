@@ -1245,11 +1245,62 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "穎冠茶飲企業股份有限公司澎湖光復店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市光復路125之2號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570825,
+                    23.572161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司澎湖中正店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市中正路49號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.565288,
+                    23.565836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司澎湖馬公店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市海埔路30號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.569125,
+                    23.566023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "萬波島嶼紅茶澎湖門市",
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市中興路67號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2796,7 +2847,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市同和路168號",
-                "pay_list": "街口\/信用卡"
+                "pay_list": "街口\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -2813,7 +2864,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市光復里同和路158號",
-                "pay_list": "街口\/信用卡"
+                "pay_list": "街口\/信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -2847,7 +2898,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市陽明里新店路１９７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

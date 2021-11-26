@@ -55,6 +55,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "億巨國際股份有限公司清境小瑞士門市",
+                "category": "餐飲",
+                "area": "仁愛鄉",
+                "market_address": "南投縣仁愛鄉定遠新村28號(小瑞士商場)",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156369,
+                    24.04397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清境楓丹白露民宿",
                 "category": "餐飲",
                 "area": "仁愛鄉",
@@ -2446,6 +2463,40 @@
                 "coordinates": [
                     120.705507,
                     23.919468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司南投民族二店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市民族路41號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692699,
+                    23.910488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市民族路307號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685436,
+                    23.908035
                 ]
             }
         },
@@ -6056,6 +6107,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "穎冠茶飲企業股份有限公司南投名間店",
+                "category": "餐飲",
+                "area": "名間鄉",
+                "market_address": "南投縣名間鄉中正村南雅街145號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701919,
+                    23.838471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "燦光商務行",
                 "category": "餐飲",
                 "area": "名間鄉",
@@ -7155,6 +7223,23 @@
                 "coordinates": [
                     120.929687,
                     23.943511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣惠蓀咖啡有限公司台灣惠蓀咖啡有限公司埔里咖啡館",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮中山路4段2之12號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94261,
+                    23.966083
                 ]
             }
         },
@@ -11173,6 +11258,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "穎冠茶飲企業股份有限公司南投水里店",
+                "category": "餐飲",
+                "area": "水里鄉",
+                "market_address": "南投縣水里鄉民生路359號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.854229,
+                    23.816307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "野鴨谷小吃部",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -11636,7 +11738,7 @@
                 "category": "餐飲",
                 "area": "水里鄉",
                 "market_address": "南投縣水里鄉車埕村００５鄰民權巷１１０－１號（ＤＥ舖）",
-                "pay_list": "信用卡\/街口"
+                "pay_list": "信用卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11949,6 +12051,23 @@
                 "coordinates": [
                     120.702617,
                     23.768635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司竹山店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮集山路三段897號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683141,
+                    23.756983
                 ]
             }
         },
@@ -13183,7 +13302,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "草屯鎮",
                 "market_address": "草屯鎮和興街55號",
-                "pay_list": "街口\/信用卡"
+                "pay_list": "街口\/信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13285,7 +13404,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "草屯鎮",
                 "market_address": "草屯鎮和興街55號",
-                "pay_list": "街口\/信用卡\/台灣pay\/LINE Pay Money"
+                "pay_list": "街口\/信用卡\/台灣pay\/LINE Pay Money\/悠遊卡"
             },
             "geometry": {
                 "type": "Point",
@@ -13795,7 +13914,7 @@
                 "category": "糕餅",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮中山里００２鄰太平路二段２５７，２５９號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -13938,6 +14057,23 @@
                 "coordinates": [
                     120.662499,
                     23.988911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣卜蜂企業股份有限公司台灣卜蜂企業股份有限公司六星便當草屯太平店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮太平路二段336號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684364,
+                    23.978612
                 ]
             }
         },
@@ -19095,6 +19231,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鑫泉食品股份有限公司米可烘焙坊",
+                "category": "糕餅",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉中山路163號",
+                "pay_list": "悠遊卡\/台灣Pay\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911214,
+                    23.866434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "山姆大叔日月潭營業所",
                 "category": "餐飲\/糕餅",
                 "area": "魚池鄉",
@@ -19174,6 +19327,40 @@
                 "coordinates": [
                     120.930372,
                     23.848251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "班洛有限公司敝姓鍋-南投日月潭店",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉中山路163號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911214,
+                    23.866434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司南投魚池店",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉魚池街347號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.937524,
+                    23.896569
                 ]
             }
         },

@@ -263,7 +263,7 @@
                 "category": "餐飲",
                 "area": "三義鄉",
                 "market_address": "苗栗縣三義鄉双潭村７鄰大坪７號",
-                "pay_list": "LINE Pay Money\/歐付寶\/信用卡"
+                "pay_list": "LINE Pay Money\/歐付寶\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2588,11 +2588,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "明日森林股份有限公司森林島嶼南庄店",
+                "category": "餐飲",
+                "area": "南庄鄉",
+                "market_address": "苗栗縣南庄鄉中正路1巷4號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999045,
+                    24.598921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "月見製菓所",
                 "category": "餐飲",
                 "area": "南庄鄉",
                 "market_address": "苗栗縣南庄鄉東村中正路１２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3476,7 +3493,7 @@
                 "category": "餐飲",
                 "area": "大湖鄉",
                 "market_address": "苗栗縣大湖鄉義和村８鄰淋漓坪１２６號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3935,7 +3952,7 @@
                 "category": "餐飲",
                 "area": "後龍鎮",
                 "market_address": "苗栗縣後龍鎮中龍里１鄰中華路１５１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -5506,6 +5523,57 @@
                 "coordinates": [
                     120.876789,
                     24.71199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "丘森股份有限公司竹南分公司丘森茶室",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮竹南里16鄰博愛街87號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.876502,
+                    24.686729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "滷底撈股份有限公司滷底撈-苗栗竹南店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮立達街20號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.877156,
+                    24.688382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "雅嵐股份有限公司竹南中正50嵐門市",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮中正路263-1號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.872716,
+                    24.683471
                 ]
             }
         },
@@ -11976,7 +12044,7 @@
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市建功里府前路１２１號１樓",
-                "pay_list": "LINE Pay Money\/街口"
+                "pay_list": "LINE Pay Money\/街口\/悠遊卡"
             },
             "geometry": {
                 "type": "Point",
@@ -12248,7 +12316,7 @@
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市勝利里１鄰中正路９１１號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16103,6 +16171,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "滴探餐廳 廻鄉驛站旗艦店",
+                "category": "餐飲",
+                "area": "通霄鎮",
+                "market_address": "苗栗縣通霄鎮楓樹里楓樹窩92-2號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726961,
+                    24.491188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "樂活餐廳",
                 "category": "餐飲",
                 "area": "通霄鎮",
@@ -17684,6 +17769,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "合食餐飲顧問股份有限公司不要對我尖叫-苗栗頭份店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市東民二街28號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.902081,
+                    24.688081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宗文冷飲店",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -18385,7 +18487,7 @@
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市山下里０１０鄰建國路二段７９號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡"
             },
             "geometry": {
                 "type": "Point",

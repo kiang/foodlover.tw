@@ -837,6 +837,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "富利餐飲股份有限公司肯德基花蓮吉安",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉中華路二段1號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587993,
+                    23.973887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "新天堂樂園商場",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -7726,7 +7743,7 @@
                 "category": "餐飲",
                 "area": "新城鄉",
                 "market_address": "花蓮縣新城鄉嘉里村機場1號",
-                "pay_list": "街口\/信用卡"
+                "pay_list": "街口\/信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -18810,7 +18827,7 @@
                 "category": "糕餅",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市主權里德安二街１３５號",
-                "pay_list": "icash pay\/Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "icash pay\/Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -19089,6 +19106,23 @@
                 "coordinates": [
                     121.636842,
                     24.017624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "互愛人文志業股份有限公司靜思書軒",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市中央路3段703號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591407,
+                    23.994653
                 ]
             }
         },
@@ -20578,7 +20612,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國安里８鄰復興街８５號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -33226,7 +33260,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國裕里５１鄰中央路４段１０號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/悠遊卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -33447,7 +33481,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市主勤里５鄰中華路９９號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -35970,23 +36004,6 @@
                 "coordinates": [
                     121.60594132478,
                     23.984952201262
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "麥當勞花蓮中山二分公司",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國魂里３鄰中山路５４９－６號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60150581691,
-                    23.986744132677
                 ]
             }
         },

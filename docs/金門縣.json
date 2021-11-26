@@ -633,6 +633,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "合食餐飲顧問股份有限公司不要對我尖叫（金門金城店）",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮中興路173巷4號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319034,
+                    24.434263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司金門金城店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮民生路9-15號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319716,
+                    24.433413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "石一籠商店",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -6033,6 +6067,23 @@
                 "coordinates": [
                     118.415164,
                     24.441914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司金門金湖店",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮復興路51號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.416026,
+                    24.441032
                 ]
             }
         },

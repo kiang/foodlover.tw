@@ -2405,7 +2405,7 @@
                 "category": "餐飲",
                 "area": "古坑鄉",
                 "market_address": "雲林縣古坑鄉永光村大湖口６７，６９號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -5455,6 +5455,57 @@
                 "coordinates": [
                     120.598737,
                     23.719557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司斗六石榴店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市榴中里石榴路95號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584078,
+                    23.723471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "涮乃葉斗六家樂福門市",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮西里雲林路二段２９７號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530572,
+                    23.702154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "古拉爵斗六家樂福店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮西里雲林路二段２９７號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530572,
+                    23.702154
                 ]
             }
         },
@@ -12754,6 +12805,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "妃樂冰品有限公司幸福翔綺西螺麻糬大王冰上冰斗南店",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮中天里中山路97號1樓",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478758,
+                    23.675924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "秀美挫冰燒仙草",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -13604,11 +13672,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金誠石火鍋 石頭火鍋(金誠石企業社)",
+                "shop": "金誠石企業社",
                 "category": "餐飲",
                 "area": "斗南鎮",
                 "market_address": "雲林縣斗南鎮西岐里大同路５８號１樓",
-                "pay_list": "台灣pay"
+                "pay_list": "台灣pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -14424,7 +14492,7 @@
                 "category": "糕餅",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮廉使里站前東路301號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14584,6 +14652,23 @@
                 "coordinates": [
                     120.42748,
                     23.704934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "惹鍋虎尾有限公司惹鍋",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮埒內里林森路一段127號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440734,
+                    23.716501
                 ]
             }
         },

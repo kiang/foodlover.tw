@@ -3425,7 +3425,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉南興村中正路３７－２號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay\/信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -8317,6 +8317,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "台灣山崎麵包Yamazaki蘭城新月",
+                "category": "糕餅",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市民權路二段38巷6號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750034,
+                    24.754383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "益欣食品股份有限公司",
                 "category": "糕餅",
                 "area": "宜蘭市",
@@ -8844,6 +8861,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "億可商行CoCo都可茶飲",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市文化里神農路一段19號",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749447,
+                    24.747318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "合食餐飲顧問股份有限公司不要對我尖叫（宜蘭女中店）",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市女中路一段293號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762455,
+                    24.747658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C咖啡蛋糕飲料宜蘭站前店",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市康樂路2號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757661,
+                    24.755624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漢堡王 宜蘭店",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -8865,7 +8933,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市光復路14號1樓",
-                "pay_list": "信用卡\/台灣pay"
+                "pay_list": "信用卡\/台灣pay\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -8882,7 +8950,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市和睦路26號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -8899,7 +8967,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市神農路一段3號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -15937,7 +16005,7 @@
                 "category": "糕餅",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉吳沙村礁溪路１段３１２號１樓",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/悠遊卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16005,7 +16073,7 @@
                 "category": "糕餅",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉吳沙村礁溪路１段３１２號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/悠遊卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16182,6 +16250,40 @@
                 "coordinates": [
                     121.740168,
                     24.789211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "東興商行CoCo都可",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉德陽村礁溪路五段70號一樓",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771698,
+                    24.82637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "圓心圓國際事業股份有限公司礁溪二店",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉礁溪路五段118號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772397,
+                    24.827452
                 ]
             }
         },
@@ -18929,7 +19031,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉玉石村０１４鄰健康路１號及健康路２號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay\/信用卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -20132,6 +20234,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "圓心圓國際事業股份有限公司車站店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮公正路二號(羅東火車站二樓)",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77453,
+                    24.677916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "圓心圓國際事業股份有限公司公園二店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮公園路95號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768846,
+                    24.675507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "圓心圓國際事業股份有限公司公園一店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮羅東夜市1079號攤",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.780303,
+                    24.673518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C咖啡蛋糕飲料(羅東站前店)",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮公正路78號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772415,
+                    24.678142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "慕松田野私房鍋物",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -20153,7 +20323,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮中正南路135號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -22108,7 +22278,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮大新里００４鄰中正路１９８號２樓",
-                "pay_list": "LINE Pay Money\/歐付寶\/信用卡"
+                "pay_list": "LINE Pay Money\/歐付寶\/信用卡\/悠遊卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -22924,7 +23094,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮大新里００４鄰中正路１９８號２樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/歐付寶"
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/歐付寶\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -27102,6 +27272,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "大鯖魚夢工廠",
+                "category": "觀光工廠",
+                "area": "蘇澳鎮",
+                "market_address": "宜蘭縣蘇澳鎮隘丁里大圳路１１８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83244,
+                    24.61353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蜡藝蜡筆城堡",
                 "category": "觀光工廠",
                 "area": "蘇澳鎮",
@@ -27164,23 +27351,6 @@
                 "coordinates": [
                     121.83058,
                     24.61665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大鯖魚夢工廠",
-                "category": "餐飲",
-                "area": "蘇澳鎮",
-                "market_address": "宜蘭縣蘇澳鎮隘丁里大圳路１１８號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.83244,
-                    24.61353
                 ]
             }
         },

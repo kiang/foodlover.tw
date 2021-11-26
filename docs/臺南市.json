@@ -3085,7 +3085,7 @@
                 "category": "糕餅",
                 "area": "中西區",
                 "market_address": "臺南市中西區南門里南門路４６－１５號１樓",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3306,7 +3306,7 @@
                 "category": "糕餅",
                 "area": "中西區",
                 "market_address": "臺南市中西區南美里中正路７４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3663,7 +3663,7 @@
                 "category": "糕餅",
                 "area": "中西區",
                 "market_address": "臺南市中西區南門里南門路４６－１５號１樓",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3901,7 +3901,7 @@
                 "category": "餐飲",
                 "area": "中西區",
                 "market_address": "臺南市中西區民權路二段191號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -20795,40 +20795,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "廟口冷飲店",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區南美里府前路１段３２８號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.198538,
-                    22.990368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "手作宅料理",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區永華里開山路５２巷５號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.206194,
-                    22.99068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "仁德公有零售市場-17",
                 "category": "夜市\/市場攤販",
                 "area": "仁德區",
@@ -21088,7 +21054,7 @@
                 "category": "糕餅",
                 "area": "仁德區",
                 "market_address": "臺南市仁德區仁德里文華路三段４２８巷５３弄１１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -30489,7 +30455,7 @@
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區成功路２７２號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -31322,7 +31288,7 @@
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區海安路３段５０號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -37782,7 +37748,7 @@
                 "category": "糕餅",
                 "area": "南區",
                 "market_address": "臺南市南區再興里金華路２段１４６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -39669,7 +39635,7 @@
                 "category": "餐飲",
                 "area": "南區",
                 "market_address": "臺南市南區金華里新孝路８號１樓",
-                "pay_list": "悠遊付"
+                "pay_list": "悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -55292,7 +55258,7 @@
                 "category": "餐飲",
                 "area": "安平區",
                 "market_address": "臺南市安平區平通里育平路３４５號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -56771,7 +56737,7 @@
                 "category": "餐飲",
                 "area": "安平區",
                 "market_address": "臺南市安平區國平里永華路２段５６９號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -57570,7 +57536,7 @@
                 "category": "餐飲",
                 "area": "安平區",
                 "market_address": "臺南市安平區建平里怡平路３號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -58845,7 +58811,7 @@
                 "category": "餐飲",
                 "area": "安平區",
                 "market_address": "臺南市安平區國平里永華路２段５６９號",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -67872,7 +67838,7 @@
                 "category": "糕餅",
                 "area": "新營區",
                 "market_address": "臺南市新營區永平里中山路１４１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -73057,7 +73023,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "臺南市東區裕信六街22號5樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -73074,7 +73040,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "臺南市東區裕信六街22號5樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -73822,7 +73788,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "臺南市東區龍山里崇學路２５９之８號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -74094,7 +74060,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "臺南市東區成大里勝利路１７５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -75573,7 +75539,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區成大里００１鄰育樂街６６巷１８號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -76627,7 +76593,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區東門里東榮街１０５號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/悠遊卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -78310,7 +78276,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區龍山里長榮路１段１８６號１樓",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/悠遊卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -78395,7 +78361,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區新東里０１３鄰裕豐街１１３號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -87728,7 +87694,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區成大里大學路西段３７號",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -89734,7 +89700,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區龍山里長榮路１段１８６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -90992,7 +90958,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區東門里東榮街１０５號",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/悠遊卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -91009,7 +90975,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區泉南里府東街１４８號",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/悠遊卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -91026,7 +90992,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區成大里００１鄰育樂街６６巷１８號",
-                "pay_list": "信用卡\/LINE Pay Money\/iPASS 一卡通\/悠遊卡"
+                "pay_list": "信用卡\/LINE Pay Money\/iPASS 一卡通\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -91043,7 +91009,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區東安里林森路２段５９號",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/悠遊卡\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -94392,7 +94358,7 @@
                 "category": "糕餅",
                 "area": "永康區",
                 "market_address": "臺南市永康區六合里中山南路１０６－３號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -98319,7 +98285,7 @@
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區塩行里新中街２７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊卡\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -107074,7 +107040,7 @@
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區尚頂里南台街８號二樓",
-                "pay_list": "信用卡\/街口"
+                "pay_list": "信用卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -110270,7 +110236,7 @@
                 "category": "餐飲",
                 "area": "麻豆區",
                 "market_address": "臺南市麻豆區中山路129號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",

@@ -1330,6 +1330,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "互愛人文志業股份有限公司靜思書軒",
+                "category": "餐飲",
+                "area": "大林鎮",
+                "market_address": "嘉義縣大林鎮民生路2號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457449,
+                    23.596312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漾茶舖",
                 "category": "餐飲",
                 "area": "大林鎮",
@@ -6213,7 +6230,7 @@
                 "category": "糕餅",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉三興村陳厝寮1之3號",
-                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通"
+                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6390,6 +6407,40 @@
                 "coordinates": [
                     120.477101,
                     23.558223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司嘉義頭橋店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉建國路三段144號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439795,
+                    23.523129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "富利餐飲股份有限公司肯德基嘉義民雄",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉建國路一段239號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433834,
+                    23.559443
                 ]
             }
         },
@@ -8946,6 +8997,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "穎冠茶飲企業股份有限公司嘉義水上店",
+                "category": "餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉中興路300號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.402251,
+                    23.430344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "美而美水上店",
                 "category": "餐飲",
                 "area": "水上鄉",
@@ -10487,6 +10555,23 @@
                 "coordinates": [
                     120.507738,
                     23.490269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎冠茶飲企業股份有限公司嘉義竹崎店",
+                "category": "餐飲",
+                "area": "竹崎鄉",
+                "market_address": "嘉義縣竹崎鄉和平村坑仔坪151-3號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548687,
+                    23.517099
                 ]
             }
         },

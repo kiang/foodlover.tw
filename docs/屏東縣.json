@@ -1198,7 +1198,7 @@
                 "category": "餐飲",
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉建興村００３鄰信義路５８８號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,7 +2099,7 @@
                 "category": "餐飲",
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉建興村００３鄰信義路５８８號",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3425,7 +3425,7 @@
                 "category": "百貨美食街",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市端正里中正路72號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3449,6 +3449,23 @@
                 "coordinates": [
                     120.493331,
                     22.673382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣山崎麵包Yamazaki屏東店",
+                "category": "糕餅",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市中正路72號(太平洋百貨B1)",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489655,
+                    22.67409
                 ]
             }
         },
@@ -3748,7 +3765,7 @@
                 "category": "糕餅",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市公勇路62號",
-                "pay_list": "信用卡\/悠遊卡\/台灣pay"
+                "pay_list": "信用卡\/悠遊卡\/台灣pay\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -3952,7 +3969,7 @@
                 "category": "糕餅",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市太平里中正路１８１―２號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -4469,6 +4486,23 @@
                 "coordinates": [
                     120.491936,
                     22.682417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道股份有限公司鮮茶道屏東驛站店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市公勇路62號",
+                "pay_list": "信用卡\/台灣Pay\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486352,
+                    22.66871
                 ]
             }
         },
@@ -8304,7 +8338,7 @@
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市端正里復興北路３４號",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14271,7 +14305,7 @@
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市崇智里光復路４５號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -19762,7 +19796,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮墾丁里墾丁路２號Ｂ１Ｆ及Ｂ２Ｆ",
-                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money\/悠遊付"
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -23175,6 +23209,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "巧茵山農場股份有限公司",
+                "category": "觀光工廠",
+                "area": "枋寮鄉",
+                "market_address": "屏東縣枋寮鄉太源村中山路三段１２３號",
+                "pay_list": "iPASS一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581661,
+                    22.420214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蘭欣辣汗花果休閒農場",
                 "category": "餐飲",
                 "area": "枋寮鄉",
@@ -24546,6 +24597,23 @@
                 "coordinates": [
                     120.539806,
                     22.549641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "富利餐飲股份有限公司肯德基屏東潮州",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮信義路111號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536447,
+                    22.550069
                 ]
             }
         },
@@ -27038,7 +27106,7 @@
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮新榮里信義路１１１號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -31635,6 +31703,23 @@
                 "coordinates": [
                     120.598175,
                     22.821857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "大埔農業生技股份有限公司",
+                "category": "餐飲",
+                "area": "高樹鄉",
+                "market_address": "屏東縣高樹鄉大埔村和興路６６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.597586,
+                    22.83417
                 ]
             }
         },
