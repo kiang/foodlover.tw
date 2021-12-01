@@ -15,20 +15,36 @@
     },
     {
         "index": 2,
-        "shop": "正美香",
+        "shop": "金長利商店",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮前村新民路６４號",
+        "market_address": "嘉義縣新港鄉宮後村新民路８５號",
         "pay_list": [
-            "LINE Pay Money"
+            "信用卡"
         ]
     },
     {
         "index": 3,
+        "shop": "金讚號",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "新港鄉",
+        "market_address": "嘉義縣新港鄉宮前村中山路１２０號",
+        "pay_list": [
+            "悠遊付",
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "金讚號",
         "category": [
             "糕餅"
@@ -44,7 +60,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 5,
         "shop": "美綺麵包坊",
         "category": [
             "糕餅"
@@ -58,35 +74,7 @@
         ]
     },
     {
-        "index": 5,
-        "shop": "金長利商店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮後村新民路８５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
         "index": 6,
-        "shop": "正美香",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮前村新民路６４號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 7,
         "shop": "美綺麵包坊",
         "category": [
             "糕餅"
@@ -104,37 +92,35 @@
         ]
     },
     {
-        "index": 8,
-        "shop": "新港軒食品行",
+        "index": 7,
+        "shop": "正美香",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮前村中山路８號１樓",
+        "market_address": "嘉義縣新港鄉宮前村新民路６４號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "正美香",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "新港鄉",
+        "market_address": "嘉義縣新港鄉宮前村新民路６４號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
         "index": 9,
-        "shop": "金讚號",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "新港鄉",
-        "market_address": "嘉義縣新港鄉宮前村中山路１２０號",
-        "pay_list": [
-            "悠遊付",
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 10,
         "shop": "新港香藝文化館",
         "category": [
             "餐飲",
@@ -147,6 +133,20 @@
         "pay_list": [
             "台灣pay",
             "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "新港軒食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "新港鄉",
+        "market_address": "嘉義縣新港鄉宮前村中山路８號１樓",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

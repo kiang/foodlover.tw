@@ -1,34 +1,39 @@
 [
     {
         "index": 1,
-        "shop": "新光三越桃園大有店二館",
+        "shop": "遠東百貨 桃園店",
         "category": [
             "百貨美食街"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "桃園區",
-        "market_address": "桃園市桃園區三元里民光東路８１號１－２樓及Ｂ１，８３號１樓及Ｂ１",
+        "market_address": "桃園市桃園區中正路20號地下1至3樓及地上1至12樓",
         "pay_list": [
-            "LINE Pay Money",
             "信用卡",
-            "悠遊卡"
+            "有錢卡"
         ]
     },
     {
         "index": 2,
-        "shop": "新光三越 桃園大有店",
+        "shop": "統領廣場TONLIN PLAZA",
         "category": [
             "百貨美食街"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "桃園區",
-        "market_address": "桃園市桃園區三元里大有路１８９號",
+        "market_address": "桃園市桃園區中正路６１號１－１２樓及地下室１層、地下室２層",
         "pay_list": [
+            "悠遊卡",
             "LINE Pay Money",
+            "iPASS 一卡通",
+            "歐付寶",
+            "街口",
+            "台灣pay",
             "信用卡",
-            "悠遊卡"
+            "悠遊付",
+            "iPASS一卡通"
         ]
     },
     {
@@ -49,6 +54,38 @@
     },
     {
         "index": 4,
+        "shop": "新光三越桃園大有店二館",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "桃園區",
+        "market_address": "桃園市桃園區三元里民光東路８１號１－２樓及Ｂ１，８３號１樓及Ｂ１",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "新光三越 桃園大有店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "桃園區",
+        "market_address": "桃園市桃園區三元里大有路１８９號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "愛買桃園店",
         "category": [
             "百貨美食街"
@@ -59,43 +96,6 @@
         "market_address": "桃園市桃園區中山里中山路９３９號１樓",
         "pay_list": [
             "信用卡"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "遠東百貨 桃園店",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "桃園區",
-        "market_address": "桃園市桃園區中正路20號地下1至3樓及地上1至12樓",
-        "pay_list": [
-            "信用卡",
-            "有錢卡"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "統領廣場TONLIN PLAZA",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "桃園區",
-        "market_address": "桃園市桃園區中正路６１號１－１２樓及地下室１層、地下室２層",
-        "pay_list": [
-            "悠遊卡",
-            "LINE Pay Money",
-            "iPASS 一卡通",
-            "歐付寶",
-            "街口",
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "iPASS一卡通"
         ]
     }
 ]

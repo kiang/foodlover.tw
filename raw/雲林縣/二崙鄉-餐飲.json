@@ -1,35 +1,21 @@
 [
     {
         "index": 1,
-        "shop": "米香珍食堂",
+        "shop": "８８２倉庫",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "二崙鄉",
-        "market_address": "雲林縣二崙鄉崙東村中興路３０號",
+        "market_address": "雲林縣二崙鄉崙東村中華路１５０號旁　",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
         "index": 2,
-        "shop": "第一舞稻館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "雲林縣",
-        "area": "二崙鄉",
-        "market_address": "雲林縣二崙鄉崙西村中山路３６５號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "米香珍食堂",
         "category": [
             "餐飲"
@@ -47,18 +33,34 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "８８２倉庫",
+        "index": 3,
+        "shop": "米香珍食堂",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "雲林縣",
         "area": "二崙鄉",
-        "market_address": "雲林縣二崙鄉崙東村中華路１５０號旁　",
+        "market_address": "雲林縣二崙鄉崙東村中興路３０號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "第一舞稻館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "雲林縣",
+        "area": "二崙鄉",
+        "market_address": "雲林縣二崙鄉崙西村中山路３６５號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -72,8 +74,6 @@
         "area": "二崙鄉",
         "market_address": "雲林縣二崙鄉崙西村中山路３６５號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money",
             "悠遊付"
         ]

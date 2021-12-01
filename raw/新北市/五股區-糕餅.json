@@ -1,6 +1,49 @@
 [
     {
         "index": 1,
+        "shop": "麥之田食品屋",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五工二路１０６巷５號（３樓）",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "采宣烘焙工坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區五股里成泰路２段１０２號３樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "貝克利有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五工五路２４號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "貝克利有限公司",
         "category": [
             "糕餅"
@@ -14,35 +57,7 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "勇信貿易股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路４６號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "新北市慈泰庇護工場",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路７巷８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 4,
+        "index": 5,
         "shop": "緣泰企業有限公司",
         "category": [
             "糕餅"
@@ -53,20 +68,6 @@
         "market_address": "新北市五股區興珍里中興路１段４６巷２５號",
         "pay_list": [
             "街口"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "布果蛋糕坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里中興路４段３７號",
-        "pay_list": [
-            "台灣pay"
         ]
     },
     {
@@ -88,34 +89,6 @@
     },
     {
         "index": 7,
-        "shop": "麥之田食品屋",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區興珍里五工二路１０６巷５號（３樓）",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "采宣烘焙工坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "五股區",
-        "market_address": "新北市五股區五股里成泰路２段１０２號３樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 9,
         "shop": "樂金食品股份有限公司",
         "category": [
             "糕餅"
@@ -134,23 +107,35 @@
         ]
     },
     {
-        "index": 10,
-        "shop": "勇信貿易股份有限公司",
+        "index": 8,
+        "shop": "新北市慈泰庇護工場",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區興珍里五權路４６號",
+        "market_address": "新北市五股區興珍里五權路７巷８號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
+            "信用卡"
         ]
     },
     {
-        "index": 11,
+        "index": 9,
+        "shop": "布果蛋糕坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區五股里中興路４段３７號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 10,
         "shop": "壯元食品有限公司",
         "category": [
             "糕餅"
@@ -164,16 +149,31 @@
         ]
     },
     {
-        "index": 12,
-        "shop": "貝克利有限公司",
+        "index": 11,
+        "shop": "勇信貿易股份有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "五股區",
-        "market_address": "新北市五股區興珍里五工五路２４號",
+        "market_address": "新北市五股區興珍里五權路４６號",
         "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "勇信貿易股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "五股區",
+        "market_address": "新北市五股區興珍里五權路４６號",
+        "pay_list": [
+            "台灣pay",
             "信用卡",
             "LINE Pay Money"
         ]

@@ -1,34 +1,49 @@
 [
     {
         "index": 1,
-        "shop": "嘉豐利食品有限公司",
+        "shop": "豆爭青咖啡",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２７６號１樓",
+        "market_address": "臺中市大雅區大雅里中清東路２７１號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay"
         ]
     },
     {
         "index": 2,
-        "shop": "康久菓子工坊",
+        "shop": "蕾莉莎有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２５５巷６弄２號１樓",
+        "market_address": "臺中市大雅區大雅里學府路３４０號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay"
         ]
     },
     {
         "index": 3,
+        "shop": "芊宏有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區橫山里振興路２００號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 4,
         "shop": "艾斐爾時尚咖啡烘焙有限公司",
         "category": [
             "糕餅"
@@ -42,36 +57,24 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "尚亞麵包坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里中清路３段１２１０號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 5,
-        "shop": "宏亞食品股份有限公司台中營業所",
+        "shop": "艾斐爾時尚咖啡烘焙有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區三和里龍善三街１３７號",
+        "market_address": "臺中市大雅區大雅里雅環路２段１０３號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "豆爭青咖啡",
+        "shop": "美味達人股份有限公司大雅分公司",
         "category": [
             "餐飲",
             "糕餅"
@@ -79,9 +82,11 @@
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里中清東路２７１號１樓",
+        "market_address": "臺中市大雅區上雅里學府路３８２號１樓",
         "pay_list": [
-            "台灣pay"
+            "信用卡",
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -100,34 +105,6 @@
     },
     {
         "index": 8,
-        "shop": "宏亞食品股份有限公司台中營業所",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區三和里龍善三街１３７號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "嘉豐利食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里雅環路２段２７６號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 10,
         "shop": "正瀚生技股份有限公司風味研究咖啡館",
         "category": [
             "餐飲",
@@ -144,18 +121,45 @@
         ]
     },
     {
-        "index": 11,
-        "shop": "婕婕複合式咖啡",
+        "index": 9,
+        "shop": "康久菓子工坊有限公司",
         "category": [
-            "糕餅",
-            "餐飲"
+            "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區上楓里民生路３段３１３巷４５號",
+        "market_address": "臺中市大雅區大雅里１３鄰民生路１段４２號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "康久菓子工坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區上雅里雅環路２段２５５巷６弄２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "尚亞麵包坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區大雅里中清路３段１２１０號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
@@ -174,95 +178,49 @@
     },
     {
         "index": 13,
-        "shop": "美味達人股份有限公司大雅分公司",
+        "shop": "宏亞食品股份有限公司台中營業所",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區上雅里學府路３８２號１樓",
+        "market_address": "臺中市大雅區三和里龍善三街１３７號",
         "pay_list": [
-            "信用卡",
-            "LINE Pay Money",
-            "悠遊付"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 14,
-        "shop": "台灣伊莎貝爾食品股份有限公司台中分公司",
+        "shop": "宏亞食品股份有限公司台中營業所",
         "category": [
             "糕餅"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區四德里中清路３段７３５號",
+        "market_address": "臺中市大雅區三和里龍善三街１３７號",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
         "index": 15,
-        "shop": "芊宏有限公司",
+        "shop": "婕婕複合式咖啡",
         "category": [
-            "糕餅"
+            "糕餅",
+            "餐飲"
         ],
         "zone": "中彰投",
         "city": "臺中市",
         "area": "大雅區",
-        "market_address": "臺中市大雅區橫山里振興路２００號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "艾斐爾時尚咖啡烘焙有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里雅環路２段１０３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 17,
-        "shop": "康久菓子工坊有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里１３鄰民生路１段４２號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 18,
-        "shop": "蕾莉莎有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "臺中市",
-        "area": "大雅區",
-        "market_address": "臺中市大雅區大雅里學府路３４０號１樓",
+        "market_address": "臺中市大雅區上楓里民生路３段３１３巷４５號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 19,
+        "index": 16,
         "shop": "大雅芳烘焙坊",
         "category": [
             "糕餅"
@@ -273,6 +231,48 @@
         "market_address": "臺中市大雅區二和里學府路９６號１樓",
         "pay_list": [
             "台灣pay"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "嘉豐利食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區上雅里雅環路２段２７６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "嘉豐利食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區上雅里雅環路２段２７６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "台灣伊莎貝爾食品股份有限公司台中分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "臺中市",
+        "area": "大雅區",
+        "market_address": "臺中市大雅區四德里中清路３段７３５號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     }
 ]

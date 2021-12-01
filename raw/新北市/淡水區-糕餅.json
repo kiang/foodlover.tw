@@ -1,35 +1,93 @@
 [
     {
         "index": 1,
-        "shop": "台灣山崎麵包Yamazaki淡水店",
+        "shop": "閑恬有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中正路1號",
+        "market_address": "新北市淡水區新市一路２段２７２號１３樓",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "金順興餅店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區民權里民族路８號",
         "pay_list": [
             "信用卡",
             "悠遊卡"
         ]
     },
     {
-        "index": 2,
-        "shop": "源味本鋪烘培坊",
+        "index": 3,
+        "shop": "金富發烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中正路２３０－１號",
+        "market_address": "新北市淡水區清水街２０號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 4,
+        "shop": "諾蔓食品烘焙店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區民生路４８號",
+        "pay_list": [
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "詠傳香花生店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區公明街５８號",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 3,
+        "index": 6,
+        "shop": "詠傳香花生店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區公明街５８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "薰緻乳酪蛋糕店",
         "category": [
             "糕餅"
@@ -44,21 +102,24 @@
         ]
     },
     {
-        "index": 4,
-        "shop": "寶島百味商行",
+        "index": 8,
+        "shop": "薰緻乳酪蛋糕店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區淡水漁人碼頭木棧道商店街Ａ０２號",
+        "market_address": "新北市淡水區中山路１６４號",
         "pay_list": [
-            "橘子支付"
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
-        "index": 5,
+        "index": 9,
         "shop": "自做自受烘焙有限公司",
         "category": [
             "糕餅"
@@ -72,166 +133,23 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "松品豐餅舖",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區北新路１２９號７樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "愛咱們有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區興福寮６６巷２６７號",
-        "pay_list": [
-            "LINE Pay Money",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "沅未食品企業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區新民街７３號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "巷仔口手作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中山北路１段１１９巷１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 10,
-        "shop": "詠傳香花生店",
+        "shop": "自做自受烘焙有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區公明街５８號",
+        "market_address": "新北市淡水區濱海路１段３０６巷９弄５３號１０樓",
         "pay_list": [
+            "台灣pay",
+            "街口",
             "LINE Pay Money"
         ]
     },
     {
         "index": 11,
-        "shop": "一和福田有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區新市一路３段７號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "樂知禮房食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區新市一路３段１６２號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "淡水巧朵滋匈牙利煙囪捲店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區水碓街１０號",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "海邊走走食品股份有限公司淡水一店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區公明街３７巷６號",
-        "pay_list": [
-            "LINE Pay Money",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "林威咖啡館",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區清水街３８號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "格蘭國際有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區糞箕湖７１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 17,
         "shop": "義美股份有限公司淡水分公司",
         "category": [
             "糕餅"
@@ -247,7 +165,82 @@
         ]
     },
     {
-        "index": 18,
+        "index": 12,
+        "shop": "白師傅食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區淡金路３段臨４０５之２號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "王樣麵包烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區新春街４１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "源味本鋪烘培坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路２３０－１號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "源味本鋪烘培坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路２３０－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "淡水巧朵滋匈牙利煙囪捲店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區水碓街１０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 17,
         "shop": "淡水巧朵滋匈牙利煙囪捲店",
         "category": [
             "糕餅"
@@ -263,65 +256,78 @@
         ]
     },
     {
-        "index": 19,
-        "shop": "林威咖啡館",
+        "index": 18,
+        "shop": "海邊走走食品股份有限公司淡水二店",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區清水街３８號",
+        "market_address": "新北市淡水區中正路１６５號",
         "pay_list": [
-            "台灣pay",
-            "悠遊付",
-            "悠遊卡",
             "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "歐付寶"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "海邊走走食品股份有限公司淡水一店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區公明街３７巷６號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "歐付寶"
         ]
     },
     {
         "index": 20,
-        "shop": "寶島百味商行",
+        "shop": "海邊走走食品股份有限公司淡水一店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區淡水漁人碼頭木棧道商店街Ａ０２號",
+        "market_address": "新北市淡水區公明街３７巷６號",
         "pay_list": [
-            "橘子支付"
+            "LINE Pay Money",
+            "歐付寶"
         ]
     },
     {
         "index": 21,
-        "shop": "詠傳香花生店",
+        "shop": "沅未食品企業社",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區公明街５８號",
+        "market_address": "新北市淡水區新民街７３號",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
         "index": 22,
-        "shop": "台灣演成有限公司",
+        "shop": "沅未食品企業社",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區福德里自立路１巷１９號８樓",
+        "market_address": "新北市淡水區新民街７３號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "LINE Pay Money"
         ]
     },
     {
@@ -340,235 +346,6 @@
     },
     {
         "index": 24,
-        "shop": "源味本鋪烘培坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中正路２３０－１號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "海邊走走食品股份有限公司淡水一店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區公明街３７巷６號",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "新建成餅店有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區公明街２５號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "杜勝發餅鋪",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中正路５２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "金順興餅店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區民權里民族路８號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "巨福特國際有限公司淡水店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中正路１３７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "新東陽股份有限公司淡水分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中山路２８號１樓",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "愛牧商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中正路１２１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "諾蔓食品烘焙店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區民生路４８號",
-        "pay_list": [
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "金富發烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區清水街２０號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "一和福田有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區新市一路３段７號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "愛咱們有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區興福寮６６巷２６７號",
-        "pay_list": [
-            "信用卡",
-            "街口",
-            "LINE Pay Money",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "閑恬有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區新市一路２段２７２號１３樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "探吉事業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區中正路２段５０巷１２弄１６號",
-        "pay_list": [
-            "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "自做自受烘焙有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區濱海路１段３０６巷９弄５３號１０樓",
-        "pay_list": [
-            "台灣pay",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 39,
         "shop": "樂知禮房食品有限公司",
         "category": [
             "糕餅"
@@ -586,84 +363,51 @@
         ]
     },
     {
-        "index": 40,
-        "shop": "和正食品有限公司",
+        "index": 25,
+        "shop": "樂知禮房食品有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區學府路７３巷１０號",
+        "market_address": "新北市淡水區新市一路３段１６２號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 41,
-        "shop": "同福源商行",
+        "index": 26,
+        "shop": "格蘭國際有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區民安里中正路１１７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
-        "shop": "和正食品有限公司沙崙門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區沙崙路１５８之５號",
+        "market_address": "新北市淡水區糞箕湖７１號",
         "pay_list": [
             "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 43,
-        "shop": "海邊走走食品股份有限公司淡水二店",
+        "index": 27,
+        "shop": "格蘭國際有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中正路１６５號",
+        "market_address": "新北市淡水區糞箕湖７１號",
         "pay_list": [
-            "街口",
-            "LINE Pay Money",
-            "歐付寶"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 44,
-        "shop": "大玉成食品工業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "淡水區",
-        "market_address": "新北市淡水區北新路２段５８號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 45,
-        "shop": "巴姆庫食品股份有限公司",
+        "index": 28,
+        "shop": "林威咖啡館",
         "category": [
             "餐飲",
             "糕餅"
@@ -671,28 +415,33 @@
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中正路３３４號（１樓）",
+        "market_address": "新北市淡水區清水街３８號",
         "pay_list": [
             "台灣pay",
-            "信用卡"
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 46,
-        "shop": "佳源烘焙坊",
+        "index": 29,
+        "shop": "林威咖啡館",
         "category": [
+            "餐飲",
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區淡海路２０６巷３號",
+        "market_address": "新北市淡水區清水街３８號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 47,
+        "index": 30,
         "shop": "松品豐餅舖",
         "category": [
             "糕餅"
@@ -708,82 +457,127 @@
         ]
     },
     {
-        "index": 48,
-        "shop": "品饌食品行",
+        "index": 31,
+        "shop": "松品豐餅舖",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中山北路１段７１號",
+        "market_address": "新北市淡水區北新路１２９號７樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 49,
-        "shop": "薰緻乳酪蛋糕店",
+        "index": 32,
+        "shop": "杜勝發餅鋪",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區中山路１６４號",
+        "market_address": "新北市淡水區中正路５２號１樓",
         "pay_list": [
             "台灣pay",
-            "信用卡",
-            "LINE Pay Money",
-            "街口"
+            "信用卡"
         ]
     },
     {
-        "index": 50,
-        "shop": "格蘭國際有限公司",
+        "index": 33,
+        "shop": "新東陽股份有限公司淡水分公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區糞箕湖７１號",
+        "market_address": "新北市淡水區中山路２８號１樓",
         "pay_list": [
             "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 51,
-        "shop": "白師傅食品有限公司",
+        "index": 34,
+        "shop": "新建成餅店有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區淡金路３段臨４０５之２號",
+        "market_address": "新北市淡水區公明街２５號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "探吉事業有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路２段５０巷１２弄１６號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "愛牧商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路１２１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "愛咱們有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區興福寮６６巷２６７號",
         "pay_list": [
             "信用卡",
-            "悠遊卡"
+            "街口",
+            "LINE Pay Money",
+            "橘子支付"
         ]
     },
     {
-        "index": 52,
-        "shop": "王樣麵包烘焙坊",
+        "index": 38,
+        "shop": "愛咱們有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區新春街４１號１樓",
+        "market_address": "新北市淡水區興福寮６６巷２６７號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money",
+            "橘子支付"
         ]
     },
     {
-        "index": 53,
+        "index": 39,
         "shop": "巷仔口手作坊",
         "category": [
             "糕餅"
@@ -797,16 +591,222 @@
         ]
     },
     {
-        "index": 54,
-        "shop": "沅未食品企業社",
+        "index": 40,
+        "shop": "巷仔口手作坊",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "淡水區",
-        "market_address": "新北市淡水區新民街７３號",
+        "market_address": "新北市淡水區中山北路１段１１９巷１號",
         "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
+        "shop": "巴姆庫食品股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路３３４號（１樓）",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 42,
+        "shop": "巨福特國際有限公司淡水店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路１３７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "寶島百味商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區淡水漁人碼頭木棧道商店街Ａ０２號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "寶島百味商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區淡水漁人碼頭木棧道商店街Ａ０２號",
+        "pay_list": [
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "大玉成食品工業股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區北新路２段５８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "品饌食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中山北路１段７１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "和正食品有限公司沙崙門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區沙崙路１５８之５號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "和正食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區學府路７３巷１０號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "同福源商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區民安里中正路１１７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "台灣演成有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區福德里自立路１巷１９號８樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "台灣山崎麵包Yamazaki淡水店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區中正路1號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "佳源烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區淡海路２０６巷３號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "一和福田有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區新市一路３段７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "一和福田有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "淡水區",
+        "market_address": "新北市淡水區新市一路３段７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     }

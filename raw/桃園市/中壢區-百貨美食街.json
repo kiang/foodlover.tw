@@ -1,6 +1,20 @@
 [
     {
         "index": 1,
+        "shop": "遠東SOGO中壢店",
+        "category": [
+            "百貨美食街"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "中壢區",
+        "market_address": "桃園市中壢區元化路357號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "中壢大江國際購物中心",
         "category": [
             "百貨美食街"
@@ -14,32 +28,19 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "GLORIA OUTLETS華泰名品城",
-        "category": [
-            "百貨美食街"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "中壢區",
-        "market_address": "桃園市中壢區青埔里春德路１５９、１６９、１８９號",
-        "pay_list": [
-            "iPASS一卡通",
-            "信用卡"
-        ]
-    },
-    {
         "index": 3,
-        "shop": "遠東SOGO中壢店",
+        "shop": "中壢大江國際購物中心",
         "category": [
             "百貨美食街"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區元化路357號",
+        "market_address": "桃園市中壢區內定里１３鄰中園路２段５０１號",
         "pay_list": [
-            "信用卡"
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -66,18 +67,17 @@
     },
     {
         "index": 5,
-        "shop": "中壢大江國際購物中心",
+        "shop": "GLORIA OUTLETS華泰名品城",
         "category": [
             "百貨美食街"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "中壢區",
-        "market_address": "桃園市中壢區內定里１３鄰中園路２段５０１號",
+        "market_address": "桃園市中壢區青埔里春德路１５９、１６９、１８９號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
+            "iPASS一卡通",
+            "信用卡"
         ]
     }
 ]

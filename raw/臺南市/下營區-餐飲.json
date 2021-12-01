@@ -1,15 +1,17 @@
 [
     {
         "index": 1,
-        "shop": "水莊茶行",
+        "shop": "震泰商行",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區營前里中山路２段４３號１樓",
+        "market_address": "臺南市下營區下營里７鄰中山路１段１６１號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -29,31 +31,35 @@
     },
     {
         "index": 3,
-        "shop": "億萱茶行",
+        "shop": "阿婆米苔目老店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區下營里中山路１段７６號１樓",
+        "market_address": "臺南市下營區營前里００５鄰中山路二段８５號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay"
         ]
     },
     {
         "index": 4,
-        "shop": "文太商行",
+        "shop": "洲子鵝湖餐飲事業有限公司門市部",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區下營里中山路一段８０號１樓",
+        "market_address": "臺南市下營區新興里中興南路２１號",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money",
+            "歐付寶"
         ]
     },
     {
@@ -73,31 +79,30 @@
     },
     {
         "index": 6,
-        "shop": "慧縉小吃",
+        "shop": "水莊茶行",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區紅甲里紅毛厝７４―３１號１樓",
+        "market_address": "臺南市下營區營前里中山路２段４３號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
-        "shop": "府城小巴行動餐車",
+        "shop": "水莊茶行",
         "category": [
-            "餐飲",
-            "夜市\/市場攤販"
+            "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區開化里７３號",
+        "market_address": "臺南市下營區營前里中山路２段４３號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
@@ -116,55 +121,65 @@
     },
     {
         "index": 9,
-        "shop": "洲子鵝湖餐飲事業有限公司門市部",
+        "shop": "文太商行",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區新興里中興南路２１號",
+        "market_address": "臺南市下營區下營里中山路一段８０號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money",
-            "歐付寶"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "震泰商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "下營區",
-        "market_address": "臺南市下營區下營里７鄰中山路１段１６１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 11,
-        "shop": "阿婆米苔目老店",
+        "index": 10,
+        "shop": "慧縉小吃",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區營前里００５鄰中山路二段８５號１樓",
+        "market_address": "臺南市下營區紅甲里紅毛厝７４―３１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "府城小巴行動餐車",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "下營區",
+        "market_address": "臺南市下營區開化里７３號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 12,
+        "shop": "吉宸生技企業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "下營區",
+        "market_address": "臺南市下營區營前里中山路２段１５９號１樓",
+        "pay_list": [
+            "台灣pay",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 13,
         "shop": "億萱茶行",
         "category": [
             "餐飲"
@@ -182,33 +197,18 @@
         ]
     },
     {
-        "index": 13,
-        "shop": "水莊茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "下營區",
-        "market_address": "臺南市下營區營前里中山路２段４３號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 14,
-        "shop": "吉宸生技企業有限公司",
+        "shop": "億萱茶行",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "下營區",
-        "market_address": "臺南市下營區營前里中山路２段１５９號１樓",
+        "market_address": "臺南市下營區下營里中山路１段７６號１樓",
         "pay_list": [
-            "台灣pay",
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     }
 ]

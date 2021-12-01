@@ -1,30 +1,29 @@
 [
     {
         "index": 1,
-        "shop": "百豐商行",
+        "shop": "龍情食品有限公司中壢分公司",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區南勢里中豐路南勢２段８９號１樓",
+        "market_address": "桃園市平鎮區新勢里延平路１段５７號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "富翔西點飲品坊",
+        "shop": "飛瑜實業社",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區湧安里自由街１５７號１樓",
+        "market_address": "桃園市平鎮區貿易里貿五路６０號１樓",
         "pay_list": [
             "LINE Pay Money"
         ]
@@ -40,41 +39,27 @@
         "area": "平鎮區",
         "market_address": "桃園市平鎮區貿易里貿五路６０號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "悠遊卡",
+            "橘子支付"
         ]
     },
     {
         "index": 4,
-        "shop": "大瑋叔叔手作大福專賣店",
+        "shop": "興隆小淘氣食品工作坊",
         "category": [
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區北勢里和平路１４巷１７號１樓",
+        "market_address": "桃園市平鎮區龍恩里游泳路１２０巷２３號",
         "pay_list": [
+            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
         "index": 5,
-        "shop": "禾夏商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區復旦里文化街２４巷２號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 6,
         "shop": "興隆小淘氣食品工作坊",
         "category": [
             "糕餅"
@@ -88,36 +73,7 @@
         ]
     },
     {
-        "index": 7,
-        "shop": "亞植生機股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區新富里環南路２段２７１號１７樓之１",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "飛瑜實業社",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區貿易里貿五路６０號１樓",
-        "pay_list": [
-            "悠遊卡",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 9,
+        "index": 6,
         "shop": "義美股份有限公司義美龍潭廠營業所",
         "category": [
             "糕餅"
@@ -133,7 +89,73 @@
         ]
     },
     {
+        "index": 7,
+        "shop": "統一多拿滋股份有限公司平鎮大潤發門市部",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區南勢里南東路５７之１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "禾夏商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區復旦里文化街２４巷２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "禾夏商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區復旦里文化街２４巷２號１樓",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 10,
+        "shop": "百豐商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區南勢里中豐路南勢２段８９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "百豐商行",
         "category": [
             "餐飲",
@@ -152,80 +174,7 @@
         ]
     },
     {
-        "index": 11,
-        "shop": "吉甜手作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區北貴里關爺東路３７巷８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
         "index": 12,
-        "shop": "五毛烘焙家",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區復旦里文化街２０８號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "龍情食品有限公司中壢分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區新勢里延平路１段５７號１樓",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "亞植生機股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區新富里環南路２段２７１號１７樓之１",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "元坊蛋糕店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區義興里育達路１２９號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 16,
         "shop": "烘佩手作企業社",
         "category": [
             "糕餅"
@@ -239,51 +188,21 @@
         ]
     },
     {
-        "index": 17,
-        "shop": "統一多拿滋股份有限公司平鎮大潤發門市部",
+        "index": 13,
+        "shop": "富翔西點飲品坊",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區南勢里南東路５７之１號",
+        "market_address": "桃園市平鎮區湧安里自由街１５７號１樓",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 18,
-        "shop": "興隆小淘氣食品工作坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區龍恩里游泳路１２０巷２３號",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "名虹實業有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "桃園市",
-        "area": "平鎮區",
-        "market_address": "桃園市平鎮區雙連里民族路雙連２段１１８巷４９弄３４號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 20,
+        "index": 14,
         "shop": "富翔西點飲品坊",
         "category": [
             "糕餅"
@@ -299,7 +218,21 @@
         ]
     },
     {
-        "index": 21,
+        "index": 15,
+        "shop": "大瑋叔叔手作大福專賣店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區北勢里和平路１４巷１７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
         "shop": "大瑋叔叔手作大福專賣店",
         "category": [
             "糕餅"
@@ -315,22 +248,89 @@
         ]
     },
     {
-        "index": 22,
-        "shop": "禾夏商行",
+        "index": 17,
+        "shop": "名虹實業有限公司",
         "category": [
-            "餐飲",
             "糕餅"
         ],
         "zone": "桃竹苗",
         "city": "桃園市",
         "area": "平鎮區",
-        "market_address": "桃園市平鎮區復旦里文化街２４巷２號１樓",
+        "market_address": "桃園市平鎮區雙連里民族路雙連２段１１８巷４９弄３４號",
         "pay_list": [
-            "Pi 拍錢包",
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "吉甜手作坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區北貴里關爺東路３７巷８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "元坊蛋糕店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區義興里育達路１２９號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "亞植生機股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區新富里環南路２段２７１號１７樓之１",
+        "pay_list": [
             "台灣pay",
             "信用卡",
-            "悠遊付",
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "亞植生機股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區新富里環南路２段２７１號１７樓之１",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "五毛烘焙家",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "桃園市",
+        "area": "平鎮區",
+        "market_address": "桃園市平鎮區復旦里文化街２０８號１樓",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

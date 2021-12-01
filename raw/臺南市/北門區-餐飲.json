@@ -1,6 +1,23 @@
 [
     {
         "index": 1,
+        "shop": "鹽鄉民宿餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "北門區",
+        "market_address": "臺南市北門區北門里井子脚５７號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "早安漢堡大師漢堡大師 台南北門店",
         "category": [
             "餐飲"
@@ -15,7 +32,7 @@
         ]
     },
     {
-        "index": 2,
+        "index": 3,
         "shop": "北門蚵記仁外燴",
         "category": [
             "餐飲"
@@ -24,20 +41,6 @@
         "city": "臺南市",
         "area": "北門區",
         "market_address": "臺南市北門區三光里０１６鄰蘆竹溝３４３號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "北門嶼輕食風味餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "北門區",
-        "market_address": "臺南市北門區北門里００１鄰北門３－５號",
         "pay_list": [
             "LINE Pay Money"
         ]
@@ -60,14 +63,14 @@
     },
     {
         "index": 5,
-        "shop": "鹽鄉民宿餐廳",
+        "shop": "北門嶼輕食風味餐廳",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "北門區",
-        "market_address": "臺南市北門區北門里井子脚５７號",
+        "market_address": "臺南市北門區北門里００１鄰北門３－５號",
         "pay_list": [
             "信用卡",
             "悠遊卡",
@@ -86,9 +89,6 @@
         "area": "北門區",
         "market_address": "臺南市北門區北門里００１鄰北門３－５號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     }

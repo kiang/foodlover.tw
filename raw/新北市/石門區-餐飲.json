@@ -15,20 +15,6 @@
     },
     {
         "index": 2,
-        "shop": "石門休閒育樂有限公司石門營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "石門區",
-        "market_address": "新北市石門區中央路１－２５號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
         "shop": "鹿邊咖啡",
         "category": [
             "餐飲"
@@ -42,7 +28,7 @@
         ]
     },
     {
-        "index": 4,
+        "index": 3,
         "shop": "青心風味小館",
         "category": [
             "餐飲"
@@ -56,17 +42,32 @@
         ]
     },
     {
-        "index": 5,
-        "shop": "極北懶熊企業社",
+        "index": 4,
+        "shop": "長角餐廳",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "石門區",
-        "market_address": "新北市石門區山溪里老崩山６之５號",
+        "market_address": "新北市石門區德茂里白沙灣別墅５之１號",
         "pay_list": [
-            "台灣pay"
+            "icash pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "石門休閒育樂有限公司石門營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "石門區",
+        "market_address": "新北市石門區中央路１－２５號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
@@ -85,62 +86,23 @@
     },
     {
         "index": 7,
-        "shop": "大熊海鮮食堂",
+        "shop": "皇冠海岸咖啡坊",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "石門區",
-        "market_address": "新北市石門區楓林１７之４號",
+        "market_address": "新北市石門區楓林２５之１號",
         "pay_list": [
-            "信用卡"
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "橘子支付"
         ]
     },
     {
         "index": 8,
-        "shop": "十八王公土雞城",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "石門區",
-        "market_address": "新北市石門區茂林里小坑２８號右棟",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "春金活海產",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "石門區",
-        "market_address": "新北市石門區楓林１７之８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "味味餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "北北基",
-        "city": "新北市",
-        "area": "石門區",
-        "market_address": "新北市石門區中央路１號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
         "shop": "漁人碼頭代客料理",
         "category": [
             "餐飲"
@@ -149,6 +111,48 @@
         "city": "新北市",
         "area": "石門區",
         "market_address": "新北市石門區楓林１７－３號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "海角一樂園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "石門區",
+        "market_address": "新北市石門區白沙灣別墅２３號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "極北懶熊企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "石門區",
+        "market_address": "新北市石門區山溪里老崩山６之５號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "春金活海產",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "新北市",
+        "area": "石門區",
+        "market_address": "新北市石門區楓林１７之８號",
         "pay_list": [
             "信用卡"
         ]
@@ -169,48 +173,44 @@
     },
     {
         "index": 13,
-        "shop": "皇冠海岸咖啡坊",
+        "shop": "大熊海鮮食堂",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "石門區",
-        "market_address": "新北市石門區楓林２５之１號",
+        "market_address": "新北市石門區楓林１７之４號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "橘子支付"
+            "信用卡"
         ]
     },
     {
         "index": 14,
-        "shop": "海角一樂園",
+        "shop": "味味餐廳",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "石門區",
-        "market_address": "新北市石門區白沙灣別墅２３號",
+        "market_address": "新北市石門區中央路１號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
         "index": 15,
-        "shop": "長角餐廳",
+        "shop": "十八王公土雞城",
         "category": [
             "餐飲"
         ],
         "zone": "北北基",
         "city": "新北市",
         "area": "石門區",
-        "market_address": "新北市石門區德茂里白沙灣別墅５之１號",
+        "market_address": "新北市石門區茂林里小坑２８號右棟",
         "pay_list": [
-            "icash pay",
-            "信用卡"
+            "台灣pay"
         ]
     },
     {

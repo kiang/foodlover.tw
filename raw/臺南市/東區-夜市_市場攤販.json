@@ -1,36 +1,37 @@
 [
     {
         "index": 1,
-        "shop": "巴托企業社",
+        "shop": "馬卡柴餐飲",
         "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "臺南市東　區大智里生產路５１２號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "家家點心",
-        "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區東聖里富農街２段４３巷５號１樓",
+        "market_address": "臺南市東　區富強里裕農路２８８巷１２４弄１９號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "阿梅餐飲",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區關聖里裕平路３９號（虎尾寮市場０００３號）",
+        "pay_list": [
+            "街口"
         ]
     },
     {
         "index": 3,
-        "shop": "虎尾寮公有零售市場-攤10",
+        "shop": "虎尾寮公有零售市場-攤9",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -44,7 +45,7 @@
     },
     {
         "index": 4,
-        "shop": "虎尾寮公有零售市場-攤46",
+        "shop": "虎尾寮公有零售市場-攤9",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -58,7 +59,7 @@
     },
     {
         "index": 5,
-        "shop": "虎尾寮公有零售市場-攤2",
+        "shop": "虎尾寮公有零售市場-攤9",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -72,7 +73,7 @@
     },
     {
         "index": 6,
-        "shop": "虎尾寮公有零售市場-攤51",
+        "shop": "虎尾寮公有零售市場-攤53",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -81,12 +82,14 @@
         "area": "東區",
         "market_address": "台南市東區裕平路39號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "街口"
         ]
     },
     {
         "index": 7,
-        "shop": "虎尾寮公有零售市場-攤39",
+        "shop": "虎尾寮公有零售市場-攤53",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -95,41 +98,13 @@
         "area": "東區",
         "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "台灣Pay",
+            "台灣pay",
             "信用卡",
             "街口"
         ]
     },
     {
         "index": 8,
-        "shop": "虎尾寮公有零售市場-攤3",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "虎尾寮公有零售市場-攤32",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 10,
         "shop": "虎尾寮公有零售市場-攤53",
         "category": [
             "夜市\/市場攤販"
@@ -145,8 +120,36 @@
         ]
     },
     {
+        "index": 9,
+        "shop": "虎尾寮公有零售市場-攤51",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "虎尾寮公有零售市場-攤51",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
         "index": 11,
-        "shop": "虎尾寮公有零售市場-攤38",
+        "shop": "虎尾寮公有零售市場-攤51",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -160,64 +163,63 @@
     },
     {
         "index": 12,
-        "shop": "吳家裕農飲料店",
+        "shop": "虎尾寮公有零售市場-攤48",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區新東里裕農路１７號１樓",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
         "index": 13,
-        "shop": "成大雞排店",
+        "shop": "虎尾寮公有零售市場-攤48",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區成大里育樂街９號１樓",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
         "index": 14,
-        "shop": "日新食品",
+        "shop": "虎尾寮公有零售市場-攤48",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區成大里育樂街９號１樓",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "LINE Pay Money",
             "街口"
         ]
     },
     {
         "index": 15,
-        "shop": "花見食品商行",
+        "shop": "虎尾寮公有零售市場-攤46",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區虎尾里富農街１段１０號１樓",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
         "index": 16,
-        "shop": "虎尾寮公有零售市場-攤21",
+        "shop": "虎尾寮公有零售市場-攤46",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -231,7 +233,7 @@
     },
     {
         "index": 17,
-        "shop": "虎尾寮公有零售市場-攤18",
+        "shop": "虎尾寮公有零售市場-攤46",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -245,7 +247,7 @@
     },
     {
         "index": 18,
-        "shop": "虎尾寮公有零售市場-攤48",
+        "shop": "虎尾寮公有零售市場-攤39",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -254,12 +256,14 @@
         "area": "東區",
         "market_address": "台南市東區裕平路39號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "街口"
         ]
     },
     {
         "index": 19,
-        "shop": "虎尾寮公有零售市場-攤1",
+        "shop": "虎尾寮公有零售市場-攤39",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -268,12 +272,30 @@
         "area": "東區",
         "market_address": "台南市東區裕平路39號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "街口"
         ]
     },
     {
         "index": 20,
-        "shop": "虎尾寮公有零售市場-攤9",
+        "shop": "虎尾寮公有零售市場-攤39",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "台灣Pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "虎尾寮公有零售市場-攤38",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -286,23 +308,8 @@
         ]
     },
     {
-        "index": 21,
-        "shop": "美好精緻食堂",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "臺南市東　區青年路１６４巷２６號（東菜市市場公有零售市場第１２",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
         "index": 22,
-        "shop": "虎尾寮公有零售市場-攤17",
+        "shop": "虎尾寮公有零售市場-攤38",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -316,7 +323,7 @@
     },
     {
         "index": 23,
-        "shop": "虎尾寮公有零售市場-攤30",
+        "shop": "虎尾寮公有零售市場-攤38",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -330,7 +337,7 @@
     },
     {
         "index": 24,
-        "shop": "虎尾寮公有零售市場-攤48",
+        "shop": "虎尾寮公有零售市場-攤32",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -344,7 +351,7 @@
     },
     {
         "index": 25,
-        "shop": "虎尾寮公有零售市場-攤46",
+        "shop": "虎尾寮公有零售市場-攤32",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -386,7 +393,7 @@
     },
     {
         "index": 28,
-        "shop": "虎尾寮公有零售市場-攤21",
+        "shop": "虎尾寮公有零售市場-攤30",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -400,7 +407,7 @@
     },
     {
         "index": 29,
-        "shop": "虎尾寮公有零售市場-攤17",
+        "shop": "虎尾寮公有零售市場-攤30",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -414,137 +421,6 @@
     },
     {
         "index": 30,
-        "shop": "虎尾寮公有零售市場-攤10",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "虎尾寮公有零售市場-攤2",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "巧味食堂",
-        "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "臺南市東　區新東里裕農路６１號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "虎尾寮公有零售市場-攤53",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "虎尾寮公有零售市場-攤51",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "虎尾寮公有零售市場-攤39",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "虎尾寮公有零售市場-攤38",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "虎尾寮公有零售市場-攤18",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "虎尾寮公有零售市場-攤9",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 39,
         "shop": "虎尾寮公有零售市場-攤3",
         "category": [
             "夜市\/市場攤販"
@@ -558,8 +434,134 @@
         ]
     },
     {
+        "index": 31,
+        "shop": "虎尾寮公有零售市場-攤3",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "虎尾寮公有零售市場-攤3",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "虎尾寮公有零售市場-攤21",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 34,
+        "shop": "虎尾寮公有零售市場-攤21",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 35,
+        "shop": "虎尾寮公有零售市場-攤21",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "虎尾寮公有零售市場-攤2",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "虎尾寮公有零售市場-攤2",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "虎尾寮公有零售市場-攤2",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "虎尾寮公有零售市場-攤18",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
         "index": 40,
-        "shop": "虎尾寮公有零售市場-攤1",
+        "shop": "虎尾寮公有零售市場-攤18",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -573,36 +575,190 @@
     },
     {
         "index": 41,
-        "shop": "劉記煙燻魯味〈東菜市市場６０號〉",
+        "shop": "虎尾寮公有零售市場-攤18",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區青年路１６４巷２６號",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
-            "台灣pay"
+            "街口"
         ]
     },
     {
         "index": 42,
-        "shop": "馬卡柴餐飲",
+        "shop": "虎尾寮公有零售市場-攤17",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區富強里裕農路２８８巷１２４弄１９號１樓",
+        "market_address": "台南市東區裕平路39號",
         "pay_list": [
             "街口"
         ]
     },
     {
         "index": 43,
+        "shop": "虎尾寮公有零售市場-攤17",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "虎尾寮公有零售市場-攤17",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 45,
+        "shop": "虎尾寮公有零售市場-攤10",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "虎尾寮公有零售市場-攤10",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "虎尾寮公有零售市場-攤10",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "虎尾寮公有零售市場-攤1",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "虎尾寮公有零售市場-攤1",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "虎尾寮公有零售市場-攤1",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "台南市東區裕平路39號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "花見食品商行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區虎尾里富農街１段１０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "花見食品商行",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區虎尾里富農街１段１０號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 53,
+        "shop": "美好精緻食堂",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區青年路１６４巷２６號（東菜市市場公有零售市場第１２",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 54,
         "shop": "美好精緻食堂",
         "category": [
             "餐飲",
@@ -618,39 +774,23 @@
         ]
     },
     {
-        "index": 44,
-        "shop": "吳家裕農飲料店",
+        "index": 55,
+        "shop": "明智土產牛肉湯店",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區新東里裕農路１７號１樓",
+        "market_address": "臺南市東　區富裕里東區富裕里東門路２段２７１號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay"
         ]
     },
     {
-        "index": 45,
-        "shop": "花見食品商行",
+        "index": 56,
+        "shop": "日新食品",
         "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "臺南市東　區虎尾里富農街１段１０號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "成大雞排店",
-        "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
@@ -658,11 +798,12 @@
         "area": "東區",
         "market_address": "臺南市東　區成大里育樂街９號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
-        "index": 47,
+        "index": 57,
         "shop": "日新食品",
         "category": [
             "餐飲",
@@ -679,236 +820,22 @@
         ]
     },
     {
-        "index": 48,
-        "shop": "虎尾寮公有零售市場-攤53",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 49,
-        "shop": "虎尾寮公有零售市場-攤51",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 50,
-        "shop": "虎尾寮公有零售市場-攤48",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 51,
-        "shop": "虎尾寮公有零售市場-攤46",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 52,
-        "shop": "虎尾寮公有零售市場-攤39",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 53,
-        "shop": "虎尾寮公有零售市場-攤38",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 54,
-        "shop": "虎尾寮公有零售市場-攤32",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "虎尾寮公有零售市場-攤30",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "虎尾寮公有零售市場-攤21",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 57,
-        "shop": "虎尾寮公有零售市場-攤18",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
         "index": 58,
-        "shop": "虎尾寮公有零售市場-攤17",
+        "shop": "成大雞排店",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "台南市東區裕平路39號",
+        "market_address": "臺南市東　區成大里育樂街９號１樓",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 59,
-        "shop": "虎尾寮公有零售市場-攤10",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 60,
-        "shop": "虎尾寮公有零售市場-攤9",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 61,
-        "shop": "虎尾寮公有零售市場-攤3",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 62,
-        "shop": "虎尾寮公有零售市場-攤2",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 63,
-        "shop": "虎尾寮公有零售市場-攤1",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "台南市東區裕平路39號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 64,
-        "shop": "阿梅餐飲",
+        "shop": "成大雞排店",
         "category": [
             "餐飲",
             "夜市\/市場攤販"
@@ -916,27 +843,13 @@
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區關聖里裕平路３９號（虎尾寮市場０００３號）",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 65,
-        "shop": "家家點心",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "東區",
-        "market_address": "臺南市東　區東聖里富農街２段４３巷５號１樓",
+        "market_address": "臺南市東　區成大里育樂街９號１樓",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 66,
+        "index": 60,
         "shop": "您好小火鍋店",
         "category": [
             "夜市\/市場攤販"
@@ -950,15 +863,102 @@
         ]
     },
     {
-        "index": 67,
-        "shop": "明智土產牛肉湯店",
+        "index": 61,
+        "shop": "巴托企業社",
+        "category": [
+            "夜市\/市場攤販",
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區大智里生產路５１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "巧味食堂",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區新東里裕農路６１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "家家點心",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "東區",
-        "market_address": "臺南市東　區富裕里東區富裕里東門路２段２７１號１樓",
+        "market_address": "臺南市東　區東聖里富農街２段４３巷５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "家家點心",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區東聖里富農街２段４３巷５號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "吳家裕農飲料店",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區新東里裕農路１７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "吳家裕農飲料店",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區新東里裕農路１７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "劉記煙燻魯味〈東菜市市場６０號〉",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "東區",
+        "market_address": "臺南市東　區青年路１６４巷２６號",
         "pay_list": [
             "台灣pay"
         ]

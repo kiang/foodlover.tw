@@ -1,6 +1,34 @@
 [
     {
         "index": 1,
+        "shop": "雅根茶坊藝品店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉紅頭村００２鄰紅頭３８－１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "蘭色公路休閒旅遊餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉紅頭村　１鄰紅頭１－８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "蘭嶼農特產企業社",
         "category": [
             "餐飲"
@@ -14,45 +42,20 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "海洋小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉椰油村椰油２９６－１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "蘭嶼旅人食堂",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭路９９號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
         "index": 4,
-        "shop": "剛館企業社",
+        "shop": "蘭嶼農特產企業社",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉東清村東清路１１５－１號",
+        "market_address": "臺東縣蘭嶼鄉椰油村１鄰椰油９號",
         "pay_list": [
-            "街口"
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -71,78 +74,34 @@
     },
     {
         "index": 6,
-        "shop": "咕漫餐廳",
+        "shop": "蘭嶼旅人食堂",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉東清村東清１４０號",
+        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭路２５－１號旁",
         "pay_list": [
-            "台灣pay"
+            "街口"
         ]
     },
     {
         "index": 7,
-        "shop": "在海邊有限公司",
+        "shop": "蘭嶼旅人食堂",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉朗島村朗島２７７號",
+        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭路９９號",
         "pay_list": [
-            "台灣pay",
-            "信用卡"
+            "街口"
         ]
     },
     {
         "index": 8,
-        "shop": "海洋小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉椰油村椰油２９６－１號",
-        "pay_list": [
-            "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "晴西餐坊驛棧",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭１－３７號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "嘎琺渡灣企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉椰油村椰油１－８號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
         "shop": "獨木舟海景山莊",
         "category": [
             "餐飲"
@@ -157,52 +116,36 @@
         ]
     },
     {
-        "index": 12,
-        "shop": "勵德班平板雕刻企業社",
+        "index": 9,
+        "shop": "海洋小吃部",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉東清村東清路７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "蘭嶼農特產企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉椰油村１鄰椰油９號",
+        "market_address": "臺東縣蘭嶼鄉椰油村椰油２９６－１號",
         "pay_list": [
             "台灣pay",
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 14,
-        "shop": "蘭嶼旅人食堂",
+        "index": 10,
+        "shop": "海洋小吃部",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭路２５－１號旁",
+        "market_address": "臺東縣蘭嶼鄉椰油村椰油２９６－１號",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 15,
+        "index": 11,
         "shop": "服恩民宿",
         "category": [
             "餐飲"
@@ -216,31 +159,88 @@
         ]
     },
     {
-        "index": 16,
-        "shop": "雅根茶坊藝品店",
+        "index": 12,
+        "shop": "晴西餐坊驛棧",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉紅頭村００２鄰紅頭３８－１號",
+        "market_address": "臺東縣蘭嶼鄉紅頭村紅頭１－３７號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 17,
-        "shop": "蘭色公路休閒旅遊餐館",
+        "index": 13,
+        "shop": "在海邊有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "蘭嶼鄉",
-        "market_address": "臺東縣蘭嶼鄉紅頭村　１鄰紅頭１－８號",
+        "market_address": "臺東縣蘭嶼鄉朗島村朗島２７７號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "嘎琺渡灣企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉椰油村椰油１－８號１樓",
         "pay_list": [
             "信用卡"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "咕漫餐廳",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉東清村東清１４０號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "勵德班平板雕刻企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉東清村東清路７號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "剛館企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "蘭嶼鄉",
+        "market_address": "臺東縣蘭嶼鄉東清村東清路１１５－１號",
+        "pay_list": [
+            "街口"
         ]
     }
 ]

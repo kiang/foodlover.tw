@@ -1,79 +1,35 @@
 [
     {
         "index": 1,
-        "shop": "如妡商行",
+        "shop": "阿海牛肉麵",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１２７―４號",
+        "market_address": "高雄市燕巢區南燕里２４鄰下市場３﹒４號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay"
         ]
     },
     {
         "index": 2,
-        "shop": "綺綺飲料店",
+        "shop": "阿榮水餃店（八方食堂樹德店）",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里２２鄰中民路６３０號",
+        "market_address": "高雄市燕巢區橫山里橫山路５９號",
         "pay_list": [
-            "LINE Pay Money",
-            "信用卡"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 3,
-        "shop": "品鮮小吃部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里２１鄰中民路７０４號１樓　",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "蘢臣商號",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里０２１鄰中民路７０６號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "政倡美食小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里大學路１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 6,
         "shop": "阿榮水餃店（八方食堂樹德店）",
         "category": [
             "餐飲"
@@ -87,22 +43,56 @@
         ]
     },
     {
-        "index": 7,
-        "shop": "安凰商行",
+        "index": 4,
+        "shop": "銘記筒仔米糕燕巢店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里鳳旗路２６４號",
+        "market_address": "高雄市燕巢區南燕里中民路６６３－７號",
         "pay_list": [
-            "台灣Pay",
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
-        "index": 8,
+        "index": 5,
+        "shop": "貢茶燕巢中民店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里２２鄰中民路６３０號",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "詠全冷飲站",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區南燕里中民路６６３之９號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 7,
         "shop": "詠全冷飲站",
         "category": [
             "餐飲"
@@ -118,17 +108,37 @@
         ]
     },
     {
-        "index": 9,
-        "shop": "勁讚綠茶專賣店",
+        "index": 8,
+        "shop": "蘢臣商號",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里中民路７３２號１樓",
+        "market_address": "高雄市燕巢區西燕里０２１鄰中民路７０６號",
         "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "蘢臣商號",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里０２１鄰中民路７０６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -148,34 +158,6 @@
     },
     {
         "index": 11,
-        "shop": "皇樓港式茶樓股份有限公司燕巢營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區義大路２１號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "展恩晨食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里０３７鄰中西路７２號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 13,
         "shop": "菁神豆行（菁咖啡）",
         "category": [
             "餐飲"
@@ -189,21 +171,24 @@
         ]
     },
     {
-        "index": 14,
-        "shop": "提克斯國際社樹德科大營業所",
+        "index": 12,
+        "shop": "菁神豆行（菁咖啡）",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山路５９號（樹德科大）",
+        "market_address": "高雄市燕巢區橫山路８６號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 15,
+        "index": 13,
         "shop": "義大利麵先生樹德店",
         "category": [
             "餐飲"
@@ -217,21 +202,265 @@
         ]
     },
     {
-        "index": 16,
-        "shop": "啥米窯烤披薩",
+        "index": 14,
+        "shop": "義大利麵先生樹德店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區深水里０１４鄰臥牛巷７―７號",
+        "market_address": "高雄市燕巢區橫山里橫山路５９號（樹德科大）",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "綺綺飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里２２鄰中民路６３０號",
+        "pay_list": [
+            "LINE Pay Money",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "福祥金鑽",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區南燕里中西路６７號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
         "index": 17,
+        "shop": "皇樓港式茶樓股份有限公司義大營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區角宿里義大路１號地下１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "皇樓港式茶樓股份有限公司燕巢營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區義大路２１號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "皇樓港式茶樓股份有限公司燕巢營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區義大路２１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "李記實業有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區瓊林里安招路１０５８巷６８號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 21,
+        "shop": "新方海產店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里４０鄰中民路７４６號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "政倡美食小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區鳳雄里大學路１號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "政倡美食小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區鳳雄里大學路１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "提克斯國際社樹德科大營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區橫山路５９號（樹德科大）",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "提克斯國際社樹德科大營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區橫山路５９號（樹德科大）",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "懷心龍小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區橫山里橫山路８８－１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "川味牛肉麵",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區南燕里２８鄰中民路７０３號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "展恩晨食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里０３７鄰中西路７２號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "展恩晨食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區西燕里０３７鄰中西路７２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "家宴餐飲顧問有限公司義大醫學分公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區角宿里義大路８號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "安凰商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區鳳雄里鳳旗路２６４號",
+        "pay_list": [
+            "台灣Pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 32,
         "shop": "安凰商行",
         "category": [
             "餐飲"
@@ -246,63 +475,39 @@
         ]
     },
     {
-        "index": 18,
-        "shop": "川味牛肉麵",
+        "index": 33,
+        "shop": "守芯冷飲",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區南燕里２８鄰中民路７０３號１樓",
+        "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１６３號１樓",
         "pay_list": [
-            "台灣pay"
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 19,
-        "shop": "冠泓食品行",
+        "index": 34,
+        "shop": "孩子王水餃店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區安招里安招路１３１－８號",
+        "market_address": "高雄市燕巢區鳳雄里鳳旗路１２７－５號",
         "pay_list": [
-            "台灣pay"
+            "台灣pay",
+            "信用卡"
         ]
     },
     {
-        "index": 20,
-        "shop": "銘記筒仔米糕燕巢店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區南燕里中民路６６３－７號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "阿海牛肉麵",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區南燕里２４鄰下市場３﹒４號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 22,
+        "index": 35,
         "shop": "如妡商行",
         "category": [
             "餐飲"
@@ -320,145 +525,36 @@
         ]
     },
     {
-        "index": 23,
-        "shop": "皇樓港式茶樓股份有限公司義大營業所",
+        "index": 36,
+        "shop": "如妡商行",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區角宿里義大路１號地下１樓",
+        "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１２７―４號",
         "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "阿榮水餃店（八方食堂樹德店）",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山里橫山路５９號",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "皇樓港式茶樓股份有限公司燕巢營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區義大路２１號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "菁神豆行（菁咖啡）",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山路８６號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "詠全冷飲站",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區南燕里中民路６６３之９號",
-        "pay_list": [
-            "街口",
             "LINE Pay Money",
-            "悠遊付",
-            "橘子支付"
+            "悠遊付"
         ]
     },
     {
-        "index": 28,
-        "shop": "家宴餐飲顧問有限公司義大醫學分公司",
+        "index": 37,
+        "shop": "啥米窯烤披薩",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區角宿里義大路８號",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "福祥金鑽",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區南燕里中西路６７號１樓",
+        "market_address": "高雄市燕巢區深水里０１４鄰臥牛巷７―７號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 30,
-        "shop": "義大利麵先生樹德店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山里橫山路５９號（樹德科大）",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "貢茶燕巢中民店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里２２鄰中民路６３０號",
-        "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 32,
+        "index": 38,
         "shop": "哈米食堂",
         "category": [
             "餐飲"
@@ -473,145 +569,37 @@
         ]
     },
     {
-        "index": 33,
-        "shop": "提克斯國際社樹德科大營業所",
+        "index": 39,
+        "shop": "品鮮小吃部",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山路５９號（樹德科大）",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "新方海產店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里４０鄰中民路７４６號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "守芯冷飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１６３號１樓",
-        "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "李記實業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區瓊林里安招路１０５８巷６８號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "政倡美食小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里大學路１號",
+        "market_address": "高雄市燕巢區西燕里２１鄰中民路７０４號１樓　",
         "pay_list": [
             "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 38,
-        "shop": "展恩晨食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里０３７鄰中西路７２號１樓",
-        "pay_list": [
             "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 39,
-        "shop": "懷心龍小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區橫山里橫山路８８－１號",
-        "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
         "index": 40,
-        "shop": "蘢臣商號",
+        "shop": "品鮮小吃部",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里０２１鄰中民路７０６號",
+        "market_address": "高雄市燕巢區西燕里２１鄰中民路７０４號１樓　",
         "pay_list": [
-            "Pi 拍錢包",
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "街口",
             "LINE Pay Money"
         ]
     },
     {
         "index": 41,
-        "shop": "孩子王水餃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "燕巢區",
-        "market_address": "高雄市燕巢區鳳雄里鳳旗路１２７－５號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 42,
         "shop": "勁讚綠茶專賣店",
         "category": [
             "餐飲"
@@ -628,19 +616,31 @@
         ]
     },
     {
-        "index": 43,
-        "shop": "品鮮小吃部",
+        "index": 42,
+        "shop": "勁讚綠茶專賣店",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "高雄市",
         "area": "燕巢區",
-        "market_address": "高雄市燕巢區西燕里２１鄰中民路７０４號１樓　",
+        "market_address": "高雄市燕巢區西燕里中民路７３２號１樓",
         "pay_list": [
-            "台灣pay",
-            "街口",
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "冠泓食品行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "燕巢區",
+        "market_address": "高雄市燕巢區安招里安招路１３１－８號",
+        "pay_list": [
+            "台灣pay"
         ]
     }
 ]

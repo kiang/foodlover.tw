@@ -1,21 +1,38 @@
 [
     {
         "index": 1,
-        "shop": "琪華商行",
+        "shop": "阿翔醬燒雞排",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市岩灣里００１鄰新站路５號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "阿翔醬燒雞排",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市民生里中正路３６１號１樓",
+        "market_address": "臺東縣臺東市岩灣里００１鄰新站路５號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
-        "index": 2,
-        "shop": "觀光夜市-後山香腸",
+        "index": 3,
+        "shop": "觀光夜市-阿明東山鴨頭",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -29,22 +46,8 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
         "index": 4,
-        "shop": "觀光夜市-小鳳地瓜球",
+        "shop": "觀光夜市-阿明東山鴨頭",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -58,7 +61,7 @@
     },
     {
         "index": 5,
-        "shop": "觀光夜市-老刁碳烤玉米",
+        "shop": "觀光夜市-阿明東山鴨頭",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -67,27 +70,12 @@
         "area": "臺東市",
         "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "台灣Pay",
             "街口"
         ]
     },
     {
         "index": 6,
-        "shop": "客家灶堂",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市新生里杭州街３９４號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "觀光夜市-玻璃貼",
+        "shop": "觀光夜市-醬燒雞排",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -96,6 +84,22 @@
         "area": "臺東市",
         "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 7,
+        "shop": "觀光夜市-醬燒雞排",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
@@ -115,22 +119,21 @@
     },
     {
         "index": 9,
-        "shop": "阿翔醬燒雞排",
+        "shop": "觀光夜市-酥炸大魷魚",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市岩灣里００１鄰新站路５號１樓",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "LINE Pay Money",
             "街口"
         ]
     },
     {
         "index": 10,
-        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "shop": "觀光夜市-酥炸大魷魚",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -144,49 +147,6 @@
     },
     {
         "index": 11,
-        "shop": "觀光夜市-芭樂王子",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣Pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "觀光夜市-小高果茶店",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "觀光夜市-日船章魚小丸子",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 14,
         "shop": "觀光夜市-部落炭烤",
         "category": [
             "夜市\/市場攤販"
@@ -200,8 +160,8 @@
         ]
     },
     {
-        "index": 15,
-        "shop": "觀光夜市-(巧)烤鮮蚵",
+        "index": 12,
+        "shop": "觀光夜市-部落炭烤",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -210,28 +170,68 @@
         "area": "臺東市",
         "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "台灣Pay",
             "街口"
         ]
     },
     {
-        "index": 16,
-        "shop": "珊泉企業社",
+        "index": 13,
+        "shop": "觀光夜市-部落炭烤",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市豐里里中華路四段１６號",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
             "街口"
         ]
     },
     {
         "index": 17,
-        "shop": "觀光夜市-李記甘草芭樂",
+        "shop": "觀光夜市-芭樂王子",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -246,107 +246,6 @@
     },
     {
         "index": 18,
-        "shop": "第一公有零售市場-地棟036號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 19,
-        "shop": "萊客多起士咖哩",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市豐年里中興路三段５７９巷１０６弄２３號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "老子胖卡餐車商行",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市民族里０１８鄰正氣路３９３－６號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "第一公有零售市場-地棟016號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 22,
-        "shop": "觀光夜市-阿明東山鴨頭",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 23,
-        "shop": "觀光夜市-何記東山鴨頭",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "佳霖管理顧問有限公司",
-        "category": [
-            "夜市\/市場攤販",
-            "餐飲"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市豐田里祥和路８３巷８號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 25,
         "shop": "觀光夜市-芭樂王子",
         "category": [
             "夜市\/市場攤販"
@@ -361,122 +260,7 @@
         ]
     },
     {
-        "index": 26,
-        "shop": "觀光夜市-部落炭烤",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "觀光夜市-玻璃貼",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "觀光夜市-何記東山鴨頭",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "觀光夜市-紅蘋果可麗餅",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "觀光夜市-(巧)烤鮮蚵",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "觀光夜市-後山香腸",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "觀光夜市-酥炸大魷魚",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "觀光夜市-醬燒雞排",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 34,
+        "index": 19,
         "shop": "觀光夜市-老刁碳烤玉米",
         "category": [
             "夜市\/市場攤販"
@@ -491,8 +275,8 @@
         ]
     },
     {
-        "index": 35,
-        "shop": "觀光夜市-大宣宣雞蛋糕",
+        "index": 20,
+        "shop": "觀光夜市-老刁碳烤玉米",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -501,12 +285,42 @@
         "area": "臺東市",
         "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "台灣pay"
+            "台灣Pay",
+            "街口"
         ]
     },
     {
-        "index": 36,
-        "shop": "觀光夜市-小鳳地瓜球",
+        "index": 21,
+        "shop": "觀光夜市-老刁碳烤玉米",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "觀光夜市-紅蘋果可麗餅",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "觀光夜市-玻璃貼",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -519,83 +333,63 @@
         ]
     },
     {
-        "index": 37,
-        "shop": "翔圻工作坊",
+        "index": 24,
+        "shop": "觀光夜市-玻璃貼",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市卑南里０２８鄰更生北路３２６號１樓",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
-        "index": 38,
-        "shop": "客家灶堂",
+        "index": 25,
+        "shop": "觀光夜市-玻璃貼",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市新生里杭州街３９４號１樓",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
-        "index": 39,
-        "shop": "台東徑廣東路蔥油餅",
+        "index": 26,
+        "shop": "觀光夜市-港式燒賣",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市富豐里００９鄰吉林路一段２０７－１號",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 40,
-        "shop": "琪華商行",
+        "index": 27,
+        "shop": "觀光夜市-派大星土托魚羹",
         "category": [
-            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市民生里中正路３６１號１樓",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay"
         ]
     },
     {
-        "index": 41,
-        "shop": "老子胖卡餐車商行",
-        "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市民族里０１８鄰正氣路３９３－６號",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 42,
+        "index": 28,
         "shop": "觀光夜市-泰式奶茶",
         "category": [
             "夜市\/市場攤販"
@@ -611,7 +405,22 @@
         ]
     },
     {
-        "index": 43,
+        "index": 29,
+        "shop": "觀光夜市-李記甘草芭樂",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "台灣Pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 30,
         "shop": "觀光夜市-李記甘草芭樂",
         "category": [
             "夜市\/市場攤販"
@@ -626,8 +435,8 @@
         ]
     },
     {
-        "index": 44,
-        "shop": "觀光夜市-何記東山鴨頭",
+        "index": 31,
+        "shop": "觀光夜市-李記甘草芭樂",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -636,39 +445,12 @@
         "area": "臺東市",
         "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
+            "台灣pay",
             "街口"
         ]
     },
     {
-        "index": 45,
-        "shop": "觀光夜市-派大星土托魚羹",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 46,
-        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 47,
+        "index": 32,
         "shop": "觀光夜市-日船章魚小丸子",
         "category": [
             "夜市\/市場攤販"
@@ -682,8 +464,8 @@
         ]
     },
     {
-        "index": 48,
-        "shop": "觀光夜市-阿明東山鴨頭",
+        "index": 33,
+        "shop": "觀光夜市-日船章魚小丸子",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -696,22 +478,8 @@
         ]
     },
     {
-        "index": 49,
-        "shop": "觀光夜市-港式燒賣",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 50,
-        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "index": 34,
+        "shop": "觀光夜市-日船章魚小丸子",
         "category": [
             "夜市\/市場攤販"
         ],
@@ -724,7 +492,92 @@
         ]
     },
     {
-        "index": 51,
+        "index": 35,
+        "shop": "觀光夜市-後山香腸",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "觀光夜市-後山香腸",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "觀光夜市-後山香腸",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "觀光夜市-小鳳地瓜球",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 39,
+        "shop": "觀光夜市-小鳳地瓜球",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "觀光夜市-小鳳地瓜球",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 41,
         "shop": "觀光夜市-小高果茶店",
         "category": [
             "夜市\/市場攤販"
@@ -738,21 +591,451 @@
         ]
     },
     {
-        "index": 52,
-        "shop": "正海城北方小館",
+        "index": 42,
+        "shop": "觀光夜市-小高果茶店",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市新生里開封街３６６號",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 43,
+        "shop": "觀光夜市-小高果茶店",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 44,
+        "shop": "觀光夜市-大宣宣雞蛋糕",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
+        "index": 45,
+        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 46,
+        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 47,
+        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 48,
+        "shop": "觀光夜市-何記東山鴨頭",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 49,
+        "shop": "觀光夜市-何記東山鴨頭",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "LINE Pay Money",
+            "街口"
+        ]
+    },
+    {
+        "index": 50,
+        "shop": "觀光夜市-何記東山鴨頭",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 51,
+        "shop": "觀光夜市-何記東山鴨頭",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 52,
+        "shop": "觀光夜市-何記東山鴨頭",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
         "index": 53,
+        "shop": "觀光夜市-(巧)烤鮮蚵",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "台灣Pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 54,
+        "shop": "觀光夜市-(巧)烤鮮蚵",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 55,
+        "shop": "觀光夜市-(巧)烤鮮蚵",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "pay_list": [
+            "台灣pay",
+            "街口"
+        ]
+    },
+    {
+        "index": 56,
+        "shop": "萊客多起士咖哩",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市豐年里中興路三段５７９巷１０６弄２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 57,
+        "shop": "萊客多起士咖哩",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市豐年里中興路三段５７９巷１０６弄２３號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 58,
+        "shop": "老子胖卡餐車商行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市民族里０１８鄰正氣路３９３－６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 59,
+        "shop": "老子胖卡餐車商行",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市民族里０１８鄰正氣路３９３－６號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 60,
+        "shop": "翔圻工作坊",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市卑南里０２８鄰更生北路３２６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 61,
+        "shop": "第一公有零售市場-地棟036號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 62,
+        "shop": "第一公有零售市場-地棟036號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 63,
+        "shop": "第一公有零售市場-地棟025號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 64,
+        "shop": "第一公有零售市場-地棟016號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 65,
+        "shop": "第一公有零售市場-地棟016號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 66,
+        "shop": "第一公有零售市場-地棟010號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 67,
+        "shop": "第一公有零售市場-地棟005號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 68,
+        "shop": "第一公有零售市場-人棟127號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 69,
+        "shop": "第一公有零售市場-人棟109號",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 70,
+        "shop": "秘密雞地坊",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市南王里更生北路６０９號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 71,
+        "shop": "琪華商行",
+        "category": [
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市民生里中正路３６１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 72,
+        "shop": "琪華商行",
+        "category": [
+            "餐飲",
+            "夜市\/市場攤販"
+        ],
+        "zone": "台東",
+        "city": "臺東縣",
+        "area": "臺東市",
+        "market_address": "臺東縣臺東市民生里中正路３６１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 73,
         "shop": "珊泉企業社",
         "category": [
             "餐飲",
@@ -768,375 +1051,92 @@
         ]
     },
     {
-        "index": 54,
-        "shop": "阿翔醬燒雞排",
-        "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市岩灣里００１鄰新站路５號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 55,
-        "shop": "第一公有零售市場-地棟010號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 56,
-        "shop": "萊客多起士咖哩",
-        "category": [
-            "餐飲",
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市豐年里中興路三段５７９巷１０６弄２３號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 57,
-        "shop": "觀光夜市-部落炭烤",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 58,
-        "shop": "觀光夜市-李記甘草芭樂",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 59,
-        "shop": "觀光夜市-何記東山鴨頭",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 60,
-        "shop": "觀光夜市-(巧)烤鮮蚵",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "台灣pay",
-            "街口"
-        ]
-    },
-    {
-        "index": 61,
-        "shop": "觀光夜市-酥炸大魷魚",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 62,
-        "shop": "觀光夜市-醬燒雞排",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 63,
-        "shop": "觀光夜市-小鳳地瓜球",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 64,
-        "shop": "觀光夜市-小高果茶店",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 65,
-        "shop": "第一公有零售市場-地棟036號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 66,
-        "shop": "第一公有零售市場-地棟025號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 67,
-        "shop": "第一公有零售市場-地棟016號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 68,
-        "shop": "第一公有零售市場-地棟005號",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 69,
-        "shop": "秘密雞地坊",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市南王里更生北路６０９號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 70,
-        "shop": "觀光夜市-玻璃貼",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 71,
-        "shop": "觀光夜市-何記東山鴨頭",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "LINE Pay Money",
-            "街口"
-        ]
-    },
-    {
-        "index": 72,
-        "shop": "觀光夜市-花縣幸福鮮奶雞蛋糕",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 73,
-        "shop": "觀光夜市-後山香腸",
-        "category": [
-            "夜市\/市場攤販"
-        ],
-        "zone": "台東",
-        "city": "臺東縣",
-        "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
         "index": 74,
-        "shop": "觀光夜市-日船章魚小丸子",
+        "shop": "珊泉企業社",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "market_address": "臺東縣臺東市豐里里中華路四段１６號",
         "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
     {
         "index": 75,
-        "shop": "觀光夜市-阿明東山鴨頭",
+        "shop": "正海城北方小館",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "market_address": "臺東縣臺東市新生里開封街３６６號",
         "pay_list": [
-            "街口"
+            "台灣pay"
         ]
     },
     {
         "index": 76,
-        "shop": "觀光夜市-初。幸福現烤甜甜圈",
+        "shop": "客家灶堂",
         "category": [
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "market_address": "臺東縣臺東市新生里杭州街３９４號１樓",
         "pay_list": [
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 77,
-        "shop": "觀光夜市-老刁碳烤玉米",
+        "shop": "客家灶堂",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路280巷9號",
+        "market_address": "臺東縣臺東市新生里杭州街３９４號１樓",
         "pay_list": [
-            "台灣pay",
-            "街口"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 78,
-        "shop": "第一公有零售市場-人棟127號",
+        "shop": "台東徑廣東路蔥油餅",
         "category": [
+            "餐飲",
             "夜市\/市場攤販"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "market_address": "臺東縣臺東市富豐里００９鄰吉林路一段２０７－１號",
         "pay_list": [
-            "信用卡"
+            "台灣pay"
         ]
     },
     {
         "index": 79,
-        "shop": "第一公有零售市場-人棟109號",
+        "shop": "佳霖管理顧問有限公司",
         "category": [
-            "夜市\/市場攤販"
+            "夜市\/市場攤販",
+            "餐飲"
         ],
         "zone": "台東",
         "city": "臺東縣",
         "area": "臺東市",
-        "market_address": "臺東縣臺東市正氣路261巷1號",
+        "market_address": "臺東縣臺東市豐田里祥和路８３巷８號",
         "pay_list": [
-            "台灣pay"
+            "信用卡",
+            "悠遊卡"
         ]
     }
 ]

@@ -1,20 +1,6 @@
 [
     {
         "index": 1,
-        "shop": "僑元食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區新和里中華路２段４８４巷８號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 2,
         "shop": "陸六超級商行",
         "category": [
             "糕餅"
@@ -28,17 +14,34 @@
         ]
     },
     {
-        "index": 3,
-        "shop": "千益商行",
+        "index": 2,
+        "shop": "陸六超級商行",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區峨眉街４４號１樓",
+        "market_address": "臺北市萬華區萬大路４２４巷１５６號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "阿默企業股份有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區雙園里艋舺大道１８４號",
+        "pay_list": [
+            "信用卡"
         ]
     },
     {
@@ -57,104 +60,24 @@
     },
     {
         "index": 5,
-        "shop": "港記酥皇有限公司",
+        "shop": "錦美香小吃店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區福星里漢中街６―２號１樓",
+        "market_address": "臺北市萬華區華江里環河南路２段２０２號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "南蠻堂有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區福星里開封街２段４８號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "永恆製麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區福音里三水街７１之１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "婕絲手工烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區長泰街１５６巷１２號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "峨眉六六商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區西門里峨眉街６６號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "二和珍糕點有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區富民里康定路３０８號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "夏洛蒂有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區新起里內江街８６號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 12,
         "shop": "財團法人台北市文化基金會西門紅樓",
         "category": [
             "糕餅",
@@ -169,22 +92,38 @@
         ]
     },
     {
-        "index": 13,
-        "shop": "南美股份有限公司",
+        "index": 7,
+        "shop": "財團法人台北市文化基金會西門紅樓",
         "category": [
-            "餐飲",
+            "糕餅",
+            "餐飲"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區西門里成都路１０號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "萬華太和食品行",
+        "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區成都路４４號",
+        "market_address": "臺北市萬華區富民里康定路３００號",
         "pay_list": [
-            "悠遊付"
+            "台灣pay"
         ]
     },
     {
-        "index": 14,
+        "index": 9,
         "shop": "義美股份有限公司青年公園一分公司",
         "category": [
             "糕餅"
@@ -200,7 +139,7 @@
         ]
     },
     {
-        "index": 15,
+        "index": 10,
         "shop": "義美股份有限公司萬華分公司",
         "category": [
             "糕餅"
@@ -216,32 +155,75 @@
         ]
     },
     {
-        "index": 16,
-        "shop": "財團法人台北市文化基金會西門紅樓",
+        "index": 11,
+        "shop": "美味達人股份有限公司萬華分公司",
         "category": [
-            "糕餅",
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區西門里成都路１０號",
+        "market_address": "臺北市萬華區富民里廣州街１５０號",
         "pay_list": [
             "信用卡",
-            "悠遊卡",
+            "LINE Pay Money",
             "悠遊付"
         ]
     },
     {
-        "index": 17,
-        "shop": "南蠻堂有限公司",
+        "index": 12,
+        "shop": "瞞著爹股份有限公司",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區萬壽里武昌街二段８２巷２弄４號４樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "生活好好事業股份有限公司",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區福星里開封街２段４８號",
+        "market_address": "臺北市萬華區萬壽里峨眉街５號３樓之１３",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "港記酥皇有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福星里漢中街６―２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "港記酥皇有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福星里漢中街６―２號１樓",
         "pay_list": [
             "台灣pay",
             "信用卡",
@@ -249,20 +231,47 @@
         ]
     },
     {
-        "index": 18,
-        "shop": "陸六超級商行",
+        "index": 16,
+        "shop": "永恆製麵店",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區萬大路４２４巷１５６號１樓",
+        "market_address": "臺北市萬華區福音里三水街７１之１號",
         "pay_list": [
             "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "悠遊卡"
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "永恆製麵店",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福音里三水街７１之１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "歐立食品股份有限公司西門二店門市部",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區新起里中華路一段１６６―１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
@@ -282,36 +291,6 @@
     },
     {
         "index": 20,
-        "shop": "永恆製麵店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區福音里三水街７１之１號",
-        "pay_list": [
-            "台灣pay",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 21,
-        "shop": "歐立食品股份有限公司西門二店門市部",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區新起里中華路一段１６６―１號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 22,
         "shop": "峨眉六六商行",
         "category": [
             "糕餅"
@@ -327,210 +306,21 @@
         ]
     },
     {
-        "index": 23,
-        "shop": "港記酥皇有限公司",
+        "index": 21,
+        "shop": "峨眉六六商行",
         "category": [
             "糕餅"
         ],
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區福星里漢中街６―２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "如邑堂餅家有限公司台北分公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區福星里開封街２段２２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "阿默企業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區雙園里艋舺大道１８４號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 26,
-        "shop": "唯星烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區糖??里糖廍里大理街１４４號１樓",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "僑元食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區新和里中華路２段４８４巷８號１樓",
-        "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "萬華太和食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區富民里康定路３００號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "夏洛蒂有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區新起里內江街８６號",
-        "pay_list": [
-            "橘子支付",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "美味達人股份有限公司萬華分公司",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區富民里廣州街１５０號",
-        "pay_list": [
-            "信用卡",
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 31,
-        "shop": "二和珍糕點有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區富民里康定路３０８號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 32,
-        "shop": "大展食品行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區萬壽里武昌街２段７４號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 33,
-        "shop": "婕絲手工烘焙坊",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區長泰街１５６巷１２號１樓",
+        "market_address": "臺北市萬華區西門里峨眉街６６號",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 34,
-        "shop": "錦美香小吃店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區華江里環河南路２段２０２號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "生活好好事業股份有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區萬壽里峨眉街５號３樓之１３",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 36,
+        "index": 22,
         "shop": "實品實業股份有限公司",
         "category": [
             "糕餅"
@@ -547,8 +337,158 @@
         ]
     },
     {
-        "index": 37,
-        "shop": "瞞著爹股份有限公司",
+        "index": 23,
+        "shop": "宏華食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區成都路４７號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "婕絲手工烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區長泰街１５６巷１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "婕絲手工烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區長泰街１５６巷１２號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "如邑堂餅家有限公司台北分公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福星里開封街２段２２號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "大展食品行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區萬壽里武昌街２段７４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "夏洛蒂有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區新起里內江街８６號",
+        "pay_list": [
+            "橘子支付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "夏洛蒂有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區新起里內江街８６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 30,
+        "shop": "唯星烘焙坊",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區糖??里糖廍里大理街１４４號１樓",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 31,
+        "shop": "南蠻堂有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福星里開封街２段４８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 32,
+        "shop": "南蠻堂有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區福星里開封街２段４８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "南美股份有限公司",
         "category": [
             "餐飲",
             "糕餅"
@@ -556,13 +496,13 @@
         "zone": "北北基",
         "city": "臺北市",
         "area": "萬華區",
-        "market_address": "臺北市萬華區萬壽里武昌街二段８２巷２弄４號４樓",
+        "market_address": "臺北市萬華區成都路４４號",
         "pay_list": [
-            "信用卡"
+            "悠遊付"
         ]
     },
     {
-        "index": 38,
+        "index": 34,
         "shop": "南美股份有限公司",
         "category": [
             "餐飲",
@@ -580,7 +520,99 @@
         ]
     },
     {
+        "index": 35,
+        "shop": "千益商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區峨眉街４４號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "千益商行",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區峨眉街４４號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 37,
+        "shop": "僑元食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區新和里中華路２段４８４巷８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 38,
+        "shop": "僑元食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區新和里中華路２段４８４巷８號１樓",
+        "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
         "index": 39,
+        "shop": "二和珍糕點有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區富民里康定路３０８號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 40,
+        "shop": "二和珍糕點有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "北北基",
+        "city": "臺北市",
+        "area": "萬華區",
+        "market_address": "臺北市萬華區富民里康定路３０８號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 41,
         "shop": "世運食品股份有限公司",
         "category": [
             "糕餅"
@@ -594,38 +626,6 @@
             "信用卡",
             "悠遊卡",
             "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 40,
-        "shop": "宏華食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區成都路４７號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 41,
-        "shop": "千益商行",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "北北基",
-        "city": "臺北市",
-        "area": "萬華區",
-        "market_address": "臺北市萬華區峨眉街４４號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     }

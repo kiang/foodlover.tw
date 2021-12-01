@@ -1,6 +1,35 @@
 [
     {
         "index": 1,
+        "shop": "雷叔企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "瑪家鄉",
+        "market_address": "屏東縣瑪家鄉北葉村風景巷１６―１號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "銘泉生態休閒農場",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "瑪家鄉",
+        "market_address": "屏東縣瑪家鄉佳義村泰平巷１１４―６號",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "銘泉生態休閒農場",
         "category": [
             "餐飲"
@@ -14,45 +43,18 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "寶薌企業有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉瑪家村００７鄰瑪卡札亞街２３巷１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "亮嫂早餐",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉北葉村風景３４號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 4,
-        "shop": "亮嫂早餐",
+        "shop": "統和企業社",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉北葉村風景３４號",
+        "market_address": "屏東縣瑪家鄉三和村三和１－１０號",
         "pay_list": [
             "台灣pay",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -72,36 +74,6 @@
     },
     {
         "index": 6,
-        "shop": "雷叔企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉北葉村風景巷１６―１號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "統和企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉三和村三和１－１０號",
-        "pay_list": [
-            "台灣pay",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 8,
         "shop": "寶薌企業有限公司",
         "category": [
             "餐飲"
@@ -117,15 +89,43 @@
         ]
     },
     {
-        "index": 9,
-        "shop": "銘泉生態休閒農場",
+        "index": 7,
+        "shop": "寶薌企業有限公司",
         "category": [
             "餐飲"
         ],
         "zone": "高屏",
         "city": "屏東縣",
         "area": "瑪家鄉",
-        "market_address": "屏東縣瑪家鄉佳義村泰平巷１１４―６號",
+        "market_address": "屏東縣瑪家鄉瑪家村００７鄰瑪卡札亞街２３巷１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "亮嫂早餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "瑪家鄉",
+        "market_address": "屏東縣瑪家鄉北葉村風景３４號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 9,
+        "shop": "亮嫂早餐",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "瑪家鄉",
+        "market_address": "屏東縣瑪家鄉北葉村風景３４號",
         "pay_list": [
             "台灣pay",
             "LINE Pay Money"

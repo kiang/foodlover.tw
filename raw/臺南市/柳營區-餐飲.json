@@ -1,63 +1,24 @@
 [
     {
         "index": 1,
-        "shop": "尖山埤江南渡假村",
+        "shop": "青心冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區旭山里６０號",
+        "market_address": "臺南市柳營區東昇里柳營５４２－１號",
         "pay_list": [
-            "信用卡"
+            "Pi 拍錢包",
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
         ]
     },
     {
         "index": 2,
-        "shop": "金送呷燒呷冷飽館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區篤農里００６鄰小脚腿２３１―２號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "七一茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區東昇里中山西路１段７１號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "家菲茶行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區東昇里中山西路１段１４２號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "青心冷飲店",
         "category": [
             "餐飲"
@@ -73,21 +34,50 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "佳興美食店",
+        "index": 3,
+        "shop": "金送呷燒呷冷飽館",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區光福里中山西路二段１６５、１６７號１樓",
+        "market_address": "臺南市柳營區篤農里００６鄰小脚腿２３１―２號",
         "pay_list": [
             "LINE Pay Money"
         ]
     },
     {
-        "index": 7,
+        "index": 4,
+        "shop": "金送呷燒呷冷飽館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區篤農里００６鄰小脚腿２３１―２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "興旺飲料店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區中埕里００７鄰中山西路２段９５號１樓",
+        "pay_list": [
+            "台灣pay",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
         "shop": "臺南市柳營區農會田媽媽",
         "category": [
             "餐飲"
@@ -101,19 +91,32 @@
         ]
     },
     {
-        "index": 8,
-        "shop": "佳興美食店",
+        "index": 7,
+        "shop": "柳原冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區光福里中山西路二段１６５、１６７號１樓",
+        "market_address": "臺南市柳營區光福里中山西路二段１６１號",
         "pay_list": [
             "台灣pay",
-            "信用卡",
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 8,
+        "shop": "尖山埤江南渡假村",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區旭山里６０號",
+        "pay_list": [
+            "信用卡"
         ]
     },
     {
@@ -136,6 +139,21 @@
     },
     {
         "index": 10,
+        "shop": "家菲茶行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區東昇里中山西路１段１４２號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 11,
         "shop": "吉象食堂",
         "category": [
             "餐飲"
@@ -149,87 +167,21 @@
         ]
     },
     {
-        "index": 11,
-        "shop": "金送呷燒呷冷飽館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區篤農里００６鄰小脚腿２３１―２號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 12,
-        "shop": "七一茶飲",
+        "shop": "南南文旅行銷有限公司柳營分公司",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區東昇里中山西路１段７１號",
+        "market_address": "臺南市柳營區神農里新厝１００號",
         "pay_list": [
-            "LINE Pay Money"
+            "信用卡"
         ]
     },
     {
         "index": 13,
-        "shop": "興旺飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區中埕里００７鄰中山西路２段９５號１樓",
-        "pay_list": [
-            "台灣pay",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "85度C 台南柳營店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區東昇里中山西路１段１號１樓",
-        "pay_list": [
-            "Pi 拍錢包",
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "青心冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "柳營區",
-        "market_address": "臺南市柳營區東昇里柳營５４２－１號",
-        "pay_list": [
-            "Pi 拍錢包",
-            "街口",
-            "LINE Pay Money",
-            "悠遊付",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 16,
         "shop": "南元紡織股份有限公司農漁牧綜合休閒農場",
         "category": [
             "餐飲"
@@ -244,31 +196,79 @@
         ]
     },
     {
-        "index": 17,
-        "shop": "南南文旅行銷有限公司柳營分公司",
+        "index": 14,
+        "shop": "佳興美食店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區神農里新厝１００號",
+        "market_address": "臺南市柳營區光福里中山西路二段１６５、１６７號１樓",
         "pay_list": [
-            "信用卡"
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "佳興美食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區光福里中山西路二段１６５、１６７號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "七一茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區東昇里中山西路１段７１號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "七一茶飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "柳營區",
+        "market_address": "臺南市柳營區東昇里中山西路１段７１號",
+        "pay_list": [
+            "LINE Pay Money"
         ]
     },
     {
         "index": 18,
-        "shop": "柳原冷飲店",
+        "shop": "85度C 台南柳營店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "柳營區",
-        "market_address": "臺南市柳營區光福里中山西路二段１６１號",
+        "market_address": "臺南市柳營區東昇里中山西路１段１號１樓",
         "pay_list": [
+            "Pi 拍錢包",
             "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
             "LINE Pay Money"
         ]
     }

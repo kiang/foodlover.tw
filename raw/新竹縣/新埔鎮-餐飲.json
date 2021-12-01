@@ -1,6 +1,21 @@
 [
     {
         "index": 1,
+        "shop": "龍記饌米食專賣店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮文華路１４８號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
         "shop": "黑沃咖啡遠東店",
         "category": [
             "餐飲"
@@ -17,138 +32,7 @@
         ]
     },
     {
-        "index": 2,
-        "shop": "美湘美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路２１１號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
         "index": 3,
-        "shop": "肥媽餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮上寮里義民路二段４２６號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "駿德店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路７２８號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 5,
-        "shop": "畇畇來商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮四座里中正路２０３號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 6,
-        "shop": "尹均小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路３３２號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 7,
-        "shop": "虹昇冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮新民里３鄰中正路７１６號",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 8,
-        "shop": "尹均小吃店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路３３２號",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 9,
-        "shop": "禾味企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮文山里文山路犁頭山段１０３６號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "肥媽餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮上寮里義民路二段４２６號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 11,
         "shop": "麥味登幸褔早午餐",
         "category": [
             "餐飲"
@@ -164,97 +48,35 @@
         ]
     },
     {
-        "index": 12,
-        "shop": "畇畇來商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮四座里中正路２０３號",
-        "pay_list": [
-            "Pi 拍錢包",
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "巧登飲食店",
+        "index": 4,
+        "shop": "鴻福樓庭園小館",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮四座里００３鄰仁愛路３０號",
-        "pay_list": [
-            "悠遊卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 14,
-        "shop": "新埔粄條",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路８８８號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 15,
-        "shop": "紅瓦屋小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮田新里廣和路３３號",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "意吉有限公司",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮義民路一段１５８號１樓",
+        "market_address": "新竹縣新埔鎮下寮里義民路３段３５７號",
         "pay_list": [
             "信用卡"
         ]
     },
     {
-        "index": 17,
-        "shop": "皇家品味",
+        "index": 5,
+        "shop": "駿德店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮五埔里三聖路１６５巷１２號１樓",
+        "market_address": "新竹縣新埔鎮中正路７２８號１樓",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
-        "index": 18,
+        "index": 6,
         "shop": "駿德店",
         "category": [
             "餐飲"
@@ -269,39 +91,7 @@
         ]
     },
     {
-        "index": 19,
-        "shop": "劉家莊燜雞",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮照門里６鄰九芎湖１６－２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 20,
-        "shop": "新埔鎮農會供銷部",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮四座里楊新路１段３２２號",
-        "pay_list": [
-            "icash pay",
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口"
-        ]
-    },
-    {
-        "index": 21,
+        "index": 7,
         "shop": "馥園海鮮料理",
         "category": [
             "餐飲"
@@ -315,35 +105,185 @@
         ]
     },
     {
-        "index": 22,
-        "shop": "吧哩國古藝餐館",
+        "index": 8,
+        "shop": "食芳美食",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮田新里田新路７４１號",
+        "market_address": "新竹縣新埔鎮文山里００４鄰文山路亞東段２４６號１樓",
         "pay_list": [
-            "台灣pay"
+            "信用卡"
         ]
     },
     {
-        "index": 23,
-        "shop": "日勝飲食店",
+        "index": 9,
+        "shop": "韓國屋複合式料理",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮新埔里和平街６８號",
+        "market_address": "新竹縣新埔鎮上寮里義民路２段４２６號",
+        "pay_list": [
+            "信用卡",
+            "悠遊卡"
+        ]
+    },
+    {
+        "index": 10,
+        "shop": "醜小鴨咖啡館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮上樟路１段２９１巷６號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 24,
+        "index": 11,
+        "shop": "虹昇冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮新民里３鄰中正路７１６號",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 12,
+        "shop": "虹昇冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮新民里３鄰中正路７１６號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "肥媽餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮上寮里義民路二段４２６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "肥媽餐坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮上寮里義民路二段４２６號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "翔發食品企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮五埔里百好街１７號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 16,
+        "shop": "美湘美食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮中正路２１１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 17,
+        "shop": "美湘美食坊",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮中正路２１１號１樓",
+        "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
+        "shop": "紅瓦屋小館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮田新里廣和路３３號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "禾味企業社",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮文山里文山路犁頭山段１０３６號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 20,
         "shop": "睿涵茶飲",
         "category": [
             "餐飲"
@@ -360,15 +300,78 @@
         ]
     },
     {
-        "index": 25,
-        "shop": "醜小鴨咖啡館",
+        "index": 21,
+        "shop": "皇家品味",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮上樟路１段２９１巷６號１樓",
+        "market_address": "新竹縣新埔鎮五埔里三聖路１６５巷１２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 22,
+        "shop": "畇畇來商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮四座里中正路２０３號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "畇畇來商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮四座里中正路２０３號",
+        "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "普羅旺斯玫瑰莊園",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮巨埔里新龍路２３０巷５０號",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "日勝飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮新埔里和平街６８號",
         "pay_list": [
             "台灣pay"
         ]
@@ -392,6 +395,52 @@
     },
     {
         "index": 27,
+        "shop": "新埔鎮農會供銷部",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮四座里楊新路１段３２２號",
+        "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "新埔粄條",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮中正路８８８號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 29,
+        "shop": "意吉有限公司",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮義民路一段１５８號１樓",
+        "pay_list": [
+            "信用卡"
+        ]
+    },
+    {
+        "index": 30,
         "shop": "廟前小吃店",
         "category": [
             "餐飲"
@@ -405,66 +454,50 @@
         ]
     },
     {
-        "index": 28,
-        "shop": "食芳美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮文山里００４鄰文山路亞東段２４６號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "虹昇冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮新民里３鄰中正路７１６號",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money",
-            "悠遊付",
-            "橘子支付"
-        ]
-    },
-    {
-        "index": 30,
-        "shop": "鴻福樓庭園小館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮下寮里義民路３段３５７號",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
         "index": 31,
-        "shop": "普羅旺斯玫瑰莊園",
+        "shop": "巧登飲食店",
         "category": [
             "餐飲"
         ],
         "zone": "桃竹苗",
         "city": "新竹縣",
         "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮巨埔里新龍路２３０巷５０號",
+        "market_address": "新竹縣新埔鎮四座里００３鄰仁愛路３０號",
         "pay_list": [
-            "信用卡"
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 32,
+        "shop": "尹均小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮中正路３３２號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 33,
+        "shop": "尹均小吃店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮中正路３３２號",
+        "pay_list": [
+            "街口"
+        ]
+    },
+    {
+        "index": 34,
         "shop": "壹壹玖串燒烤",
         "category": [
             "餐飲"
@@ -479,7 +512,35 @@
         ]
     },
     {
-        "index": 33,
+        "index": 35,
+        "shop": "吧哩國古藝餐館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮田新里田新路７４１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 36,
+        "shop": "劉家莊燜雞",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "桃竹苗",
+        "city": "新竹縣",
+        "area": "新埔鎮",
+        "market_address": "新竹縣新埔鎮照門里６鄰九芎湖１６－２號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 37,
         "shop": "丫弟咕鴨肉麵食館",
         "category": [
             "餐飲"
@@ -490,67 +551,6 @@
         "market_address": "新竹縣新埔鎮田新里田新路３４８號",
         "pay_list": [
             "台灣pay"
-        ]
-    },
-    {
-        "index": 34,
-        "shop": "龍記饌米食專賣店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮文華路１４８號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
-        ]
-    },
-    {
-        "index": 35,
-        "shop": "美湘美食坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮中正路２１１號１樓",
-        "pay_list": [
-            "台灣pay",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 36,
-        "shop": "翔發食品企業社",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮五埔里百好街１７號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 37,
-        "shop": "韓國屋複合式料理",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "桃竹苗",
-        "city": "新竹縣",
-        "area": "新埔鎮",
-        "market_address": "新竹縣新埔鎮上寮里義民路２段４２６號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡"
         ]
     }
 ]

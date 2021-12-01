@@ -1,20 +1,35 @@
 [
     {
         "index": 1,
-        "shop": "天美珍食品店",
+        "shop": "迪蜜創意烘焙坊",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "竹崎鄉",
-        "market_address": "嘉義縣竹崎鄉中和村奮起湖１４２之１號",
+        "market_address": "嘉義縣竹崎鄉灣橋村０１６鄰灣橋１８５－７號１樓",
         "pay_list": [
+            "悠遊卡",
             "LINE Pay Money"
         ]
     },
     {
         "index": 2,
+        "shop": "藍松鼠小農麵包",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "竹崎鄉",
+        "market_address": "嘉義縣竹崎鄉灣橋村０２３鄰灣橋３４０巷２１６號１樓",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "祈丞商行",
         "category": [
             "餐飲",
@@ -27,23 +42,6 @@
         "pay_list": [
             "LINE Pay Money",
             "悠遊付"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "天美珍食品店",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "竹崎鄉",
-        "market_address": "嘉義縣竹崎鄉中和村奮起湖１４２之１號",
-        "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
         ]
     },
     {
@@ -67,30 +65,32 @@
     },
     {
         "index": 5,
-        "shop": "藍松鼠小農麵包",
+        "shop": "天美珍食品店",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "竹崎鄉",
-        "market_address": "嘉義縣竹崎鄉灣橋村０２３鄰灣橋３４０巷２１６號１樓",
+        "market_address": "嘉義縣竹崎鄉中和村奮起湖１４２之１號",
         "pay_list": [
-            "台灣pay"
+            "LINE Pay Money"
         ]
     },
     {
         "index": 6,
-        "shop": "迪蜜創意烘焙坊",
+        "shop": "天美珍食品店",
         "category": [
             "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "嘉義縣",
         "area": "竹崎鄉",
-        "market_address": "嘉義縣竹崎鄉灣橋村０１６鄰灣橋１８５－７號１樓",
+        "market_address": "嘉義縣竹崎鄉中和村奮起湖１４２之１號",
         "pay_list": [
+            "信用卡",
             "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     }

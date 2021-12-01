@@ -1,62 +1,38 @@
 [
     {
         "index": 1,
-        "shop": "六甲紅茶店",
+        "shop": "隆美麥飲料店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路３１１號１樓",
+        "market_address": "臺南市六甲區六甲里０２４鄰中正路４４７號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
     {
         "index": 2,
-        "shop": "好億兆生物科技商行",
+        "shop": "采福咖啡餐坊",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中華路５５號",
+        "market_address": "臺南市六甲區水林里林森街５６號１樓",
         "pay_list": [
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
         "index": 3,
-        "shop": "挖寶小屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中山路４２之１號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 4,
-        "shop": "宏泉冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里００９鄰中正路５０８號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 5,
         "shop": "聚盈美食",
         "category": [
             "餐飲"
@@ -70,32 +46,66 @@
         ]
     },
     {
-        "index": 6,
-        "shop": "捷妤冷飲店",
+        "index": 4,
+        "shop": "聚盈美食",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里０２３鄰中山路１５號",
+        "market_address": "臺南市六甲區甲南里００２鄰文化街６５號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付",
-            "橘子支付"
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 5,
+        "shop": "甲上品美食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中正路４３３號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 6,
+        "shop": "甲上品美食館",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中正路４３３號１樓",
+        "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "LINE Pay Money"
         ]
     },
     {
         "index": 7,
-        "shop": "小牛餐坊營業所",
+        "shop": "泉湧商店",
         "category": [
-            "餐飲"
+            "餐飲",
+            "糕餅"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４２６號",
+        "market_address": "臺南市六甲區六甲里民生街２１號１樓",
         "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -117,125 +127,37 @@
     },
     {
         "index": 9,
-        "shop": "甲上品美食館",
+        "shop": "李府城豆漿店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４３３號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 10,
-        "shop": "宏珍飲食店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區甲南里珊瑚路８２號１樓",
-        "pay_list": [
-            "信用卡"
-        ]
-    },
-    {
-        "index": 11,
-        "shop": "聚盈美食",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區甲南里００２鄰文化街６５號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 12,
-        "shop": "采福咖啡餐坊",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區水林里林森街５６號１樓",
-        "pay_list": [
-            "街口"
-        ]
-    },
-    {
-        "index": 13,
-        "shop": "富晟餐飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區甲南里民生街１１６號",
+        "market_address": "臺南市六甲區六甲里中正路４１２號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 14,
-        "shop": "泉湧商店",
+        "index": 10,
+        "shop": "晴天茶飲",
         "category": [
-            "餐飲",
-            "糕餅"
+            "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里民生街２１號１樓",
+        "market_address": "臺南市六甲區六甲里中正路４７４號",
         "pay_list": [
-            "Pi 拍錢包",
             "台灣pay",
-            "信用卡",
-            "悠遊付",
             "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
-        "index": 15,
-        "shop": "小牛餐坊營業所",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４２６號",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 16,
-        "shop": "六甲紅茶店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路３１１號１樓",
-        "pay_list": [
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 17,
+        "index": 11,
         "shop": "捷妤冷飲店",
         "category": [
             "餐飲"
@@ -252,36 +174,93 @@
         ]
     },
     {
-        "index": 18,
-        "shop": "嘉義老牌石頭火鍋六甲店",
+        "index": 12,
+        "shop": "捷妤冷飲店",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里０１４鄰復興街６１號",
+        "market_address": "臺南市六甲區六甲里０２３鄰中山路１５號",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付",
+            "橘子支付"
+        ]
+    },
+    {
+        "index": 13,
+        "shop": "挖寶小屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中山路４２之１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 14,
+        "shop": "挖寶小屋",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中山路４２之１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 15,
+        "shop": "愛媽廚房",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區七甲里１０鄰中華路２４０號１樓",
         "pay_list": [
             "台灣pay"
         ]
     },
     {
-        "index": 19,
-        "shop": "好億兆生物科技商行",
+        "index": 16,
+        "shop": "小牛餐坊營業所",
         "category": [
             "餐飲"
         ],
         "zone": "雲嘉南",
         "city": "臺南市",
         "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中華路５５號",
+        "market_address": "臺南市六甲區六甲里中正路４２６號",
         "pay_list": [
-            "信用卡",
             "LINE Pay Money"
         ]
     },
     {
-        "index": 20,
+        "index": 17,
+        "shop": "小牛餐坊營業所",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中正路４２６號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 18,
         "shop": "小牛餐坊",
         "category": [
             "餐飲"
@@ -292,6 +271,34 @@
         "market_address": "臺南市六甲區六甲里００５鄰中正路３８５號",
         "pay_list": [
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 19,
+        "shop": "富晟餐飲",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區甲南里民生街１１６號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 20,
+        "shop": "宏珍飲食店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區甲南里珊瑚路８２號１樓",
+        "pay_list": [
+            "信用卡"
         ]
     },
     {
@@ -310,6 +317,92 @@
     },
     {
         "index": 22,
+        "shop": "宏泉冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里００９鄰中正路５０８號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 23,
+        "shop": "好億兆生物科技商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中華路５５號",
+        "pay_list": [
+            "信用卡",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 24,
+        "shop": "好億兆生物科技商行",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中華路５５號",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 25,
+        "shop": "嘉義老牌石頭火鍋六甲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里０１４鄰復興街６１號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 26,
+        "shop": "六甲紅茶店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中正路３１１號１樓",
+        "pay_list": [
+            "街口",
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 27,
+        "shop": "六甲紅茶店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "六甲區",
+        "market_address": "臺南市六甲區六甲里中正路３１１號１樓",
+        "pay_list": [
+            "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
         "shop": "儀芳商號",
         "category": [
             "餐飲"
@@ -323,51 +416,7 @@
         ]
     },
     {
-        "index": 23,
-        "shop": "愛媽廚房",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區七甲里１０鄰中華路２４０號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 24,
-        "shop": "甲上品美食館",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４３３號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 25,
-        "shop": "挖寶小屋",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中山路４２之１號１樓",
-        "pay_list": [
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 26,
+        "index": 29,
         "shop": "九品蓮花商行",
         "category": [
             "餐飲"
@@ -379,55 +428,6 @@
         "pay_list": [
             "台灣pay",
             "信用卡"
-        ]
-    },
-    {
-        "index": 27,
-        "shop": "隆美麥飲料店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里０２４鄰中正路４４７號１樓",
-        "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 28,
-        "shop": "李府城豆漿店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４１２號１樓",
-        "pay_list": [
-            "台灣pay"
-        ]
-    },
-    {
-        "index": 29,
-        "shop": "晴天茶飲",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "六甲區",
-        "market_address": "臺南市六甲區六甲里中正路４７４號",
-        "pay_list": [
-            "台灣pay",
-            "街口",
-            "LINE Pay Money",
-            "悠遊付"
         ]
     }
 ]
