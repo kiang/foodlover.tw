@@ -855,7 +855,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "芙瑞實業",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "中西區",
                 "market_address": "臺南市中西區南廠里大仁街７０號１樓",
                 "pay_list": "LINE Pay Money"
@@ -872,7 +872,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "芙瑞實業",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "中西區",
                 "market_address": "臺南市中西區南廠里大仁街７０號１樓",
                 "pay_list": "LINE Pay Money"
@@ -1110,7 +1110,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "王家庄狀元粿",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "中西區",
                 "market_address": "臺南市中西區淺草里正興街６４號１樓",
                 "pay_list": "LINE Pay Money"
@@ -1127,7 +1127,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "王家庄狀元粿",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "中西區",
                 "market_address": "臺南市中西區淺草里正興街６４號１樓",
                 "pay_list": "LINE Pay Money"
@@ -22159,7 +22159,7 @@
                 "category": "餐飲",
                 "area": "仁德區",
                 "market_address": "臺南市仁德區太子里００１鄰太子路２１６－１號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22176,7 +22176,7 @@
                 "category": "餐飲",
                 "area": "仁德區",
                 "market_address": "臺南市仁德區太子里００１鄰太子路２１６－１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27239,10 +27239,10 @@
             "type": "Feature",
             "properties": {
                 "shop": "鼎香飯糰",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "北區",
                 "market_address": "臺南市北區大豐里和緯路４段４２６號",
-                "pay_list": "LINE Pay Money\/台灣Pay\/信用卡"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -27256,10 +27256,10 @@
             "type": "Feature",
             "properties": {
                 "shop": "鼎香飯糰",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "北區",
                 "market_address": "臺南市北區大豐里和緯路４段４２６號",
-                "pay_list": "LINE Pay Money\/台灣pay"
+                "pay_list": "LINE Pay Money\/台灣Pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -45313,7 +45313,7 @@
                 "category": "餐飲",
                 "area": "善化區",
                 "market_address": "臺南市善化區坐駕里大成路４０８號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -45330,7 +45330,7 @@
                 "category": "餐飲",
                 "area": "善化區",
                 "market_address": "臺南市善化區坐駕里大成路４０８號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -48645,7 +48645,7 @@
                 "category": "餐飲\/糕餅",
                 "area": "安南區",
                 "market_address": "臺南市安南區州北里安和路５段２３０號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -48662,7 +48662,7 @@
                 "category": "餐飲\/糕餅",
                 "area": "安南區",
                 "market_address": "臺南市安南區州北里安和路５段２３０號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -54799,7 +54799,7 @@
                 "category": "糕餅",
                 "area": "安平區",
                 "market_address": "臺南市安平區王城里安北路２０７號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -54816,7 +54816,7 @@
                 "category": "糕餅",
                 "area": "安平區",
                 "market_address": "臺南市安平區王城里安北路２０７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -72697,7 +72697,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "花見食品商行",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "東區",
                 "market_address": "臺南市東區虎尾里富農街１段１０號１樓",
                 "pay_list": "LINE Pay Money"
@@ -72714,7 +72714,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "花見食品商行",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "東區",
                 "market_address": "臺南市東區虎尾里富農街１段１０號１樓",
                 "pay_list": "LINE Pay Money"
@@ -72731,7 +72731,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "美好精緻食堂",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "東區",
                 "market_address": "臺南市東區青年路１６４巷２６號（東菜市市場公有零售市場第１２",
                 "pay_list": "LINE Pay Money\/街口"
@@ -72748,7 +72748,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "美好精緻食堂",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "東區",
                 "market_address": "臺南市東區青年路１６４巷２６號（東菜市市場公有零售市場第１２",
                 "pay_list": "LINE Pay Money\/街口"
@@ -108298,7 +108298,7 @@
                 "category": "餐飲",
                 "area": "白河區",
                 "market_address": "臺南市白河區永安里０１０鄰中山路５７號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -108315,7 +108315,7 @@
                 "category": "餐飲",
                 "area": "白河區",
                 "market_address": "臺南市白河區永安里０１０鄰中山路５７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",

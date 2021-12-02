@@ -244,8 +244,8 @@
         "area": "三重區",
         "market_address": "新北市三重區菜寮里光明路６４號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -259,8 +259,8 @@
         "area": "三重區",
         "market_address": "新北市三重區菜寮里光明路６４號１樓",
         "pay_list": [
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "街口"
         ]
     },
     {
@@ -274,7 +274,6 @@
         "area": "三重區",
         "market_address": "新北市三重區光明里重安街１１０號１樓",
         "pay_list": [
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -289,6 +288,7 @@
         "area": "三重區",
         "market_address": "新北市三重區光明里重安街１１０號１樓",
         "pay_list": [
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -454,7 +454,6 @@
         "area": "三重區",
         "market_address": "新北市三重區中央里文化北路９４號（１樓）",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -469,6 +468,7 @@
         "area": "三重區",
         "market_address": "新北市三重區中央里文化北路９４號（１樓）",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -1594,8 +1594,6 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１２３巷２號１樓",
         "pay_list": [
-            "台灣pay",
-            "街口",
             "LINE Pay Money",
             "橘子支付"
         ]
@@ -1611,6 +1609,8 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１２３巷２號１樓",
         "pay_list": [
+            "台灣pay",
+            "街口",
             "LINE Pay Money",
             "橘子支付"
         ]
@@ -1820,6 +1820,8 @@
         "area": "三重區",
         "market_address": "新北市三重區重陽里大仁街２４號（１樓）",
         "pay_list": [
+            "台灣pay",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -1834,8 +1836,6 @@
         "area": "三重區",
         "market_address": "新北市三重區重陽里大仁街２４號（１樓）",
         "pay_list": [
-            "台灣pay",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -1953,6 +1953,7 @@
         "area": "三重區",
         "market_address": "新北市三重區永豐里永福街２１３號１樓",
         "pay_list": [
+            "信用卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -1968,7 +1969,6 @@
         "area": "三重區",
         "market_address": "新北市三重區永豐里永福街２１３號１樓",
         "pay_list": [
-            "信用卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -2222,6 +2222,8 @@
         "area": "三重區",
         "market_address": "新北市三重區奕壽里秀江街２３２號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -2236,8 +2238,6 @@
         "area": "三重區",
         "market_address": "新北市三重區奕壽里秀江街２３２號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -2399,6 +2399,9 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里０２１鄰忠孝路３段１０號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -2413,9 +2416,6 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里０２１鄰忠孝路３段１０號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -3092,8 +3092,9 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里重新路５段５５７號",
         "pay_list": [
-            "LINE Pay Money",
             "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money",
             "街口"
         ]
     },
@@ -3108,9 +3109,8 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里重新路５段５５７號",
         "pay_list": [
-            "悠遊付",
-            "悠遊卡",
             "LINE Pay Money",
+            "悠遊付",
             "街口"
         ]
     },
@@ -3611,8 +3611,6 @@
         "area": "三重區",
         "market_address": "新北市三重區中山里大同北路２４號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -3627,6 +3625,8 @@
         "area": "三重區",
         "market_address": "新北市三重區中山里大同北路２４號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -3731,8 +3731,12 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里中正北路１８０號",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -3746,12 +3750,8 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里中正北路１８０號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -4110,6 +4110,8 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里重新路５段６０９巷１６號之８",
         "pay_list": [
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -4124,8 +4126,6 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里重新路５段６０９巷１６號之８",
         "pay_list": [
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -4697,6 +4697,9 @@
         "area": "三重區",
         "market_address": "新北市三重區田中里中正北路１７６巷２７號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -4712,9 +4715,6 @@
         "area": "三重區",
         "market_address": "新北市三重區田中里中正北路１７６巷２７號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -4848,9 +4848,9 @@
         "area": "三重區",
         "market_address": "新北市三重區長安里中央北路１３４之２號",
         "pay_list": [
-            "LINE Pay Money",
             "悠遊付",
-            "街口"
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -4864,9 +4864,9 @@
         "area": "三重區",
         "market_address": "新北市三重區長安里中央北路１３４之２號",
         "pay_list": [
+            "LINE Pay Money",
             "悠遊付",
-            "街口",
-            "LINE Pay Money"
+            "街口"
         ]
     },
     {
@@ -4880,8 +4880,6 @@
         "area": "三重區",
         "market_address": "新北市三重區幸福里自強路１段１９１號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -4896,6 +4894,8 @@
         "area": "三重區",
         "market_address": "新北市三重區幸福里自強路１段１９１號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -5085,6 +5085,9 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里正義北路３５號（１樓）",
         "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -5099,9 +5102,6 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里正義北路３５號（１樓）",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -6007,8 +6007,12 @@
         "area": "三重區",
         "market_address": "新北市三重區立德里忠孝路２段４６號",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -6022,12 +6026,8 @@
         "area": "三重區",
         "market_address": "新北市三重區立德里忠孝路２段４６號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -6454,7 +6454,6 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里三寧街４號",
         "pay_list": [
-            "LINE Pay Money",
             "街口"
         ]
     },
@@ -6469,6 +6468,7 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里三寧街４號",
         "pay_list": [
+            "LINE Pay Money",
             "街口"
         ]
     },
@@ -6513,6 +6513,10 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１１５號",
         "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -6528,10 +6532,6 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１１５號",
         "pay_list": [
-            "icash pay",
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -7177,6 +7177,7 @@
         "area": "三重區",
         "market_address": "新北市三重區田中里三民街２９７號",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -7191,7 +7192,6 @@
         "area": "三重區",
         "market_address": "新北市三重區田中里三民街２９７號",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -7647,6 +7647,8 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里重新路４段３３號（１樓）",
         "pay_list": [
+            "台灣pay",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -7661,8 +7663,6 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里重新路４段３３號（１樓）",
         "pay_list": [
-            "台灣pay",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9099,6 +9099,10 @@
         "area": "三重區",
         "market_address": "新北市三重區錦田里新北大道１段６２號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
+            "歐付寶",
             "LINE Pay Money"
         ]
     },
@@ -9113,10 +9117,6 @@
         "area": "三重區",
         "market_address": "新北市三重區錦田里新北大道１段６２號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
-            "歐付寶",
             "LINE Pay Money"
         ]
     },
@@ -9146,6 +9146,7 @@
         "area": "三重區",
         "market_address": "新北市三重區慈愛里仁愛街６６０號（１樓）",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money",
             "街口"
         ]
@@ -9161,7 +9162,6 @@
         "area": "三重區",
         "market_address": "新北市三重區慈愛里仁愛街６６０號（１樓）",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money",
             "街口"
         ]
@@ -9191,10 +9191,6 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里中正北路１７２之２號",
         "pay_list": [
-            "icash pay",
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -9210,6 +9206,10 @@
         "area": "三重區",
         "market_address": "新北市三重區六福里中正北路１７２之２號",
         "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -9329,6 +9329,8 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１４３號（１樓）",
         "pay_list": [
+            "Pi 拍錢包",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -9343,8 +9345,6 @@
         "area": "三重區",
         "market_address": "新北市三重區永福里力行路２段１４３號（１樓）",
         "pay_list": [
-            "Pi 拍錢包",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -9614,8 +9614,12 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里光復路１段６８巷２２號",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay",
+            "信用卡",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -9629,12 +9633,8 @@
         "area": "三重區",
         "market_address": "新北市三重區中興里光復路１段６８巷２２號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊付",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -9857,7 +9857,6 @@
         "area": "三重區",
         "market_address": "新北市三重區菜寮里中寮街１５號（１樓）",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9872,6 +9871,7 @@
         "area": "三重區",
         "market_address": "新北市三重區菜寮里中寮街１５號（１樓）",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10180,6 +10180,7 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里過圳街７巷１６號",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10194,7 +10195,6 @@
         "area": "三重區",
         "market_address": "新北市三重區過田里過圳街７巷１６號",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10859,6 +10859,7 @@
         "area": "三重區",
         "market_address": "新北市三重區介壽里三和路２段１７１號",
         "pay_list": [
+            "台灣pay",
             "街口"
         ]
     },
@@ -10873,7 +10874,6 @@
         "area": "三重區",
         "market_address": "新北市三重區介壽里三和路２段１７１號",
         "pay_list": [
-            "台灣pay",
             "街口"
         ]
     },
@@ -11329,6 +11329,8 @@
         "area": "三重區",
         "market_address": "新北市三重區福民里集美街１１３號（１樓）",
         "pay_list": [
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -11343,8 +11345,6 @@
         "area": "三重區",
         "market_address": "新北市三重區福民里集美街１１３號（１樓）",
         "pay_list": [
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -12112,6 +12112,10 @@
         "area": "三重區",
         "market_address": "新北市三重區光榮里重新路２段４６之８號２樓",
         "pay_list": [
+            "Pi 拍錢包",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -12127,10 +12131,6 @@
         "area": "三重區",
         "market_address": "新北市三重區光榮里重新路２段４６之８號２樓",
         "pay_list": [
-            "Pi 拍錢包",
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money",
             "街口"
         ]
@@ -12693,6 +12693,9 @@
         "area": "三重區",
         "market_address": "新北市三重區重新里重新路２段８１號",
         "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -12707,9 +12710,6 @@
         "area": "三重區",
         "market_address": "新北市三重區重新里重新路２段８１號",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13139,9 +13139,6 @@
         "area": "三重區",
         "market_address": "新北市三重區慈福里三和路４段１６５之７號（１樓）",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13156,6 +13153,9 @@
         "area": "三重區",
         "market_address": "新北市三重區慈福里三和路４段１６５之７號（１樓）",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13186,6 +13186,8 @@
         "area": "三重區",
         "market_address": "新北市三重區信安里重陽路４段７９號（１樓）",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "悠遊付",
             "街口"
         ]
@@ -13201,8 +13203,6 @@
         "area": "三重區",
         "market_address": "新北市三重區信安里重陽路４段７９號（１樓）",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "悠遊付",
             "街口"
         ]
@@ -13315,6 +13315,9 @@
         "area": "三重區",
         "market_address": "新北市三重區長生里長生街５０號３樓",
         "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13330,9 +13333,6 @@
         "area": "三重區",
         "market_address": "新北市三重區長生里長生街５０號３樓",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13463,6 +13463,9 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里文化北路２０號（１樓）",
         "pay_list": [
+            "台灣pay",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -13477,9 +13480,6 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里文化北路２０號（１樓）",
         "pay_list": [
-            "台灣pay",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -14052,9 +14052,6 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里正義北路６１號（１樓）",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -14069,6 +14066,9 @@
         "area": "三重區",
         "market_address": "新北市三重區文化里正義北路６１號（１樓）",
         "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -14411,7 +14411,6 @@
         "area": "三重區",
         "market_address": "新北市三重區正安里自強路１段９１號",
         "pay_list": [
-            "台灣pay",
             "街口"
         ]
     },
@@ -14426,6 +14425,7 @@
         "area": "三重區",
         "market_address": "新北市三重區正安里自強路１段９１號",
         "pay_list": [
+            "台灣pay",
             "街口"
         ]
     },

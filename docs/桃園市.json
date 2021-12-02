@@ -20527,23 +20527,6 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣pay\/信用卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283469,
-                    24.93047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "興仁花園夜市-DE33-36-御品香麻辣鍋",
-                "category": "夜市\/市場攤販",
-                "area": "八德區",
-                "market_address": "桃園市八德區長興路46號",
                 "pay_list": "台灣Pay\/信用卡\/街口"
             },
             "geometry": {
@@ -20574,11 +20557,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "興仁花園夜市-D8菱角酥",
+                "shop": "興仁花園夜市-DE33-36-御品香麻辣鍋",
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay\/信用卡\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -20596,6 +20579,23 @@
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
                 "pay_list": "台灣Pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283469,
+                    24.93047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興仁花園夜市-D8菱角酥",
+                "category": "夜市\/市場攤販",
+                "area": "八德區",
+                "market_address": "桃園市八德區長興路46號",
+                "pay_list": "台灣pay\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -21224,7 +21224,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣pay\/信用卡\/街口"
+                "pay_list": "台灣Pay\/信用卡\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -21241,7 +21241,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣Pay\/信用卡\/街口"
+                "pay_list": "台灣pay\/信用卡\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -21581,7 +21581,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣Pay\/街口"
+                "pay_list": "台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -21598,58 +21598,75 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
+                "pay_list": "台灣Pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283469,
+                    24.93047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
+                "category": "夜市\/市場攤販",
+                "area": "八德區",
+                "market_address": "桃園市八德區長興路46號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283469,
+                    24.93047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
+                "category": "夜市\/市場攤販",
+                "area": "八德區",
+                "market_address": "桃園市八德區長興路46號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283469,
+                    24.93047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
+                "category": "夜市\/市場攤販",
+                "area": "八德區",
+                "market_address": "桃園市八德區長興路46號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283469,
+                    24.93047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興仁花園夜市-B15-豬桑豬血糕",
+                "category": "夜市\/市場攤販",
+                "area": "八德區",
+                "market_address": "桃園市八德區長興路46號",
                 "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283469,
-                    24.93047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
-                "category": "夜市\/市場攤販",
-                "area": "八德區",
-                "market_address": "桃園市八德區長興路46號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283469,
-                    24.93047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
-                "category": "夜市\/市場攤販",
-                "area": "八德區",
-                "market_address": "桃園市八德區長興路46號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283469,
-                    24.93047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "興仁花園夜市-B16-品緣-鮮果棧現打果汁",
-                "category": "夜市\/市場攤販",
-                "area": "八德區",
-                "market_address": "桃園市八德區長興路46號",
-                "pay_list": "街口"
             },
             "geometry": {
                 "type": "Point",
@@ -21684,23 +21701,6 @@
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
                 "pay_list": "台灣Pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283469,
-                    24.93047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "興仁花園夜市-B15-豬桑豬血糕",
-                "category": "夜市\/市場攤販",
-                "area": "八德區",
-                "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -21989,7 +21989,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣pay\/街口"
+                "pay_list": "台灣Pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -22006,7 +22006,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "八德區",
                 "market_address": "桃園市八德區長興路46號",
-                "pay_list": "台灣Pay\/街口"
+                "pay_list": "台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -22533,7 +22533,7 @@
                 "category": "糕餅",
                 "area": "八德區",
                 "market_address": "桃園市八德區大勇里東勇北路５７８號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/橘子支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22550,7 +22550,7 @@
                 "category": "糕餅",
                 "area": "八德區",
                 "market_address": "桃園市八德區大勇里東勇北路５７８號１樓",
-                "pay_list": "台灣pay\/信用卡\/橘子支付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22618,7 +22618,7 @@
                 "category": "糕餅",
                 "area": "八德區",
                 "market_address": "桃園市八德區大順里大興路６１４號（１樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22635,7 +22635,7 @@
                 "category": "糕餅",
                 "area": "八德區",
                 "market_address": "桃園市八德區大順里大興路６１４號（１樓）",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22822,7 +22822,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大順里介壽路二段３６７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -22839,7 +22839,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大順里介壽路二段３６７號１樓",
-                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23196,7 +23196,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大和里銀和街４３號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23213,7 +23213,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大和里銀和街４３號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23230,7 +23230,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大明里０１６鄰桃鶯路６５號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23247,7 +23247,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大明里０１６鄰桃鶯路６５號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23553,7 +23553,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大義里義勇街１６號（１樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23570,7 +23570,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大義里義勇街１６號（１樓）",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23723,7 +23723,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大義里介壽路一段７１９巷１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23740,7 +23740,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大義里介壽路一段７１９巷１號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23808,7 +23808,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區興仁里豐德一路３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23825,7 +23825,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區興仁里豐德一路３號",
-                "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -23995,7 +23995,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區高明里００１鄰永豐路５５６號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -24012,7 +24012,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區高明里００１鄰永豐路５５６號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -24165,7 +24165,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大正里介壽路一段７１２號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -24182,7 +24182,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大正里介壽路一段７１２號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -24624,7 +24624,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大昌里介壽路二段３５６號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -24641,7 +24641,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大昌里介壽路二段３５６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -26222,7 +26222,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大福里大福街４號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -26239,7 +26239,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大福里大福街４號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -26324,7 +26324,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區興仁里興豐路３７０號（１樓）",
-                "pay_list": "LINE Pay Money\/街口"
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -26341,7 +26341,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區興仁里興豐路３７０號（１樓）",
-                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money\/街口"
+                "pay_list": "LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -26409,7 +26409,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大愛里和平路２２８號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付\/橘子支付"
+                "pay_list": "街口\/LINE Pay Money\/悠遊付\/橘子支付"
             },
             "geometry": {
                 "type": "Point",
@@ -26426,7 +26426,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大愛里和平路２２８號１樓",
-                "pay_list": "街口\/LINE Pay Money\/悠遊付\/橘子支付"
+                "pay_list": "LINE Pay Money\/悠遊付\/橘子支付"
             },
             "geometry": {
                 "type": "Point",
@@ -26953,7 +26953,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大成里福僑街９２號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -26970,7 +26970,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大成里福僑街９２號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -27497,7 +27497,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大智里福國北街１９３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27514,7 +27514,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大智里福國北街１９３號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27548,7 +27548,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大明里０１６鄰桃鶯路３３號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27565,7 +27565,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大明里０１６鄰桃鶯路３３號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27616,7 +27616,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大華里３鄰和平路３２號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27633,7 +27633,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大華里３鄰和平路３２號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27786,7 +27786,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區瑞祥里興豐路８３８號２樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27803,7 +27803,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區瑞祥里興豐路８３８號２樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27973,7 +27973,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大智里大智路３７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -27990,7 +27990,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大智里大智路３７號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28313,7 +28313,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大和里建國路１１３０號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28330,7 +28330,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大和里建國路１１３０號",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28483,7 +28483,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大成里廣福路７１號（１樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28500,7 +28500,7 @@
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區大成里廣福路７１號（１樓）",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28755,7 +28755,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "大園區",
                 "market_address": "桃園市大園區埔心里１５鄰海豐坡６―３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/橘子支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -28772,7 +28772,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "大園區",
                 "market_address": "桃園市大園區埔心里１５鄰海豐坡６―３號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/橘子支付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33073,7 +33073,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區仁武里０１９鄰員林路一段６８號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33090,7 +33090,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區仁武里０１９鄰員林路一段６８號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -33141,7 +33141,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里復興路７號（１樓）",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33158,7 +33158,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里復興路７號（１樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33192,7 +33192,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里００２鄰慈湖路２５號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33209,7 +33209,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里００２鄰慈湖路２５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33260,7 +33260,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區福仁里民權路１７號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -33277,7 +33277,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區福仁里民權路１７號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -34110,7 +34110,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里復興路３８號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -34127,7 +34127,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區一心里復興路３８號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -34144,7 +34144,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區興和里０１０鄰康莊路１０１號一樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -34161,7 +34161,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區興和里０１０鄰康莊路１０１號一樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -34229,7 +34229,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區仁和里１９鄰仁和東街１０９號２樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -34246,7 +34246,7 @@
                 "category": "餐飲",
                 "area": "大溪區",
                 "market_address": "桃園市大溪區仁和里１９鄰仁和東街１０９號２樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -61783,7 +61783,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "幸福餐飲",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區雙榮里民族路五段１９１號（１樓）",
                 "pay_list": "LINE Pay Money"
@@ -61800,7 +61800,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "幸福餐飲",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區雙榮里民族路五段１９１號（１樓）",
                 "pay_list": "LINE Pay Money"
@@ -61817,7 +61817,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "咚賀商行",
-                "category": "夜市\/市場攤販",
+                "category": "餐飲\/夜市\/市場攤販",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區中山里中山北路１段７４巷２５號５樓",
                 "pay_list": "LINE Pay Money"
@@ -61834,7 +61834,7 @@
             "type": "Feature",
             "properties": {
                 "shop": "咚賀商行",
-                "category": "餐飲\/夜市\/市場攤販",
+                "category": "夜市\/市場攤販",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區中山里中山北路１段７４巷２５號５樓",
                 "pay_list": "LINE Pay Money"
@@ -62024,7 +62024,7 @@
                 "category": "糕餅",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區楊明里中山北路一段４９４巷９２號（１樓）",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -62041,7 +62041,7 @@
                 "category": "糕餅",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區楊明里中山北路一段４９４巷９２號（１樓）",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75148,7 +75148,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大同里１２鄰下大堀５５―５號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75165,7 +75165,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大同里１２鄰下大堀５５―５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75335,7 +75335,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大同里新華路２段６１７號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -75352,7 +75352,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大同里新華路２段６１７號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75573,7 +75573,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區樹林里成功路１段７３３號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -75590,7 +75590,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區樹林里成功路１段７３３號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75641,7 +75641,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大潭里０１６鄰保生六路７１號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75658,7 +75658,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區大潭里０１６鄰保生六路７１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75828,7 +75828,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區樹林里成功路１段８０９號",
-                "pay_list": "信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -75845,7 +75845,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區樹林里成功路１段８０９號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -76049,7 +76049,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區草漯里忠孝路７０５號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付\/橘子支付"
             },
             "geometry": {
                 "type": "Point",
@@ -76066,7 +76066,7 @@
                 "category": "餐飲",
                 "area": "觀音區",
                 "market_address": "桃園市觀音區草漯里忠孝路７０５號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付\/橘子支付"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84107,7 +84107,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大湖里文化二路３４巷１４弄９號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84124,7 +84124,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大湖里文化二路３４巷１４弄９號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84362,7 +84362,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區新路里中興路４２６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84379,7 +84379,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區新路里中興路４２６號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84634,7 +84634,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里復興一路２１２巷５號２樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -84651,7 +84651,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里復興一路２１２巷５號２樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -85535,7 +85535,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文青里４鄰文青路２９６號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -85552,7 +85552,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文青里４鄰文青路２９６號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -85892,7 +85892,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化一路１０巷４２弄２７號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -85909,7 +85909,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化一路１０巷４２弄２７號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86045,7 +86045,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化七路１２－１號",
-                "pay_list": "Pi 拍錢包\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86062,7 +86062,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化七路１２－１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "Pi 拍錢包\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86351,7 +86351,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區中興里壽山路２０１號",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86368,7 +86368,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區中興里壽山路２０１號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86674,7 +86674,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化三路１１８號２樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86691,7 +86691,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化三路１１８號２樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -86997,7 +86997,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里復興一路４６６號",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -87014,7 +87014,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里復興一路４６６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -87558,7 +87558,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區嶺頂里萬壽路二段１０７―１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -87575,7 +87575,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區嶺頂里萬壽路二段１０７―１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88034,7 +88034,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大同里德明路５號（第二餐廳）",
-                "pay_list": "iPASS一卡通\/LINE Pay Money"
+                "pay_list": "iPASS 一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88051,7 +88051,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大同里德明路５號（第二餐廳）",
-                "pay_list": "iPASS 一卡通\/LINE Pay Money"
+                "pay_list": "iPASS一卡通\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88153,7 +88153,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里中興路一段３７號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -88170,7 +88170,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里中興路一段３７號",
-                "pay_list": "LINE Pay Money\/信用卡"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88442,7 +88442,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里光峯路４２號１樓",
-                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88459,7 +88459,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里光峯路４２號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88527,7 +88527,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化一路１０巷７號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88544,7 +88544,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化一路１０巷７號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88697,7 +88697,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龍華里萬壽路一段３６７－１號１樓",
-                "pay_list": "街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -88714,7 +88714,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龍華里萬壽路一段３６７－１號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -89122,7 +89122,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里００１鄰光峯路２５號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -89139,7 +89139,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里００１鄰光峯路２５號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -89445,7 +89445,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區陸光里陸光路８１號４樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -89462,7 +89462,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區陸光里陸光路８１號４樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90006,7 +90006,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化三路５５１―５號",
-                "pay_list": "台灣pay\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90023,7 +90023,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化三路５５１―５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90057,7 +90057,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里中興路一段２９號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90074,7 +90074,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里中興路一段２９號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90924,7 +90924,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化三路４０６號",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -90941,7 +90941,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區大華里文化三路４０６號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -91740,7 +91740,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里０１２鄰中興路一段２５號",
-                "pay_list": "台灣pay\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -91757,7 +91757,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龜山里０１２鄰中興路一段２５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -92131,7 +92131,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龍華里萬壽路一段３２３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+                "pay_list": "LINE Pay Money\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -92148,7 +92148,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區龍華里萬壽路一段３２３號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -92692,7 +92692,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化二路１７９號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money\/街口"
+                "pay_list": "LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -92709,7 +92709,7 @@
                 "category": "餐飲",
                 "area": "龜山區",
                 "market_address": "桃園市龜山區文化里文化二路１７９號１樓",
-                "pay_list": "LINE Pay Money\/街口"
+                "pay_list": "台灣pay\/LINE Pay Money\/街口"
             },
             "geometry": {
                 "type": "Point",

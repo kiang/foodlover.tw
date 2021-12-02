@@ -249,6 +249,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里十全一路３４７號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -263,8 +265,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里十全一路３４７號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -660,6 +660,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區安生里十全一路４６號１樓",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -674,7 +675,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區安生里十全一路４６號１樓",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -1791,6 +1791,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區博惠里凱旋一路２４８號",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -1805,7 +1806,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區博惠里凱旋一路２４８號",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -1848,6 +1848,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區港西里中山一路３２５巷１７號",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -1862,7 +1863,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區港西里中山一路３２５巷１７號",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -1968,6 +1968,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶國里陽明路２３３號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -1982,8 +1984,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶國里陽明路２３３號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -2117,6 +2117,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶泰里義華路３９８號",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -2131,7 +2132,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶泰里義華路３９８號",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -3032,8 +3032,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里鼎祥街９８號",
         "pay_list": [
-            "LINE Pay Money",
-            "信用卡"
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -3047,9 +3048,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里鼎祥街９８號",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "信用卡"
         ]
     },
     {
@@ -3387,6 +3387,23 @@
         "index": 231,
         "shop": "財團法人喜憨兒社會福利基金會喜憨兒園藝餐廳",
         "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "高雄市",
+        "area": "三民區",
+        "market_address": "高雄市三民區正興里建元路２號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "iPASS 一卡通",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 232,
+        "shop": "財團法人喜憨兒社會福利基金會喜憨兒園藝餐廳",
+        "category": [
             "糕餅",
             "餐飲"
         ],
@@ -3397,23 +3414,6 @@
         "pay_list": [
             "信用卡",
             "悠遊卡",
-            "街口",
-            "iPASS 一卡通",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 232,
-        "shop": "財團法人喜憨兒社會福利基金會喜憨兒園藝餐廳",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "高雄市",
-        "area": "三民區",
-        "market_address": "高雄市三民區正興里建元路２號",
-        "pay_list": [
-            "信用卡",
             "街口",
             "iPASS 一卡通",
             "悠遊付"
@@ -3734,8 +3734,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶安里大昌二路８９號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "信用卡"
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -3749,9 +3750,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶安里大昌二路８９號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "信用卡"
         ]
     },
     {
@@ -4502,6 +4502,11 @@
         "area": "三民區",
         "market_address": "高雄市三民區正順里建工路５５７號１樓",
         "pay_list": [
+            "icash pay",
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -4516,11 +4521,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區正順里建工路５５７號１樓",
         "pay_list": [
-            "icash pay",
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -4607,6 +4607,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區港新里錦田路１７１號１樓",
         "pay_list": [
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -4621,7 +4622,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區港新里錦田路１７１號１樓",
         "pay_list": [
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -4682,9 +4682,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區正興里正興路１０９號",
         "pay_list": [
-            "悠遊付",
-            "悠遊卡",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -4698,8 +4697,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區正興里正興路１０９號",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "悠遊付",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -4900,6 +4900,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區安和里博愛一路１９２－１號",
         "pay_list": [
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -4914,8 +4916,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區安和里博愛一路１９２－１號",
         "pay_list": [
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -5063,6 +5063,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎力里鼎中路４１９號",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -5077,7 +5078,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎力里鼎中路４１９號",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -5860,8 +5860,10 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎力里天祥一路１４６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "信用卡"
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "LINE Pay Money"
         ]
     },
     {
@@ -5875,10 +5877,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎力里天祥一路１４６號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "信用卡"
         ]
     },
     {
@@ -6177,6 +6177,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶玉里大豐二路３５６號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -6191,8 +6193,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶玉里大豐二路３５６號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -6593,11 +6593,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶中里建興路１７６號１樓",
         "pay_list": [
-            "台灣pay",
-            "悠遊付",
-            "悠遊卡",
-            "街口",
-            "LINE Pay Money"
+            "LINE Pay Money",
+            "悠遊付"
         ]
     },
     {
@@ -6611,8 +6608,11 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶中里建興路１７６號１樓",
         "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
+            "台灣pay",
+            "悠遊付",
+            "悠遊卡",
+            "街口",
+            "LINE Pay Money"
         ]
     },
     {
@@ -7623,6 +7623,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區安和里松江街３６０號",
         "pay_list": [
+            "台灣pay",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -7637,8 +7639,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區安和里松江街３６０號",
         "pay_list": [
-            "台灣pay",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -7888,7 +7888,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區達德里熱河一街３４５號１樓",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -7903,6 +7902,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區達德里熱河一街３４５號１樓",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -7945,6 +7945,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區義發街１７號",
         "pay_list": [
+            "Pi 拍錢包",
+            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -7959,8 +7961,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區義發街１７號",
         "pay_list": [
-            "Pi 拍錢包",
-            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -8432,6 +8432,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎金里鼎力路２９８號１樓",
         "pay_list": [
+            "街口",
             "LINE Pay Money",
             "悠遊付",
             "橘子支付"
@@ -8448,7 +8449,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎金里鼎力路２９８號１樓",
         "pay_list": [
-            "街口",
             "LINE Pay Money",
             "悠遊付",
             "橘子支付"
@@ -8968,6 +8968,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里熱河一街３８４號１樓",
         "pay_list": [
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -8982,9 +8985,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區達明里熱河一街３８４號１樓",
         "pay_list": [
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9202,6 +9202,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區港東里建國二路２７３號１樓",
         "pay_list": [
+            "icash pay",
+            "信用卡",
+            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -9216,9 +9219,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區港東里建國二路２７３號１樓",
         "pay_list": [
-            "icash pay",
-            "信用卡",
-            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -9432,6 +9432,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區正興里正興路１９１號",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -9446,7 +9447,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區正興里正興路１９１號",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -9491,6 +9491,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區灣利里建工路５２８號",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -9505,7 +9506,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區灣利里建工路５２８號",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -9535,6 +9535,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區港東里河北一路３００號１樓",
         "pay_list": [
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9549,8 +9551,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區港東里河北一路３００號１樓",
         "pay_list": [
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9565,7 +9565,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區建工路５０４號１樓",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9580,6 +9579,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區建工路５０４號１樓",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9731,6 +9731,9 @@
         "area": "三民區",
         "market_address": "高雄市三民區港西里建國三路５９號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -9745,9 +9748,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區港西里建國三路５９號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10115,6 +10115,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶國里義華路１２５號",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10129,7 +10130,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶國里義華路１２５號",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10390,6 +10390,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區本和里大豐一路３４０號１樓",
         "pay_list": [
+            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -10404,7 +10405,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區本和里大豐一路３４０號１樓",
         "pay_list": [
-            "台灣pay",
             "LINE Pay Money"
         ]
     },
@@ -10756,6 +10756,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎盛里鼎中路７７３號１樓",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -10770,7 +10771,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎盛里鼎中路７７３號１樓",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -11414,6 +11414,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區灣中里鼎山街６５３號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -11428,8 +11430,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區灣中里鼎山街６５３號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -13584,6 +13584,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里明仁路５３號１樓",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -13598,8 +13600,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里明仁路５３號１樓",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
             "LINE Pay Money"
         ]
     },
@@ -14089,6 +14089,8 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里河堤路５８６號",
         "pay_list": [
+            "Pi 拍錢包",
+            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -14103,8 +14105,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區鼎泰里河堤路５８６號",
         "pay_list": [
-            "Pi 拍錢包",
-            "悠遊卡",
             "LINE Pay Money"
         ]
     },
@@ -14555,6 +14555,7 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶珠里大昌二路５５３號１樓",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -14569,7 +14570,6 @@
         "area": "三民區",
         "market_address": "高雄市三民區寶珠里大昌二路５５３號１樓",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },

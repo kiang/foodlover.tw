@@ -219,6 +219,7 @@
         "area": "羅東鎮",
         "market_address": "宜蘭縣羅東鎮中山里民權路２５號一樓",
         "pay_list": [
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -233,7 +234,6 @@
         "area": "羅東鎮",
         "market_address": "宜蘭縣羅東鎮中山里民權路２５號一樓",
         "pay_list": [
-            "街口",
             "LINE Pay Money"
         ]
     },
@@ -372,6 +372,10 @@
         "area": "羅東鎮",
         "market_address": "宜蘭縣羅東鎮信義里愛國路６０號",
         "pay_list": [
+            "台灣pay",
+            "信用卡",
+            "悠遊卡",
+            "街口",
             "LINE Pay Money"
         ]
     },
@@ -386,31 +390,11 @@
         "area": "羅東鎮",
         "market_address": "宜蘭縣羅東鎮信義里愛國路６０號",
         "pay_list": [
-            "台灣pay",
-            "信用卡",
-            "悠遊卡",
-            "街口",
             "LINE Pay Money"
         ]
     },
     {
         "index": 27,
-        "shop": "佳京商行",
-        "category": [
-            "餐飲",
-            "糕餅"
-        ],
-        "zone": "宜蘭",
-        "city": "宜蘭縣",
-        "area": "羅東鎮",
-        "market_address": "宜蘭縣羅東鎮國華里四育路７９號１樓",
-        "pay_list": [
-            "LINE Pay Money",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 28,
         "shop": "佳京商行",
         "category": [
             "餐飲",
@@ -427,6 +411,22 @@
             "悠遊付",
             "街口",
             "LINE Pay Money"
+        ]
+    },
+    {
+        "index": 28,
+        "shop": "佳京商行",
+        "category": [
+            "餐飲",
+            "糕餅"
+        ],
+        "zone": "宜蘭",
+        "city": "宜蘭縣",
+        "area": "羅東鎮",
+        "market_address": "宜蘭縣羅東鎮國華里四育路７９號１樓",
+        "pay_list": [
+            "LINE Pay Money",
+            "悠遊付"
         ]
     }
 ]
