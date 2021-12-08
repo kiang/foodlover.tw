@@ -1262,6 +1262,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 新竹遠百店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區石坊里西門街６８號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.964599,
+                    24.802319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 新竹北門店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區中興里北門街５３號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965839,
+                    24.80617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 新竹中正店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區水田里中正路３５２號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.963055,
+                    24.813994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迎嘉企業社",
                 "category": "餐飲",
                 "area": "北區",
@@ -2089,23 +2140,6 @@
                 "coordinates": [
                     120.963306,
                     24.816068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "米粒商號",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區水田里中正路３５２號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.963055,
-                    24.813994
                 ]
             }
         },
@@ -3557,23 +3591,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "易長利商號",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區中興里北門街５３號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.965839,
-                    24.80617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "明志小吃店",
                 "category": "餐飲",
                 "area": "北區",
@@ -4781,23 +4798,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "多米飲品屋",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區石坊里西門街６８號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.964599,
-                    24.802319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "外帶食牛飲食館",
                 "category": "餐飲",
                 "area": "北區",
@@ -4962,23 +4962,6 @@
                 "coordinates": [
                     120.965404,
                     24.807459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "喜來樂商行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區南寮里東大路三段６８４號一樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.938038,
-                    24.840278
                 ]
             }
         },
@@ -5988,6 +5971,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "85度C 新竹東大店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區南寮里東大路三段６８４號一樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.938038,
+                    24.840278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鼎家人商行",
                 "category": "夜市\/市場攤販",
                 "area": "東區",
@@ -6651,23 +6651,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "義豐企業社",
-                "category": "糕餅",
-                "area": "東區",
-                "market_address": "新竹市東區仙水里光復路一段５２３―１號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01379989247,
-                    24.784578014058
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "義美股份有限公司新竹市分公司",
                 "category": "糕餅",
                 "area": "東區",
@@ -6696,23 +6679,6 @@
                 "coordinates": [
                     121.018201,
                     24.783536
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "緹亞娜有限公司",
-                "category": "餐飲\/糕餅",
-                "area": "東區",
-                "market_address": "新竹市東區頂竹里東南街１９７號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.975269,
-                    24.79633
                 ]
             }
         },
@@ -7206,6 +7172,40 @@
                 "coordinates": [
                     120.967063,
                     24.801487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 新竹食品店",
+                "category": "餐飲\/糕餅",
+                "area": "東區",
+                "market_address": "新竹市東區頂竹里東南街１９７號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975269,
+                    24.79633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 新竹光復店",
+                "category": "糕餅",
+                "area": "東區",
+                "market_address": "新竹市東區仙水里光復路一段５２３―１號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01379989247,
+                    24.784578014058
                 ]
             }
         },
@@ -10000,24 +10000,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "迷提飲品屋",
+                "shop": "迷客夏 新竹食品店",
                 "category": "餐飲",
                 "area": "東區",
-                "market_address": "新竹市東區育賢里民族路３３―１３號一樓",
+                "market_address": "新竹市東區頂竹里食品路１７５號１樓",
                 "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.97213797222,
-                    24.804802356456
+                    120.97591552973,
+                    24.796769523824
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "shop": "迷客夏飲品屋",
+                "shop": "迷客夏 新竹竹科店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區金山里金山八街７１號１樓",
@@ -10028,6 +10028,23 @@
                 "coordinates": [
                     121.02052907074,
                     24.776928804356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 新竹民族店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區育賢里民族路３３―１３號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97213797222,
+                    24.804802356456
                 ]
             }
         },
@@ -12380,23 +12397,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "緹亞娜有限公司",
-                "category": "餐飲\/糕餅",
-                "area": "東區",
-                "market_address": "新竹市東區頂竹里東南街１９７號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.975269,
-                    24.79633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "緣龍有限公司大阪燒肉燒魂",
                 "category": "餐飲",
                 "area": "東區",
@@ -12884,23 +12884,6 @@
                 "coordinates": [
                     120.98358624143,
                     24.777194844648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "竹科一手私藏世界紅茶",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區關新里光復路一段３６２－１５號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01611550358,
-                    24.784093305701
                 ]
             }
         },
@@ -15406,23 +15389,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "洽圖洽飲品屋",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區頂竹里食品路１７５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97591552973,
-                    24.796769523824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "泰潁餐飲坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -15910,23 +15876,6 @@
                 "coordinates": [
                     120.968731,
                     24.801825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "橙軒有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區東門里東門街１３７號１樓",
-                "pay_list": "Pi 拍錢包\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96791427449,
-                    24.804078588839
                 ]
             }
         },
@@ -17151,6 +17100,23 @@
                 "coordinates": [
                     120.98671163493,
                     24.803771667069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "春芳號 新竹東門店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區東門里東門街１３７號１樓",
+                "pay_list": "Pi 拍錢包\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96791427449,
+                    24.804078588839
                 ]
             }
         },
@@ -18953,23 +18919,6 @@
                 "coordinates": [
                     120.984404,
                     24.796965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "平洸商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區成功里東門街１０５號一樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.969224,
-                    24.804112
                 ]
             }
         },
@@ -23821,6 +23770,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "一手私藏世界紅茶 新竹竹科店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區關新里光復路一段３６２－１５號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01611550358,
+                    24.784093305701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "一品香蔥抓餅",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "東區",
@@ -23985,6 +23951,40 @@
                 "coordinates": [
                     121.018899,
                     24.782578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "PIZZA HUT必勝客-新竹民生店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區民生路３０２號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97456,
+                    24.81351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "PIZZA HUT必勝客-新竹林森店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區福德里５鄰林森路１８６號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96413,
+                    24.799101
                 ]
             }
         },
@@ -24325,6 +24325,23 @@
                 "coordinates": [
                     120.918918,
                     24.721354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 新竹香山店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區香山里大庄路５４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92774,
+                    24.789545
                 ]
             }
         },
@@ -24773,23 +24790,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "淳盈飲品",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區香山里大庄路５４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.92774,
-                    24.789545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "沁茶飲食店",
                 "category": "餐飲",
                 "area": "香山區",
@@ -25198,23 +25198,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "尚寶企業社",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區頂埔里中山路５５０號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.95608,
-                    24.797905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "富品日月光大飯店股份有限公司",
                 "category": "餐飲",
                 "area": "香山區",
@@ -25504,23 +25487,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佳呈商行",
-                "category": "餐飲\/糕餅",
-                "area": "香山區",
-                "market_address": "新竹市香山區牛埔里中華路四段５６８號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.930116,
-                    24.789019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "伊薇儷會館有限公司",
                 "category": "餐飲",
                 "area": "香山區",
@@ -25600,6 +25566,40 @@
                 "coordinates": [
                     120.928075,
                     24.788266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 新竹中華店",
+                "category": "餐飲\/糕餅",
+                "area": "香山區",
+                "market_address": "新竹市香山區牛埔里中華路四段５６８號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930116,
+                    24.789019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 新竹中山店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區頂埔里中山路５５０號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95608,
+                    24.797905
                 ]
             }
         }

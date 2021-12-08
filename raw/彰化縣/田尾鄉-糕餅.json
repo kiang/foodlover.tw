@@ -1,7 +1,21 @@
 [
     {
         "index": 1,
-        "shop": "馨曼商行",
+        "shop": "明奇食品有限公司",
+        "category": [
+            "糕餅"
+        ],
+        "zone": "中彰投",
+        "city": "彰化縣",
+        "area": "田尾鄉",
+        "market_address": "彰化縣田尾鄉南曾村福德巷１９８之５號",
+        "pay_list": [
+            "台灣pay"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "85度C 田尾中山店",
         "category": [
             "餐飲",
             "糕餅"
@@ -16,20 +30,6 @@
             "信用卡",
             "悠遊付",
             "LINE Pay Money"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "明奇食品有限公司",
-        "category": [
-            "糕餅"
-        ],
-        "zone": "中彰投",
-        "city": "彰化縣",
-        "area": "田尾鄉",
-        "market_address": "彰化縣田尾鄉南曾村福德巷１９８之５號",
-        "pay_list": [
-            "台灣pay"
         ]
     }
 ]
