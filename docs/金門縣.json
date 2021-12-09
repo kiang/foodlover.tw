@@ -1143,6 +1143,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 金門金城店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮西門里環島北路一段２５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.32236,
+                    24.441222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "轉角咖啡店",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -1511,23 +1528,6 @@
                 "coordinates": [
                     118.319716,
                     24.433413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "秉興商行",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮西門里環島北路一段２５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.32236,
-                    24.441222
                 ]
             }
         },
@@ -4883,23 +4883,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萬臨商行",
-                "category": "餐飲",
-                "area": "金湖鎮",
-                "market_address": "金門縣金湖鎮新市里武德新莊５號、６號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.414489,
-                    24.440027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "航空熱炒店",
                 "category": "餐飲",
                 "area": "金湖鎮",
@@ -5540,6 +5523,23 @@
                 "coordinates": [
                     118.418329,
                     24.439392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 金門山外店",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮新市里武德新莊５號、６號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414489,
+                    24.440027
                 ]
             }
         }

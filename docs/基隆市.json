@@ -6430,6 +6430,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 基隆廟口店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區仁德里仁三路８０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742282,
+                    25.128985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迪富迪股份有限公司",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -6492,6 +6509,23 @@
                 "coordinates": [
                     121.73961,
                     25.129985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆站前店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區孝三路109號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739829,
+                    25.131104
                 ]
             }
         },
@@ -7444,23 +7478,6 @@
                 "coordinates": [
                     121.738438,
                     25.129832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "瑜嵐慶君商行",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區孝三路109號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.739829,
-                    25.131104
                 ]
             }
         },
@@ -9603,23 +9620,6 @@
                 "coordinates": [
                     121.743606,
                     25.129262
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "優優飲品屋",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區仁德里仁三路８０號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.742282,
-                    25.128985
                 ]
             }
         },

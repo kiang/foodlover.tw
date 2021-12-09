@@ -786,23 +786,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "哲林商行",
-                "category": "餐飲\/糕餅",
-                "area": "三義鄉",
-                "market_address": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.771835,
-                    24.413461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "向陽田園",
                 "category": "餐飲",
                 "area": "三義鄉",
@@ -933,6 +916,23 @@
                 "coordinates": [
                     120.76836,
                     24.411035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 三義中正店",
+                "category": "餐飲\/糕餅",
+                "area": "三義鄉",
+                "market_address": "苗栗縣三義鄉廣盛村１９鄰中正路１２４號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.771835,
+                    24.413461
                 ]
             }
         },
@@ -1517,7 +1517,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "中弘商行",
+                "shop": "85度C 苗栗公館店",
                 "category": "餐飲",
                 "area": "公館鄉",
                 "market_address": "苗栗縣公館鄉館中村１４鄰大同路２４３號１樓",
@@ -3234,23 +3234,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "名富商行",
-                "category": "餐飲",
-                "area": "後龍鎮",
-                "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.790683,
-                    24.614025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "合口味飲食店",
                 "category": "餐飲",
                 "area": "後龍鎮",
@@ -3398,6 +3381,23 @@
                 "coordinates": [
                     120.791372,
                     24.613634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 後龍中山店",
+                "category": "餐飲",
+                "area": "後龍鎮",
+                "market_address": "苗栗縣後龍鎮大庄里１９鄰中山路１０７號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.790683,
+                    24.614025
                 ]
             }
         },
@@ -3982,23 +3982,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "詠成商行",
-                "category": "餐飲\/糕餅",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮天文里龍昇街２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.868358,
-                    24.696027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "艾蜜奇餐飲有限公司",
                 "category": "餐飲\/糕餅",
                 "area": "竹南鎮",
@@ -4078,23 +4061,6 @@
                 "coordinates": [
                     120.915149,
                     24.712783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "杰絲商行",
-                "category": "餐飲\/糕餅",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮照南里００３鄰光復路１７２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.879334,
-                    24.687725
                 ]
             }
         },
@@ -4231,6 +4197,40 @@
                 "coordinates": [
                     120.876084,
                     24.687873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 竹南龍山店",
+                "category": "餐飲\/糕餅",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮天文里龍昇街２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868358,
+                    24.696027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 竹南光復店",
+                "category": "餐飲\/糕餅",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮照南里００３鄰光復路１７２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879334,
+                    24.687725
                 ]
             }
         },
@@ -9150,6 +9150,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 苗栗苗栗店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817539,
+                    24.559937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "趙太常蔘藥有限公司",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -9711,23 +9728,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "相成飲品屋",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市福麗里０３４鄰府前路１４８號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.817539,
-                    24.559937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盛全商行",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -9915,23 +9915,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "炬楙商行",
-                "category": "餐飲\/糕餅",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里府東路９１號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.821456,
-                    24.562743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "澔之泉文創人文茶飲坊",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -10028,23 +10011,6 @@
                 "coordinates": [
                     120.830837,
                     24.562393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "洺豪商行",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市清華里為公路３０９號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.830067,
-                    24.571722
                 ]
             }
         },
@@ -11326,23 +11292,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吉豐商行",
-                "category": "餐飲\/糕餅",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.816136,
-                    24.551572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "友食遇麵食館",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11898,6 +11847,57 @@
                 "coordinates": [
                     120.821357,
                     24.558657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 苗栗為公店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市清華里為公路３０９號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830067,
+                    24.571722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 苗栗府東店",
+                "category": "餐飲\/糕餅",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市建功里府東路９１號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821456,
+                    24.562743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 苗栗中正店",
+                "category": "餐飲\/糕餅",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市新苗里０１１鄰中正路９０５號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816136,
+                    24.551572
                 ]
             }
         },
@@ -13536,23 +13536,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鉅大商行",
-                "category": "餐飲\/糕餅",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市中興里１２鄰中央路４００號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.899565,
-                    24.693514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金順園川菜館",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -13689,7 +13672,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "迷巴克飲品店",
+                "shop": "迷客夏 苗栗頭份建國店",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市山下里００９鄰建國路二段１３０號１樓",
@@ -13734,6 +13717,23 @@
                 "coordinates": [
                     120.90852247696,
                     24.690087914591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 頭份和平店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市民族里０１３鄰和平路１０７號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.906058,
+                    24.685734
                 ]
             }
         },
@@ -14199,23 +14199,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "艾比咖啡館",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市民族里０１３鄰和平路１０７號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.906058,
-                    24.685734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "艾固得商行",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -14329,23 +14312,6 @@
                 "coordinates": [
                     120.908383,
                     24.682893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔睿商行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市建國里０１４鄰建國路６６號１樓之２、３、５",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.912522,
-                    24.694315
                 ]
             }
         },
@@ -16828,6 +16794,40 @@
                 "coordinates": [
                     120.911631,
                     24.688846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 頭份建國店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市建國里０１４鄰建國路６６號１樓之２、３、５",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.912522,
+                    24.694315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 頭份中央店",
+                "category": "餐飲\/糕餅",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市中興里１２鄰中央路４００號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899565,
+                    24.693514
                 ]
             }
         },

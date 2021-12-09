@@ -3642,23 +3642,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "風旗展業社",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市華山里大連路６０－４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.502388,
-                    22.681901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "頭分埔文化工作室",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -4180,6 +4163,57 @@
                 "coordinates": [
                     120.497866,
                     22.672357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 屏東民生店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市瑞光里民生東路４８―１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51199101072,
+                    22.659676717819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 屏東太平洋店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市明正里００４鄰中正路８４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49009,
+                    22.675474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 屏東大連店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市華山里大連路６０－４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502388,
+                    22.681901
                 ]
             }
         },
@@ -7705,23 +7739,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新凱飲品專賣店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市明正里００４鄰中正路８４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.49009,
-                    22.675474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "放空工作室",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9705,23 +9722,6 @@
                 "coordinates": [
                     120.496934,
                     22.68458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "千杯商行",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市瑞光里民生東路４８―１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.51199101072,
-                    22.659676717819
                 ]
             }
         },
@@ -11717,6 +11717,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 屏東恆春店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮城南里中正路８７號１樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.74439,
+                    22.003229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 屏東墾丁店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁里墾丁路２０２號",
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.798088,
+                    21.945409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迦南地渡假民宿",
                 "category": "餐飲",
                 "area": "恆春鎮",
@@ -12204,40 +12238,6 @@
                 "coordinates": [
                     120.749191,
                     21.987841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "立紘飲品有限公司屏東恆春分公司",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮城南里中正路８７號１樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.74439,
-                    22.003229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "立紘飲品有限公司屏東墾丁分公司",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮墾丁里墾丁路２０２號",
-                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.798088,
-                    21.945409
                 ]
             }
         },
@@ -15015,6 +15015,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 屏東東港中正店",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興東里中正路一段２６號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455586,
+                    22.471675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "貢茶東港中正店",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15213,23 +15230,6 @@
                 "coordinates": [
                     120.449665,
                     22.460318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔皓商行",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮興東里中正路一段２６號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.455586,
-                    22.471675
                 ]
             }
         },
@@ -17871,6 +17871,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 屏東潮州店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮新生里新生路１３１－１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539522,
+                    22.551537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "賈茲格斯咖啡",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18069,23 +18086,6 @@
                 "coordinates": [
                     120.552327,
                     22.559179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔仁商行",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮新生里新生路１３１－１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.539522,
-                    22.551537
                 ]
             }
         },

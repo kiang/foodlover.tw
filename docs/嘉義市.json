@@ -1585,6 +1585,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 嘉義文化店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里中正路３３９號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45081,
+                    23.47889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "賣私咖啡",
                 "category": "餐飲",
                 "area": "東區",
@@ -3636,23 +3653,6 @@
                 "coordinates": [
                     120.457179,
                     23.476839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "正浩商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區仁義里新生路７２１號１、２樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45498,
-                    23.49546
                 ]
             }
         },
@@ -6872,23 +6872,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "一記飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中央里中正路３３９號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45081,
-                    23.47889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "一年五季養生坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -7036,6 +7019,23 @@
                 "coordinates": [
                     120.45553,
                     23.47687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 嘉義新生店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區仁義里新生路７２１號１、２樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45498,
+                    23.49546
                 ]
             }
         },
@@ -8351,23 +8351,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "頂竣商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區劉厝里博愛路２段８６４號１樓",
-                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.42444,
-                    23.464659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "靜好小吃店",
                 "category": "餐飲",
                 "area": "西區",
@@ -8889,6 +8872,23 @@
                 "coordinates": [
                     120.449299,
                     23.48001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 嘉義博愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區劉厝里博愛路２段８６４號１樓",
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42444,
+                    23.464659
                 ]
             }
         },

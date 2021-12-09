@@ -1296,6 +1296,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 新竹光華店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區光華里光華街９４―２號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97231553129,
+                    24.81767005534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 新竹中正店",
                 "category": "餐飲",
                 "area": "北區",
@@ -3126,23 +3143,6 @@
                 "coordinates": [
                     120.929349,
                     24.842891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "毛米飲品屋",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區光華里光華街９４―２號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97231553129,
-                    24.81767005534
                 ]
             }
         },
@@ -10045,6 +10045,23 @@
                 "coordinates": [
                     120.97213797222,
                     24.804802356456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 新竹建功店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區軍功里建功一路２８號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998233,
+                    24.797326
                 ]
             }
         },
@@ -18041,23 +18058,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "文心飲品店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區軍功里建功一路２８號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.998233,
-                    24.797326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "政和茶坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -24059,7 +24059,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佳呈商行",
+                "shop": "85度C 新竹中華店",
                 "category": "餐飲\/糕餅",
                 "area": "香山區",
                 "market_address": "新竹市香山區牛埔里中華路四段５６８號１樓",
