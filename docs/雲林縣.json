@@ -4662,6 +4662,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 斗六中堅店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中堅西路５３３號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535197,
+                    23.700728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "豪家牛肉麵",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -8521,23 +8538,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佑燈有限公司",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中堅西路５３３號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.535197,
-                    23.700728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "什品企業社",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -10901,6 +10901,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 雲林虎尾店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮新興里新生路９２號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437128,
+                    23.707861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "虹湘企業社",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -12068,23 +12085,6 @@
                 "coordinates": [
                     120.434597,
                     23.710106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "朵綻企業社",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮新興里新生路９２號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.437128,
-                    23.707861
                 ]
             }
         },

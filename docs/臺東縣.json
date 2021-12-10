@@ -5665,6 +5665,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中正里中華路一段３５０號一樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.153481,
+                    22.754771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "賦玉飲品店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -9987,7 +10004,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市新生里更生路６３８號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -10351,23 +10368,6 @@
                 "coordinates": [
                     121.149514,
                     22.758237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "啡比尋常食品行",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市中正里中華路一段３５０號一樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.153481,
-                    22.754771
                 ]
             }
         },

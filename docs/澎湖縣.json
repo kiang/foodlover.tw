@@ -1211,23 +1211,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "量昇咖啡",
-                "category": "餐飲",
-                "area": "馬公市",
-                "market_address": "澎湖縣馬公市中央里仁愛路７７號",
-                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.564856,
-                    23.565594
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "邵立有限公司澎湖分公司",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -1239,6 +1222,23 @@
                 "coordinates": [
                     119.585083,
                     23.56379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 澎湖馬公店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市中央里仁愛路７７號",
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.564856,
+                    23.565594
                 ]
             }
         },

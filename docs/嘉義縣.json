@@ -4815,6 +4815,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 民雄頭橋店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉福樂村０１５鄰埤角２２１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439713,
+                    23.524118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "詠晨餐飲店",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5761,23 +5778,6 @@
                 "coordinates": [
                     120.4215216325,
                     23.52495024504
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富華咖啡",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉福樂村０１５鄰埤角２２１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.439713,
-                    23.524118
                 ]
             }
         },

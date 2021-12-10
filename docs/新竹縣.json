@@ -2401,23 +2401,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫豐咖啡館",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉建興路一段１５５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.994429,
-                    24.87412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "醇萃茶行",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -2446,6 +2429,23 @@
                 "coordinates": [
                     120.994403,
                     24.882826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 新豐鑫豐店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉建興路一段１５５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994429,
+                    24.87412
                 ]
             }
         },
@@ -7875,23 +7875,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "集星咖啡坊",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市鹿場里００７鄰成功五街７６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02353027049,
-                    24.818640528766
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雅詩軒生活坊",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -8124,23 +8107,6 @@
                 "coordinates": [
                     121.002776,
                     24.840312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "錸麥亭商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市科大一路28號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.007808,
-                    24.821808
                 ]
             }
         },
@@ -8396,23 +8362,6 @@
                 "coordinates": [
                     121.011892,
                     24.822115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "采欣商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市北崙里博愛街２３９號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.00636,
-                    24.833376
                 ]
             }
         },
@@ -8793,6 +8742,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 竹北科大店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市科大一路28號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.007808,
+                    24.821808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "路易莎咖啡 竹北東元店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -8804,6 +8770,57 @@
                 "coordinates": [
                     121.01406551887,
                     24.82349267633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 竹北文興店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中興里文興路二段１號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03300342102,
+                    24.80850719631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 竹北成功店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市鹿場里００７鄰成功五街７６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02353027049,
+                    24.818640528766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 竹北博愛店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市北崙里博愛街２３９號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00636,
+                    24.833376
                 ]
             }
         },
@@ -14658,23 +14675,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "揪麥亭商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中興里文興路二段１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.03300342102,
-                    24.80850719631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "揪咖啡企業社",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -20149,23 +20149,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "路易莎咖啡股份有限公司竹東站前店",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮北興路2段3號",
-                "pay_list": "悠遊卡\/台灣Pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.093951,
-                    24.737984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "路易莎咖啡 竹東長春店",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20177,6 +20160,23 @@
                 "coordinates": [
                     121.083273,
                     24.744129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 竹東站前店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮北興路2段3號",
+                "pay_list": "悠遊卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.093951,
+                    24.737984
                 ]
             }
         },
