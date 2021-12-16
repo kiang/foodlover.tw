@@ -1517,7 +1517,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "泉盛商行",
+                "shop": "水巷茶弄 成功大同店",
                 "category": "餐飲",
                 "area": "成功鎮",
                 "market_address": "臺東縣成功鎮三民里１６鄰大同路６５－１９號１樓",
@@ -5631,23 +5631,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "軒遠國際食品企業社",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市中正里中正路２４５號１樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.15346990521,
-                    22.755548059283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "蹭飯食堂",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -7767,6 +7750,23 @@
                 "coordinates": [
                     121.153569,
                     22.750826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "水巷茶弄 台東中正店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中正里中正路２４５號１樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15346990521,
+                    22.755548059283
                 ]
             }
         },

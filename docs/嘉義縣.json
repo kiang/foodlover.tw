@@ -327,23 +327,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "石城茶行",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８９４號",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460379,
-                    23.4526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "百容餐飲有限公司",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -593,6 +576,23 @@
                 "coordinates": [
                     120.468459,
                     23.451502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "圓石禪飲 後庄中山店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８９４號",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460379,
+                    23.4526
                 ]
             }
         },
@@ -3625,7 +3625,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "圓城茶行",
+                "shop": "圓石禪飲 嘉義朴子店",
                 "category": "餐飲",
                 "area": "朴子市",
                 "market_address": "嘉義縣朴子市竹圍里海通路４１號",
@@ -4656,23 +4656,6 @@
                 "coordinates": [
                     120.439081,
                     23.524425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雄鑫餐飲社",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉北斗村０２２鄰北勢子９５－４６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.457669,
-                    23.534806
                 ]
             }
         },

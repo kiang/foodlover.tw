@@ -4747,6 +4747,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶之魔手 大武店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市大武里大武路１２１號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476048,
+                    22.657212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茗悅商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -5251,23 +5268,6 @@
                 "coordinates": [
                     120.480386,
                     22.684707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "米喬企業社",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇智里民族路１６５號",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.486096,
-                    22.670188
                 ]
             }
         },
@@ -9102,23 +9102,6 @@
                 "shop": "大武冷飲店",
                 "category": "餐飲",
                 "area": "屏東市",
-                "market_address": "屏東縣屏東市大武里大武路１２１號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476048,
-                    22.657212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大武冷飲店",
-                "category": "餐飲",
-                "area": "屏東市",
                 "market_address": "屏東縣屏東市大武里大武路１４２號",
                 "pay_list": "Pi 拍錢包\/街口\/LINE Pay Money\/悠遊付\/橘子支付"
             },
@@ -10895,6 +10878,23 @@
                 "coordinates": [
                     120.50002,
                     22.681847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "cama café 屏東站前店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇智里民族路１６５號",
+                "pay_list": "信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486096,
+                    22.670188
                 ]
             }
         },
@@ -14369,23 +14369,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "立華行",
-                "category": "餐飲",
-                "area": "新園鄉",
-                "market_address": "屏東縣新園鄉仙吉村仙吉路３０號１樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460251,
-                    22.539912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福春興業冷飲店",
                 "category": "餐飲",
                 "area": "新園鄉",
@@ -14431,6 +14414,23 @@
                 "coordinates": [
                     120.460195,
                     22.536857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "水巷茶弄 新園仙吉店",
+                "category": "餐飲",
+                "area": "新園鄉",
+                "market_address": "屏東縣新園鄉仙吉村仙吉路３０號１樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460251,
+                    22.539912
                 ]
             }
         },
@@ -14968,7 +14968,7 @@
                 "category": "餐飲",
                 "area": "東港鎮",
                 "market_address": "屏東縣東港鎮興東里光復路１段３９９號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -15434,6 +15434,23 @@
                 "coordinates": [
                     120.45868,
                     22.465817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "水巷茶弄 東港長春店",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興東里長春二路４０號",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459132,
+                    22.469007
                 ]
             }
         },
@@ -16250,23 +16267,6 @@
                 "coordinates": [
                     120.459436,
                     22.470222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "偲瑀冷飲店",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮興東里長春二路４０號",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459132,
-                    22.469007
                 ]
             }
         },
@@ -18245,23 +18245,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "猷越商行",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮永春里五福路４５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.534963,
-                    22.545254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "牛肉蓮商行",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -19191,6 +19174,23 @@
                 "coordinates": [
                     120.540149,
                     22.552529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "圓石禪飲 潮州新生店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮永春里五福路４５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534963,
+                    22.545254
                 ]
             }
         },

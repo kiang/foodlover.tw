@@ -735,6 +735,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "龜記茗品 嘉義文化店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里文化路１７４號１樓",
+                "pay_list": "LINE Pay Money\/歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449779,
+                    23.47923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "龍承綠豆沙牛奶",
                 "category": "餐飲",
                 "area": "東區",
@@ -1120,23 +1137,6 @@
                 "coordinates": [
                     120.452918,
                     23.493708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "順鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區興仁里吳鳳南路５７３號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4588,
-                    23.456859
                 ]
             }
         },
@@ -2622,23 +2622,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "筑鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東興里公明路３１２號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45331,
-                    23.47997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "竹居茶樓企業有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -3472,23 +3455,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "沐夏商號",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中央里文化路１７４號１樓",
-                "pay_list": "LINE Pay Money\/歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.449779,
-                    23.47923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "沐丰餐飲店",
                 "category": "餐飲",
                 "area": "東區",
@@ -3942,23 +3908,6 @@
                 "coordinates": [
                     120.456419,
                     23.48017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "東禾茶舍",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中央里文化路１９４號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44959,
-                    23.48037
                 ]
             }
         },
@@ -4707,23 +4656,6 @@
                 "coordinates": [
                     120.46458,
                     23.48433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "建順商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中山里啓明路２５１號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46343000407,
-                    23.483100001109
                 ]
             }
         },
@@ -5767,6 +5699,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "城市漢堡 嘉義公園店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里啓明路２５１號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46343000407,
+                    23.483100001109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "圓滿火雞肉飯",
                 "category": "餐飲",
                 "area": "東區",
@@ -6101,6 +6050,40 @@
                 "coordinates": [
                     120.45332,
                     23.47756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(後庄店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區興仁里吳鳳南路５７３號",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4588,
+                    23.456859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(吳鳳店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東興里公明路３１２號１樓",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45331,
+                    23.47997
                 ]
             }
         },
@@ -7002,6 +6985,23 @@
                 "coordinates": [
                     120.454901,
                     23.465706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Mr. Wish 嘉義文化店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中央里文化路１９４號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44959,
+                    23.48037
                 ]
             }
         },
@@ -7926,6 +7926,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "黑沃咖啡 嘉義中山店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區國華里中山路３３６號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.447509,
+                    23.479839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "黃金比綠茶飲專賣店",
                 "category": "餐飲",
                 "area": "西區",
@@ -8073,23 +8090,6 @@
                 "coordinates": [
                     120.442719,
                     23.475249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鳳峻商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區西榮里中山路４４１號１、２樓",
-                "pay_list": "信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.446479,
-                    23.47952
                 ]
             }
         },
@@ -9059,40 +9059,6 @@
                 "coordinates": [
                     120.44533,
                     23.48195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "詠鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區垂楊里新民路８２６號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43987,
-                    23.4712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "証鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里德惠街３６號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43249,
-                    23.483809
                 ]
             }
         },
@@ -10170,23 +10136,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "竣鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區番社里民生北路２２４號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44632,
-                    23.47991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "立紘飲品有限公司嘉義玉山分公司",
                 "category": "餐飲",
                 "area": "西區",
@@ -10623,23 +10572,6 @@
                 "coordinates": [
                     120.44211,
                     23.47476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "甲鼎魯肉飯店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福民里世賢路３段１６９號１樓",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43118,
-                    23.463018
                 ]
             }
         },
@@ -11139,23 +11071,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清雲商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區文化里中山路３１３號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44946,
-                    23.47969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清心冷飲站世賢店",
                 "category": "餐飲",
                 "area": "西區",
@@ -11371,23 +11286,6 @@
                 "coordinates": [
                     120.43865,
                     23.468019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "沐陽企業社",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區國華里中山路３３６號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.447509,
-                    23.479839
                 ]
             }
         },
@@ -13281,6 +13179,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "圓石禪飲 嘉義中山店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區文化里中山路３１３號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44946,
+                    23.47969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "國園大飯店股份有限公司",
                 "category": "餐飲",
                 "area": "西區",
@@ -13615,6 +13530,74 @@
                 "coordinates": [
                     120.44486,
                     23.47697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(民生店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區番社里民生北路２２４號１樓",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44632,
+                    23.47991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(新民店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區垂楊里新民路８２６號１樓",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43987,
+                    23.4712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(僑平店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里德惠街３６號１樓",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43249,
+                    23.483809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "台灣魯肉飯(世賢店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福民里世賢路３段１６９號１樓",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43118,
+                    23.463018
                 ]
             }
         },
@@ -15009,6 +14992,23 @@
                 "coordinates": [
                     120.449625,
                     23.475473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "cama café 嘉義中山店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區西榮里中山路４４１號１、２樓",
+                "pay_list": "信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446479,
+                    23.47952
                 ]
             }
         },

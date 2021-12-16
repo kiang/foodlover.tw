@@ -6213,7 +6213,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮西里雲林路二段２９７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -6515,23 +6515,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂愛餐飲事業有限公司雲林斗六家樂福營業所",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮西里雲林路２段２９７號",
-                "pay_list": "Pi 拍錢包\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.530572,
-                    23.702154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "椰香天堂泰式創意料理餐廳",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6815,6 +6798,23 @@
                 "coordinates": [
                     120.526314,
                     23.698962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "日燒二代王樣 雲林斗六店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮西里雲林路２段２９７號",
+                "pay_list": "Pi 拍錢包\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.530572,
+                    23.702154
                 ]
             }
         },
@@ -7365,23 +7365,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "希望茶飲店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.53835566118,
-                    23.701781184814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "巴特茶飲",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7875,7 +7858,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "圓石茶飲店",
+                "shop": "圓石禪飲 斗六民生店",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市光興里民生路１４６號１樓",
@@ -8151,7 +8134,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮西里雲林路二段２９７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -8934,6 +8917,23 @@
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
                 "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53835566118,
+                    23.701781184814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Mr. Wish 斗六中山店 (希望茶飲店)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -10595,23 +10595,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "飛躍一商行",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮德興里林森路一段５５８號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.432192,
-                    23.708735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "青村商行",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -11700,17 +11683,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞益飲品",
+                "shop": "甘蔗泡 虎尾店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮中山里中正路１１７號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
+                "market_address": "雲林縣虎尾鎮德興里林森路一段５５８號",
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.433772,
-                    23.708207
+                    120.432192,
+                    23.708735
                 ]
             }
         },
@@ -13281,6 +13264,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Mr. Wish 虎尾中正店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮中山里中正路１１７號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433772,
+                    23.708207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 雲林虎尾店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13700,23 +13700,6 @@
                 "coordinates": [
                     120.460769,
                     23.801659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔耀企業社",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮正興里中山路１６３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459785,
-                    23.799928
                 ]
             }
         },
@@ -14301,6 +14284,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Mr. Wish 西螺中山店",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮正興里中山路１６３號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459785,
+                    23.799928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 西螺中山店",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -14390,7 +14390,7 @@
                 "category": "餐飲",
                 "area": "麥寮鄉",
                 "market_address": "雲林縣麥寮鄉橋頭村仁德路２２１號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+                "pay_list": "LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",

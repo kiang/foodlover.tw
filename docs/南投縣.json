@@ -2809,6 +2809,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清玉 南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市平和里民族路１８３號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689224,
+                    23.909244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清水臭臭鍋南投店",
                 "category": "餐飲",
                 "area": "南投市",
@@ -2854,23 +2871,6 @@
                 "coordinates": [
                     120.688772,
                     23.909694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清宜商行",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市平和里民族路１８３號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.689224,
-                    23.909244
                 ]
             }
         },
@@ -4027,6 +4027,23 @@
                 "coordinates": [
                     120.684605,
                     23.910634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "南投休閒農場",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市大庄路151巷188號",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677094,
+                    23.895325
                 ]
             }
         },
@@ -5863,6 +5880,23 @@
                 "coordinates": [
                     120.979374,
                     23.973939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 埔里酒廠店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮大城里中山路三段２１９號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.958206,
+                    23.968751
                 ]
             }
         },
@@ -8215,23 +8249,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "元氣餐飲有限公司",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮大城里中山路三段２１９號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.958206,
-                    23.968751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "保羅的健康廚房",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -8725,6 +8742,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "森林島嶼 車埕店",
+                "category": "餐飲",
+                "area": "水里鄉",
+                "market_address": "南投縣水里鄉車埕村００５鄰民權巷１０１－５號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.866086,
+                    23.833939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "曄盛小吃店",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -8753,23 +8787,6 @@
                 "coordinates": [
                     120.85534,
                     23.814468
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "明日森林股份有限公司車埕營業所",
-                "category": "餐飲",
-                "area": "水里鄉",
-                "market_address": "南投縣水里鄉車埕村００５鄰民權巷１０１－５號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.866086,
-                    23.833939
                 ]
             }
         },
@@ -11921,6 +11938,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清玉 草屯中正店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮明正里３鄰中正路７７７―１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684259,
+                    23.980471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清一色牛肉麵草屯店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12051,23 +12085,6 @@
                 "coordinates": [
                     120.684951,
                     23.981406
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "歐潞商行",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮炎峰里０１３鄰中正路６４０號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684822,
-                    23.97913
                 ]
             }
         },
@@ -13281,23 +13298,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "元展美味飲料店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮明正里３鄰中正路７７７―１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684259,
-                    23.980471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "元園茶語舖",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -13683,6 +13683,23 @@
                 "coordinates": [
                     120.683815,
                     23.977157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Mr. Wish 草屯中正店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮炎峰里０１３鄰中正路６４０號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684822,
+                    23.97913
                 ]
             }
         },
