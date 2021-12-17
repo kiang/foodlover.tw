@@ -54455,6 +54455,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶聚CHAGE 台南東寧店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區裕農里東寧路４８６號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.230075,
+                    22.989235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茶米樂茶行",
                 "category": "餐飲",
                 "area": "東區",
@@ -56659,23 +56676,6 @@
                 "coordinates": [
                     120.24521822211,
                     22.98529323973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "淨水行號",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區裕農里東寧路４８６號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.230075,
-                    22.989235
                 ]
             }
         },

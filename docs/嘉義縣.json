@@ -3268,6 +3268,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶聚CHAGE 朴子山通店",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市文化里山通路２０２號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.241873,
+                    23.464192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "芯醋浧商行",
                 "category": "餐飲",
                 "area": "朴子市",
@@ -3670,23 +3687,6 @@
                 "coordinates": [
                     120.238915,
                     23.463961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "台達通飲料店",
-                "category": "餐飲",
-                "area": "朴子市",
-                "market_address": "嘉義縣朴子市文化里山通路２０２號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.241873,
-                    23.464192
                 ]
             }
         },

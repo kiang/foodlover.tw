@@ -4101,6 +4101,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "安妮菓子工房股份有限公司彰化員林店",
+                "category": "糕餅",
+                "area": "員林市",
+                "market_address": "彰化縣員林市中山里中山路一段７６６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570947,
+                    23.957452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "咖皇國際股份有限公司",
                 "category": "糕餅",
                 "area": "員林市",
@@ -23209,6 +23226,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶聚CHAGE 花壇學前店",
+                "category": "餐飲",
+                "area": "花壇鄉",
+                "market_address": "彰化縣花壇鄉橋頭村學前路５號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541787,
+                    24.024311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "花舒哿生活館",
                 "category": "餐飲",
                 "area": "花壇鄉",
@@ -23339,23 +23373,6 @@
                 "coordinates": [
                     120.527615,
                     24.031731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "珅旺企業社",
-                "category": "餐飲",
-                "area": "花壇鄉",
-                "market_address": "彰化縣花壇鄉橋頭村學前路５號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541787,
-                    24.024311
                 ]
             }
         },

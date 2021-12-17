@@ -4254,6 +4254,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶聚CHAGE 湖口中正店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉仁勢村中正路１段６１號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.045568,
+                    24.90227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茶湯會 湖口仁和店",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -5251,23 +5268,6 @@
                 "coordinates": [
                     121.02544972384,
                     24.863978843321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富昱企業社",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉仁勢村中正路１段６１號",
-                "pay_list": "信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.045568,
-                    24.90227
                 ]
             }
         },
@@ -8249,23 +8249,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鈺禾企業社",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市縣政二路９１號",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.012396,
-                    24.819206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鈞記火鍋店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -9790,6 +9773,40 @@
                 "coordinates": [
                     121.013132,
                     24.833051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "茶聚CHAGE 竹北縣政店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市縣政二路９１號",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012396,
+                    24.819206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "茶聚CHAGE 竹北中山店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中山路50號",
+                "pay_list": "信用卡\/台灣Pay\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024586,
+                    24.834425
                 ]
             }
         },
@@ -16052,6 +16069,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "安妮菓子工房股份有限公司竹北店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市縣政二路南段３８、４０號１－２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011101,
+                    24.818249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "安可Ｗａｙ",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "竹北市",
@@ -18018,23 +18052,6 @@
                 "coordinates": [
                     121.010037,
                     24.832543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "凱禾騰國際股份有限公司茶聚竹北中山店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中山路50號",
-                "pay_list": "信用卡\/台灣Pay\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.024586,
-                    24.834425
                 ]
             }
         },
