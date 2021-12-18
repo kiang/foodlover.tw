@@ -8929,23 +8929,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "貴君商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福民里興業西路２９１號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43915,
-                    23.467749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "貴人咖啡",
                 "category": "餐飲\/糕餅",
                 "area": "西區",
@@ -9382,6 +9365,23 @@
                 "coordinates": [
                     120.44542,
                     23.483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "茶聚CHAGE 嘉義興業店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福民里興業西路２９１號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43915,
+                    23.467749
                 ]
             }
         },

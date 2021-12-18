@@ -4951,6 +4951,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶聚CHAGE 斗六中正店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市太平里中正路１４４號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54442,
+                    23.706371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茶湯會 斗六中山店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7705,23 +7722,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "天誠商行",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市太平里中正路１４４號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54442,
-                    23.706371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大頭蔥肉蛋餅",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -10419,6 +10419,23 @@
                 "coordinates": [
                     120.42748,
                     23.704934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "安妮菓子工房股份有限公司雲林虎尾店",
+                "category": "糕餅",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮立仁里０１４鄰林森路二段１２８號１３０號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428916,
+                    23.705081
                 ]
             }
         },
@@ -13224,6 +13241,23 @@
                 "coordinates": [
                     120.441249,
                     23.711689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Sunny Q 陽光公主義國餐廳",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮東仁里信義路６９號１樓",
+                "pay_list": "信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437546,
+                    23.711344
                 ]
             }
         },

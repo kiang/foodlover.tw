@@ -91022,23 +91022,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永聖冷飲店",
-                "category": "餐飲",
-                "area": "鳥松區",
-                "market_address": "高雄市鳥松區鳥松里文前路１１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.363022,
-                    22.662457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "水四紀冷飲店",
                 "category": "餐飲",
                 "area": "鳥松區",
@@ -91441,6 +91424,23 @@
                 "coordinates": [
                     120.338567,
                     22.657035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "冰心茶王 鳥松文前店",
+                "category": "餐飲",
+                "area": "鳥松區",
+                "market_address": "高雄市鳥松區鳥松里文前路１１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.363022,
+                    22.662457
                 ]
             }
         },
