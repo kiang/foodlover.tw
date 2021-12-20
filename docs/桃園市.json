@@ -8640,6 +8640,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 中壢忠孝店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中原里忠孝路１０４號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.255726,
+                    24.974975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 中壢健行店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區健行里健行路１３２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.227132,
+                    24.949482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "當當久久久飲料店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -11054,23 +11088,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永金冷飲店",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中原里忠孝路１０４號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.255726,
-                    24.974975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永豐冷飲站",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -13451,23 +13468,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新東陽股份有限公司高鐵桃園門市部",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區青埔里高鐵北路１段６號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.215142,
-                    25.013351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新明水果霸王飲料",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -15468,23 +15468,6 @@
                 "coordinates": [
                     121.25554741659,
                     24.932333350437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "少年董企業社",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區健行里健行路１３２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.227132,
-                    24.949482
                 ]
             }
         },
@@ -18375,6 +18358,23 @@
                 "coordinates": [
                     121.22620511627,
                     24.962159773988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和璟小吃店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中央里中美路３１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226675,
+                    24.958141
                 ]
             }
         },
@@ -34695,23 +34695,6 @@
                 "coordinates": [
                     121.320108,
                     25.008075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "愛買桃園店",
-                "category": "百貨美食街",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區中山里中山路９３９號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.291377,
-                    24.990532
                 ]
             }
         },
@@ -52630,23 +52613,6 @@
                 "coordinates": [
                     121.15052,
                     24.908397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "愛買楊梅店",
-                "category": "百貨美食街",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區三民里２７鄰中山北路２段２３巷６號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.167388,
-                    24.907692
                 ]
             }
         },

@@ -13791,23 +13791,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "原味友愛冷飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福全里中興路２５５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43362,
-                    23.482099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "原仁冷飲店",
                 "category": "餐飲",
                 "area": "西區",
@@ -15026,6 +15009,23 @@
                 "coordinates": [
                     120.446479,
                     23.47952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 嘉市友愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福全里中興路２５５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43362,
+                    23.482099
                 ]
             }
         },

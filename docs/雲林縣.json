@@ -2673,40 +2673,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豪麟冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮順天里中正路９９號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.390522,
-                    23.676217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "豪羿冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮北平里１５鄰馬光路８６號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.355695,
-                    23.705741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "芳榖餐飲店",
                 "category": "餐飲",
                 "area": "土庫鎮",
@@ -2888,6 +2854,40 @@
                 "coordinates": [
                     120.393197,
                     23.679552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 土庫馬光店",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮北平里１５鄰馬光路８６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355695,
+                    23.705741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 土庫中正店",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮順天里中正路９９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.390522,
+                    23.676217
                 ]
             }
         },
@@ -13251,7 +13251,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮東仁里信義路６９號１樓",
-                "pay_list": "信用卡\/台灣pay"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

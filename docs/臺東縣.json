@@ -7025,6 +7025,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 台東更生店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民生里更生路３７８號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14404,
+                    22.761689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "甜記糕點坊",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -7835,23 +7852,6 @@
                 "coordinates": [
                     121.14482718487,
                     22.755682013255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂芙冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民生里更生路３７８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.14404,
-                    22.761689
                 ]
             }
         },
@@ -9484,23 +9484,6 @@
                 "coordinates": [
                     121.12318,
                     22.780118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "屏屏冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民權里３２鄰博愛路２０７號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.150107,
-                    22.758552
                 ]
             }
         },
@@ -11864,6 +11847,23 @@
                 "coordinates": [
                     121.1423,
                     22.760798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 台東博愛店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民權里３２鄰博愛路２０７號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150107,
+                    22.758552
                 ]
             }
         },
