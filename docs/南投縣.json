@@ -3761,23 +3761,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "壹零捌飲料店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市崇文里００１鄰復興路１８７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686991,
-                    23.906946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "壹零壹咖啡館",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4418,6 +4401,23 @@
                 "coordinates": [
                     120.698958,
                     23.939124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 南投復興店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市崇文里００１鄰復興路１８７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686991,
+                    23.906946
                 ]
             }
         },

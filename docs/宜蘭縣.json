@@ -15899,6 +15899,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 羅東培英店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮國華里培英路９１號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760268,
+                    24.67783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "田門便當",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -18460,23 +18477,6 @@
                 "coordinates": [
                     121.77019,
                     24.672414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "億茶香冷飲店",
-                "category": "餐飲",
-                "area": "羅東鎮",
-                "market_address": "宜蘭縣羅東鎮國華里培英路９１號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.760268,
-                    24.67783
                 ]
             }
         },

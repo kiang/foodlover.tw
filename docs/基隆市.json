@@ -1449,6 +1449,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 基隆中山復興店",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區西康里復興路９５之６號１樓",
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.725851,
+                    25.144086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "私人島嶼餐飲店",
                 "category": "餐飲",
                 "area": "中山區",
@@ -1834,23 +1851,6 @@
                 "coordinates": [
                     121.738218,
                     25.132491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小夫妻商行",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區西康里復興路９５之６號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.725851,
-                    25.144086
                 ]
             }
         },
@@ -10096,23 +10096,6 @@
                 "coordinates": [
                     121.755774,
                     25.128698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "愛買基隆店",
-                "category": "百貨美食街",
-                "area": "信義區",
-                "market_address": "基隆市信義區孝忠里深溪路５３號地下１層",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.782028,
-                    25.132313
                 ]
             }
         },

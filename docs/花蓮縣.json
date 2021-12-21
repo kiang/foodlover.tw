@@ -1602,6 +1602,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 花蓮吉安店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉宜昌村０３２鄰中華路二段３００號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580194,
+                    23.973535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 吉安中正店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉仁里村００１鄰中正路一段３號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.594261,
+                    23.968512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "粘記茶行",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -2316,23 +2350,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨禹冷飲站",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉宜昌村０３２鄰中華路二段３００號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.580194,
-                    23.973535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "晨曦農業休閒民宿",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -2803,23 +2820,6 @@
                 "coordinates": [
                     121.596519,
                     23.98496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大大電腦工作室",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉仁里村００１鄰中正路一段３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.594261,
-                    23.968512
                 ]
             }
         },
@@ -5631,6 +5631,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 北埔嘉里店",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉嘉里路159之7號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608607,
+                    24.021076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "米雅各文化企業有限公司",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -5642,23 +5659,6 @@
                 "coordinates": [
                     121.646499,
                     24.129805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "竹竹茶坊企業社",
-                "category": "餐飲",
-                "area": "新城鄉",
-                "market_address": "花蓮縣新城鄉北埔村０２７鄰北埔路３０３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603022,
-                    24.035688
                 ]
             }
         },
@@ -16494,7 +16494,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "紅茶洋行富吉店",
+                "shop": "紅茶洋行 花蓮富吉店",
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國裕里０５３鄰富吉路１００號１樓",
@@ -16505,6 +16505,23 @@
                 "coordinates": [
                     121.596563,
                     23.995546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 花蓮中華店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主力里中華路３０７號１樓",
+                "pay_list": "icash pay\/街口\/橘子支付\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599271,
+                    23.974941
                 ]
             }
         },
@@ -16715,23 +16732,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "立日心食品行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主力里中華路３０７號１樓",
-                "pay_list": "icash pay\/街口\/橘子支付\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599271,
-                    23.974941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "立寶企業社",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -16828,23 +16828,6 @@
                 "coordinates": [
                     121.601007,
                     23.987188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "秀吉商行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國裕里０５３鄰富吉路１００號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.596563,
-                    23.995546
                 ]
             }
         },
@@ -17276,7 +17259,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "白御茶飲",
+                "shop": "白巷子 花蓮中山店",
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國魂里００３鄰中山路５１１號１樓",

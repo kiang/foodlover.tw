@@ -6668,6 +6668,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 南市民族店",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區赤嵌里民族路２段７６之１５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208089,
+                    22.995092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 南市府前店",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區大涼里府前路二段２５７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.190244,
+                    22.99183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "白小姐有限公司",
                 "category": "餐飲",
                 "area": "中西區",
@@ -7512,23 +7546,6 @@
                 "coordinates": [
                     120.202232,
                     22.997902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "瀚森茶舖",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區大涼里府前路二段２５７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.190244,
-                    22.99183
                 ]
             }
         },
@@ -10113,23 +10130,6 @@
                 "coordinates": [
                     120.207567,
                     22.994945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "懷特茶飲",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區赤嵌里民族路２段７６之１５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.208089,
-                    22.995092
                 ]
             }
         },
@@ -14250,23 +14250,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "億揚飲品店",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區城隍里民族路２段２號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.21160654336,
-                    22.994621171397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "僾果鮮商行",
                 "category": "餐飲",
                 "area": "中西區",
@@ -15196,6 +15179,23 @@
                 "coordinates": [
                     120.19717387918,
                     22.987665020413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 南市民族店",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區城隍里民族路２段２號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21160654336,
+                    22.994621171397
                 ]
             }
         },
@@ -22903,6 +22903,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 成大勝利店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區仁愛里勝利路１９８號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218935,
+                    23.004034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "異人館國際餐飲股份有限公司開元分公司",
                 "category": "餐飲",
                 "area": "北區",
@@ -24393,23 +24410,6 @@
                 "coordinates": [
                     120.222331,
                     23.003156
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "懷特艾利茶飲",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區仁愛里勝利路１９８號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.218935,
-                    23.004034
                 ]
             }
         },
@@ -31675,23 +31675,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "聚寶堂冷飲",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區坐駕里中正路４００號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294079,
-                    23.129708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美好美食坊",
                 "category": "餐飲",
                 "area": "善化區",
@@ -31873,6 +31856,23 @@
                 "coordinates": [
                     120.293651,
                     23.132239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 善化中山店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區東關里００２鄰中山路３８４號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291981,
+                    23.132349
                 ]
             }
         },
@@ -32916,23 +32916,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "善化中山飲料店",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區東關里００２鄰中山路３８４號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291981,
-                    23.132349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "唯心茶飲",
                 "category": "餐飲",
                 "area": "善化區",
@@ -33426,6 +33409,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "TEA'S 原味 善化中正店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區坐駕里中正路４００號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294079,
+                    23.129708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "Starbucks星巴克台南市第十五分公司",
                 "category": "餐飲",
                 "area": "善化區",
@@ -33766,23 +33766,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "醇金商行",
-                "category": "餐飲",
-                "area": "學甲區",
-                "market_address": "臺南市學甲區明宜里濟生路２３５之５號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.176897,
-                    23.234221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "賓貓精品咖啡店",
                 "category": "餐飲",
                 "area": "學甲區",
@@ -33794,6 +33777,23 @@
                 "coordinates": [
                     120.179599,
                     23.230018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 學甲濟生店",
+                "category": "餐飲",
+                "area": "學甲區",
+                "market_address": "臺南市學甲區明宜里濟生路２３５之５號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176897,
+                    23.234221
                 ]
             }
         },
@@ -40039,6 +40039,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 南市安平店",
+                "category": "餐飲",
+                "area": "安平區",
+                "market_address": "臺南市安平區天妃里安平路１６７號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.161803,
+                    23.000093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "瑪莉洋房餐坊",
                 "category": "餐飲",
                 "area": "安平區",
@@ -40356,23 +40373,6 @@
                 "coordinates": [
                     120.164609,
                     23.000539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "湯姆艾利茶飲",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區天妃里安平路１６７號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.161803,
-                    23.000093
                 ]
             }
         },
@@ -45615,6 +45615,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 新市民生店",
+                "category": "餐飲",
+                "area": "新市區",
+                "market_address": "臺南市新市區新和里民生路６６號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289458,
+                    23.079457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "異嚐饗食坊",
                 "category": "餐飲",
                 "area": "新市區",
@@ -46040,23 +46057,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新生冷飲店",
-                "category": "餐飲",
-                "area": "新市區",
-                "market_address": "臺南市新市區新和里民生路６６號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.289458,
-                    23.079457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新御商行",
                 "category": "餐飲",
                 "area": "新市區",
@@ -46102,23 +46102,6 @@
                 "coordinates": [
                     120.291256,
                     23.078258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新市原味茶飲店",
-                "category": "餐飲",
-                "area": "新市區",
-                "market_address": "臺南市新市區新市里復興路４６號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295563,
-                    23.081098
                 ]
             }
         },
@@ -46799,6 +46782,23 @@
                 "coordinates": [
                     120.289274,
                     23.07428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 新市復興店",
+                "category": "餐飲",
+                "area": "新市區",
+                "market_address": "臺南市新市區新市里復興路４６號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295563,
+                    23.081098
                 ]
             }
         },
@@ -48165,6 +48165,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 新營民治店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區新南里民治路３４０號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303245,
+                    23.305968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 新營延平店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區南興里００１鄰延平路１１０號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312805,
+                    23.299866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "異人館國際餐飲股份有限公司新營分公司",
                 "category": "餐飲",
                 "area": "新營區",
@@ -48811,23 +48845,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新民茶飲店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區新南里民治路３４０號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.303245,
-                    23.305968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新山早午餐",
                 "category": "餐飲",
                 "area": "新營區",
@@ -48941,23 +48958,6 @@
                 "coordinates": [
                     120.31258,
                     23.3111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "延平茶飲店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區南興里００１鄰延平路１１０號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.312805,
-                    23.299866
                 ]
             }
         },
@@ -53775,23 +53775,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "谷農商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區南聖里裕農路７５２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.238186,
-                    22.988731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "谷津美食館",
                 "category": "餐飲",
                 "area": "東區",
@@ -55373,6 +55356,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 南市崇明店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇德里崇明路４８９號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225273,
+                    22.972525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "紅色奇蹟企業社",
                 "category": "餐飲",
                 "area": "東區",
@@ -55792,6 +55792,40 @@
                 "coordinates": [
                     120.22713235463,
                     22.997495043829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 台南崇德店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇德里崇德路４４２之１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22617,
+                    22.97477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 南市裕農店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區南聖里裕農路７５２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238186,
+                    22.988731
                 ]
             }
         },
@@ -57356,23 +57390,6 @@
                 "coordinates": [
                     120.225725,
                     22.97652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "楊奕商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇德里崇明路４８９號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.225273,
-                    22.972525
                 ]
             }
         },
@@ -59464,23 +59481,6 @@
                 "coordinates": [
                     120.22762151706,
                     22.972898408102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "崇巷冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇德里崇德路４４２之１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.22617,
-                    22.97477
                 ]
             }
         },
@@ -63754,23 +63754,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "誠心茶園",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區南保里００７鄰民權北路１６５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.288128,
-                    22.971247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "蘇家宴席",
                 "category": "餐飲",
                 "area": "歸仁區",
@@ -63935,6 +63918,23 @@
                 "coordinates": [
                     120.269869,
                     22.910415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 歸仁民權店",
+                "category": "餐飲",
+                "area": "歸仁區",
+                "market_address": "臺南市歸仁區南保里００７鄰民權北路１６５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288128,
+                    22.971247
                 ]
             }
         },
@@ -64519,23 +64519,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "原味長榮冷飲店",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區大潭里長榮路１段２０９―２號１樓",
-                "pay_list": "歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.26953289727,
-                    22.910596991216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "勇圓有限公司",
                 "category": "餐飲",
                 "area": "歸仁區",
@@ -64734,6 +64717,23 @@
                 "coordinates": [
                     120.293853,
                     22.965122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 長榮大學店",
+                "category": "餐飲",
+                "area": "歸仁區",
+                "market_address": "臺南市歸仁區大潭里長榮路１段２０９―２號１樓",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26953289727,
+                    22.910596991216
                 ]
             }
         },
@@ -67817,6 +67817,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 永康中正店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區正強里０３２鄰中正路２１０之１號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252185,
+                    23.030812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "米苑茶行",
                 "category": "餐飲",
                 "area": "永康區",
@@ -68202,6 +68219,23 @@
                 "coordinates": [
                     120.223176,
                     23.020672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 永康二王店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區二王里０１７鄰中山南路６８８號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244125,
+                    23.020081
                 ]
             }
         },
@@ -69307,23 +69341,6 @@
                 "coordinates": [
                     120.260945,
                     23.026024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永巷冷飲店",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區二王里０１７鄰中山南路６８８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.244125,
-                    23.020081
                 ]
             }
         },
@@ -72356,23 +72373,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "原味大灣冷飲店",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區大灣里０１３鄰民族路２４０號１樓",
-                "pay_list": "歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.268887,
-                    23.006208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南台拾参巷早餐店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -72656,23 +72656,6 @@
                 "coordinates": [
                     120.23622393787,
                     23.040723326905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "凱米商行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區正強里０３２鄰中正路２１０之１號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.252185,
-                    23.030812
                 ]
             }
         },
@@ -73438,6 +73421,23 @@
                 "coordinates": [
                     120.232159,
                     23.02239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 永康民族店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區大灣里０１３鄰民族路２４０號１樓",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268887,
+                    23.006208
                 ]
             }
         },
@@ -76708,23 +76708,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "原味麻豆冷飲店",
-                "category": "餐飲",
-                "area": "麻豆區",
-                "market_address": "臺南市麻豆區新興里中山路１０３號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.245583,
-                    23.183561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南方米造商舖",
                 "category": "餐飲",
                 "area": "麻豆區",
@@ -76855,6 +76838,23 @@
                 "coordinates": [
                     120.253383,
                     23.184425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 麻豆中山店",
+                "category": "餐飲",
+                "area": "麻豆區",
+                "market_address": "臺南市麻豆區新興里中山路１０３號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245583,
+                    23.183561
                 ]
             }
         },

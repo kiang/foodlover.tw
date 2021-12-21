@@ -956,7 +956,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "魚大大冷飲店",
+                "shop": "魚池新語 嘉市台林店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區仁義里台林街８８號１樓",
@@ -2514,6 +2514,40 @@
                 "coordinates": [
                     120.453468,
                     23.491935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 嘉市吳鳳北店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區北門里北門街３０號１樓",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4521,
+                    23.48451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 嘉市保義店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區後湖里保義路６號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452479,
+                    23.500689
                 ]
             }
         },
@@ -6141,23 +6175,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "原味嘉義林森東冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區後庄里林森東路５４７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.47571,
-                    23.4923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "厚一點雞排專賣店嘉義店",
                 "category": "餐飲",
                 "area": "東區",
@@ -6345,23 +6362,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "冰馬商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區後湖里保義路６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.452479,
-                    23.500689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "冠緹商行",
                 "category": "餐飲",
                 "area": "東區",
@@ -6526,23 +6526,6 @@
                 "coordinates": [
                     120.45234000079,
                     23.500780006326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "何喝茶冷飲",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區北門里北門街３０號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4521,
-                    23.48451
                 ]
             }
         },
@@ -6883,6 +6866,23 @@
                 "coordinates": [
                     120.459729,
                     23.47359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 嘉市林森東店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區後庄里林森東路５４７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47571,
+                    23.4923
                 ]
             }
         },
@@ -8192,6 +8192,57 @@
                 "coordinates": [
                     120.44244,
                     23.472049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "魚池新語 嘉市興業店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區車店里興業西路３１４號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43865,
+                    23.468019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "魚池新語 嘉市民南店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區獅子里民生南路５８８號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44343,
+                    23.45796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "魚池新語 嘉市友愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里友愛路２３４號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43401,
+                    23.48253
                 ]
             }
         },
@@ -9881,40 +9932,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "羿文茶行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區獅子里民生南路５８８號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44343,
-                    23.45796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "羽麻糬紅茶冰",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區光路里民生南路４９２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4434,
-                    23.46018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "羅雯甜品商行",
                 "category": "餐飲",
                 "area": "西區",
@@ -10045,6 +10062,23 @@
                 "coordinates": [
                     120.41646,
                     23.47456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 嘉市民南店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區光路里民生南路４９２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4434,
+                    23.46018
                 ]
             }
         },
@@ -10589,6 +10623,23 @@
                 "coordinates": [
                     120.44211,
                     23.47476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 嘉市國華店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區國華里國華街２４６號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44822,
+                    23.481809
                 ]
             }
         },
@@ -11286,23 +11337,6 @@
                 "coordinates": [
                     120.432241,
                     23.462499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "沛盈冷飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區車店里興業西路３１４號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43865,
-                    23.468019
                 ]
             }
         },
@@ -12482,23 +12516,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "巷弄茶飲",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區國華里國華街２４６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44822,
-                    23.481809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "巧意食堂",
                 "category": "餐飲",
                 "area": "西區",
@@ -12833,23 +12850,6 @@
                 "coordinates": [
                     120.44911,
                     23.47885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小均茶飲行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里友愛路２３４號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43401,
-                    23.48253
                 ]
             }
         },

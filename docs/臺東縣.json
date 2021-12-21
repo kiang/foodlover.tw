@@ -3404,6 +3404,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 台東南王店",
+                "category": "夜市\/市場攤販",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市南王里更生北路６０９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.117536,
+                    22.783836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "第一公有零售市場-地棟036號",
                 "category": "夜市\/市場攤販",
                 "area": "臺東市",
@@ -3500,23 +3517,6 @@
                 "coordinates": [
                     121.14981,
                     22.753702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "秘密雞地坊",
-                "category": "夜市\/市場攤販",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市南王里更生北路６０９號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.117536,
-                    22.783836
                 ]
             }
         },
@@ -6651,23 +6651,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "緯記紅茶午茶坊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民權里博愛路２０７號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.150107,
-                    22.758552
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "綺麗開發企業股份有限公司利家一館分公司",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -6730,6 +6713,40 @@
                 "coordinates": [
                     121.15204,
                     22.751449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 台東博愛店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民權里博愛路２０７號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150107,
+                    22.758552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 台東中興店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐年里００９鄰中興路三段１７８號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.113954,
+                    22.770544
                 ]
             }
         },
@@ -9065,23 +9082,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "怡琴商行",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐年里００９鄰中興路三段１７８號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.113954,
-                    22.770544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "志家食品有限公司台東分公司",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -9416,23 +9416,6 @@
                 "coordinates": [
                     121.137761,
                     22.765855
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "嵐冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民族里正氣路４６７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.1448,
-                    22.757095
                 ]
             }
         },
@@ -11411,23 +11394,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五十嵐綠茶專賣店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市鐵花里中華路１段６２５號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.149538,
-                    22.750544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "二格格滷味專賣店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -11932,6 +11898,40 @@
                 "coordinates": [
                     121.152623,
                     22.753572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 台東東商店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民族里正氣路４６７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1448,
+                    22.757095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市鐵花里中華路１段６２５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149538,
+                    22.750544
                 ]
             }
         },
