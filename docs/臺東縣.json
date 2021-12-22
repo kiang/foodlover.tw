@@ -6396,6 +6396,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "自己來紅茶鮮乳 台東新生店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市鐵花里新生路１２８號",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148326,
+                    22.752572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖老爹美式炸雞",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -8515,23 +8532,6 @@
                 "coordinates": [
                     121.143427,
                     22.765492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "早點見餐飲小吃部",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市鐵花里新生路１２８號",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.148326,
-                    22.752572
                 ]
             }
         },

@@ -1993,23 +1993,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "屏東縣南州地區農會生鮮超市",
-                "category": "餐飲",
-                "area": "南州鄉",
-                "market_address": "屏東縣南州鄉仁里村三民路２７號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.510273,
-                    22.489978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小田本舖",
                 "category": "餐飲",
                 "area": "南州鄉",
@@ -4248,23 +4231,6 @@
                 "coordinates": [
                     120.472841,
                     22.655045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "財旺企業社",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市華山里廣東路５５８號",
-                "pay_list": "信用卡\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.499005,
-                    22.683104
                 ]
             }
         },
@@ -10799,6 +10765,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Sharetea歇腳亭 屏東廣東店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市華山里廣東路５５８號",
+                "pay_list": "信用卡\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.499005,
+                    22.683104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "PIZZA HUT必勝客-屏東中正店",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -12771,23 +12754,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東淯冷飲專賣店",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮山腳里２７鄰恆南路１６１號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.744418,
-                    21.998311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "本天丁肉丸店",
                 "category": "餐飲",
                 "area": "恆春鎮",
@@ -13071,23 +13037,6 @@
                 "coordinates": [
                     120.74079,
                     22.008272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "快樂茶包飲品",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮墾丁里００４鄰墾丁路１８５號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.798334,
-                    21.94508
                 ]
             }
         },
@@ -13876,23 +13825,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "可愛茶包飲品",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮城南里０１２鄰中正路７６號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.744681,
-                    22.00326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "卡莉特詩甜點專門店",
                 "category": "餐飲",
                 "area": "恆春鎮",
@@ -14318,6 +14250,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "50嵐 恆春恆南店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮山腳里２７鄰恆南路１６１號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.744418,
+                    21.998311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 恆春中正店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮城南里０１２鄰中正路７６號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.744681,
+                    22.00326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 墾丁店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁里００４鄰墾丁路１８５號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.798334,
+                    21.94508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鶴貳樓食府",
                 "category": "餐飲",
                 "area": "新園鄉",
@@ -14363,23 +14346,6 @@
                 "coordinates": [
                     120.4622,
                     22.544021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "福春興業冷飲店",
-                "category": "餐飲",
-                "area": "新園鄉",
-                "market_address": "屏東縣新園鄉仙吉村００４鄰仙吉路６３號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460288,
-                    22.542428
                 ]
             }
         },
@@ -14465,6 +14431,23 @@
                 "coordinates": [
                     120.46015608539,
                     22.542126322754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 新園仙吉店",
+                "category": "餐飲",
+                "area": "新園鄉",
+                "market_address": "屏東縣新園鄉仙吉村００４鄰仙吉路６３號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460288,
+                    22.542428
                 ]
             }
         },

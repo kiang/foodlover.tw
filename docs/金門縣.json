@@ -1500,23 +1500,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司金門金城店",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮民生路9-15號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.319716,
-                    24.433413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "秀泰泰式料理餐廳",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -3177,6 +3160,23 @@
                 "coordinates": [
                     118.315434,
                     24.430375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 金門金城店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮民生路9-15號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319716,
+                    24.433413
                 ]
             }
         },

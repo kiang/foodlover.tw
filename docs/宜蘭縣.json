@@ -1959,6 +1959,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅茶洋行 宜蘭冬山店",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉南興村００８鄰冬山路７５號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.793584,
+                    24.633313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "精銳國際行銷股份有限公司宜蘭營業所",
                 "category": "餐飲",
                 "area": "冬山鄉",
@@ -2752,23 +2769,6 @@
                 "coordinates": [
                     121.794338,
                     24.632449
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "冬山洋行",
-                "category": "餐飲",
-                "area": "冬山鄉",
-                "market_address": "宜蘭縣冬山鄉南興村００８鄰冬山路７５號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.793584,
-                    24.633313
                 ]
             }
         },

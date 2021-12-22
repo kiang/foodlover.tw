@@ -4458,23 +4458,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金珊行茶飲",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市公誠里上海路２８５號一樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542627,
-                    23.715198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金浚國際有限公司",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -5461,23 +5444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司斗六石榴店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市榴中里石榴路95號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.584078,
-                    23.723471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "秀霞小吃店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -5676,6 +5642,40 @@
                 "coordinates": [
                     120.53106227139,
                     23.712572615952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 雲林斗六店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中山路３２８之８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538123,
+                    23.70051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 斗六上海店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市公誠里上海路２８５號一樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542627,
+                    23.715198
                 ]
             }
         },
@@ -6373,23 +6373,6 @@
                 "coordinates": [
                     120.542303,
                     23.711973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "欣恆商店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中山路３２８之８號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538123,
-                    23.70051
                 ]
             }
         },
@@ -9008,6 +8991,23 @@
                 "coordinates": [
                     120.536924,
                     23.700195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 斗六石榴店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市榴中里石榴路95號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584078,
+                    23.723471
                 ]
             }
         },

@@ -2639,6 +2639,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "白巷子 南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市南投里００８鄰民族路３３６號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685259,
+                    23.908297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "瑪度食品國際有限公司",
                 "category": "餐飲",
                 "area": "南投市",
@@ -2786,23 +2803,6 @@
                 "coordinates": [
                     120.685181,
                     23.90827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "溱品茶飲",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市南投里００８鄰民族路３３６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685259,
-                    23.908297
                 ]
             }
         },
@@ -8657,23 +8657,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投水里店",
-                "category": "餐飲",
-                "area": "水里鄉",
-                "market_address": "南投縣水里鄉民生路359號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.854229,
-                    23.816307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "百順滑口燒鴨",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -8906,6 +8889,23 @@
                 "coordinates": [
                     120.855508,
                     23.813103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投水里店",
+                "category": "餐飲",
+                "area": "水里鄉",
+                "market_address": "南投縣水里鄉民生路359號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.854229,
+                    23.816307
                 ]
             }
         },
@@ -9433,23 +9433,6 @@
                 "coordinates": [
                     120.720491,
                     23.763082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司竹山店",
-                "category": "餐飲",
-                "area": "竹山鎮",
-                "market_address": "南投縣竹山鎮集山路三段897號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683141,
-                    23.756983
                 ]
             }
         },
@@ -10011,6 +9994,23 @@
                 "coordinates": [
                     120.683286,
                     23.759702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 竹山店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮集山路三段897號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683141,
+                    23.756983
                 ]
             }
         },

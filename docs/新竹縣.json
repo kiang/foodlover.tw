@@ -20727,6 +20727,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "甘泉魚麵 新竹竹東店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮鷄林里１４鄰仁愛路２１８號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09082340347,
+                    24.734862966651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "珍饌料理",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20806,23 +20823,6 @@
                 "coordinates": [
                     121.089702,
                     24.736336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "欣欣麵食館",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮鷄林里１４鄰仁愛路２１８號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.09082340347,
-                    24.734862966651
                 ]
             }
         },
