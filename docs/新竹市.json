@@ -786,23 +786,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "香繼光股份有限公司繼光香香雞新竹西大分公司",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區中央里西門街４８號１樓",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.965235,
-                    24.80272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "養鍋Yang Guo石頭涮涮鍋 新竹市府店",
                 "category": "餐飲",
                 "area": "北區",
@@ -882,23 +865,6 @@
                 "coordinates": [
                     120.965779,
                     24.806511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雞達斯香香炸雞店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區中興里中山路８８號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.965667,
-                    24.804815
                 ]
             }
         },
@@ -2106,6 +2072,40 @@
                 "coordinates": [
                     120.955397,
                     24.80329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "繼光香香雞 新竹西大店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區中央里西門街４８號１樓",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965235,
+                    24.80272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "繼光香香雞 新竹廟前店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區中興里中山路８８號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965667,
+                    24.804815
                 ]
             }
         },
@@ -7960,23 +7960,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "香繼光股份有限公司繼光香香雞新竹中正分公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區榮光里中正路３號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97125805739,
-                    24.802589185085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "香繼光股份有限公司繼光香香雞-新竹巨城",
                 "category": "餐飲",
                 "area": "東區",
@@ -12459,6 +12442,23 @@
                 "coordinates": [
                     120.97411352039,
                     24.800241993648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "繼光香香雞 新竹中正店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區榮光里中正路３號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97125805739,
+                    24.802589185085
                 ]
             }
         },

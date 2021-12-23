@@ -803,23 +803,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "黑棟當歸鴨店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區民族里光華路３１號１樓",
-                "pay_list": "歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45439,
-                    23.47729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "黃記涼麵涼圓小吃店",
                 "category": "餐飲",
                 "area": "東區",
@@ -10272,74 +10255,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司嘉義興業西店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區興業西路343號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4376,
-                    23.46761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司嘉義民生南",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區民生南路477號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.443639,
-                    23.45824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司嘉義民族店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區民族路716號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44304,
-                    23.4755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司嘉義友愛店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區友愛路202號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43415,
-                    23.481089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "穀壹商行",
                 "category": "餐飲",
                 "area": "西區",
@@ -15179,6 +15094,74 @@
                 "coordinates": [
                     120.433988,
                     23.482875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 嘉義興業西店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區興業西路343號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4376,
+                    23.46761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 嘉義民生南店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區民生南路477號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.443639,
+                    23.45824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 嘉義民族店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區民族路716號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44304,
+                    23.4755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 嘉義友愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區友愛路202號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43415,
+                    23.481089
                 ]
             }
         }

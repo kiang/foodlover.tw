@@ -3625,6 +3625,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "順億鮪魚專賣店 屏東店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市仁愛里自由路４３９號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.493247,
+                    22.681867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "韓咪達韓式料理",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -3670,40 +3687,6 @@
                 "coordinates": [
                     120.490039,
                     22.669732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雅典餐飲店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市興樂里林森路９６號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.491783,
-                    22.673089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "隆順安全食品股份有限公司屏東門市",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市仁愛里自由路４３９號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.493247,
-                    22.681867
                 ]
             }
         },
@@ -8600,6 +8583,23 @@
                 "coordinates": [
                     120.479667,
                     22.68015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "孫東寶台式牛排教父 屏東林森店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市興樂里林森路９６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.491783,
+                    22.673089
                 ]
             }
         },
@@ -18874,23 +18874,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "寶洲實業社",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮三共里延平路２０４號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.540454,
-                    22.556559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "寶咖咖咖啡廚坊",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18953,6 +18936,23 @@
                 "coordinates": [
                     120.538751,
                     22.551722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "孫東寶台式牛排教父 潮州延平店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮三共里延平路２０４號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540454,
+                    22.556559
                 ]
             }
         },
