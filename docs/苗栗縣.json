@@ -5240,23 +5240,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "祐成餐飲店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮照南里華東街８１號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.878141,
-                    24.689785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "益森茶飲",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -5971,6 +5954,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "拉亞漢堡 竹南華東店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮照南里華東街８１號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.878141,
+                    24.689785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹南仁愛店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮大埔里３鄰仁愛路６５３號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.903353,
+                    24.71007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹南中山店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮竹南里中山路１１５號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879825,
+                    24.686402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "愛薇思有限公司",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -6237,23 +6271,6 @@
                 "coordinates": [
                     120.877049,
                     24.686712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好麥早餐店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮大埔里３鄰仁愛路６５３號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.903353,
-                    24.71007
                 ]
             }
         },
@@ -6764,23 +6781,6 @@
                 "coordinates": [
                     120.873509,
                     24.676974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中山餐飲店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮竹南里中山路１１５號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.879825,
-                    24.686402
                 ]
             }
         },
@@ -13893,23 +13893,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "謙有商行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市後庄里０２１鄰光華北路１２號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.889204,
-                    24.694759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "諾瑞伊餐館",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -15508,6 +15491,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "拉亞漢堡 頭份昌隆店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街２３號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.898478,
+                    24.687417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 頭份光華店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市後庄里０２１鄰光華北路１２號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.889204,
+                    24.694759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "恬緣果人文咖啡館",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -16063,23 +16080,6 @@
                 "coordinates": [
                     120.888478,
                     24.673152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品媞漢堡商店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市東庄里１９鄰昌隆一街２３號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.898478,
-                    24.687417
                 ]
             }
         },

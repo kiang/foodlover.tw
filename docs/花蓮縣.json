@@ -3710,23 +3710,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金弘餐飲店",
-                "category": "餐飲",
-                "area": "壽豐鄉",
-                "market_address": "花蓮縣壽豐鄉志學村中正路８１號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.531834,
-                    23.906416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "都鐸王朝民宿",
                 "category": "餐飲",
                 "area": "壽豐鄉",
@@ -4554,6 +4537,23 @@
                 "coordinates": [
                     121.529889,
                     23.907207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 花蓮東華店",
+                "category": "餐飲",
+                "area": "壽豐鄉",
+                "market_address": "花蓮縣壽豐鄉志學村中正路８１號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.531834,
+                    23.906416
                 ]
             }
         },
@@ -18670,23 +18670,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榮美早午餐",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市民運里忠義三街３１號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.631446,
-                    23.993561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "榕璟飯店有限公司",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -19809,7 +19792,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "拉亞漢堡花蓮中山店",
+                "shop": "拉亞漢堡 花蓮忠義三店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民運里忠義三街３１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.631446,
+                    23.993561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 花蓮中山店",
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國魂里中山路４７５―６號",

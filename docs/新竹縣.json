@@ -7127,23 +7127,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "麥客屋早點",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市斗崙里光明九路１２５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.009366,
-                    24.82526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鴻馥有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -9116,23 +9099,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豐禾企業社",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市竹北里博愛街５７１號１樓",
-                "pay_list": "悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.011658,
-                    24.84074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "豐沛飲料店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -9943,23 +9909,6 @@
                 "coordinates": [
                     121.026307,
                     24.814041
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "艾爾琺私廚",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市鹿場里福興東路一段２７５號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.022993,
-                    24.818494
                 ]
             }
         },
@@ -12873,23 +12822,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "民權早餐店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市民權街４５號１樓",
-                "pay_list": "icash pay\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.012265,
-                    24.832353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "毓富茶飲",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -14726,7 +14658,92 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "拉亞漢堡竹北台大店",
+                "shop": "拉亞漢堡 竹北自強店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市鹿場里福興東路一段２７５號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022993,
+                    24.818494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北縣政店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市斗崙里光明九路１２５號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.009366,
+                    24.82526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北民權店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市民權街４５號１樓",
+                "pay_list": "icash pay\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012265,
+                    24.832353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北文興店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東平里文興路二段５２號１至２樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03407,
+                    24.807666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北大漾店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中崙里博愛南路３號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001849,
+                    24.827123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北台大店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市莊敬北路１１８號",
@@ -14737,6 +14754,57 @@
                 "coordinates": [
                     121.02459110789,
                     24.825434152064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北台元店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市竹北里博愛街５７１號１樓",
+                "pay_list": "悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011658,
+                    24.84074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北六家嘉豐店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市六家六街１０８號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.023739,
+                    24.809488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 竹北中華店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市泰和里新工五路２３號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.004116,
+                    24.848202
                 ]
             }
         },
@@ -16868,23 +16936,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "喵喵早餐店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東平里文興路二段５２號１至２樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.03407,
-                    24.807666
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "喬蓮大飯店有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -16981,23 +17032,6 @@
                 "coordinates": [
                     121.02631165182,
                     24.829052843599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "啟嘉餐飲企業社",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市泰和里新工五路２３號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.004116,
-                    24.848202
                 ]
             }
         },
@@ -17735,23 +17769,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "協城小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中崙里博愛南路３號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.001849,
-                    24.827123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "千里福飲食店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -18324,23 +18341,6 @@
                 "coordinates": [
                     121.010599,
                     24.833956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "允晨早餐店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市六家六街１０８號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.023739,
-                    24.809488
                 ]
             }
         },

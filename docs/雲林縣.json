@@ -633,23 +633,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "誠鴻餐飲店",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮新街里公園路５６―１號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30188358379,
-                    23.576617054584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "蘭叨小吃店",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -1035,6 +1018,23 @@
                 "coordinates": [
                     120.300583,
                     23.577425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "孫東寶台式牛排教父 北港公園店",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮新街里公園路５６―１號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30188358379,
+                    23.576617054584
                 ]
             }
         },
@@ -12278,6 +12278,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "拉亞漢堡 虎尾復興店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮立仁里０２０鄰復興路２３１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424586,
+                    23.704761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "披薩老爹的義式廚房",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -12357,23 +12374,6 @@
                 "coordinates": [
                     120.42778,
                     23.703092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "悠悠早午餐",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮立仁里０２０鄰復興路２３１號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.424586,
-                    23.704761
                 ]
             }
         },
@@ -14046,7 +14046,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "拉亞漢堡",
+                "shop": "拉亞漢堡 西螺光復店",
                 "category": "餐飲",
                 "area": "西螺鎮",
                 "market_address": "雲林縣西螺鎮正興里００１鄰光復西路７８號",

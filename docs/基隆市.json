@@ -3251,23 +3251,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾樂早餐屋",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區新豐街２２７號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.788441,
-                    25.136903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "祥豐小吃店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4163,6 +4146,23 @@
                 "coordinates": [
                     121.787586,
                     25.135826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 基隆新豐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐街２２７號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788441,
+                    25.136903
                 ]
             }
         },
