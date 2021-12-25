@@ -9456,23 +9456,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "良旭早午餐",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.815922,
-                    24.549095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "肯德基KFC-苗栗中正店",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -9824,23 +9807,6 @@
                 "coordinates": [
                     120.817621,
                     24.574051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "玉清漢堡",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里２鄰建功街２０－１號１Ｆ",
-                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.825242,
-                    24.563848
                 ]
             }
         },
@@ -10453,6 +10419,40 @@
                 "coordinates": [
                     120.8195,
                     24.565581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 苗栗玉清店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市建功里２鄰建功街２０－１號１Ｆ",
+                "pay_list": "信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825242,
+                    24.563848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 苗栗中正店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市恭敬里００６鄰中正路１０１０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.815922,
+                    24.549095
                 ]
             }
         },

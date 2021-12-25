@@ -55288,7 +55288,41 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "拉亞漢堡美式早餐店",
+                "shop": "拉亞漢堡 楊梅青山店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區青山里青山一街２５號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177577,
+                    24.922547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 楊梅校前店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區永寧里校前路３３６號",
+                "pay_list": "信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15013,
+                    24.898418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 楊梅中山店",
                 "category": "餐飲",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區梅溪里中山北路２段７８號１樓",
@@ -55588,23 +55622,6 @@
                 "coordinates": [
                     121.145444,
                     24.90799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宜霖早午餐",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區青山里青山一街２５號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.177577,
-                    24.922547
                 ]
             }
         },
@@ -56030,23 +56047,6 @@
                 "coordinates": [
                     121.159128,
                     24.912661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "初光早午餐館",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區永寧里校前路３３６號",
-                "pay_list": "信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.15013,
-                    24.898418
                 ]
             }
         },
@@ -59334,7 +59334,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "拉亞漢堡南竹店",
+                "shop": "拉亞漢堡 蘆竹南竹店",
                 "category": "餐飲",
                 "area": "蘆竹區",
                 "market_address": "桃園市蘆竹區蘆興里南竹路二段３１７號",

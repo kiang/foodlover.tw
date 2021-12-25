@@ -7076,23 +7076,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "毓辰餐飲店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮東門里中正路２８９―１號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96987561376,
-                    23.962534271297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "歐莉葉荷城堡有限公司",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -7427,6 +7410,23 @@
                 "coordinates": [
                     120.960916,
                     23.967704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "拉亞漢堡 埔里中正店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮東門里中正路２８９―１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96987561376,
+                    23.962534271297
                 ]
             }
         },
@@ -12380,6 +12380,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "拉亞漢堡 草屯太平店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮新厝里太平路二段１８０號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683598,
+                    23.9735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "悅來餐飲有限公司",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -13037,23 +13054,6 @@
                 "coordinates": [
                     120.686058,
                     23.972573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "堡焙商行",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮新厝里太平路二段１８０號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683598,
-                    23.9735
                 ]
             }
         },
