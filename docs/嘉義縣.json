@@ -4985,23 +4985,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美期餐飲店",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉興南村０１２鄰建國路三段４５號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.440327,
-                    23.518267
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福慧商店",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5461,7 +5444,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "早安山丘早餐店福樂分店",
+                "shop": "早安山丘 民雄金興店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉興南村０１２鄰建國路三段４５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.440327,
+                    23.518267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 民雄福樂店",
                 "category": "餐飲",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉福樂村００２鄰埤角９之２號",
@@ -6430,23 +6430,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "薯條三兄弟早午餐店",
-                "category": "餐飲",
-                "area": "水上鄉",
-                "market_address": "嘉義縣水上鄉水頭村１８鄰中興路３１５號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.400934,
-                    23.430633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茂源商行",
                 "category": "餐飲",
                 "area": "水上鄉",
@@ -6628,6 +6611,23 @@
                 "coordinates": [
                     120.416039,
                     23.431329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 水上中興店",
+                "category": "餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉水頭村１８鄰中興路３１５號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400934,
+                    23.430633
                 ]
             }
         },

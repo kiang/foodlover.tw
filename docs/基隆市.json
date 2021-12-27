@@ -7552,23 +7552,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "爭鮮股份有限公司定食基隆二分公司",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區仁德里愛三路１２８號２樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.743731,
-                    25.129757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "爭鮮股份有限公司基隆分公司",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -8719,6 +8702,23 @@
                 "coordinates": [
                     121.744157,
                     25.129425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "定食8 基隆店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區仁德里愛三路１２８號２樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743731,
+                    25.129757
                 ]
             }
         },

@@ -1840,6 +1840,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "藍盤子 嘉市林森東店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區林森里林森東路７０號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45685,
+                    23.48674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "藍盤子 嘉市彌陀店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區短竹里彌陀路１６０號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46643,
+                    23.468309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "薏蓮坊企業社",
                 "category": "餐飲",
                 "area": "東區",
@@ -3608,23 +3642,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "檜意東早餐店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區林森里林森東路７０號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45685,
-                    23.48674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樸素齋坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -4067,7 +4084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "早安早餐店",
+                "shop": "早安山丘 嘉市林森西店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區北門里林森西路９號１樓",
@@ -4078,6 +4095,40 @@
                 "coordinates": [
                     120.452029,
                     23.485379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市林森東店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區後庄里林森東路３７５號附７",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.472138,
+                    23.492228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市彌陀店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區短竹里彌陀路２７０號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.462799,
+                    23.474236
                 ]
             }
         },
@@ -4917,23 +4968,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小魚兒早午餐",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區短竹里彌陀路１６０號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46643,
-                    23.468309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小陸碳烤餐飲有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -5251,23 +5285,6 @@
                 "coordinates": [
                     120.469671,
                     23.478932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "子騰餐飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區後庄里林森東路３７５號附７",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.472138,
-                    23.492228
                 ]
             }
         },
@@ -5761,23 +5778,6 @@
                 "coordinates": [
                     120.454899,
                     23.476559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "喬妤早點",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區短竹里彌陀路２７０號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.462799,
-                    23.474236
                 ]
             }
         },

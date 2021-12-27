@@ -4645,6 +4645,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "藍盤子 九如山東店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區同德里九如二路７６號１樓及山東街２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31154773676,
+                    22.640795654259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "藍天冷飲",
                 "category": "餐飲",
                 "area": "三民區",
@@ -7416,23 +7433,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "爭鮮股份有限公司定食澄清分公司",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶業里澄清路４５２號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345845,
-                    22.641286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "爭鮮股份有限公司定食愛河家門市部",
                 "category": "餐飲",
                 "area": "三民區",
@@ -9524,7 +9524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "早安義華早餐店",
+                "shop": "早安山丘 義華義和店",
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區本揚里義華路５６號１樓",
@@ -9552,23 +9552,6 @@
                 "coordinates": [
                     120.322975,
                     22.672751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "早安九如早餐店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區同德里九如二路７６號１樓及山東街２號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31154773676,
-                    22.640795654259
                 ]
             }
         },
@@ -11796,6 +11779,23 @@
                 "coordinates": [
                     120.32503996241,
                     22.639120749909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "定食8 澄清店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶業里澄清路４５２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345845,
+                    22.641286
                 ]
             }
         },
@@ -17548,6 +17548,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "宜華蛋餅 仁武中正店",
+                "category": "餐飲",
+                "area": "仁武區",
+                "market_address": "高雄市仁武區仁武里中正路２１２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352273,
+                    22.702254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宇宬早餐",
                 "category": "餐飲",
                 "area": "仁武區",
@@ -17814,23 +17831,6 @@
                 "coordinates": [
                     120.348817,
                     22.698967
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "合哈哈早午餐",
-                "category": "餐飲",
-                "area": "仁武區",
-                "market_address": "高雄市仁武區仁武里中正路２１２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.352273,
-                    22.702254
                 ]
             }
         },
@@ -24070,6 +24070,108 @@
                 "coordinates": [
                     120.294465,
                     22.62797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "進發商號",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區復國里光華二路３３９號前",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318057,
+                    22.615796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "槿珊餐飲店",
+                "category": "夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞文里瑞興街１１９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329893,
+                    22.611008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "昌平二聖炸雞王",
+                "category": "夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區興東里二聖二路３號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317687,
+                    22.612767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小嚕嚕泰式鹽水雞",
+                "category": "夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞豐里瑞隆路５８９號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326317,
+                    22.605004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四季旺仙草專賣店",
+                "category": "夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞隆里瑞隆路１７７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335611,
+                    22.605696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "前鎮第二公有零售市場-丙字1號",
+                "category": "夜市\/市場攤販",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區前鎮街291號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307749,
+                    22.592193
                 ]
             }
         },
@@ -69058,23 +69160,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福哈哈早午餐",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區玉田街１１２號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.330602,
-                    22.731718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "礦山工作室",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -70905,6 +70990,23 @@
                 "coordinates": [
                     120.325152,
                     22.740781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 楠梓玉田店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區玉田街１１２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.330602,
+                    22.731718
                 ]
             }
         },
@@ -76776,23 +76878,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "米多茶舖",
-                "category": "夜市\/市場攤販",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區安祥里六合路５３號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317795,
-                    22.631927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福盈門咔滋樂美式炸雞",
                 "category": "夜市\/市場攤販",
                 "area": "苓雅區",
@@ -77025,6 +77110,23 @@
                 "coordinates": [
                     120.308426,
                     22.621908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "嚮茶 高雄六合店",
+                "category": "夜市\/市場攤販",
+                "area": "苓雅區",
+                "market_address": "高雄市苓雅區安祥里六合路５３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317795,
+                    22.631927
                 ]
             }
         },
@@ -90104,7 +90206,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "慧玉商行",
+                "shop": "早安山丘 高雄阿蓮店",
                 "category": "餐飲",
                 "area": "阿蓮區",
                 "market_address": "高雄市阿蓮區阿蓮里０１１鄰中正路５１２號一樓",

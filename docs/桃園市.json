@@ -15763,6 +15763,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "小木屋鬆餅 中央店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區五權里中大路３００號﹝志希館前咖啡吧﹞",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.195635,
+                    24.968426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "小木屋簡餐",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18358,23 +18375,6 @@
                 "coordinates": [
                     121.22150536739,
                     24.958672401003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "和謙食堂",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區興國里中美路２段１２８號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.221034,
-                    24.96016
                 ]
             }
         },

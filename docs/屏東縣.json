@@ -5427,23 +5427,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "益誠早午餐店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市大武里武成街８２－６號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476943,
-                    22.656379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盈捷有限公司",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7110,23 +7093,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "月天餐飲店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市空翔里博愛路２９２號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48099,
-                    22.681543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "晶見咖啡商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7427,6 +7393,40 @@
                 "coordinates": [
                     120.473303,
                     22.687874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 屏市武成店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市大武里武成街８２－６號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476943,
+                    22.656379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 屏市博愛店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市空翔里博愛路２９２號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48099,
+                    22.681543
                 ]
             }
         },
