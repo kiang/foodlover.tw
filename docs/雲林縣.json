@@ -4832,23 +4832,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "莊敬晨食館",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市公正里莊敬路２４２號１樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.547399,
-                    23.703423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "莆豐商行",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6736,6 +6719,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "早安山丘 斗六莊敬店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市公正里莊敬路２４２號１樓",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547399,
+                    23.703423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 斗六文化店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市忠孝里文化路９８號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54776,
+                    23.710882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "日茂商店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6934,23 +6951,6 @@
                 "coordinates": [
                     120.540646,
                     23.713432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文化晨食館",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市忠孝里文化路９８號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54776,
-                    23.710882
                 ]
             }
         },

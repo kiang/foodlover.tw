@@ -16630,6 +16630,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "早安山丘 仁德中山店(中山晨食館)",
+                "category": "餐飲",
+                "area": "仁德區",
+                "market_address": "臺南市仁德區仁義里０２６鄰中山路５２８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253114,
+                    22.971589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "方塊七企業社",
                 "category": "餐飲",
                 "area": "仁德區",
@@ -17440,23 +17457,6 @@
                 "coordinates": [
                     120.255744,
                     22.969377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中山晨食館",
-                "category": "餐飲",
-                "area": "仁德區",
-                "market_address": "臺南市仁德區仁義里０２６鄰中山路５２８號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.253114,
-                    22.971589
                 ]
             }
         },
@@ -18398,23 +18398,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "覺饕餐館",
-                "category": "餐飲",
-                "area": "佳里區",
-                "market_address": "臺南市佳里區建南里００５鄰義民街２２３―１號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.17530849346,
-                    23.161302104858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "覺品小吃店",
                 "category": "餐飲",
                 "area": "佳里區",
@@ -18851,6 +18834,23 @@
                 "coordinates": [
                     120.178939,
                     23.157464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 佳里義民店",
+                "category": "餐飲",
+                "area": "佳里區",
+                "market_address": "臺南市佳里區建南里００５鄰義民街２２３―１號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17530849346,
+                    23.161302104858
                 ]
             }
         },
@@ -39070,23 +39070,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金晁企業有限公司安平營業所",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區國平里國平路１６２號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.171088,
-                    22.989076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金恆源水煮餐販賣店",
                 "category": "餐飲",
                 "area": "安平區",
@@ -43229,6 +43212,23 @@
                 "coordinates": [
                     120.171302,
                     22.990822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 台南安平店",
+                "category": "餐飲",
+                "area": "安平區",
+                "market_address": "臺南市安平區國平里國平路１６２號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171088,
+                    22.989076
                 ]
             }
         },
@@ -48760,6 +48760,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "早安山丘 新營站前店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區中營里開元路１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322939,
+                    23.30741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 新營新進店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區永平里３鄰新進路２段７８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311353,
+                    23.300701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "旗艦飲料店",
                 "category": "餐飲",
                 "area": "新營區",
@@ -48822,40 +48856,6 @@
                 "coordinates": [
                     120.3200653057,
                     23.305750820388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新山早午餐",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區永平里３鄰新進路２段７８號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.311353,
-                    23.300701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新宜蛋餅",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區民權里０２０鄰三民路１３２―２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.315888,
-                    23.307296
                 ]
             }
         },
@@ -49264,6 +49264,23 @@
                 "coordinates": [
                     120.307888,
                     23.30044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "宜華蛋餅 新營三民店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區民權里０２０鄰三民路１３２―２號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315888,
+                    23.307296
                 ]
             }
         },
@@ -49910,23 +49927,6 @@
                 "coordinates": [
                     120.320173,
                     23.309819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "丘元早午餐",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區中營里開元路１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.322939,
-                    23.30741
                 ]
             }
         },
@@ -55883,7 +55883,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "田季永康股份有限公司",
+                "shop": "田季發爺燒肉 台南中華店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "臺南市東區東聖里中華東路２段１０１號",
@@ -66304,23 +66304,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金伯冷飲店",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區崑山里大灣路９６６號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.254373,
-                    22.999409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "野村餐飲店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -70497,6 +70480,23 @@
                 "coordinates": [
                     120.23519336896,
                     22.99976263687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "手作功夫茶 崑山店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區崑山里大灣路９６６號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254373,
+                    22.999409
                 ]
             }
         },

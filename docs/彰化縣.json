@@ -3115,6 +3115,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "悟饕池上飯包 和美中正店",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮和西里中正路１４５號",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495202,
+                    24.113337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "恩熙商行",
                 "category": "餐飲",
                 "area": "和美鎮",
@@ -3432,23 +3449,6 @@
                 "coordinates": [
                     120.491894,
                     24.115002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "原味美食坊",
-                "category": "餐飲",
-                "area": "和美鎮",
-                "market_address": "彰化縣和美鎮和西里中正路１４５號",
-                "pay_list": "台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.495202,
-                    24.113337
                 ]
             }
         },
@@ -13434,23 +13434,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "芳味美食坊",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市大竹里１１鄰彰南路２段２８號１樓",
-                "pay_list": "台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.57749,
-                    24.085301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "花盒子餐飲店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -16148,6 +16131,23 @@
                 "coordinates": [
                     120.54578135965,
                     24.091367716668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "悟饕池上飯包 彰化大竹店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市大竹里１１鄰彰南路２段２８號１樓",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57749,
+                    24.085301
                 ]
             }
         },

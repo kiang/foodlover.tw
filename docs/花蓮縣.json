@@ -2401,6 +2401,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "早安山丘 吉安福興店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉福興村０１０鄰吉安路三段７９號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.560087,
+                    23.968264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "方程式早午餐",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -3109,23 +3126,6 @@
                 "coordinates": [
                     121.580265,
                     23.97324
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "友喜早午餐",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉福興村０１０鄰吉安路三段７９號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.560087,
-                    23.968264
                 ]
             }
         },

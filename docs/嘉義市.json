@@ -8606,23 +8606,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿丸早餐店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區國華里國華街２２２號、２２２之１號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44835,
-                    23.481079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "闔豪冷飲站",
                 "category": "餐飲",
                 "area": "西區",
@@ -8770,6 +8753,23 @@
                 "coordinates": [
                     120.442376,
                     23.489174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金喜屋 嘉市友愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里友愛路２３４號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43401,
+                    23.48253
                 ]
             }
         },
@@ -9229,6 +9229,40 @@
                 "coordinates": [
                     120.44173,
                     23.47664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "藍盤子 嘉市文化店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區湖邊里文化路６４９號１樓",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44383,
+                    23.49471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "藍盤子 嘉市國華店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區國華里國華街２２２號、２２２之１號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44835,
+                    23.481079
                 ]
             }
         },
@@ -10425,23 +10459,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "真棒餐飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區車店里興業西路４６５號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434299,
-                    23.46809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盧室冰欣冰飲店",
                 "category": "餐飲",
                 "area": "西區",
@@ -10606,23 +10623,6 @@
                 "coordinates": [
                     120.42863,
                     23.47467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "瑞迪早餐",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區湖邊里文化路６４９號１樓",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44383,
-                    23.49471
                 ]
             }
         },
@@ -11751,23 +11751,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "早民餐飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區美源里民生南路２８５號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44502,
-                    23.46383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "早晨早餐店",
                 "category": "餐飲",
                 "area": "西區",
@@ -11802,7 +11785,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "早安自由早餐店",
+                "shop": "早安山丘 嘉市自由店",
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "嘉義市西區保生里自由路１５５號附１一樓",
@@ -11813,6 +11796,74 @@
                 "coordinates": [
                     120.43831,
                     23.48687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市民南店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區美源里民生南路２８５號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44502,
+                    23.46383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市文化店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區湖邊里文化路５８１號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4444,
+                    23.493279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市中正店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區西榮里中正路６１５號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44432,
+                    23.478629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 嘉市上海店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區車店里興業西路４６５號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434299,
+                    23.46809
                 ]
             }
         },
@@ -11864,23 +11915,6 @@
                 "coordinates": [
                     120.441999,
                     23.47829
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新欣益餐飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區湖邊里文化路５８１號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4444,
-                    23.493279
                 ]
             }
         },
@@ -12635,23 +12669,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小迪宵夜店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里友愛路２３４號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43401,
-                    23.48253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小蒙牛股份有限公司小蒙牛嘉義門市部",
                 "category": "餐飲",
                 "area": "西區",
@@ -13377,23 +13394,6 @@
                 "coordinates": [
                     120.439809,
                     23.47191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "呷粗吧早餐店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區西榮里中正路６１５號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44432,
-                    23.478629
                 ]
             }
         },

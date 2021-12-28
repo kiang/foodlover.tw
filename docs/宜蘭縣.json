@@ -3710,6 +3710,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "員山酒堡咖啡館",
+                "category": "餐飲",
+                "area": "員山鄉",
+                "market_address": "宜蘭縣員山鄉蓁巷村８鄰員山路２段３２６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.691845,
+                    24.713989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "員山親子早餐店",
                 "category": "餐飲",
                 "area": "員山鄉",
@@ -3789,23 +3806,6 @@
                 "coordinates": [
                     121.727866,
                     24.746251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "伯朗咖啡股份有限公司員山店",
-                "category": "餐飲",
-                "area": "員山鄉",
-                "market_address": "宜蘭縣員山鄉蓁巷村８鄰員山路２段３２６號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.691845,
-                    24.713989
                 ]
             }
         },
@@ -20540,6 +20540,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "頭城城堡咖啡一館",
+                "category": "餐飲",
+                "area": "頭城鎮",
+                "market_address": "宜蘭縣頭城鎮外澳里石空路９５號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.838905,
+                    24.884664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "開蘭行旅股份有限公司",
                 "category": "餐飲",
                 "area": "頭城鎮",
@@ -20976,23 +20993,6 @@
                 "coordinates": [
                     121.823211,
                     24.858706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "伯朗咖啡股份有限公司頭城城堡分公司",
-                "category": "餐飲",
-                "area": "頭城鎮",
-                "market_address": "宜蘭縣頭城鎮外澳里石空路９５號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.838905,
-                    24.884664
                 ]
             }
         },

@@ -13145,23 +13145,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "台灣卜蜂企業股份有限公司台灣卜蜂企業股份有限公司六星便當草屯太平店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮太平路二段336號",
-                "pay_list": "信用卡\/台灣Pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684364,
-                    23.978612
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "双喜小吃部",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -13275,6 +13258,23 @@
                 "coordinates": [
                     120.687087,
                     23.96666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "六星便當 草屯太平店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮太平路二段336號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684364,
+                    23.978612
                 ]
             }
         },
