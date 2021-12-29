@@ -4016,23 +4016,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金晁企業有限公司民生店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市金泉里民生路３２５號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.490578,
-                    22.67047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金壽司日式便當",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9269,23 +9252,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "哈哈早餐店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇武里永大路５０號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.47972,
-                    22.66139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "哈克焗烤美食",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9337,7 +9303,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "咕嘰咕嘰餐飲有限公司",
+                "shop": "咕嘰咕嘰早午餐 永大店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇武里永大路５０號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47972,
+                    22.66139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "咕嘰咕嘰早午餐 屏東和平店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市永城里和平路４７２號２樓",
@@ -10776,6 +10759,23 @@
                 "coordinates": [
                     120.499005,
                     22.683104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 屏東民生餐廳",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市金泉里民生路３２５號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490578,
+                    22.67047
                 ]
             }
         },

@@ -4118,23 +4118,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新可商行",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區新豐里新豐街３０６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.787007,
-                    25.135888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "故香炭烤吐司店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -5268,6 +5251,23 @@
                 "coordinates": [
                     121.743336,
                     25.131805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 基隆海豐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐里新豐街３０６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787007,
+                    25.135888
                 ]
             }
         },
