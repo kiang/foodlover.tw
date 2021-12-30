@@ -3200,6 +3200,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "烏弄Unocha 嘉義興業東店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區興南里興業東路２６３號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45533,
+                    23.46957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "炸炸燒烤店",
                 "category": "餐飲",
                 "area": "東區",
@@ -4945,23 +4962,6 @@
                 "coordinates": [
                     120.46471,
                     23.48919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "尚品原生茶飲",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區興南里興業東路２６３號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45533,
-                    23.46957
                 ]
             }
         },

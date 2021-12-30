@@ -259,6 +259,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "勝利不廢商號",
+                "category": "餐飲",
+                "area": "光復鄉",
+                "market_address": "花蓮縣光復鄉大馬村林森路６３０號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.412122,
+                    23.68317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海星飯糰",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "吉安鄉",
@@ -6356,6 +6373,23 @@
                 "coordinates": [
                     121.31426,
                     23.326734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道 玉里分店",
+                "category": "餐飲",
+                "area": "玉里鎮",
+                "market_address": "花蓮縣玉里鎮泰昌里中山路２段１１２號",
+                "pay_list": "LINE Pay Money\/信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314629,
+                    23.33452
                 ]
             }
         },

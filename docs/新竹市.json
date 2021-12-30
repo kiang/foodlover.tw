@@ -2367,23 +2367,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "盛淳商行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區客雅里延平路一段２７０號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.952627,
-                    24.805146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "益實界企業社",
                 "category": "餐飲",
                 "area": "北區",
@@ -5971,6 +5954,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 延平1號店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區客雅里延平路一段２７０號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.952627,
+                    24.805146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 新竹東大店",
                 "category": "餐飲",
                 "area": "北區",
@@ -9501,23 +9501,6 @@
                 "coordinates": [
                     121.019094,
                     24.782489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金樂商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區福德里林森路１５２號一樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.965048,
-                    24.799674
                 ]
             }
         },
@@ -15417,23 +15400,6 @@
                 "coordinates": [
                     120.974273,
                     24.80425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "泓英商行CoCo都可",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區關新里關新二街90號一樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.018324,
-                    24.785751
                 ]
             }
         },
@@ -23855,6 +23821,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 林森店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區福德里林森路１５２號一樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.965048,
+                    24.799674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "CoCo都可 新竹食品店",
                 "category": "餐飲",
                 "area": "東區",
@@ -23866,6 +23849,23 @@
                 "coordinates": [
                     120.97574675801,
                     24.796959368614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新竹關新店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區關新里關新二街90號一樓",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018324,
+                    24.785751
                 ]
             }
         },

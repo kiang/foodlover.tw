@@ -10306,6 +10306,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "老漬號昱泰食品",
+                "category": "糕餅",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉美港村中山路１段１４１巷５號",
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571104,
+                    23.977566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "億味香有限公司",
                 "category": "糕餅",
                 "area": "大村鄉",
@@ -15185,23 +15202,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "正凱維國際有限公司",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市大同里中華路６５號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542582,
-                    24.078195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "歐姆瑞斯餐館",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -18749,6 +18749,23 @@
                 "coordinates": [
                     120.53985,
                     24.067796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 彰化中華餐廳",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市大同里中華路６５號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542582,
+                    24.078195
                 ]
             }
         },

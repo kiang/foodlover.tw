@@ -1109,23 +1109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "臻旺企業行",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉內田村廣濟路１９號１、２樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.564978,
-                    22.609386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老鉄自助餐",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1273,6 +1256,23 @@
                 "coordinates": [
                     120.56073,
                     22.662614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漫時光早午餐 內埔店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉內田村廣濟路１９號１、２樓",
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564978,
+                    22.609386
                 ]
             }
         },
@@ -5954,6 +5954,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漫時光早午餐 建豐總店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市豐田里建豐路２１３號１樓",
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504294,
+                    22.676076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漩茶舍商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -6322,23 +6339,6 @@
                 "coordinates": [
                     120.502799,
                     22.664261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "泉漫生活有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市豐田里建豐路２１３號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.504294,
-                    22.676076
                 ]
             }
         },
@@ -21282,6 +21282,23 @@
                 "coordinates": [
                     120.568682,
                     22.574255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "復脈園健康蔬果之家",
+                "category": "餐飲",
+                "area": "萬巒鄉",
+                "market_address": "屏東縣萬巒鄉萬巒村民和路８號",
+                "pay_list": "LINE Pay Money\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568935,
+                    22.574127
                 ]
             }
         },
