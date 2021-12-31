@@ -7824,23 +7824,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大知商行",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市和平里中山路２段１２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.570763,
-                    23.959702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大同早餐店",
                 "category": "餐飲",
                 "area": "員林市",
@@ -9297,6 +9280,23 @@
                 "coordinates": [
                     120.574611,
                     23.953963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 員林中山店",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市和平里中山路２段１２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570763,
+                    23.959702
                 ]
             }
         },

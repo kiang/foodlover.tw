@@ -735,23 +735,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豐沛商行",
-                "category": "餐飲",
-                "area": "五結鄉",
-                "market_address": "宜蘭縣五結鄉五結村００４鄰五結路二段４４０號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.797022,
-                    24.684847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "虎牌正通實業股份有限公司",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -1477,6 +1460,23 @@
                 "coordinates": [
                     121.819378,
                     24.668019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 宜蘭五結店",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉五結村００４鄰五結路二段４４０號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.797022,
+                    24.684847
                 ]
             }
         },
