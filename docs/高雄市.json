@@ -378,6 +378,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "黃記酥餅",
+                "category": "糕餅",
+                "area": "三民區",
+                "market_address": "高雄市三民區德仁里九如二路８９號１樓",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311184,
+                    22.640457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "馬荃麵包坊有限公司",
                 "category": "糕餅",
                 "area": "三民區",
@@ -8215,23 +8232,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永耀餐飲有限公司",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區澄清路４６２號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34590753762,
-                    22.641567231106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永心鳳茶有限公司同盟營業所",
                 "category": "餐飲\/糕餅",
                 "area": "三民區",
@@ -15315,6 +15315,23 @@
                 "coordinates": [
                     120.34589408704,
                     22.641490234447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "『 兩餐 』두끼韓國年糕火鍋吃到飽 鳳山店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區澄清路４６２號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34590753762,
+                    22.641567231106
                 ]
             }
         },
@@ -42674,7 +42691,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "多吉那股份有限公司明誠分公司",
+                "shop": "多那之咖啡蛋糕烘焙 高雄明誠門市",
                 "category": "糕餅",
                 "area": "左營區",
                 "market_address": "高雄市左營區新上里明誠二路４３３號１、２樓",
@@ -59640,23 +59657,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榮盈國際有限公司",
-                "category": "餐飲",
-                "area": "新興區",
-                "market_address": "高雄市新興區建華里中山一路２６３號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.301911,
-                    22.635408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "楊記滷水餃",
                 "category": "餐飲",
                 "area": "新興區",
@@ -63102,6 +63102,23 @@
                 "coordinates": [
                     120.315611,
                     22.631032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "『 兩餐 』두끼韓國年糕火鍋吃到飽 高雄店",
+                "category": "餐飲",
+                "area": "新興區",
+                "market_address": "高雄市新興區建華里中山一路２６３號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301911,
+                    22.635408
                 ]
             }
         },
@@ -72339,6 +72356,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "多那之咖啡蛋糕烘焙 高雄德民門市",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區宏昌里後昌新路１７６號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291336,
+                    22.721432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "多拿果概念店",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -72367,23 +72401,6 @@
                 "coordinates": [
                     120.296828,
                     22.724639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "多吉那股份有限公司德民分公司",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區宏昌里後昌新路１７６號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291336,
-                    22.721432
                 ]
             }
         },
@@ -111932,7 +111949,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "多吉那股份有限公司華榮分公司",
+                "shop": "多那之咖啡蛋糕烘焙 高雄華榮門市",
                 "category": "餐飲",
                 "area": "鼓山區",
                 "market_address": "高雄市鼓山區華豐里華榮路３０８號",

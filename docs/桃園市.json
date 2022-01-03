@@ -16885,23 +16885,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "太光國際有限公司",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區石頭里中正路５１號４樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.2240036182,
-                    24.95417866541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "天菊美食飲食店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18375,6 +18358,23 @@
                 "coordinates": [
                     121.253699,
                     24.963715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "味加味廣式燒腊",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區林森里龍岡路２段１３０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22922752286,
+                    24.945078580982
                 ]
             }
         },
@@ -22325,11 +22325,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "想吃火鍋",
+                "shop": "想吃鍋精緻創意小火鍋",
                 "category": "餐飲",
                 "area": "八德區",
                 "market_address": "桃園市八德區瑞豐里豐田路４１號",
-                "pay_list": "台灣pay\/信用卡\/街口"
+                "pay_list": "台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
