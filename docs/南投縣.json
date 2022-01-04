@@ -3693,40 +3693,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大苑子開發股份有限公司南投民族分公司",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市平和里００５鄰民族路１９０號１樓",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688987,
-                    23.909659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大胖子茶飲專賣店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市三和里２鄰彰南路１段９９６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685847,
-                    23.904451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "壹零壹咖啡館",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4435,6 +4401,40 @@
                 "coordinates": [
                     120.678185,
                     23.913347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市平和里００５鄰民族路１９０號１樓",
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊付\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688987,
+                    23.909659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 南投店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市三和里２鄰彰南路１段９９６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685847,
+                    23.904451
                 ]
             }
         },

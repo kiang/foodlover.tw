@@ -6940,23 +6940,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾家商號",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市興國里中華路一段５１４號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.150503,
-                    22.751725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福憇咖啡坊",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -11881,6 +11864,23 @@
                 "coordinates": [
                     121.134598,
                     22.742425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市興國里中華路一段５１４號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150503,
+                    22.751725
                 ]
             }
         },

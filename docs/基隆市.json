@@ -3115,23 +3115,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "義二冷飲店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區德義里義二路２７號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.74521,
-                    25.131001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美順軒早店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -5251,6 +5234,23 @@
                 "coordinates": [
                     121.743336,
                     25.131805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 基隆義二店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區德義里義二路２７號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74521,
+                    25.131001
                 ]
             }
         },

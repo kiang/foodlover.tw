@@ -7569,23 +7569,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新軒茶行",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市興樂里林森路１２２號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.490557,
-                    22.673432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新瑞商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -10793,6 +10776,23 @@
                 "coordinates": [
                     120.495118,
                     22.685417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 屏東林森店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市興樂里林森路１２２號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490557,
+                    22.673432
                 ]
             }
         },

@@ -3574,23 +3574,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂融融茶飲專賣店",
-                "category": "餐飲",
-                "area": "朴子市",
-                "market_address": "嘉義縣朴子市文化里１２鄰海通路２５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2443,
-                    23.463709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新榮早餐店",
                 "category": "餐飲",
                 "area": "朴子市",
@@ -3925,6 +3908,23 @@
                 "coordinates": [
                     120.245536,
                     23.463766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 嘉義朴子店",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市文化里１２鄰海通路２５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2443,
+                    23.463709
                 ]
             }
         },
