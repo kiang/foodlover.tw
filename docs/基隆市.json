@@ -10204,6 +10204,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "馬祖奶茶 基隆深溪店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區孝忠里深溪路１８８號（１樓）",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782848,
+                    25.13483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "馬家食府小吃坊",
                 "category": "餐飲",
                 "area": "信義區",
@@ -10334,23 +10351,6 @@
                 "coordinates": [
                     121.753913,
                     25.129221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫安州企業社",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區孝忠里深溪路１８８號（１樓）",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.782848,
-                    25.13483
                 ]
             }
         },

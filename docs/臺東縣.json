@@ -1670,6 +1670,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "弘爺漢堡 台東成功店",
+                "category": "餐飲",
+                "area": "成功鎮",
+                "market_address": "臺東縣成功鎮忠智里五權路９２號１樓",
+                "pay_list": "LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.379896,
+                    23.104417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "廣恆發小吃部",
                 "category": "餐飲",
                 "area": "成功鎮",
@@ -1715,23 +1732,6 @@
                 "coordinates": [
                     121.381424,
                     23.106988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吉珍小吃部",
-                "category": "餐飲",
-                "area": "成功鎮",
-                "market_address": "臺東縣成功鎮忠智里五權路９２號１樓",
-                "pay_list": "LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.379896,
-                    23.104417
                 ]
             }
         },

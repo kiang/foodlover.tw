@@ -2690,6 +2690,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "火焰鳥什鍋(旺來小吃)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區光華里光華街９８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972134,
+                    24.817936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "瀧渏日式拉麵",
                 "category": "餐飲",
                 "area": "北區",
@@ -3432,23 +3449,6 @@
                 "coordinates": [
                     120.976074,
                     24.81717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "旺來小吃",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區光華里光華街９８號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.972134,
-                    24.817936
                 ]
             }
         },
