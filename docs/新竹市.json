@@ -2401,23 +2401,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "甲午食堂",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區南寮里東大路四段６９號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.934734,
-                    24.841909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "生活飲食店",
                 "category": "餐飲",
                 "area": "北區",
@@ -2922,23 +2905,6 @@
                 "coordinates": [
                     120.96561386903,
                     24.808374344843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "海德小吃店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區湳中里武陵路１２５號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96696,
-                    24.819807
                 ]
             }
         },
@@ -4724,6 +4690,40 @@
                 "coordinates": [
                     120.96321,
                     24.799707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 湳雅店(德小吃店)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區湳中里武陵路１２５號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96696,
+                    24.819807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 新竹南寮店(甲午食堂)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區南寮里東大路四段６９號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.934734,
+                    24.841909
                 ]
             }
         },

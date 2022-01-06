@@ -17871,6 +17871,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "潮味決．湯滷專門店 花蓮中山分社",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國魂里中山路５０７―１號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60269551323,
+                    23.985258727782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "潘柏冷飲店",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -17916,23 +17933,6 @@
                 "coordinates": [
                     121.604759,
                     23.981117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "滷富小吃",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國魂里中山路５０７―１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60269551323,
-                    23.985258727782
                 ]
             }
         },

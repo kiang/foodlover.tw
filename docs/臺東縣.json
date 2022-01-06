@@ -4543,23 +4543,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鴻昇餐飲專賣店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市鐵花里新生路１２６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.148348,
-                    22.752554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鴨霸烤鴨捲餅坊",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -10266,6 +10249,23 @@
                 "coordinates": [
                     121.144032,
                     22.765184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 台東店(鴻昇餐飲專賣店)",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市鐵花里新生路１２６號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148348,
+                    22.752554
                 ]
             }
         },

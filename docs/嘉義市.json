@@ -13162,6 +13162,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 嘉義博愛店(博愛小吃店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區西平里博愛路２段５８８號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430229,
+                    23.47101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "嘉賀茶莊",
                 "category": "餐飲",
                 "area": "西區",
@@ -13734,23 +13751,6 @@
                 "coordinates": [
                     120.4483,
                     23.48067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "博愛小吃店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區西平里博愛路２段５８８號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.430229,
-                    23.47101
                 ]
             }
         },

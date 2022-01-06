@@ -1891,6 +1891,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 北斗中華店(名育商行)",
+                "category": "餐飲",
+                "area": "北斗鎮",
+                "market_address": "彰化縣北斗鎮居仁里中華路２６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527472,
+                    23.873203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "喔一喜日本料理",
                 "category": "餐飲",
                 "area": "北斗鎮",
@@ -1953,23 +1970,6 @@
                 "coordinates": [
                     120.526938,
                     23.873256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "名育商行",
-                "category": "餐飲",
-                "area": "北斗鎮",
-                "market_address": "彰化縣北斗鎮居仁里中華路２６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.527472,
-                    23.873203
                 ]
             }
         },
@@ -10459,23 +10459,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "珍旺小吃店",
-                "category": "餐飲",
-                "area": "大村鄉",
-                "market_address": "彰化縣大村鄉村上村中山路二段３１９、３２１號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.568858,
-                    23.98096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "淳喜茶舖",
                 "category": "餐飲",
                 "area": "大村鄉",
@@ -10674,6 +10657,23 @@
                 "coordinates": [
                     120.596309,
                     24.001239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 大村店(珍旺小吃店)",
+                "category": "餐飲",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉村上村中山路二段３１９、３２１號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568858,
+                    23.98096
                 ]
             }
         },
@@ -11796,23 +11796,6 @@
                 "coordinates": [
                     120.542111,
                     24.082322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "龍盛小吃店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市向陽里中央路２４９號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.526784,
-                    24.067654
                 ]
             }
         },
@@ -17106,6 +17089,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍鍋 彰央店(龍盛小吃店)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市向陽里中央路２４９號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.526784,
+                    24.067654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 彰水店(勤恩小吃店)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市莿桐里３鄰彰水路５０－３號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.519058,
+                    24.062031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "四方吉小吃店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -17712,23 +17729,6 @@
                 "coordinates": [
                     120.541298,
                     24.094125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "勤恩小吃店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市莿桐里３鄰彰水路５０－３號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.519058,
-                    24.062031
                 ]
             }
         },
@@ -23651,6 +23651,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 花壇學前店(億膳興小吃店)",
+                "category": "餐飲",
+                "area": "花壇鄉",
+                "market_address": "彰化縣花壇鄉橋頭村學前路臨１６號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54203,
+                    24.024166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "唐朝馬漢飲食店",
                 "category": "餐飲",
                 "area": "花壇鄉",
@@ -23764,23 +23781,6 @@
                 "coordinates": [
                     120.533914,
                     24.041402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "億膳興小吃店",
-                "category": "餐飲",
-                "area": "花壇鄉",
-                "market_address": "彰化縣花壇鄉橋頭村學前路臨１６號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54203,
-                    24.024166
                 ]
             }
         },
@@ -25861,23 +25861,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "景福小吃店",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮景福里４鄰民權路１１８號",
-                "pay_list": "悠遊付\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43648,
-                    24.057628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "晨瑞餐飲",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -26229,6 +26212,23 @@
                 "coordinates": [
                     120.482224,
                     24.085692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 鹿港店(景福小吃店)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮景福里４鄰民權路１１８號",
+                "pay_list": "悠遊付\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43648,
+                    24.057628
                 ]
             }
         },

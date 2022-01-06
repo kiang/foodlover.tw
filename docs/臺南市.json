@@ -6906,23 +6906,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞泗洁有限公司",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區淺草里正興街９０號",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.196977,
-                    22.994506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瑋成健康餐飲",
                 "category": "餐飲",
                 "area": "中西區",
@@ -15247,6 +15230,23 @@
                 "coordinates": [
                     120.198857,
                     22.997952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Coffee.Tea.Or 台南正興店",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區淺草里正興街９０號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196977,
+                    22.994506
                 ]
             }
         },
@@ -30383,7 +30383,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "千香西門漢堡",
+                "shop": "千香漢堡 西門店",
                 "category": "餐飲",
                 "area": "南區",
                 "market_address": "臺南市南區西門路１段４９４號",
@@ -41688,23 +41688,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小米食堂",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區國平里郡平路１００號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.16976,
-                    22.989062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "將將好茶",
                 "category": "餐飲",
                 "area": "安平區",
@@ -42192,6 +42175,23 @@
                 "coordinates": [
                     120.185596,
                     22.998875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 安平店(小米食堂)",
+                "category": "餐飲",
+                "area": "安平區",
+                "market_address": "臺南市安平區國平里郡平路１００號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.16976,
+                    22.989062
                 ]
             }
         },
@@ -49423,6 +49423,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 新營店(伯位小吃店)",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區忠政里民治路４０－１號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313716,
+                    23.31077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "嘉瀛餐館",
                 "category": "餐飲",
                 "area": "新營區",
@@ -49859,23 +49876,6 @@
                 "coordinates": [
                     120.312567,
                     23.308167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "伯位小吃店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區忠政里民治路４０－１號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313716,
-                    23.31077
                 ]
             }
         },
@@ -54789,23 +54789,6 @@
                 "coordinates": [
                     120.228285,
                     22.990058
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "臻讚小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區大學里長榮路３段６８號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.22186660483,
-                    22.993799497173
                 ]
             }
         },
@@ -60875,6 +60858,23 @@
                 "coordinates": [
                     120.22073460003,
                     22.994712480675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 長榮店(臻讚小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區大學里長榮路３段６８號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22186660483,
+                    22.993799497173
                 ]
             }
         },
