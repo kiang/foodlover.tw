@@ -3421,23 +3421,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金和順企業有限公司",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶珠里大昌二路１９７號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33183997905,
-                    22.645721145753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金九燒肉",
                 "category": "餐飲",
                 "area": "三民區",
@@ -13751,6 +13734,23 @@
                 "coordinates": [
                     120.30892,
                     22.649635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 大昌尊爵館",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶珠里大昌二路１９７號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33183997905,
+                    22.645721145753
                 ]
             }
         },

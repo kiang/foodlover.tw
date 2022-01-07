@@ -5444,23 +5444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "秀霞小吃店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里１６鄰民生南路２４０號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536947,
-                    23.69986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "禾家小吃店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7801,6 +7784,23 @@
                 "coordinates": [
                     120.541093,
                     23.711069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 斗六店(秀霞小吃店)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里１６鄰民生南路２４０號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536947,
+                    23.69986
                 ]
             }
         },

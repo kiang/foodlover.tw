@@ -3302,23 +3302,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "成昕小吃店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市嘉和里南崗一路１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684907,
-                    23.899609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "愛微醺Ｉ　ＷＩＳＨ",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3721,6 +3704,23 @@
                 "coordinates": [
                     120.686826,
                     23.905555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 南投店(成昕小吃店)",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市嘉和里南崗一路１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684907,
+                    23.899609
                 ]
             }
         },
@@ -8028,23 +8028,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "名邑企業有限公司",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮北梅里仁愛路４７６號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.967502,
-                    23.972026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "台碩國際有限公司",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -8158,6 +8141,23 @@
                 "coordinates": [
                     120.959387,
                     24.030515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 埔里尊爵館",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮北梅里仁愛路４７６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967502,
+                    23.972026
                 ]
             }
         },

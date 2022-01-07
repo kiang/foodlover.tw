@@ -3217,7 +3217,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "四海小吃店",
+                "shop": "四海遊龍 新豐店(四海小吃店)",
                 "category": "餐飲",
                 "area": "新豐鄉",
                 "market_address": "新竹縣新豐鄉山崎村新興路２０４號",
@@ -17718,6 +17718,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "千葉火鍋 竹北都會館",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東興里自強北路２０號",
+                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02905416306,
+                    24.820311979517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "十八食堂",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -18188,23 +18205,6 @@
                 "coordinates": [
                     121.009172,
                     24.826364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "全鼎餐飲有限公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東興里自強北路２０號",
-                "pay_list": "台灣pay\/信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02905416306,
-                    24.820311979517
                 ]
             }
         },

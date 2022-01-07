@@ -7382,23 +7382,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "黃金餃子館",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區光明里光復路二段１０１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.996864,
-                    24.796398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "黃包車飲食店",
                 "category": "餐飲",
                 "area": "東區",
@@ -13632,23 +13615,6 @@
                 "coordinates": [
                     121.017391,
                     24.792954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "百順小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區水源街６３號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.99150561486,
-                    24.800862994065
                 ]
             }
         },
@@ -20302,6 +20268,91 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 高翠店(品鮮台灣小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區高峰里高翠路３４３號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98417013752,
+                    24.777638394885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 西大店(合勝小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區新興里西大路１３７號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96970003876,
+                    24.796758733857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 新竹馬偕店(百順小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區水源街６３號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99150561486,
+                    24.800862994065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 新竹清大店(黃金餃子館)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區光明里光復路二段１０１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996864,
+                    24.796398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 埔頂店(吾佳香小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區埔頂里１３鄰埔頂路３２號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008624,
+                    24.794526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "四君子養生膳食有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -20500,23 +20551,6 @@
                 "coordinates": [
                     120.973429,
                     24.813797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品鮮台灣小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區高峰里高翠路３４３號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.98417013752,
-                    24.777638394885
                 ]
             }
         },
@@ -20744,23 +20778,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吾佳香小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區埔頂里１３鄰埔頂路３２號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.008624,
-                    24.794526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "君亞商行",
                 "category": "餐飲",
                 "area": "東區",
@@ -20874,23 +20891,6 @@
                 "coordinates": [
                     120.97293307039,
                     24.776837027385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "合勝小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區新興里西大路１３７號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96970003876,
-                    24.796758733857
                 ]
             }
         },
@@ -21305,23 +21305,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "升鼎有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區東園里忠孝路２８１號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.98376991043,
-                    24.803584033029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "千譽小吃部",
                 "category": "餐飲",
                 "area": "東區",
@@ -21333,6 +21316,23 @@
                 "coordinates": [
                     121.021246,
                     24.777116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 新竹尊爵忠孝店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區東園里忠孝路２８１號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98376991043,
+                    24.803584033029
                 ]
             }
         },
@@ -24586,23 +24586,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "立山小吃店",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區香山里大庄路７７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.927612,
-                    24.789978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盛宏國際有限公司",
                 "category": "餐飲",
                 "area": "香山區",
@@ -25175,6 +25158,23 @@
                 "coordinates": [
                     120.92791,
                     24.789366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 香山店(立山小吃店)",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區香山里大庄路７７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.927612,
+                    24.789978
                 ]
             }
         },

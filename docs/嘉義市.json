@@ -1483,23 +1483,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金冠億企業有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區朝陽里垂楊路６號、８號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.461246,
-                    23.47509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "野餐日餐廚",
                 "category": "餐飲",
                 "area": "東區",
@@ -3608,23 +3591,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "正中原小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東興里中山路７５號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45859,
-                    23.481999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "歌琳頓國際視聽歌唱有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -5138,23 +5104,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富麗小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區安寮里吳鳳南路４５１號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45643,
-                    23.46246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "富諭商行",
                 "category": "餐飲",
                 "area": "東區",
@@ -5682,6 +5631,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍鍋 維新店(正中原小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東興里中山路７５號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45859,
+                    23.481999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 嘉義中埔店(富麗小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區安寮里吳鳳南路４５１號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45643,
+                    23.46246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "嘉鹿股份有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -6152,6 +6135,23 @@
                 "coordinates": [
                     120.46055,
                     23.47716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 垂楊店(嘉義尊爵館)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區朝陽里垂楊路６號、８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461246,
+                    23.47509
                 ]
             }
         },
@@ -14641,23 +14641,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "上升企業有限公司",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區垂楊里新民路７５５號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4397,
-                    23.469874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "三船鰻丼企業社",
                 "category": "餐飲",
                 "area": "西區",
@@ -14941,6 +14924,23 @@
                 "coordinates": [
                     120.44441,
                     23.47588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Sunny Queen 陽光皇后 嘉義店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區垂楊里新民路７５５號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4397,
+                    23.469874
                 ]
             }
         },
