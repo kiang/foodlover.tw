@@ -2316,6 +2316,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "時之幸福輕手工蛋捲",
+                "category": "糕餅",
+                "area": "中西區",
+                "market_address": "臺南市中西區南美里民生路１段１７３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200201,
+                    22.994001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "方云云麵包店",
                 "category": "糕餅",
                 "area": "中西區",
@@ -41722,23 +41739,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小米食堂",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區國平里郡平路１００號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.16976,
-                    22.989062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "將將好茶",
                 "category": "餐飲",
                 "area": "安平區",
@@ -42226,6 +42226,23 @@
                 "coordinates": [
                     120.185596,
                     22.998875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 安平店(小米食堂)",
+                "category": "餐飲",
+                "area": "安平區",
+                "market_address": "臺南市安平區國平里郡平路１００號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.16976,
+                    22.989062
                 ]
             }
         },
@@ -54829,23 +54846,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "臻讚小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區大學里長榮路３段６８號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.22186660483,
-                    22.993799497173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "自在軒茶坊裕農店",
                 "category": "餐飲",
                 "area": "東區",
@@ -60909,6 +60909,23 @@
                 "coordinates": [
                     120.22073460003,
                     22.994712480675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 長榮店(臻讚小吃店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區大學里長榮路３段６８號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22186660483,
+                    22.993799497173
                 ]
             }
         },

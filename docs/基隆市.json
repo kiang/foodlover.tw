@@ -12227,6 +12227,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮天下 麥金店(大千小吃店)",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區三民里麥金路４３３－８號及４３３－９號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.719418,
+                    25.125108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香香堡早餐店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -13139,23 +13156,6 @@
                 "coordinates": [
                     121.723795,
                     25.120819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大千小吃店",
-                "category": "餐飲",
-                "area": "安樂區",
-                "market_address": "基隆市安樂區三民里麥金路４３３－８號及４３３－９號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.719418,
-                    25.125108
                 ]
             }
         },

@@ -3064,23 +3064,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "臻昕行",
-                "category": "餐飲",
-                "area": "南澳鄉",
-                "market_address": "宜蘭縣南澳鄉南澳村蘇花路二段１６１號一樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.797601,
-                    24.463882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "男人不打烊工作室",
                 "category": "餐飲",
                 "area": "南澳鄉",
@@ -3160,6 +3143,23 @@
                 "coordinates": [
                     121.832565,
                     24.520026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 南澳店(臻昕行)",
+                "category": "餐飲",
+                "area": "南澳鄉",
+                "market_address": "宜蘭縣南澳鄉南澳村蘇花路二段１６１號一樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.797601,
+                    24.463882
                 ]
             }
         },

@@ -3438,23 +3438,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金和順企業有限公司",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶珠里大昌二路１９７號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33183997905,
-                    22.645721145753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金九燒肉",
                 "category": "餐飲",
                 "area": "三民區",
@@ -13802,6 +13785,23 @@
                 "coordinates": [
                     120.30892,
                     22.649635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 大昌尊爵館",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶珠里大昌二路１９７號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33183997905,
+                    22.645721145753
                 ]
             }
         },
@@ -100817,6 +100817,23 @@
                 "shop": "吳家紅茶冰",
                 "category": "餐飲",
                 "area": "鳳山區",
+                "market_address": "高雄市鳳山區二甲里南華一路２６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341886,
+                    22.597417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰",
+                "category": "餐飲",
+                "area": "鳳山區",
                 "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
                 "pay_list": "台灣pay"
             },
@@ -100842,23 +100859,6 @@
                 "coordinates": [
                     120.36539,
                     22.639336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區二甲里南華一路２６號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.341886,
-                    22.597417
                 ]
             }
         },

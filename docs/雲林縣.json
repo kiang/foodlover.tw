@@ -5444,40 +5444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "立烽企業有限公司",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里民生南路１８２號１．２樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536879,
-                    23.702513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "秀霞小吃店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里１６鄰民生南路２４０號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536947,
-                    23.69986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "禾家小吃店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7824,6 +7790,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 斗六店(秀霞小吃店)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里１６鄰民生南路２４０號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536947,
+                    23.69986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "四代目麥芽酥",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -8209,6 +8192,23 @@
                 "coordinates": [
                     120.534856,
                     23.694956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千葉火鍋 斗六店(斗六尊爵館)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里民生南路１８２號１．２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536879,
+                    23.702513
                 ]
             }
         },
