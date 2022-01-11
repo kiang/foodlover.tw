@@ -26082,23 +26082,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "景福小吃店",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮景福里４鄰民權路１１８號",
-                "pay_list": "悠遊付\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43648,
-                    24.057628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "晨瑞餐飲",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -26467,6 +26450,23 @@
                 "coordinates": [
                     120.482224,
                     24.085692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 鹿港店(景福小吃店)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮景福里４鄰民權路１１８號",
+                "pay_list": "悠遊付\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43648,
+                    24.057628
                 ]
             }
         },

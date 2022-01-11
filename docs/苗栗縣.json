@@ -7501,23 +7501,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "苑南小吃",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里信義路５８號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.65492,
-                    24.44244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "綠意山莊有限公司",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -7869,6 +7852,23 @@
                 "coordinates": [
                     120.685906,
                     24.407174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 苑裡店(苑南小吃)",
+                "category": "餐飲",
+                "area": "苑裡鎮",
+                "market_address": "苗栗縣苑裡鎮苑南里信義路５８號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65492,
+                    24.44244
                 ]
             }
         },
@@ -11173,6 +11173,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 苗栗巨蛋店(元山小館)",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816953,
+                    24.563535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "噢嗨喲早餐屋",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11592,23 +11609,6 @@
                 "coordinates": [
                     120.824166,
                     24.569842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "元山小館",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.816953,
-                    24.563535
                 ]
             }
         },

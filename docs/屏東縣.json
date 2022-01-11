@@ -5376,6 +5376,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "碧旺小吃部",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市豐田里建豐路６１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508221,
+                    22.675341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "知風自家烘焙咖啡館",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -20449,6 +20466,23 @@
                 "coordinates": [
                     120.647842,
                     22.708458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "MissQ 享入飛啡",
+                "category": "餐飲",
+                "area": "瑪家鄉",
+                "market_address": "屏東縣瑪家鄉三和村玉泉１９－６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.617868,
+                    22.709886
                 ]
             }
         },

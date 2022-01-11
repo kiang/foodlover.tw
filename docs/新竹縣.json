@@ -10680,6 +10680,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "箶同燒肉夜食 胡同燒肉7號店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市縣政二路４１０號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01679274524,
+                    24.828056059965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "竹間有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12935,23 +12952,6 @@
                 "coordinates": [
                     121.01609715193,
                     24.831761098971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "橘焱國際事業股份有限公司箶同分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市縣政二路４１０號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01679274524,
-                    24.828056059965
                 ]
             }
         },
@@ -21560,7 +21560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大利佳商行",
+                "shop": "四海遊龍 竹東中豐店(大利佳商行)",
                 "category": "餐飲",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮東寧里０１６鄰中豐路二段１１８號１樓",

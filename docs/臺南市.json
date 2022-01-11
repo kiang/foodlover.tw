@@ -32695,23 +32695,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宇勝飲品店",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區坐駕里中山路３１５－１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295002,
-                    23.131978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "奕廣商行",
                 "category": "餐飲",
                 "area": "善化區",
@@ -33505,6 +33488,23 @@
                 "coordinates": [
                     120.294034,
                     23.131101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "COMEBUY 台南善化店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區坐駕里中山路３１５－１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295002,
+                    23.131978
                 ]
             }
         },
@@ -38747,6 +38747,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "麥味登 台南陽光店",
+                "category": "餐飲\/糕餅",
+                "area": "安平區",
+                "market_address": "臺南市安平區國平里健康三街２０４號１樓",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168826,
+                    22.989744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鹿柴咖啡館",
                 "category": "餐飲",
                 "area": "安平區",
@@ -41325,23 +41342,6 @@
                 "coordinates": [
                     120.174543,
                     22.990404
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "揚秦國際企業股份有限公司台南分公司",
-                "category": "餐飲\/糕餅",
-                "area": "安平區",
-                "market_address": "臺南市安平區國平里健康三街２０４號１樓",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.168826,
-                    22.989744
                 ]
             }
         },
@@ -49423,23 +49423,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "太原冷飲店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區太北里太子宮１４２－３４號後方",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.27282,
-                    23.294521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "在地郭佳紅燒土魠",
                 "category": "餐飲",
                 "area": "新營區",
@@ -49468,6 +49451,23 @@
                 "coordinates": [
                     120.314043,
                     23.30716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 新營店(伯位小吃店)",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區忠政里民治路４０－１號",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313716,
+                    23.31077
                 ]
             }
         },
@@ -49916,23 +49916,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "伯位小吃店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區忠政里民治路４０－１號",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313716,
-                    23.31077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "五分小棧餐廳",
                 "category": "餐飲",
                 "area": "新營區",
@@ -50001,7 +49984,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "三原冷飲店",
+                "shop": "TEA'S 原味(新營太子宮店)",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區太北里太子宮１４２－３４號後方",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27282,
+                    23.294521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味(新營三民店)",
                 "category": "餐飲",
                 "area": "新營區",
                 "market_address": "臺南市新營區民生里三民路１６０號",

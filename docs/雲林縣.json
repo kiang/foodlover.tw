@@ -531,6 +531,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "阿婆煎盤粿",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮南安里信義路７８巷３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302381,
+                    23.566102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "金德美有限公司",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -9269,23 +9286,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "西岐小吃店",
-                "category": "餐飲",
-                "area": "斗南鎮",
-                "market_address": "雲林縣斗南鎮西岐里延平路２段１７８－１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.480729,
-                    23.68025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "葉子麵店",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -9688,6 +9688,23 @@
                 "coordinates": [
                     120.478758,
                     23.675924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 斗南店(西岐小吃店)",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮西岐里延平路２段１７８－１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480729,
+                    23.68025
                 ]
             }
         },

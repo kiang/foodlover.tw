@@ -14879,23 +14879,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "薪膳商行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國治里０１２鄰新港街１１巷９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.607442,
-                    23.97773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "蕃茄咖哩屋",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -15927,6 +15910,23 @@
                 "coordinates": [
                     121.60620472436,
                     23.982823009993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "自己來紅茶鮮乳 花蓮中正店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里０１２鄰新港街１１巷９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607442,
+                    23.97773
                 ]
             }
         },
@@ -18079,7 +18079,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市民心里９鄰美工路６號",
-                "pay_list": "信用卡\/台灣pay\/街口"
+                "pay_list": "信用卡\/台灣pay\/街口\/iPASS 一卡通"
             },
             "geometry": {
                 "type": "Point",
@@ -18324,23 +18324,6 @@
                 "coordinates": [
                     121.602434,
                     23.974947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永馨茶行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國治里１６鄰新港街７１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606476,
-                    23.979255
                 ]
             }
         },
@@ -19361,23 +19344,6 @@
                 "coordinates": [
                     121.606832,
                     23.98111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "星盈茶行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國裕里０４９鄰中山路７００號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595868,
-                    23.994655
                 ]
             }
         },
@@ -24359,6 +24325,40 @@
                 "coordinates": [
                     121.604949,
                     23.981231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "COMEBUY 花蓮新港店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里１６鄰新港街７１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606476,
+                    23.979255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "COMEBUY 花蓮中山店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國裕里０４９鄰中山路７００號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595868,
+                    23.994655
                 ]
             }
         },
