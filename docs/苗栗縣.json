@@ -1160,6 +1160,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 苗栗公館店",
+                "category": "餐飲",
+                "area": "公館鄉",
+                "market_address": "苗栗縣公館鄉館中村００１鄰近光路７６―１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.82747740617,
+                    24.502957550231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "紅棗食府股份有限公司",
                 "category": "餐飲",
                 "area": "公館鄉",
@@ -1205,23 +1222,6 @@
                 "coordinates": [
                     120.856302,
                     24.47614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永臻美式炸雞",
-                "category": "餐飲",
-                "area": "公館鄉",
-                "market_address": "苗栗縣公館鄉館中村００１鄰近光路７６―１號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.82747740617,
-                    24.502957550231
                 ]
             }
         },
@@ -7501,6 +7501,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 苑裡店",
+                "category": "餐飲",
+                "area": "苑裡鎮",
+                "market_address": "苗栗縣苑裡鎮苑南里南興路１５０號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652596,
+                    24.44126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "綠意山莊有限公司",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -7750,23 +7767,6 @@
                 "coordinates": [
                     120.65578172435,
                     24.446631319593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "得揚美式炸雞",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里南興路１５０號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652596,
-                    24.44126
                 ]
             }
         },
@@ -9467,6 +9467,23 @@
                 "coordinates": [
                     120.818481,
                     24.566092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 苗栗至公店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市青苗里至公路５７號",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.818709,
+                    24.557521
                 ]
             }
         },
@@ -11677,23 +11694,6 @@
                 "coordinates": [
                     120.803514,
                     24.550084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "二五九美式炸雞店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市青苗里至公路５７號",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.818709,
-                    24.557521
                 ]
             }
         },

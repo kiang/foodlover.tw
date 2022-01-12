@@ -10051,6 +10051,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 竹北高鐵店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市嘉豐六路２段７號",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029055,
+                    24.809811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖老爹美式炸雞",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -10062,23 +10079,6 @@
                 "coordinates": [
                     121.008185,
                     24.836145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "胖翔翔美式炸雞",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市嘉豐六路２段７號",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.029055,
-                    24.809811
                 ]
             }
         },
@@ -22444,6 +22444,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 關西店",
+                "category": "餐飲",
+                "area": "關西鎮",
+                "market_address": "新竹縣關西鎮正義路１１７號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.175734,
+                    24.794675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "翊承早餐店",
                 "category": "餐飲",
                 "area": "關西鎮",
@@ -22557,23 +22574,6 @@
                 "coordinates": [
                     121.183553,
                     24.747565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "心悅廚房",
-                "category": "餐飲",
-                "area": "關西鎮",
-                "market_address": "新竹縣關西鎮正義路１１７號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.175734,
-                    24.794675
                 ]
             }
         },

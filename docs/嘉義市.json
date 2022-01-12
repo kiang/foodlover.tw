@@ -803,6 +803,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "黑棟當歸鴨店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區民族里光華路３１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45439,
+                    23.47729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "黃記涼麵涼圓小吃店",
                 "category": "餐飲",
                 "area": "東區",

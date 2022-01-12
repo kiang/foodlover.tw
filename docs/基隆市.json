@@ -1398,6 +1398,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 基隆中山店",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區西康里西定路４２３巷９―２號",
+                "pay_list": "歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72845202638,
+                    25.13969815624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "老媽麵店",
                 "category": "餐飲",
                 "area": "中山區",
@@ -1970,23 +1987,6 @@
                 "coordinates": [
                     121.72570964028,
                     25.143794764192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "基隆東美式炸雞店",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區西康里西定路４２３巷９―２號",
-                "pay_list": "歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.72845202638,
-                    25.13969815624
                 ]
             }
         },
@@ -4509,23 +4509,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "啾啾茶坊",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區德義里義二路１６號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745296,
-                    25.130732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "啤酒花小吃店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -5268,6 +5251,23 @@
                 "coordinates": [
                     121.787007,
                     25.135888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "COMEBUY 基隆義二店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區德義里義二路１６號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745296,
+                    25.130732
                 ]
             }
         },

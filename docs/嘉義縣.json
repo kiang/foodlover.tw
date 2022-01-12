@@ -4747,23 +4747,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫聖飲品專賣店",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉三興村００７鄰大學路一段４３３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.469282,
-                    23.558937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鑫盛企業社",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -6271,6 +6254,23 @@
                 "coordinates": [
                     120.433389,
                     23.549551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "BubbleZ a~we阿偉飲品專賣店 嘉義中正店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉三興村００７鄰大學路一段４３３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.469282,
+                    23.558937
                 ]
             }
         },

@@ -1891,6 +1891,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 新竹經國店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區新雅里經國路二段４４４號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955858,
+                    24.806356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "肉魂燒肉店",
                 "category": "餐飲",
                 "area": "北區",
@@ -4078,23 +4095,6 @@
                 "coordinates": [
                     120.964125,
                     24.820837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "嵩清炸雞店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區新雅里經國路二段４４４號一樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.955858,
-                    24.806356
                 ]
             }
         },
@@ -11802,6 +11802,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 新竹清大店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區豐功里建中路９５號一樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.995599,
+                    24.802845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "育賢早餐店",
                 "category": "餐飲",
                 "area": "東區",
@@ -16896,23 +16913,6 @@
                 "coordinates": [
                     120.9748894741,
                     24.806580397703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昕慶商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區豐功里建中路９５號一樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.995599,
-                    24.802845
                 ]
             }
         },

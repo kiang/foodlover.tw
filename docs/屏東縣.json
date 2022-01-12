@@ -4917,6 +4917,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 屏東民生店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市瑞光里民生路３１―２號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50728226302,
+                    22.662017111193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖元美式炸雞店",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -5472,23 +5489,6 @@
                 "coordinates": [
                     120.501994,
                     22.663364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "百翼商號",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市瑞光里民生路３１―２號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.50728226302,
-                    22.662017111193
                 ]
             }
         },
