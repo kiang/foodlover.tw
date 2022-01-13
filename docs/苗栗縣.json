@@ -1687,6 +1687,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 苗栗卓蘭店",
+                "category": "餐飲",
+                "area": "卓蘭鎮",
+                "market_address": "苗栗縣卓蘭鎮中街里中山路６４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826812,
+                    24.311806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海園飲食店",
                 "category": "餐飲",
                 "area": "卓蘭鎮",
@@ -1715,23 +1732,6 @@
                 "coordinates": [
                     120.824564,
                     24.313313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "月玥廚房",
-                "category": "餐飲",
-                "area": "卓蘭鎮",
-                "market_address": "苗栗縣卓蘭鎮中街里中山路６４號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.826812,
-                    24.311806
                 ]
             }
         },
@@ -12669,23 +12669,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "陽光美式炸雞店",
-                "category": "餐飲",
-                "area": "銅鑼鄉",
-                "market_address": "苗栗縣銅鑼鄉銅鑼村中正路２２１號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.787814,
-                    24.489923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "連記甘味食館",
                 "category": "餐飲",
                 "area": "銅鑼鄉",
@@ -12697,6 +12680,23 @@
                 "coordinates": [
                     120.775644,
                     24.477857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 銅鑼店",
+                "category": "餐飲",
+                "area": "銅鑼鄉",
+                "market_address": "苗栗縣銅鑼鄉銅鑼村中正路２２１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.787814,
+                    24.489923
                 ]
             }
         },
@@ -13451,23 +13451,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "陸德食品有限公司頭份分公司",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市自強里０１１鄰中華路１２１３號、１２１５號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.91203,
-                    24.689392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿涂小吃",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -13632,6 +13615,23 @@
                 "coordinates": [
                     120.903485,
                     24.688051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 頭份中華自強店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市自強里０１１鄰中華路１２１３號、１２１５號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91203,
+                    24.689392
                 ]
             }
         },

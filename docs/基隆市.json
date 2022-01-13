@@ -429,7 +429,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "胖爹美式炸雞店",
+                "shop": "胖老爹美式炸雞 基隆七堵店",
                 "category": "餐飲",
                 "area": "七堵區",
                 "market_address": "基隆市七堵區百福里百六街９５號",
@@ -2809,6 +2809,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 基隆義一店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區港通里義一路１６０號一樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747621,
+                    25.135622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "軒妮詩冷飲店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -3976,23 +3993,6 @@
                 "coordinates": [
                     121.801407,
                     25.140135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "易生木有限公司",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區港通里義一路１６０號一樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.747621,
-                    25.135622
                 ]
             }
         },

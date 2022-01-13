@@ -9898,6 +9898,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 新竹南大店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區振興里南大路６２２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.963016,
+                    24.793393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 光復馬偕店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區綠水里７鄰光復路２段３６１號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98636879923,
+                    24.80111144316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "道可餐館",
                 "category": "餐飲",
                 "area": "東區",
@@ -11116,23 +11150,6 @@
                 "coordinates": [
                     121.01945200155,
                     24.782332684818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "萬德食品有限公司光復分公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區綠水里７鄰光復路２段３６１號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.98636879923,
-                    24.80111144316
                 ]
             }
         },
@@ -15185,23 +15202,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "海德食品有限公司新竹南大分公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區振興里南大路６２２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.963016,
-                    24.793393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "海之屋飲食店",
                 "category": "餐飲",
                 "area": "東區",
@@ -15825,23 +15825,6 @@
                 "coordinates": [
                     121.0189450103,
                     24.786534860932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂多多世界股份有限公司　新竹林森營業所",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區榮光里林森路２巷９號４樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.970904,
-                    24.802247
                 ]
             }
         },
@@ -17191,6 +17174,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "日日鍋日本職人鍋物專賣店 新竹林森店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區榮光里林森路２巷９號４樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970904,
+                    24.802247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "日常咖啡",
                 "category": "餐飲",
                 "area": "東區",
@@ -17202,23 +17202,6 @@
                 "coordinates": [
                     120.97795343107,
                     24.794932331279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "日嵐有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區仙水里光復路一段３１９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.018711,
-                    24.782662
                 ]
             }
         },
@@ -23379,6 +23362,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "一沐日 新竹光復店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區仙水里光復路一段３１９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018711,
+                    24.782662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "一沅玥飲食店",
                 "category": "餐飲",
                 "area": "東區",
@@ -24450,6 +24450,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 新竹大庄店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.928203,
+                    24.789594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖丸小吃店",
                 "category": "餐飲",
                 "area": "香山區",
@@ -25277,23 +25294,6 @@
                 "coordinates": [
                     120.922742,
                     24.804998
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "劍南春小吃店",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區香山里２０鄰大庄路４５巷１號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.928203,
-                    24.789594
                 ]
             }
         },

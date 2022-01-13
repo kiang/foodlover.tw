@@ -2571,7 +2571,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "胖胖美式炸雞",
+                "shop": "胖老爹美式炸雞 四湖店",
                 "category": "餐飲",
                 "area": "四湖鄉",
                 "market_address": "雲林縣四湖鄉湖西村中正路３３４號",
@@ -2650,23 +2650,6 @@
                 "coordinates": [
                     120.39867383359,
                     23.675156275477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "源順芝麻觀光油廠",
-                "category": "觀光工廠",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮成功路1-62號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.39532,
-                    23.672262
                 ]
             }
         },
@@ -4050,6 +4033,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 斗六雲科店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里民生南路２６０號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536914,
+                    23.699403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 斗六中山店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市中和里中山路２９號",
+                "pay_list": "街口\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541185,
+                    23.708472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "魟爺商行",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -4435,23 +4452,6 @@
                 "coordinates": [
                     120.541263,
                     23.697292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金鶴臨現泡茶飲",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市中和里中山路２９號",
-                "pay_list": "街口\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541185,
-                    23.708472
                 ]
             }
         },
@@ -7008,23 +7008,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "搖味壺現泡茶飲",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里民生南路２６０號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536914,
-                    23.699403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "拿坡里 斗六店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -9201,23 +9184,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鋐憶炸雞店",
-                "category": "餐飲",
-                "area": "斗南鎮",
-                "market_address": "雲林縣斗南鎮南昌里００８鄰中山路８６號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.479299,
-                    23.675362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金誠石企業社",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -9382,6 +9348,23 @@
                 "coordinates": [
                     120.469902,
                     23.679261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 雲林斗南店",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮南昌里００８鄰中山路８６號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479299,
+                    23.675362
                 ]
             }
         },
@@ -13791,6 +13774,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 西螺店",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮正興里公正路１６３號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461845,
+                    23.79923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "育丞商行",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -13819,23 +13819,6 @@
                 "coordinates": [
                     120.460769,
                     23.801659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "美強生商行",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮正興里公正路１６３號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.461845,
-                    23.79923
                 ]
             }
         },

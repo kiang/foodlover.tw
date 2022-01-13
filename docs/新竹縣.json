@@ -2452,6 +2452,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 新豐新興店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉新興路１４６之１５號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.994272,
+                    24.86784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 新竹新豐店",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -2667,23 +2684,6 @@
                 "coordinates": [
                     120.991619,
                     24.869648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "滿訂實業有限公司",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉新興路１４６之１５號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.994272,
-                    24.86784
                 ]
             }
         },
@@ -8521,7 +8521,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "達美樂披薩股份有限公司竹北中華店",
+                "shop": "達美樂披薩DOMINO'S PIZZA 竹北中華店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市中華路395號",
@@ -8532,6 +8532,23 @@
                 "coordinates": [
                     121.005103,
                     24.839278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 六家自強南店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市鹿場里自強南路１５９號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02452246171,
+                    24.814634422879
                 ]
             }
         },
@@ -9677,23 +9694,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萬德食品有限公司六家分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市鹿場里自強南路１５９號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02452246171,
-                    24.814634422879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "華藝餐飲店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -10068,7 +10068,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "胖老爹美式炸雞",
+                "shop": "胖老爹美式炸雞 竹北家樂福店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市光明六路８９號１樓（１１１室）",
+                "pay_list": "icash pay\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.009172,
+                    24.826364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 竹北博愛店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市竹義里００３鄰博愛街３０５號",
@@ -11768,6 +11785,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "狂一鍋 竹北自強店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市鹿場里自強南路２２０號２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.023658,
+                    24.814419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "牧牛餐坊",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -13173,23 +13207,6 @@
                 "coordinates": [
                     121.010402,
                     24.83406
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂多多世界股份有限公司竹北自強營業所",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市鹿場里自強南路２２０號２樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.023658,
-                    24.814419
                 ]
             }
         },
@@ -18823,23 +18840,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "二五九炸雞",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市光明六路８９號１樓（１１１室）",
-                "pay_list": "icash pay\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.009172,
-                    24.826364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "乾杯股份有限公司新竹門市",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -19864,7 +19864,7 @@
                 "category": "糕餅",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮榮華里０２６鄰長春路３段１６８巷８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -20200,6 +20200,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 竹東長春店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮竹東里０１６鄰長春路３段１７號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086232,
+                    24.74031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "達慕特企業社",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20500,6 +20517,23 @@
                 "coordinates": [
                     121.094831,
                     24.738177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 二重店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮二重里００１鄰中興路３段１１２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056818,
+                    24.766707
                 ]
             }
         },
@@ -20982,23 +21016,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東科園食品有限公司",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮竹東里０１６鄰長春路３段１７號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.086232,
-                    24.74031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "東盛商行",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -21469,23 +21486,6 @@
                 "coordinates": [
                     121.053538,
                     24.769338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富來德小吃店",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮二重里００１鄰中興路３段１１２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.056818,
-                    24.766707
                 ]
             }
         },

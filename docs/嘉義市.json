@@ -922,7 +922,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司嘉義文化店",
+                "shop": "鮮茶道Presotea 嘉義文化店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區中央里文化路１７２號",
@@ -939,7 +939,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司嘉義後庄店",
+                "shop": "鮮茶道Presotea 嘉義後庄店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "嘉義市東區興仁里吳鳳南路６１９號",
@@ -2197,6 +2197,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 嘉義文化公園店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區過溝里民族路３９０號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45139,
+                    23.47624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "育心美食坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -2990,23 +3007,6 @@
                 "coordinates": [
                     120.46391,
                     23.45642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "甄締雞排店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區過溝里民族路３９０號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45139,
-                    23.47624
                 ]
             }
         },

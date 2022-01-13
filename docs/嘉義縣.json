@@ -990,6 +990,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 大林中正店",
+                "category": "餐飲",
+                "area": "大林鎮",
+                "market_address": "嘉義縣大林鎮西林里８鄰中正路５５６號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.454275,
+                    23.603767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "頤香食堂",
                 "category": "餐飲",
                 "area": "大林鎮",
@@ -1120,23 +1137,6 @@
                 "coordinates": [
                     120.453997,
                     23.602318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "漾茶舖",
-                "category": "餐飲",
-                "area": "大林鎮",
-                "market_address": "嘉義縣大林鎮西林里８鄰中正路５５６號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.454275,
-                    23.603767
                 ]
             }
         },
@@ -4645,6 +4645,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 中正大學店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉三興村００７鄰神農路１２９號附３",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471461,
+                    23.556531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "高鮮商行",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -4775,6 +4792,23 @@
                 "coordinates": [
                     120.469365,
                     23.558897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 民雄文化店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉中樂村２１鄰文化路３３號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429901,
+                    23.552759
                 ]
             }
         },
@@ -5274,23 +5308,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂石茶莊",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉三興村００７鄰神農路１２９號附３",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.471461,
-                    23.556531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樂璿茶莊",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5421,23 +5438,6 @@
                 "coordinates": [
                     120.43661168249,
                     23.556836321001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "易星有限公司",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉中樂村２１鄰文化路３３號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429901,
-                    23.552759
                 ]
             }
         },
@@ -6328,6 +6328,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 水上店",
+                "category": "夜市\/市場攤販\/餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉水頭村正義路２１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400097,
+                    23.430602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "王家屁孩冷飲店",
                 "category": "夜市\/市場攤販",
                 "area": "水上鄉",
@@ -6339,23 +6356,6 @@
                 "coordinates": [
                     120.41309,
                     23.453489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "嘉琪企業社",
-                "category": "夜市\/市場攤販\/餐飲",
-                "area": "水上鄉",
-                "market_address": "嘉義縣水上鄉水頭村正義路２１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.400097,
-                    23.430602
                 ]
             }
         },
@@ -6509,6 +6509,23 @@
                 "coordinates": [
                     120.398962,
                     23.431901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 水上店",
+                "category": "夜市\/市場攤販\/餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉水頭村正義路２１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400097,
+                    23.430602
                 ]
             }
         },
@@ -6781,23 +6798,6 @@
                 "coordinates": [
                     120.400364,
                     23.431066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "嘉琪企業社",
-                "category": "夜市\/市場攤販\/餐飲",
-                "area": "水上鄉",
-                "market_address": "嘉義縣水上鄉水頭村正義路２１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.400097,
-                    23.430602
                 ]
             }
         },

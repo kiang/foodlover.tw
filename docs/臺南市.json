@@ -123,6 +123,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 下營中山店",
+                "category": "餐飲",
+                "area": "下營區",
+                "market_address": "臺南市下營區下營里中山路１段７６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.262635,
+                    23.235091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "震泰商行",
                 "category": "餐飲",
                 "area": "下營區",
@@ -253,23 +270,6 @@
                 "coordinates": [
                     120.263124,
                     23.230798
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "億萱茶行",
-                "category": "餐飲",
-                "area": "下營區",
-                "market_address": "臺南市下營區下營里中山路１段７６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.262635,
-                    23.235091
                 ]
             }
         },
@@ -3421,23 +3421,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雲煬商號",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區府前里府前路２段８２號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.195869,
-                    22.991018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雞不可失雞排店",
                 "category": "餐飲",
                 "area": "中西區",
@@ -5489,6 +5472,23 @@
                 "coordinates": [
                     120.197014,
                     22.988655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 台南府前店",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區府前里府前路２段８２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195869,
+                    22.991018
                 ]
             }
         },
@@ -18483,6 +18483,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 台南佳里店",
+                "category": "餐飲",
+                "area": "佳里區",
+                "market_address": "臺南市佳里區東寧里和平街１４２號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176481,
+                    23.162482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "老闆餐飲顧問有限公司",
                 "category": "餐飲",
                 "area": "佳里區",
@@ -18987,23 +19004,6 @@
                 "coordinates": [
                     120.17634,
                     23.157589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "弘韵商行",
-                "category": "餐飲",
-                "area": "佳里區",
-                "market_address": "臺南市佳里區東寧里和平街１４２號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.176481,
-                    23.162482
                 ]
             }
         },
@@ -20897,6 +20897,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 和緯中華店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區和緯路４段４２６號（Ａ９９、Ａ１００、Ａ１０２）",
+                "pay_list": "台灣pay\/悠遊付\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18733,
+                    23.007487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮自然企業有限公司鄭仔寮營運處",
                 "category": "餐飲",
                 "area": "北區",
@@ -22240,6 +22257,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 台南長榮店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區振興里長榮路四段２３１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2208,
+                    23.007396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 台南育德店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區福德里育德路５１２號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206796,
+                    23.014775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖米熊茶飲專賣店",
                 "category": "餐飲",
                 "area": "北區",
@@ -23135,23 +23186,6 @@
                 "coordinates": [
                     120.20511323277,
                     23.004540647788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "湧鑫商行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區振興里長榮路四段２３１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2208,
-                    23.007396
                 ]
             }
         },
@@ -25878,23 +25912,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "勁于茶行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區和緯路４段４２６號（Ａ９９、Ａ１００、Ａ１０２）",
-                "pay_list": "台灣pay\/悠遊付\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.18733,
-                    23.007487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "加賀塢早餐店",
                 "category": "餐飲",
                 "area": "北區",
@@ -25940,23 +25957,6 @@
                 "coordinates": [
                     120.193788,
                     23.005127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "凱昕商行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區福德里育德路５１２號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.206796,
-                    23.014775
                 ]
             }
         },
@@ -31403,6 +31403,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 善化南科店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區坐駕里中山路２８１―１號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29621,
+                    23.131938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 台南善化店",
                 "category": "餐飲",
                 "area": "善化區",
@@ -32859,23 +32876,6 @@
                 "coordinates": [
                     120.290336,
                     23.132301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "嘉美樂食品行",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區坐駕里中山路２８１―１號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29621,
-                    23.131938
                 ]
             }
         },
@@ -34684,7 +34684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司台南科工店",
+                "shop": "鮮茶道Presotea 台南科工店",
                 "category": "餐飲",
                 "area": "安南區",
                 "market_address": "臺南市安南區淵中里安中路４段７６號",
@@ -35392,6 +35392,23 @@
                 "coordinates": [
                     120.19371,
                     23.044288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 安南店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區溪墘里海佃路１段３２８號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191244,
+                    23.026897
                 ]
             }
         },
@@ -37704,23 +37721,6 @@
                 "coordinates": [
                     120.141391,
                     23.079823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "三兄妹炸雞",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區溪墘里海佃路１段３２８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.191244,
-                    23.026897
                 ]
             }
         },
@@ -54183,23 +54183,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "表弟炸雞",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇信里崇善路２１７號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.224915,
-                    22.979495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "衛民小屋",
                 "category": "餐飲",
                 "area": "東區",
@@ -54982,6 +54965,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 台南東寧店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區裕農里東寧路５４０號１樓",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2315,
+                    22.988765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 台南崇善店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇信里崇善路２１７號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224915,
+                    22.979495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "肯德基KFC-台南東門店",
                 "category": "餐飲",
                 "area": "東區",
@@ -55197,23 +55214,6 @@
                 "coordinates": [
                     120.226622,
                     22.992954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔好吃炸雞",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區裕農里東寧路５４０號１樓",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2315,
-                    22.988765
                 ]
             }
         },
@@ -63703,7 +63703,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司歸仁圓環店",
+                "shop": "鮮茶道Presotea 歸仁圓環店",
                 "category": "餐飲",
                 "area": "歸仁區",
                 "market_address": "臺南市歸仁區辜厝里中山路２段１號",
@@ -63799,6 +63799,23 @@
                 "coordinates": [
                     120.273816,
                     22.971824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 歸仁店",
+                "category": "餐飲",
+                "area": "歸仁區",
+                "market_address": "臺南市歸仁區南保里中山路３段４９號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286672,
+                    22.967466
                 ]
             }
         },
@@ -64275,23 +64292,6 @@
                 "coordinates": [
                     120.287049,
                     22.963401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新食美食品有限公司",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區南保里中山路３段４９號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.286672,
-                    22.967466
                 ]
             }
         },

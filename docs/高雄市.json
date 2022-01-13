@@ -25640,6 +25640,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 前鎮中山店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區良和里中山二路７號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306613,
+                    22.607502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "進發商號",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "前鎮區",
@@ -26405,6 +26422,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 高雄瑞隆店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞豐里瑞隆路５６３號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.326815,
+                    22.605035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 高雄三多店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區盛興里廣西路４４０號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309612,
+                    22.614816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "肯德基KFC-高雄中華五路店",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -26609,23 +26660,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "紘宇實業",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞豐里瑞隆路５６３號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.326815,
-                    22.605035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "築炭串燒居酒屋",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -26705,23 +26739,6 @@
                 "coordinates": [
                     120.311156,
                     22.612527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "科科炸雞",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區盛興里廣西路４４０號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.309612,
-                    22.614816
                 ]
             }
         },
@@ -27623,23 +27640,6 @@
                 "coordinates": [
                     120.306972,
                     22.613042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "洺蓁商行",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區良和里中山二路７號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.306613,
-                    22.607502
                 ]
             }
         },
@@ -43541,7 +43541,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司左營大路店",
+                "shop": "鮮茶道Presotea 左營大路店",
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區埤西里左營大路８７號",
@@ -44708,6 +44708,40 @@
                 "coordinates": [
                     120.305211,
                     22.672972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 左營自由店",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區埤西里左營大路１０―３號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28763565264,
+                    22.679650591003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 左營自由店",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區菜公里自由三路３８３號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31223645535,
+                    22.675260615983
                 ]
             }
         },
@@ -49746,23 +49780,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晙茂商行左營分店",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區埤西里左營大路１０―３號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.28763565264,
-                    22.679650591003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "昱安家餐飲有限公司",
                 "category": "餐飲",
                 "area": "左營區",
@@ -52494,23 +52511,6 @@
                 "coordinates": [
                     120.31554553287,
                     22.685642242127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "啟浩食品有限公司",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區菜公里自由三路３８３號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31223645535,
-                    22.675260615983
                 ]
             }
         },
@@ -57090,23 +57090,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豆豆複合餐飲",
-                "category": "餐飲",
-                "area": "新興區",
-                "market_address": "高雄市新興區永寧里五福二路１１８號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307326,
-                    22.625433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "諭泉豆乳店",
                 "category": "餐飲",
                 "area": "新興區",
@@ -57883,6 +57866,23 @@
                 "coordinates": [
                     120.309304,
                     22.623311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 五福仁愛店",
+                "category": "餐飲",
+                "area": "新興區",
+                "market_address": "高雄市新興區永寧里五福二路１１８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307326,
+                    22.625433
                 ]
             }
         },
@@ -67851,6 +67851,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 楠梓樂群店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區加昌里樂群路２４３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296107,
+                    22.720624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 楠梓建楠店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區中陽里建楠路４５號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328836,
+                    22.72668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "速快廚坊",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -68117,40 +68151,6 @@
                 "coordinates": [
                     120.2918647883,
                     22.726450133438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "豐紀食品有限公司後昌營業所",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區加昌里樂群路２４３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.296107,
-                    22.720624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "豐紀食品有限公司",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區中陽里建楠路４５號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.328836,
-                    22.72668
                 ]
             }
         },
@@ -69120,23 +69120,6 @@
                 "coordinates": [
                     120.283439,
                     22.728567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "純味茶舖",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區翠屏里壽豐路３１６號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298655,
-                    22.725629
                 ]
             }
         },
@@ -73999,6 +73982,23 @@
                 "coordinates": [
                     120.289731,
                     22.727384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "一沐日 高雄壽豐店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區翠屏里壽豐路３１６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298655,
+                    22.725629
                 ]
             }
         },
@@ -79292,6 +79292,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 高雄和平店",
+                "category": "餐飲",
+                "area": "苓雅區",
+                "market_address": "高雄市苓雅區林德里和平一路５０號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32163765571,
+                    22.621252774629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "達爵飲料店",
                 "category": "餐飲",
                 "area": "苓雅區",
@@ -81683,23 +81700,6 @@
                 "coordinates": [
                     120.306966,
                     22.619653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "申揚食品有限公司",
-                "category": "餐飲",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區林德里和平一路５０號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32163765571,
-                    22.621252774629
                 ]
             }
         },
@@ -89271,6 +89271,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 路竹店",
+                "category": "餐飲",
+                "area": "路竹區",
+                "market_address": "高雄市路竹區竹西里０１４鄰中山路５４２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259246,
+                    22.860061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 高雄路竹店",
                 "category": "餐飲",
                 "area": "路竹區",
@@ -89486,23 +89503,6 @@
                 "coordinates": [
                     120.260761,
                     22.860571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂誠商行",
-                "category": "餐飲",
-                "area": "路竹區",
-                "market_address": "高雄市路竹區竹西里０１４鄰中山路５４２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.259246,
-                    22.860061
                 ]
             }
         },
@@ -93878,23 +93878,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鐵支美式炸雞",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區曹公里００４鄰中正路２０６號１樓",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.36071072087,
-                    22.629930038339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鍛鑶拉麵",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -95232,6 +95215,57 @@
                 "coordinates": [
                     120.358431,
                     22.591557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 鳳林黃埔店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區誠信里黃埔四村１巷１１－３號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.374512,
+                    22.621487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 鳳山青年店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文衡里青年路二段２２２號",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350889,
+                    22.638278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "胖老爹美式炸雞 高雄鳳山中正店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區曹公里００４鄰中正路２０６號１樓",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36071072087,
+                    22.629930038339
                 ]
             }
         },
@@ -98859,23 +98893,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "承軒實業社",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區誠信里黃埔四村１巷１１－３號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.374512,
-                    22.621487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "戴家羊肉粉",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -100672,23 +100689,6 @@
                 "coordinates": [
                     120.366522,
                     22.623629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "咕雞咕雞美式炸雞",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文衡里青年路二段２２２號",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.350889,
-                    22.638278
                 ]
             }
         },
