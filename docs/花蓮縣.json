@@ -5478,6 +5478,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 花蓮北埔店",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉北埔村北埔路２７８號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603042,
+                    24.034824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雿??農產有限公司太魯閣門市",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -5812,23 +5829,6 @@
                 "coordinates": [
                     121.603672,
                     24.034018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "木華商行",
-                "category": "餐飲",
-                "area": "新城鄉",
-                "market_address": "花蓮縣新城鄉北埔村北埔路２７８號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603042,
-                    24.034824
                 ]
             }
         },
@@ -6379,7 +6379,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道 玉里分店",
+                "shop": "鮮茶道Presotea 花蓮玉里店",
                 "category": "餐飲",
                 "area": "玉里鎮",
                 "market_address": "花蓮縣玉里鎮泰昌里中山路２段１１２號",
@@ -7161,6 +7161,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 花蓮瑞穗店",
+                "category": "餐飲",
+                "area": "瑞穗鄉",
+                "market_address": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377664,
+                    23.497516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "饗饕美食部",
                 "category": "餐飲",
                 "area": "瑞穗鄉",
@@ -7461,23 +7478,6 @@
                 "coordinates": [
                     121.380114,
                     23.499379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "思穎企業社",
-                "category": "餐飲",
-                "area": "瑞穗鄉",
-                "market_address": "花蓮縣瑞穗鄉瑞穗村００６鄰中正北路５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.377664,
-                    23.497516
                 ]
             }
         },
@@ -12669,23 +12669,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司花蓮國聯店",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國聯里２０鄰國聯五路４９號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60550805985,
-                    23.990055051781
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鮮茶道股份有限公司花蓮中山店",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -12714,6 +12697,23 @@
                 "coordinates": [
                     121.608754,
                     23.977988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 花蓮國聯店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國聯里２０鄰國聯五路４９號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60550805985,
+                    23.990055051781
                 ]
             }
         },

@@ -1364,7 +1364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "龍承商行",
+                "shop": "鮮茶道Presotea 台東成功店",
                 "category": "餐飲",
                 "area": "成功鎮",
                 "market_address": "臺東縣成功鎮忠仁里中華路１１５號１樓",
@@ -2690,6 +2690,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 台東綠島店",
+                "category": "餐飲",
+                "area": "綠島鄉",
+                "market_address": "臺東縣綠島鄉南寮村１８５之２號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.467588,
+                    22.669664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "非炒不可海鮮食堂",
                 "category": "餐飲",
                 "area": "綠島鄉",
@@ -2854,23 +2871,6 @@
                 "coordinates": [
                     121.467768,
                     22.670929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "玖伍壹冷飲店",
-                "category": "餐飲",
-                "area": "綠島鄉",
-                "market_address": "臺東縣綠島鄉南寮村１８５之２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.467588,
-                    22.669664
                 ]
             }
         },
@@ -4577,6 +4577,108 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 新生國中店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市馬蘭里０２６鄰新生路７０１號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.135651,
+                    22.76366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 台東秀泰店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市鐵花里新生路１１０―１號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14860767853,
+                    22.752377314493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 台東知本店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市知本里富裕路１０５號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.058701,
+                    22.710851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 台東更生店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民生里更生路３８６號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14352,
+                    22.761759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐榮里中華路２段３０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140873,
+                    22.745792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 台東中正店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民權里中正路３２９號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151454,
+                    22.757193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鬱金香大酒店股份有限公司",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -4639,23 +4741,6 @@
                 "coordinates": [
                     121.140936,
                     22.745837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "香亭有限公司",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市自強里傳廣路１１９號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.143781,
-                    22.759398
                 ]
             }
         },
@@ -5047,6 +5132,23 @@
                 "coordinates": [
                     121.13171470843,
                     22.772254562634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "阿官火鍋專家 台東傳廣加盟店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市自強里傳廣路１１９號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143781,
+                    22.759398
                 ]
             }
         },
@@ -6118,23 +6220,6 @@
                 "coordinates": [
                     121.15016246861,
                     22.750031359313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "菘湖茶莊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市鐵花里新生路１１０―１號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.14860767853,
-                    22.752377314493
                 ]
             }
         },
@@ -7229,6 +7314,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "牛比蔥壽喜燒吃到飽專門店 台東博愛加盟店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民族里博愛路４００號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.147873,
+                    22.756512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "牛仔冷飲店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -7342,23 +7444,6 @@
                 "coordinates": [
                     121.138194,
                     22.764282
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "溫泉茶莊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市知本里富裕路１０５號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.058701,
-                    22.710851
                 ]
             }
         },
@@ -7892,23 +7977,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榕港茶莊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民生里更生路３８６號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.14352,
-                    22.761759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "楓雅商旅店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -7920,23 +7988,6 @@
                 "coordinates": [
                     121.104718,
                     22.772117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "森海茶莊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市馬蘭里０２６鄰新生路７０１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.135651,
-                    22.76366
                 ]
             }
         },
@@ -8379,23 +8430,6 @@
                 "coordinates": [
                     121.14581,
                     22.766113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "景賀町有限公司",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民族里博愛路４００號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.147873,
-                    22.756512
                 ]
             }
         },
@@ -11037,23 +11071,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "冠池茶莊",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民權里中正路３２９號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.151454,
-                    22.757193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "億芳食坊",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -11490,23 +11507,6 @@
                 "coordinates": [
                     121.152342,
                     22.7531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中華路茶飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐榮里中華路２段３０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.140873,
-                    22.745792
                 ]
             }
         },

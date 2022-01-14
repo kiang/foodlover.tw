@@ -939,6 +939,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 屏東內埔店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉東寧村２８鄰南寧路９０號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564353,
+                    22.618334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷鹿食堂",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1205,23 +1222,6 @@
                 "coordinates": [
                     120.57104,
                     22.615442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "生才易食品有限公司",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉東寧村２８鄰南寧路９０號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.564353,
-                    22.618334
                 ]
             }
         },
@@ -11309,7 +11309,41 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道墾丁店",
+                "shop": "鮮茶道Presotea 恆春省北店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮城北里中正路２３５－１號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.743495,
+                    22.006081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 屏東恆春店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮山腳里１４鄰恆南路１６５號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.744367,
+                    21.998467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 墾丁店",
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮墾丁里墾丁路１７６號",
@@ -11677,6 +11711,23 @@
                 "coordinates": [
                     120.74274272661,
                     21.944879367778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 恆春恆南店",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮山腳里００６鄰恆南路７５－２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.74556,
+                    21.99547
                 ]
             }
         },
@@ -12289,23 +12340,6 @@
                 "coordinates": [
                     120.801417,
                     21.943808
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "申揚食品有限公司恆春分公司",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮山腳里００６鄰恆南路７５－２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.74556,
-                    21.99547
                 ]
             }
         },
@@ -12975,23 +13009,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "恩如商行",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮山腳里１４鄰恆南路１６５號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.744367,
-                    21.998467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "恆農假期渡假飯店有限公司",
                 "category": "餐飲",
                 "area": "恆春鎮",
@@ -13258,23 +13275,6 @@
                 "coordinates": [
                     120.819187,
                     21.937056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "妍柔茶莊",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮城北里中正路２３５－１號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.743495,
-                    22.006081
                 ]
             }
         },
@@ -14335,7 +14335,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "馨旺茶莊",
+                "shop": "鮮茶道Presotea 屏東新園店",
                 "category": "餐飲",
                 "area": "新園鄉",
                 "market_address": "屏東縣新園鄉烏龍村０１０鄰南興路３２８號",
@@ -14896,6 +14896,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 東港中正店",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興東里中正路１段２９５號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458735,
+                    22.474402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 東港中山店",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮頂中里００３鄰中山路８８―１號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449825,
+                    22.467082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "馬光國際開發股份有限公司",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15015,6 +15049,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 東港店",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興臺里０１３鄰中山路３９之２號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.450906,
+                    22.466266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 屏東東港中正店",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15111,23 +15162,6 @@
                 "coordinates": [
                     120.4519408954,
                     22.465755683458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "萬家香茶飲",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮興東里中正路１段２９５號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.458735,
-                    22.474402
                 ]
             }
         },
@@ -15916,23 +15950,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小鎮茶館",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮頂中里００３鄰中山路８８―１號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.449825,
-                    22.467082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "富裕興商行",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15978,23 +15995,6 @@
                 "coordinates": [
                     120.446976,
                     22.468471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好鵠商行",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮興臺里０１３鄰中山路３９之２號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.450906,
-                    22.466266
                 ]
             }
         },
@@ -17429,6 +17429,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 潮州店",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮新生里３鄰新生路８４－２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538714,
+                    22.550311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "潮州第一公有零售市場-鋪45",
                 "category": "夜市\/市場攤販",
                 "area": "潮州鎮",
@@ -17440,23 +17457,6 @@
                 "coordinates": [
                     120.541786,
                     22.548919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清爽樂商行",
-                "category": "餐飲\/夜市\/市場攤販",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮新生里３鄰新生路８４－２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538714,
-                    22.550311
                 ]
             }
         },
@@ -19860,6 +19860,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 小琉球店",
+                "category": "餐飲",
+                "area": "琉球鄉",
+                "market_address": "屏東縣琉球鄉本福村中山路６２號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.380272,
+                    22.350009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "靚水堂商行",
                 "category": "餐飲",
                 "area": "琉球鄉",
@@ -20143,23 +20160,6 @@
                 "coordinates": [
                     120.381333,
                     22.353251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永泰茶行",
-                "category": "餐飲",
-                "area": "琉球鄉",
-                "market_address": "屏東縣琉球鄉本福村中山路６２號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.380272,
-                    22.350009
                 ]
             }
         },
@@ -20489,6 +20489,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 屏東竹田店",
+                "category": "餐飲",
+                "area": "竹田鄉",
+                "market_address": "屏東縣竹田鄉竹田村中正路１５３號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544345,
+                    22.585861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "綺夢汽車旅舘",
                 "category": "餐飲",
                 "area": "竹田鄉",
@@ -20568,23 +20585,6 @@
                 "coordinates": [
                     120.514073,
                     22.564903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "合豐茶莊",
-                "category": "餐飲",
-                "area": "竹田鄉",
-                "market_address": "屏東縣竹田鄉竹田村中正路１５３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.544345,
-                    22.585861
                 ]
             }
         },
@@ -21764,7 +21764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司里港中山店",
+                "shop": "鮮茶道Presotea 里港中山店",
                 "category": "餐飲",
                 "area": "里港鄉",
                 "market_address": "屏東縣里港鄉大平村中山路７１號１樓",
@@ -21775,6 +21775,23 @@
                 "coordinates": [
                     120.494305,
                     22.77829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 里港三和店",
+                "category": "餐飲",
+                "area": "里港鄉",
+                "market_address": "屏東縣里港鄉三廍村三和路１０１－１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50381026135,
+                    22.810631910817
                 ]
             }
         },
@@ -21792,23 +21809,6 @@
                 "coordinates": [
                     120.49448217663,
                     22.775328683965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鎮興茶莊",
-                "category": "餐飲",
-                "area": "里港鄉",
-                "market_address": "屏東縣里港鄉三廍村三和路１０１－１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.50381026135,
-                    22.810631910817
                 ]
             }
         },
@@ -22172,6 +22172,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 屏東繁華店",
+                "category": "餐飲",
+                "area": "長治鄉",
+                "market_address": "屏東縣長治鄉繁華村水源路５５號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.575477,
+                    22.701848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香楊冷飲站",
                 "category": "餐飲",
                 "area": "長治鄉",
@@ -22319,23 +22336,6 @@
                 "coordinates": [
                     120.573451,
                     22.702057
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "汶瑞茶莊",
-                "category": "餐飲",
-                "area": "長治鄉",
-                "market_address": "屏東縣長治鄉繁華村水源路５５號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.575477,
-                    22.701848
                 ]
             }
         },

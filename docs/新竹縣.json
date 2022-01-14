@@ -2299,6 +2299,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 新豐站前店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉員山村新興路２０２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00839,
+                    24.881298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "駩浤美食小吃",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -2582,23 +2599,6 @@
                 "coordinates": [
                     120.991398,
                     24.88471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "純萃概念整合行銷有限公司新豐站前店",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉員山村新興路２０２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.00839,
-                    24.881298
                 ]
             }
         },
@@ -3993,6 +3993,23 @@
                 "coordinates": [
                     121.018489,
                     24.869754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 湖口工業一店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉工業一路１８號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026373,
+                    24.869845
                 ]
             }
         },
@@ -5404,23 +5421,6 @@
                 "coordinates": [
                     121.013287,
                     24.873557
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "向洪商行",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉工業一路１８號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026373,
-                    24.869845
                 ]
             }
         },
@@ -8589,24 +8589,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "這一鍋餐飲股份有限公司同話竹北光明分公司",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市光明一路１６５號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01495933065,
-                    24.830313781162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "這一鍋餐飲股份有限公司光明分公司",
+                "shop": "這一鍋 竹北光明殿",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市文化里光明一路２７８、２８８號",
@@ -11949,6 +11932,23 @@
                 "coordinates": [
                     121.008435,
                     24.827438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "燒肉同話 竹北光明店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市光明一路１６５號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01495933065,
+                    24.830313781162
                 ]
             }
         },
@@ -20013,7 +20013,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮集飲品店",
+                "shop": "鮮茶道Presotea 竹東二重店",
                 "category": "餐飲",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮二重里中興路３段１８１號",

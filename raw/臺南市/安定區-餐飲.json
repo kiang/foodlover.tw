@@ -1,7 +1,7 @@
 [
     {
         "index": 1,
-        "shop": "鮮茶道-台南港口店",
+        "shop": "鮮茶道Presotea 台南港口店",
         "category": [
             "餐飲"
         ],
@@ -19,6 +19,21 @@
     },
     {
         "index": 2,
+        "shop": "鮮茶道Presotea 台南港口店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "安定區",
+        "market_address": "臺南市安定區港南里港口１４２－９號１樓",
+        "pay_list": [
+            "一卡通MONEY(原LINE Pay Money)",
+            "悠遊付"
+        ]
+    },
+    {
+        "index": 3,
         "shop": "魔法燈塔咖啡館",
         "category": [
             "餐飲"
@@ -29,21 +44,6 @@
         "market_address": "臺南市安定區中榮里許中營２４號１樓",
         "pay_list": [
             "台灣pay"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "阿賢商行",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "安定區",
-        "market_address": "臺南市安定區港口里港口２４５―９號１樓",
-        "pay_list": [
-            "信用卡",
-            "一卡通MONEY(原LINE Pay Money)"
         ]
     },
     {
@@ -138,21 +138,6 @@
     },
     {
         "index": 10,
-        "shop": "尹翔飲品",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "臺南市",
-        "area": "安定區",
-        "market_address": "臺南市安定區港南里港口１４２－９號１樓",
-        "pay_list": [
-            "一卡通MONEY(原LINE Pay Money)",
-            "悠遊付"
-        ]
-    },
-    {
-        "index": 11,
         "shop": "品昌飲料店",
         "category": [
             "餐飲"
@@ -162,6 +147,21 @@
         "area": "安定區",
         "market_address": "臺南市安定區港口里港口２２４號",
         "pay_list": [
+            "一卡通MONEY(原LINE Pay Money)"
+        ]
+    },
+    {
+        "index": 11,
+        "shop": "八方雲集 台南安定店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "臺南市",
+        "area": "安定區",
+        "market_address": "臺南市安定區港口里港口２４５―９號１樓",
+        "pay_list": [
+            "信用卡",
             "一卡通MONEY(原LINE Pay Money)"
         ]
     }

@@ -633,6 +633,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 五結利成店",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉成興村利成路一段１號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.828096,
+                    24.648288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香格里拉冬山河旅館有限公司",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -1381,23 +1398,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八冰綠飲料店",
-                "category": "餐飲",
-                "area": "五結鄉",
-                "market_address": "宜蘭縣五結鄉成興村利成路一段１號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.828096,
-                    24.648288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "依依不捨民宿",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -1647,6 +1647,40 @@
                 "coordinates": [
                     121.792152,
                     24.639941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 宜蘭冬山店",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉香和村０１４鄰冬山路１７號一樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.795024,
+                    24.632297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 冬山義成店",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉羣英村０４５鄰義成路三段３７３號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76774628842,
+                    24.666622275836
                 ]
             }
         },
@@ -2061,23 +2095,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "玉品軒商行",
-                "category": "餐飲",
-                "area": "冬山鄉",
-                "market_address": "宜蘭縣冬山鄉羣英村０４５鄰義成路三段３７３號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.76774628842,
-                    24.666622275836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "獅子座牛排",
                 "category": "餐飲",
                 "area": "冬山鄉",
@@ -2089,23 +2106,6 @@
                 "coordinates": [
                     121.765623,
                     24.660233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "爵爾飲料店",
-                "category": "餐飲",
-                "area": "冬山鄉",
-                "market_address": "宜蘭縣冬山鄉香和村０１４鄰冬山路１７號一樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.795024,
-                    24.632297
                 ]
             }
         },

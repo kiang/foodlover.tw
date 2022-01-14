@@ -6090,6 +6090,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "胖老爹美式炸雞 竹科店(原南大店)",
+                "category": "夜市\/市場攤販",
+                "area": "東區",
+                "market_address": "新竹市東區南大里西大路５５號１樓",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97144066935,
+                    24.795584902998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "禾園茶館有限公司",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "東區",
@@ -6203,23 +6220,6 @@
                 "coordinates": [
                     120.96981045727,
                     24.797824675895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "凱虹炸雞",
-                "category": "夜市\/市場攤販",
-                "area": "東區",
-                "market_address": "新竹市東區南大里西大路５５號１樓",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97144066935,
-                    24.795584902998
                 ]
             }
         },
@@ -7688,7 +7688,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司竹科金山店",
+                "shop": "鮮茶道Presotea 竹科金山店",
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區金山里金山九街３５號１樓",
@@ -7699,6 +7699,23 @@
                 "coordinates": [
                     121.02101359703,
                     24.777869612927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 新竹清大店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區軍功里光復路二段４４０號一樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996005,
+                    24.79765
                 ]
             }
         },
@@ -15315,23 +15332,6 @@
                 "coordinates": [
                     120.96458391984,
                     24.791789877514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "波利茶飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區軍功里光復路二段４４０號一樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.996005,
-                    24.79765
                 ]
             }
         },
@@ -24297,6 +24297,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "達美樂披薩DOMINO'S PIZZA 香山大庄元培店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區樹下里中華路四段５７４號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.929698,
+                    24.788875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 新竹香山店",
                 "category": "餐飲",
                 "area": "香山區",
@@ -24342,23 +24359,6 @@
                 "coordinates": [
                     120.952609,
                     24.755956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "萬德食品有限公司香山分公司",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區樹下里中華路四段５７４號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.929698,
-                    24.788875
                 ]
             }
         },

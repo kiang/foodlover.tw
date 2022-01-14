@@ -2027,7 +2027,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方商行",
+                "shop": "八方雲集 彰化北斗店",
                 "category": "餐飲",
                 "area": "北斗鎮",
                 "market_address": "彰化縣北斗鎮西德里００９鄰中華路３８３號１樓",
@@ -4350,6 +4350,23 @@
                 "coordinates": [
                     120.574049,
                     23.969125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 員林中正店",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市民生里中正路２４４號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574533,
+                    23.954537
                 ]
             }
         },
@@ -7104,23 +7121,6 @@
                 "coordinates": [
                     120.57064,
                     23.958582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "提阿莫茶飲",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市民生里中正路２４４號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.574533,
-                    23.954537
                 ]
             }
         },
@@ -12125,6 +12125,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 彰化彰美店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市新興里彰美路一段２４２號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536854,
+                    24.089676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 彰化大埔店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市延平里大埔路５９８號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542786,
+                    24.066678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮友商行",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -12935,23 +12969,6 @@
                 "coordinates": [
                     120.5367651465,
                     24.089438468573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "軒弘茶行",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市西安里民族路３１８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.539762,
-                    24.073231
                 ]
             }
         },
@@ -13904,23 +13921,6 @@
                 "coordinates": [
                     120.546423,
                     24.073121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "紫菁蓮茶行",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市新興里彰美路一段２４２號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536854,
-                    24.089676
                 ]
             }
         },
@@ -15774,23 +15774,6 @@
                 "coordinates": [
                     120.538239,
                     24.089814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "旺采商行",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市延平里大埔路５９８號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542786,
-                    24.066678
                 ]
             }
         },
@@ -18602,6 +18585,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "一沐日 彰化民族店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市西安里民族路３１８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539762,
+                    24.073231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "一手私藏世界紅茶 彰化和平店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -20013,7 +20013,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "邵立有限公司彰化溪湖分公司",
+                "shop": "達美樂披薩DOMINO'S PIZZA 溪湖員鹿店",
                 "category": "餐飲",
                 "area": "溪湖鎮",
                 "market_address": "彰化縣溪湖鎮平和里員鹿路三段７５號",

@@ -106,6 +106,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 嘉義和美中山店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村中山路５段５２６號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.468459,
+                    23.451502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 嘉義中埔店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉中埔村中正路５９號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.523504,
+                    23.424696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雪晶冷熱飲店",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -185,23 +219,6 @@
                 "coordinates": [
                     120.492474,
                     23.447374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "賀意茶舖",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉中埔村中正路５９號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.523504,
-                    23.424696
                 ]
             }
         },
@@ -559,23 +576,6 @@
                 "coordinates": [
                     120.515857,
                     23.441859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "奇虹茶行",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村中山路５段５２６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.468459,
-                    23.451502
                 ]
             }
         },
@@ -1653,7 +1653,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮美茶坊",
+                "shop": "鮮茶道Presotea 太保麻魚寮店",
                 "category": "餐飲",
                 "area": "太保市",
                 "market_address": "嘉義縣太保市麻寮里１４鄰中山路２段１１８號",
@@ -1664,6 +1664,40 @@
                 "coordinates": [
                     120.372151,
                     23.499386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 太保後潭店",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市後潭里後潭３２０號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343345,
+                    23.452119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 嘉義太保店",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市安仁里０１１鄰太保二路１３９號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295115,
+                    23.455061
                 ]
             }
         },
@@ -2044,23 +2078,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "昕祺茶莊",
-                "category": "餐飲",
-                "area": "太保市",
-                "market_address": "嘉義縣太保市安仁里０１１鄰太保二路１３９號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295115,
-                    23.455061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "摩斯漢堡 高鐵嘉義店",
                 "category": "餐飲",
                 "area": "太保市",
@@ -2344,23 +2361,6 @@
                 "coordinates": [
                     120.293132,
                     23.472923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "修原味商行",
-                "category": "餐飲",
-                "area": "太保市",
-                "market_address": "嘉義縣太保市後潭里後潭３２０號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.343345,
-                    23.452119
                 ]
             }
         },
@@ -4645,6 +4645,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 民雄江厝店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―７號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4215216325,
+                    23.52495024504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 民雄東榮店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉東榮村東榮路２９號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.431923,
+                    23.55761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 民雄工業區店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉福樂村０１６鄰埤角１９３號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43968,
+                    23.523931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 民雄吳鳳店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉雙福村０１９鄰建國路二段１４０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436547,
+                    23.536308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 中正大學店",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5036,23 +5104,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "皇寶商店",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉三興村００７鄰神農路８９號（１樓）",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.471476,
-                    23.55541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "白巷子 民雄頭橋店",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5189,23 +5240,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永鑫小吃店",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉西安村３鄰西安路２０號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.427645,
-                    23.556418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永益康複合式餐廳",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5302,23 +5336,6 @@
                 "coordinates": [
                     120.427491,
                     23.555859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂璿茶莊",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉東榮村東榮路２９號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.431923,
-                    23.55761
                 ]
             }
         },
@@ -5546,23 +5563,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "找茶趣茶莊",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉雙福村０１９鄰建國路二段１４０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.436547,
-                    23.536308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "慢靈魂咖啡館",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5682,23 +5682,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "巧悅茶莊",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉福樂村０１６鄰埤角１９３號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43968,
-                    23.523931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "就是果汁",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5744,23 +5727,6 @@
                 "coordinates": [
                     120.427752,
                     23.555177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "尊閣茶飲專賣店",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―７號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4215216325,
-                    23.52495024504
                 ]
             }
         },
@@ -5999,6 +5965,40 @@
                 "coordinates": [
                     120.417141,
                     23.533836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 民雄西安店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉西安村３鄰西安路２０號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.427645,
+                    23.556418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 嘉義中大店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉三興村００７鄰神農路８９號（１樓）",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471476,
+                    23.55541
                 ]
             }
         },
