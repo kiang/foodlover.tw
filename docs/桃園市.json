@@ -2061,6 +2061,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 青埔棒球場店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區芝芭里領航南路１段６７號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.20417478594,
+                    25.001020088319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 中壢龍東店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -2072,6 +2089,57 @@
                 "coordinates": [
                     121.25398967298,
                     24.93027681351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 中壢延平中正店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中建里延平路５６８號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22252852563,
+                    24.955160818102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 中壢中園店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區仁義里中園路５３號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.236245,
+                    24.965781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 中原實踐店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區普忠里實踐路２６０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.239369,
+                    24.958022
                 ]
             }
         },
@@ -4424,7 +4492,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "這一鍋餐飲股份有限公司中美分公司",
+                "shop": "這一鍋 中壢中美殿",
                 "category": "餐飲",
                 "area": "中壢區",
                 "market_address": "桃園市中壢區興南里中美路１段４６號",
@@ -6152,23 +6220,6 @@
                 "coordinates": [
                     121.2389954315,
                     24.956909476216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茗饗有限公司",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區芝芭里領航南路１段６７號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.20417478594,
-                    25.001020088319
                 ]
             }
         },
@@ -15746,23 +15797,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "將進鮮商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中建里延平路５６８號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.22252852563,
-                    24.955160818102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "寶橘子商行",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18358,40 +18392,6 @@
                 "coordinates": [
                     121.22702601551,
                     24.94999466529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳記豆花店",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區健行里長沙路３６巷８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.228752,
-                    24.948225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吧授國際藝術工作室",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中央里中美路７６－１０號﹝中正公園１號﹞",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.22587909091,
-                    24.958853532489
                 ]
             }
         },
@@ -53095,6 +53095,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 埔心站前店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區埔心里中興路６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.183797,
+                    24.918925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮晏複合式餐飲",
                 "category": "餐飲",
                 "area": "楊梅區",
@@ -53616,23 +53633,6 @@
                 "coordinates": [
                     121.180865,
                     24.913347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "蒞臨商行",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區埔心里中興路６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.183797,
-                    24.918925
                 ]
             }
         },

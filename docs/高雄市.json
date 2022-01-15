@@ -2180,6 +2180,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 高雄鼎山店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區灣中里鼎山街５５５號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31799333471,
+                    22.651904121118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 高雄熱河店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區達明里熱河一街３６８號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30585956379,
+                    22.643950107062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 高雄明仁店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區鼎泰里明仁路２３號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31378312187,
+                    22.660847552986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 高雄建興店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶中里建興路１７６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32585708939,
+                    22.644063619083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮聚海產粥",
                 "category": "餐飲",
                 "area": "三民區",
@@ -2990,23 +3058,6 @@
                 "coordinates": [
                     120.34303,
                     22.646643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "陽明小吃部",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區本上里陽明路３６７號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34222236079,
-                    22.644455350657
                 ]
             }
         },
@@ -5342,23 +5393,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "自由小吃部",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區德智里自由一路６０號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30883711337,
-                    22.6438996663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "臥龍賞味家早餐舖",
                 "category": "餐飲",
                 "area": "三民區",
@@ -6532,23 +6566,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福田冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶中里建興路１７６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32585708939,
-                    22.644063619083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福松排骨牛肉便當",
                 "category": "餐飲",
                 "area": "三民區",
@@ -6594,23 +6611,6 @@
                 "coordinates": [
                     120.30876345673,
                     22.649305289439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "神威商行",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區鼎泰里明仁路２３號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31378312187,
-                    22.660847552986
                 ]
             }
         },
@@ -8889,23 +8889,6 @@
                 "coordinates": [
                     120.30061436434,
                     22.644306598944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "木鑫商行",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區達明里熱河一街３６８號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30585956379,
-                    22.643950107062
                 ]
             }
         },
@@ -11445,23 +11428,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蔡小吃店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區港西里建國三路９５號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.299818,
-                    22.637611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小花家早餐店",
                 "category": "餐飲",
                 "area": "三民區",
@@ -11847,23 +11813,6 @@
                 "coordinates": [
                     120.301861,
                     22.651311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "守康商行",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區灣中里鼎山街５５５號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31799333471,
-                    22.651904121118
                 ]
             }
         },
@@ -12374,23 +12323,6 @@
                 "coordinates": [
                     120.307293,
                     22.643965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "天佑小吃部",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶玉里義德路５４―１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33473415981,
-                    22.64630292955
                 ]
             }
         },
@@ -14182,7 +14114,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方小吃店",
+                "shop": "八方雲集 高雄鼎中店",
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區鼎力里鼎中路４０１－１號",
@@ -14193,6 +14125,91 @@
                 "coordinates": [
                     120.319788,
                     22.668149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄陽明店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區本上里陽明路３６７號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34222236079,
+                    22.644455350657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄自由店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區德智里自由一路６０號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30883711337,
+                    22.6438996663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄站前店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區港西里建國三路９５號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299818,
+                    22.637611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄正興店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區正興里正興路１１８號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32019141267,
+                    22.646558083011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄大豐店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶玉里義德路５４―１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33473415981,
+                    22.64630292955
                 ]
             }
         },
@@ -14414,23 +14431,6 @@
                 "coordinates": [
                     120.320303,
                     22.645854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "倪家小吃部",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區正興里正興路１１８號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32019141267,
-                    22.646558083011
                 ]
             }
         },
@@ -31318,6 +31318,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 大寮鳳林店",
+                "category": "餐飲",
+                "area": "大寮區",
+                "market_address": "高雄市大寮區會社里鳳林三路３３４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397531,
+                    22.602236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 大寮華中店",
+                "category": "餐飲",
+                "area": "大寮區",
+                "market_address": "高雄市大寮區潮寮里華中南路１７８－５號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428895,
+                    22.566414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 大寮中庄店",
                 "category": "餐飲",
                 "area": "大寮區",
@@ -31346,23 +31380,6 @@
                 "coordinates": [
                     120.391256,
                     22.603884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "飄香小吃部",
-                "category": "餐飲",
-                "area": "大寮區",
-                "market_address": "高雄市大寮區中庄里四維路１５２號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.393503,
-                    22.635584
                 ]
             }
         },
@@ -31652,23 +31669,6 @@
                 "coordinates": [
                     120.394358,
                     22.635611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "美樂地冰品",
-                "category": "餐飲",
-                "area": "大寮區",
-                "market_address": "高雄市大寮區潮寮里華中南路１７８－５號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.428895,
-                    22.566414
                 ]
             }
         },
@@ -32219,23 +32219,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富菁商行",
-                "category": "餐飲",
-                "area": "大寮區",
-                "market_address": "高雄市大寮區會社里鳳林三路３３４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397531,
-                    22.602236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "宗蒜味肉焿",
                 "category": "餐飲",
                 "area": "大寮區",
@@ -32474,6 +32457,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 高雄鳳林店",
+                "category": "餐飲",
+                "area": "大寮區",
+                "market_address": "高雄市大寮區中興里中正路２－７９號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.386954,
+                    22.615964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 大寮中庄店",
+                "category": "餐飲",
+                "area": "大寮區",
+                "market_address": "高雄市大寮區中庄里四維路１５２號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393503,
+                    22.635584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "偕飲茶飲店",
                 "category": "餐飲",
                 "area": "大寮區",
@@ -32485,23 +32502,6 @@
                 "coordinates": [
                     120.405041,
                     22.614076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "俊乾鍋貼水餃店",
-                "category": "餐飲",
-                "area": "大寮區",
-                "market_address": "高雄市大寮區中興里中正路２－７９號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.386954,
-                    22.615964
                 ]
             }
         },
@@ -33953,23 +33953,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿梅水餃店",
-                "category": "餐飲",
-                "area": "大社區",
-                "market_address": "高雄市大社區翠屏里中山路４１１號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.352352,
-                    22.731493
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿木鹹酥雞",
                 "category": "餐飲",
                 "area": "大社區",
@@ -34848,6 +34831,23 @@
                 "coordinates": [
                     120.35078602558,
                     22.729021595052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄大社店",
+                "category": "餐飲",
+                "area": "大社區",
+                "market_address": "高雄市大社區翠屏里中山路４１１號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352352,
+                    22.731493
                 ]
             }
         },
@@ -55900,6 +55900,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 高雄林森店",
+                "category": "餐飲",
+                "area": "新興區",
+                "market_address": "高雄市新興區林森一路１６３之３號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304424,
+                    22.630139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "高雄黃家川味牛肉麵館",
                 "category": "餐飲",
                 "area": "新興區",
@@ -60677,23 +60694,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "弘廉商行",
-                "category": "餐飲",
-                "area": "新興區",
-                "market_address": "高雄市新興區林森一路１６３之３號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304424,
-                    22.630139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "弘大入口商行",
                 "category": "餐飲",
                 "area": "新興區",
@@ -61578,23 +61578,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大嬸鈞小吃部",
-                "category": "餐飲",
-                "area": "新興區",
-                "market_address": "高雄市新興區仁聲里復興一路１１號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307776,
-                    22.628388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大入串燒",
                 "category": "餐飲",
                 "area": "新興區",
@@ -62422,6 +62405,23 @@
                 "coordinates": [
                     120.312759,
                     22.629178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄復興店",
+                "category": "餐飲",
+                "area": "新興區",
+                "market_address": "高雄市新興區仁聲里復興一路１１號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307776,
+                    22.628388
                 ]
             }
         },
@@ -64383,7 +64383,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "億大美食有限公司",
+                "shop": "八方雲集 高雄旗山店",
                 "category": "餐飲",
                 "area": "旗山區",
                 "market_address": "高雄市旗山區大德里延平一路７００之２號１樓",
@@ -66304,6 +66304,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 梓官進學店",
+                "category": "餐飲",
+                "area": "梓官區",
+                "market_address": "高雄市梓官區梓義里００６鄰進學路４號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.266789,
+                    22.760878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "顏家陽春麵",
                 "category": "餐飲",
                 "area": "梓官區",
@@ -66536,23 +66553,6 @@
                 "coordinates": [
                     120.264865,
                     22.760677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "欣品冷飲店",
-                "category": "餐飲",
-                "area": "梓官區",
-                "market_address": "高雄市梓官區梓義里００６鄰進學路４號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.266789,
-                    22.760878
                 ]
             }
         },
@@ -67001,23 +67001,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "齊集商行",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區藍田里藍昌路３９８―１６號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29188449391,
-                    22.726593445405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鼎旭有限公司",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -67188,6 +67171,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 楠梓藍昌店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區藍田里藍昌路３９８―１６號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29188449391,
+                    22.726593445405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 楠梓後勁店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區錦屏里後昌路２１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31261,
+                    22.720352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 楠梓常德店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區常德路３１２號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337275,
+                    22.736948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 楠梓右昌店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區建昌里軍校路９１７號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292277,
+                    22.710799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "魚雞飯糕韓式食堂",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -67267,23 +67318,6 @@
                 "coordinates": [
                     120.330021,
                     22.73193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "香郁麵食館",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區清豐里常德路３５０號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.337559,
-                    22.737749
                 ]
             }
         },
@@ -68667,23 +68701,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "艾力達商行",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區翠屏里德賢路１９９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30584,
-                    22.726324
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "艸水平飲料店",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -69364,23 +69381,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "盛昌小吃店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區福昌里盛昌街１３８號",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.286153,
-                    22.712191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "皎羽企業社",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -69579,23 +69579,6 @@
                 "coordinates": [
                     120.303558,
                     22.726057
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "璉成冷飲店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區錦屏里後昌路２１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31261,
-                    22.720352
                 ]
             }
         },
@@ -70089,23 +70072,6 @@
                 "coordinates": [
                     120.328002,
                     22.731598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "湯宏美食館",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區清豐里土庫二路２７２號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.324892,
-                    22.740235
                 ]
             }
         },
@@ -71948,23 +71914,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小佳人生活茶飲店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區建昌里軍校路９１７號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.292277,
-                    22.710799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "封鑫牛排店",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -72146,40 +72095,6 @@
                 "coordinates": [
                     120.324636,
                     22.726347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宛廷小吃店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區惠楠里楠梓新路２１３號",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32534,
-                    22.727623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宏鑫冷飲店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區常德路３１２號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.337275,
-                    22.736948
                 ]
             }
         },
@@ -73285,6 +73200,91 @@
                 "coordinates": [
                     120.292485,
                     22.711127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄盛昌店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區福昌里盛昌街１３８號",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286153,
+                    22.712191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄楠梓店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區惠楠里楠梓新路２１３號",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32534,
+                    22.727623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄德賢店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區翠屏里德賢路１９９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30584,
+                    22.726324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 楠梓常德店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區清豐里常德路３５０號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.337559,
+                    22.737749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 楠梓土庫店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區清豐里土庫二路２７２號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324892,
+                    22.740235
                 ]
             }
         },
@@ -74617,6 +74617,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 橋頭糖廠店",
+                "category": "餐飲",
+                "area": "橋頭區",
+                "market_address": "高雄市橋頭區橋南里０１２鄰橋南路１１７號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312191,
+                    22.754401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "青埔成功早餐店",
                 "category": "餐飲",
                 "area": "橋頭區",
@@ -74645,23 +74662,6 @@
                 "coordinates": [
                     120.315066,
                     22.753653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "采誼商行",
-                "category": "餐飲",
-                "area": "橋頭區",
-                "market_address": "高雄市橋頭區橋南里０１２鄰橋南路１１７號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.312191,
-                    22.754401
                 ]
             }
         },
@@ -74747,23 +74747,6 @@
                 "coordinates": [
                     120.312299,
                     22.751684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "群郁麵食館",
-                "category": "餐飲",
-                "area": "橋頭區",
-                "market_address": "高雄市橋頭區仕隆里０２４鄰隆豐路２７１號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.308389,
-                    22.752721
                 ]
             }
         },
@@ -75104,6 +75087,23 @@
                 "coordinates": [
                     120.295385,
                     22.74343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄橋頭店",
+                "category": "餐飲",
+                "area": "橋頭區",
+                "market_address": "高雄市橋頭區仕隆里０２４鄰隆豐路２７１號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308389,
+                    22.752721
                 ]
             }
         },
@@ -75603,6 +75603,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 燕巢鳳旗店",
+                "category": "餐飲",
+                "area": "燕巢區",
+                "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１２７―４號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3559494884,
+                    22.754160630113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "阿海牛肉麵",
                 "category": "餐飲",
                 "area": "燕巢區",
@@ -75971,23 +75988,6 @@
                 "coordinates": [
                     120.355883,
                     22.75414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "如妡商行",
-                "category": "餐飲",
-                "area": "燕巢區",
-                "market_address": "高雄市燕巢區鳳雄里００６鄰鳳旗路１２７―４號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.3559494884,
-                    22.754160630113
                 ]
             }
         },
@@ -88778,6 +88778,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 高雄茄萣店",
+                "category": "餐飲",
+                "area": "茄萣區",
+                "market_address": "高雄市茄萣區保定里仁愛路２段１６３號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184842,
+                    22.896908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "食芳粥品店",
                 "category": "餐飲",
                 "area": "茄萣區",
@@ -88874,23 +88891,6 @@
                 "coordinates": [
                     120.184698,
                     22.897881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "珍陳茶行",
-                "category": "餐飲",
-                "area": "茄萣區",
-                "market_address": "高雄市茄萣區保定里仁愛路２段１６３號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.184842,
-                    22.896908
                 ]
             }
         },
@@ -89186,6 +89186,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 路竹中正店",
+                "category": "餐飲",
+                "area": "路竹區",
+                "market_address": "高雄市路竹區竹南里２６鄰中正路１６７號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26353,
+                    22.855059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "風荷堂企業社",
                 "category": "餐飲",
                 "area": "路竹區",
@@ -89367,23 +89384,6 @@
                 "coordinates": [
                     120.262932,
                     22.85732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "美好茶飲",
-                "category": "餐飲",
-                "area": "路竹區",
-                "market_address": "高雄市路竹區竹南里２６鄰中正路１６７號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.26353,
-                    22.855059
                 ]
             }
         },
@@ -93215,6 +93215,91 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 鳳山青年店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文德里文清街１４１號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351861,
+                    22.643827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 鳳山新富店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區新強里新富路４６６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.338939,
+                    22.612604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 鳳山國中店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區誠德里１鄰中山東路１３２號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.374185,
+                    22.625416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 高雄鳳山店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區忠義里青年路一段３３２號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349323,
+                    22.626733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 赤山文衡店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文英里００７鄰文衡路１９０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356864,
+                    22.637252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 五甲自強店",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -93957,23 +94042,6 @@
                 "coordinates": [
                     120.35728609685,
                     22.628844943903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鈞鈞商行",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區新強里新富路４６６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.338939,
-                    22.612604
                 ]
             }
         },
@@ -95028,23 +95096,6 @@
                 "coordinates": [
                     120.333062,
                     22.61145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茗品沅茶苑",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文英里００７鄰文衡路１９０號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.356864,
-                    22.637252
                 ]
             }
         },
@@ -99658,23 +99709,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家宴餐飲顧問有限公司鳳山文衡分公司",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文德里文衡路４５２號１樓、２樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35162049136,
-                    22.640759427492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "家宴餐飲顧問有限公司鳳山光復分公司",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -99805,23 +99839,6 @@
                 "coordinates": [
                     120.353739,
                     22.642567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宇康商行",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區忠義里青年路一段３３２號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.349323,
-                    22.626733
                 ]
             }
         },
@@ -100834,23 +100851,6 @@
                 "shop": "吳家紅茶冰",
                 "category": "餐飲",
                 "area": "鳳山區",
-                "market_address": "高雄市鳳山區二甲里南華一路２６號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.341886,
-                    22.597417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "鳳山區",
                 "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
                 "pay_list": "台灣pay"
             },
@@ -100876,6 +100876,23 @@
                 "coordinates": [
                     120.36539,
                     22.639336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區二甲里南華一路２６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341886,
+                    22.597417
                 ]
             }
         },
@@ -101341,23 +101358,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "凱旋鍋貼水餃美食小館",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區海洋里１１鄰凱旋路２７１號",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348872,
-                    22.61344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "冰塔商行",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -101437,6 +101437,40 @@
                 "coordinates": [
                     120.339633,
                     22.600995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 鳳山文衡店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文德里文衡路４５２號１樓、２樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35162049136,
+                    22.640759427492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 鳳山凱旋店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區海洋里１１鄰凱旋路２７１號",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348872,
+                    22.61344
                 ]
             }
         },
@@ -101936,23 +101970,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "仙泉茶飲",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區誠德里１鄰中山東路１３２號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.374185,
-                    22.625416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "仁川韓國小吃",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -102236,23 +102253,6 @@
                 "coordinates": [
                     120.35577331803,
                     22.627375622363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "丞軒商行",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文德里文清街１４１號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.351861,
-                    22.643827
                 ]
             }
         },
@@ -107240,6 +107240,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 高雄西子灣店",
+                "category": "餐飲",
+                "area": "鼓山區",
+                "market_address": "高雄市鼓山區惠安里臨海二路４７號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271748,
+                    22.622992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 高雄內惟店",
+                "category": "餐飲",
+                "area": "鼓山區",
+                "market_address": "高雄市鼓山區民強里九如四路７４０號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.279245,
+                    22.650957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香繼光股份有限公司繼光香香雞-義享天地",
                 "category": "餐飲",
                 "area": "鼓山區",
@@ -109518,23 +109552,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "珍品小吃部",
-                "category": "餐飲",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區裕豐里慶豐街１８號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.292855,
-                    22.665908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "珈蒂諾食品店",
                 "category": "餐飲",
                 "area": "鼓山區",
@@ -110283,23 +110300,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "欣心情商行",
-                "category": "餐飲",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區民強里九如四路７４０號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.279245,
-                    22.650957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "樺達奶茶品有限公司美術營業所",
                 "category": "餐飲",
                 "area": "鼓山區",
@@ -110895,23 +110895,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "春紅小吃店",
-                "category": "餐飲",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區光榮里九如四路１０４２號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.27929,
-                    22.656025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "明雲早餐店",
                 "category": "餐飲",
                 "area": "鼓山區",
@@ -111212,23 +111195,6 @@
                 "coordinates": [
                     120.293764,
                     22.658729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "成寬商行",
-                "category": "餐飲",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區惠安里臨海二路４７號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.271748,
-                    22.622992
                 ]
             }
         },
@@ -112946,6 +112912,40 @@
                 "coordinates": [
                     120.288514,
                     22.651501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 鼓山九如店",
+                "category": "餐飲",
+                "area": "鼓山區",
+                "market_address": "高雄市鼓山區光榮里九如四路１０４２號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27929,
+                    22.656025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 高雄慶豐店",
+                "category": "餐飲",
+                "area": "鼓山區",
+                "market_address": "高雄市鼓山區裕豐里慶豐街１８號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292855,
+                    22.665908
                 ]
             }
         },

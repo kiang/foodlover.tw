@@ -14352,6 +14352,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 羅東南昌店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮南昌里站前南路１８３號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769485,
+                    24.677717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 北成羅商店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮北成里中山路四段２２６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759192,
+                    24.673365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮨同心餐飲社",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -14516,23 +14550,6 @@
                 "coordinates": [
                     121.77254,
                     24.678273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "頂鴻商行",
-                "category": "餐飲",
-                "area": "羅東鎮",
-                "market_address": "宜蘭縣羅東鎮南昌里站前南路１８３號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.769485,
-                    24.677717
                 ]
             }
         },
@@ -15978,23 +15995,6 @@
                 "coordinates": [
                     121.770993,
                     24.684003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "珍品軒商行",
-                "category": "餐飲",
-                "area": "羅東鎮",
-                "market_address": "宜蘭縣羅東鎮北成里中山路四段２２６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.759192,
-                    24.673365
                 ]
             }
         },

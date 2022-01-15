@@ -1959,6 +1959,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 南投彰南店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市崇文里００７鄰彰南路一段１１１２號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685411,
+                    23.906582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮味日式料理",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3846,23 +3863,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "合心茶行",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市崇文里００７鄰彰南路一段１１１２號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685411,
-                    23.906582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "合宏眼鏡行",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4730,23 +4730,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "名間鍋貼水餃專賣店",
-                "category": "餐飲",
-                "area": "名間鄉",
-                "market_address": "南投縣名間鄉南雅村南雅街４５―３號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.70204474512,
-                    23.836170286835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南田牧野家坊",
                 "category": "餐飲\/糕餅",
                 "area": "名間鄉",
@@ -4758,6 +4741,23 @@
                 "coordinates": [
                     120.657224,
                     23.858888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投名間店",
+                "category": "餐飲",
+                "area": "名間鄉",
+                "market_address": "南投縣名間鄉南雅村南雅街４５―３號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70204474512,
+                    23.836170286835
                 ]
             }
         },

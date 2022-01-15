@@ -667,6 +667,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 金城站前店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮北門里中興路１４６巷２８號",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319714,
+                    24.43325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香港新梁記燒臘",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -2072,23 +2089,6 @@
                 "coordinates": [
                     118.328432,
                     24.426134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "必達茶商行",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮北門里中興路１４６巷２８號",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.319714,
-                    24.43325
                 ]
             }
         },

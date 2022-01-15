@@ -922,6 +922,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 民族民國店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區華南里民族路４６號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46048,
+                    23.47708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 嘉義民權店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里民權路１７５號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45978999948,
+                    23.483680007689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 嘉義文化店",
                 "category": "餐飲",
                 "area": "東區",
@@ -950,6 +984,40 @@
                 "coordinates": [
                     120.45921,
                     23.455749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 嘉義宣信店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區宣信里興業二村２２之１號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459509,
+                    23.46946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 嘉基保建店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區後湖里保建街９２號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451809,
+                    23.50064
                 ]
             }
         },
@@ -1222,23 +1290,6 @@
                 "coordinates": [
                     120.46698,
                     23.49002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雅芳小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東興里公明路８４號１樓",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46004,
-                    23.480779
                 ]
             }
         },
@@ -2316,23 +2367,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "耀盈茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區後湖里保建街９２號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451809,
-                    23.50064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "翔欣企業社",
                 "category": "餐飲",
                 "area": "東區",
@@ -2395,23 +2429,6 @@
                 "coordinates": [
                     120.45962,
                     23.48213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "美英商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中山里民權路１７５號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45978999948,
-                    23.483680007689
                 ]
             }
         },
@@ -2803,23 +2820,6 @@
                 "coordinates": [
                     120.457413,
                     23.482098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "祐宸茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區華南里民族路４６號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46048,
-                    23.47708
                 ]
             }
         },
@@ -4067,23 +4067,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "旺達茶行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區宣信里興業二村２２之１號１樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459509,
-                    23.46946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "早安山丘 嘉市林森西店",
                 "category": "餐飲",
                 "area": "東區",
@@ -5155,23 +5138,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宸萱餐飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區頂庄里１０鄰台林街１１４號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4552,
-                    23.49577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "宣信晨食館",
                 "category": "餐飲",
                 "area": "東區",
@@ -6220,6 +6186,40 @@
                 "coordinates": [
                     120.45905,
                     23.47031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 嘉義民國店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東興里公明路８４號１樓",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46004,
+                    23.480779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 嘉義台林店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區頂庄里１０鄰台林街１１４號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4552,
+                    23.49577
                 ]
             }
         },

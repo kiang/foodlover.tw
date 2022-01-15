@@ -769,6 +769,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 吉安慈惠店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉勝安村００１鄰慈惠一街１號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58842,
+                    23.974336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮味坊",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -2486,23 +2503,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新之源商行",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉勝安村００１鄰慈惠一街１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.58842,
-                    23.974336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "戰鬥雞",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -3619,6 +3619,23 @@
                 "coordinates": [
                     121.547936,
                     23.894594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 花蓮東華店",
+                "category": "餐飲",
+                "area": "壽豐鄉",
+                "market_address": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530264,
+                    23.907354
                 ]
             }
         },
@@ -5030,23 +5047,6 @@
                 "coordinates": [
                     121.492918,
                     23.847037
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "來聚鮮飲茶品商行",
-                "category": "餐飲",
-                "area": "壽豐鄉",
-                "market_address": "花蓮縣壽豐鄉志學村００７鄰中山路三段４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.530264,
-                    23.907354
                 ]
             }
         },
@@ -12669,34 +12669,34 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道股份有限公司花蓮中山店",
+                "shop": "鮮茶道Presotea 花蓮華西店",
                 "category": "餐飲",
                 "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國聯里中山路４２２―１號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+                "market_address": "花蓮縣花蓮市民心里０１４鄰華西１１７號之２一樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.60159994334,
-                    23.987338322128
+                    121.619333,
+                    24.011786
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮茶道冷飲店",
+                "shop": "鮮茶道Presotea 花蓮後站店",
                 "category": "餐飲",
                 "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市民生里中山路１８６號",
-                "pay_list": "台灣pay"
+                "market_address": "花蓮縣花蓮市國裕里０１３鄰富裕二街８１號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.608754,
-                    23.977988
+                    121.59991040124,
+                    23.994386187351
                 ]
             }
         },
@@ -12714,6 +12714,57 @@
                 "coordinates": [
                     121.60550805985,
                     23.990055051781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 花蓮中華店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主商里中華路４５號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608822,
+                    23.976116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 花蓮中正店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民生里中山路１８６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608754,
+                    23.977988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮茶道Presotea 花蓮中山店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國聯里中山路４２２―１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60159994334,
+                    23.987338322128
                 ]
             }
         },
@@ -17270,23 +17321,6 @@
                 "coordinates": [
                     121.597959,
                     23.970901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "百馥商行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國裕里０１３鄰富裕二街８１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.59991040124,
-                    23.994386187351
                 ]
             }
         },
@@ -22478,23 +22512,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "合馥商行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市民心里０１４鄰華西１１７號之２一樓",
-                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.619333,
-                    24.011786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "合歡股份有限公司",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -23407,23 +23424,6 @@
                 "coordinates": [
                     121.620288,
                     24.000772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "伊志商行",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主商里中華路４５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.608822,
-                    23.976116
                 ]
             }
         },
