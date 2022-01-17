@@ -2078,23 +2078,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雲鳳商行",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市平山里南崗二路５７３號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.674083,
-                    23.920148
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雙寶炒堂",
                 "category": "餐飲",
                 "area": "南投市",
@@ -2973,23 +2956,6 @@
                 "coordinates": [
                     120.685042,
                     23.908757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永富小吃店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市三和里三和三路１２號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686347,
-                    23.905011
                 ]
             }
         },
@@ -4084,7 +4050,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集鍋貼水餃專賣店",
+                "shop": "八方雲集 南投南陽店",
                 "category": "餐飲",
                 "area": "南投市",
                 "market_address": "南投縣南投市康壽里南陽路３７３號",
@@ -4095,6 +4061,57 @@
                 "coordinates": [
                     120.682979,
                     23.912979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投南崗店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市平山里南崗二路５７３號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.674083,
+                    23.920148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投三和店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市三和里三和三路１２號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686347,
+                    23.905011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 中興新村店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市營北里中正路２３４號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693833,
+                    23.945903
                 ]
             }
         },
@@ -4214,23 +4231,6 @@
                 "coordinates": [
                     120.69382370279,
                     23.945795964505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中正餐館",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市營北里中正路２３４號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693833,
-                    23.945903
                 ]
             }
         },
@@ -5733,23 +5733,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雅堡食堂",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮薰化里１４鄰南昌街３１７號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.962234,
-                    23.967397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "陽光山城有限公司",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -7059,40 +7042,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永豐餐飲店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮東門里中正路３１５號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.969289,
-                    23.963054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "比故小吃店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮北安里０１７鄰中山路二段７２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.974243,
-                    23.970191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "歐莉葉荷城堡有限公司",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -8045,23 +7994,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "呈睿小吃店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮桃米里大學路５０１號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.925895,
-                    23.950256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "吐司一品蔬食餐廳",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -8260,6 +8192,74 @@
                 "coordinates": [
                     120.967405,
                     23.971256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 埔里暨南店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮桃米里大學路５０１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.925895,
+                    23.950256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 埔里中正店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮東門里中正路３１５號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.969289,
+                    23.963054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 埔里中山店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮北安里０１７鄰中山路二段７２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974243,
+                    23.970191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投埔里店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮薰化里１４鄰南昌街３１７號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962234,
+                    23.967397
                 ]
             }
         },
@@ -8810,23 +8810,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "曄盛小吃店",
-                "category": "餐飲",
-                "area": "水里鄉",
-                "market_address": "南投縣水里鄉中央村民生路３９５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.85399,
-                    23.816939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "易鼎咖啡簡餐茶坊",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -8940,6 +8923,23 @@
                 "coordinates": [
                     120.855189,
                     23.814223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投水里店",
+                "category": "餐飲",
+                "area": "水里鄉",
+                "market_address": "南投縣水里鄉中央村民生路３９５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.85399,
+                    23.816939
                 ]
             }
         },

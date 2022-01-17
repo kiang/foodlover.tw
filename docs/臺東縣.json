@@ -1058,23 +1058,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宇珍小吃部",
-                "category": "餐飲",
-                "area": "太麻里鄉",
-                "market_address": "臺東縣太麻里鄉泰和村太麻里街２３６號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.006215,
-                    22.612423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "太麻里城堡溫泉會舘股份有限公司",
                 "category": "餐飲",
                 "area": "太麻里鄉",
@@ -1171,6 +1154,23 @@
                 "coordinates": [
                     121.012388,
                     22.637174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台東太麻里店",
+                "category": "餐飲",
+                "area": "太麻里鄉",
+                "market_address": "臺東縣太麻里鄉泰和村太麻里街２３６號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.006215,
+                    22.612423
                 ]
             }
         },
@@ -5393,23 +5393,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金鑽小吃部",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐榮里中華路２段８０號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.13986221328,
-                    22.745291746996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金采精品屋",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -5495,40 +5478,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金庫小吃部",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市民生里２鄰傳廣路２２１號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.14374259043,
-                    22.762171461711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金寶小吃店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市興國里中華路一段４９６號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.15079027504,
-                    22.752000527807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金富裕商社股份有限公司",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -5608,23 +5557,6 @@
                 "coordinates": [
                     121.147296,
                     22.753053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "達邦企業社",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐田里中興路４段８１４號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.084874,
-                    22.77465
                 ]
             }
         },
@@ -9201,23 +9133,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "彤穎小吃部",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市卑南里更生北路１５９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.12347,
-                    22.779914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "強強早早午餐",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -11065,6 +10980,91 @@
                 "coordinates": [
                     121.148949,
                     22.759042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台東豐田店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐田里中興路４段８１４號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084874,
+                    22.77465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台東豐榮店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐榮里中華路２段８０號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13986221328,
+                    22.745291746996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台東傳廣店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民生里２鄰傳廣路２２１號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14374259043,
+                    22.762171461711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市興國里中華路一段４９６號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15079027504,
+                    22.752000527807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 卑南更生北店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市卑南里更生北路１５９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12347,
+                    22.779914
                 ]
             }
         },
