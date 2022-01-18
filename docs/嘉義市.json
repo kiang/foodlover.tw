@@ -5818,23 +5818,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "品八方小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區安寮里興業東路５２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.455448,
-                    23.469329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和怡食品",
                 "category": "餐飲",
                 "area": "東區",
@@ -6192,6 +6175,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 嘉義軍輝店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區興仁里吳鳳南路５７７號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458879,
+                    23.456659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 嘉義興業店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區安寮里興業東路５２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455448,
+                    23.469329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方雲集 嘉義民國店",
                 "category": "餐飲",
                 "area": "東區",
@@ -6209,6 +6226,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 嘉義大雅店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東川里大雅路２段６４６號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46702,
+                    23.47737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方雲集 嘉義台林店",
                 "category": "餐飲",
                 "area": "東區",
@@ -6220,40 +6254,6 @@
                 "coordinates": [
                     120.4552,
                     23.49577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方軍輝小吃部",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區興仁里吳鳳南路５７７號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.458879,
-                    23.456659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方大雅小吃部",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東川里大雅路２段６４６號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46702,
-                    23.47737
                 ]
             }
         },

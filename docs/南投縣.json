@@ -9252,23 +9252,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "集順美食小館",
-                "category": "餐飲",
-                "area": "竹山鎮",
-                "market_address": "南投縣竹山鎮竹山里集山路三段８３５號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684563,
-                    23.757795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雅畇小吃部",
                 "category": "餐飲",
                 "area": "竹山鎮",
@@ -10011,6 +9994,23 @@
                 "coordinates": [
                     120.685412,
                     23.760449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 南投竹山店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮竹山里集山路三段８３５號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684563,
+                    23.757795
                 ]
             }
         },
@@ -11139,23 +11139,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "草屯鍋貼水餃專賣店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮炎峰里虎山路９０５號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685685,
-                    23.978397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "草屯美式炸雞店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -11870,23 +11853,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞宇小吃店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮富寮里中正路５５７之１９之１６號",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.698158,
-                    23.978591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "爭鮮股份有限公司草屯分公司",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12578,23 +12544,6 @@
                 "coordinates": [
                     120.672623,
                     23.977509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "廣聚商行",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮新厝里太平路二段５６號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683184,
-                    23.970631
                 ]
             }
         },
@@ -13298,23 +13247,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "十九水餃專賣店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮敦和里０２７鄰仁愛街１號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)\/歐付寶"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.678803,
-                    23.97828
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "利昌早餐店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -13377,6 +13309,74 @@
                 "coordinates": [
                     120.681269,
                     23.978197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 草屯虎山店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮炎峰里虎山路９０５號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685685,
+                    23.978397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 草屯碧山店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮敦和里０２７鄰仁愛街１號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)\/歐付寶"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678803,
+                    23.97828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 草屯太平店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮新厝里太平路二段５６號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683184,
+                    23.970631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 草屯中正店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮富寮里中正路５５７之１９之１６號",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698158,
+                    23.978591
                 ]
             }
         },
@@ -14182,7 +14182,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方集集麵食館",
+                "shop": "八方雲集 南投集集店",
                 "category": "餐飲",
                 "area": "集集鎮",
                 "market_address": "南投縣集集鎮集集里集集街１１號",

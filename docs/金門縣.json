@@ -2214,23 +2214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "尚好小吃店",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮北門里民生路４５巷５號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.318742,
-                    24.435428
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小雪花小吃店",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -2752,6 +2735,23 @@
                 "coordinates": [
                     118.319474,
                     24.432324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 金門金城店",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮北門里民生路４５巷５號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.318742,
+                    24.435428
                 ]
             }
         },

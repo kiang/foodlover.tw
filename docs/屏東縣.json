@@ -599,23 +599,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宏利麵食館",
-                "category": "餐飲",
-                "area": "佳冬鄉",
-                "market_address": "屏東縣佳冬鄉石光村中山路１０６―１號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.562414,
-                    22.432214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "宏利冷飲店",
                 "category": "餐飲",
                 "area": "佳冬鄉",
@@ -644,6 +627,23 @@
                 "coordinates": [
                     120.563147,
                     22.428571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東佳冬店",
+                "category": "餐飲",
+                "area": "佳冬鄉",
+                "market_address": "屏東縣佳冬鄉石光村中山路１０６―１號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562414,
+                    22.432214
                 ]
             }
         },
@@ -1024,23 +1024,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豪記水餃",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉中林村１５鄰中林路１５―５號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.59547701382,
-                    22.641673526464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "豪美味炸雞王",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1341,23 +1324,6 @@
                 "coordinates": [
                     120.57192,
                     22.614177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "楓任美食有限公司",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉內埔村００５鄰廣濟路９８號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.566607,
-                    22.613937
                 ]
             }
         },
@@ -1743,6 +1709,40 @@
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉內埔村５鄰廣濟路９８號",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566607,
+                    22.613937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東科大店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉中林村１５鄰中林路１５―５號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59547701382,
+                    22.641673526464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東內埔店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉內埔村００５鄰廣濟路９８號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -16953,7 +16953,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "倪記美食館",
+                "shop": "八方雲集 屏東枋寮店",
                 "category": "餐飲",
                 "area": "枋寮鄉",
                 "market_address": "屏東縣枋寮鄉枋寮村中興路２２－２號１樓",
@@ -17242,23 +17242,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "李家食堂",
-                "category": "餐飲",
-                "area": "林邊鄉",
-                "market_address": "屏東縣林邊鄉仁和村中林路４７號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.516364,
-                    22.433019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "智文商店",
                 "category": "餐飲",
                 "area": "林邊鄉",
@@ -17304,6 +17287,23 @@
                 "coordinates": [
                     120.514379,
                     22.435282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 林邊中林店",
+                "category": "餐飲",
+                "area": "林邊鄉",
+                "market_address": "屏東縣林邊鄉仁和村中林路４７號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.516364,
+                    22.433019
                 ]
             }
         },
@@ -20897,23 +20897,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑜綺商行",
-                "category": "餐飲",
-                "area": "萬丹鄉",
-                "market_address": "屏東縣萬丹鄉萬全村萬丹路一段３９０號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.489176,
-                    22.590893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "猴子茶商行",
                 "category": "餐飲",
                 "area": "萬丹鄉",
@@ -21078,6 +21061,23 @@
                 "coordinates": [
                     120.489107,
                     22.591705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東萬丹店",
+                "category": "餐飲",
+                "area": "萬丹鄉",
+                "market_address": "屏東縣萬丹鄉萬全村萬丹路一段３９０號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.489176,
+                    22.590893
                 ]
             }
         },
@@ -23294,6 +23294,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 屏東鹽埔店",
+                "category": "餐飲",
+                "area": "鹽埔鄉",
+                "market_address": "屏東縣鹽埔鄉新二村０１８鄰維新路８１―１號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55554000985,
+                    22.739302043674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "佳德烤鴨",
                 "category": "餐飲",
                 "area": "鹽埔鄉",
@@ -23305,23 +23322,6 @@
                 "coordinates": [
                     120.57146621895,
                     22.754028618249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佳客小吃部",
-                "category": "餐飲",
-                "area": "鹽埔鄉",
-                "market_address": "屏東縣鹽埔鄉新二村０１８鄰維新路８１―１號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.55554000985,
-                    22.739302043674
                 ]
             }
         },

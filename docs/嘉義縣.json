@@ -1279,6 +1279,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 大林中山店",
+                "category": "餐飲",
+                "area": "大林鎮",
+                "market_address": "嘉義縣大林鎮西林里００７鄰中山路１０９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45519,
+                    23.603559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方雲集 嘉義大林店",
                 "category": "餐飲",
                 "area": "大林鎮",
@@ -1307,23 +1324,6 @@
                 "coordinates": [
                     120.452569,
                     23.606009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佶林有限公司",
-                "category": "餐飲",
-                "area": "大林鎮",
-                "market_address": "嘉義縣大林鎮西林里００７鄰中山路１０９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45519,
-                    23.603559
                 ]
             }
         },
@@ -3710,7 +3710,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八達通美食小館",
+                "shop": "八方雲集 朴子海通店",
                 "category": "餐飲",
                 "area": "朴子市",
                 "market_address": "嘉義縣朴子市竹圍里海通路４３－１３號",

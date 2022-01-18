@@ -2248,23 +2248,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "湯宏食堂",
-                "category": "餐飲",
-                "area": "馬公市",
-                "market_address": "澎湖縣馬公市西文里西文澳１１－８號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.585176,
-                    23.564648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "港口冰菓鋪",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -3704,6 +3687,23 @@
                 "coordinates": [
                     119.567691,
                     23.571391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 馬公文澳店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市西文里西文澳１１－８號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.585176,
+                    23.564648
                 ]
             }
         },
