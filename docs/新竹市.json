@@ -3744,23 +3744,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "愛琴海小吃店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區光華里光華一街３號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.9739,
-                    24.815836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "悅予素食小吃店",
                 "category": "餐飲",
                 "area": "北區",
@@ -5087,24 +5070,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方珍餐館",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區康樂里東大路三段５３２號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.941717,
-                    24.837917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方小吃店",
+                "shop": "八方雲集 新竹四維店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "新竹市北區育英里四維路８１號１樓",
@@ -5121,7 +5087,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方中正小館",
+                "shop": "八方雲集 新竹光華店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區光華里光華一街３號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9739,
+                    24.815836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹中正店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "新竹市北區水田里中正路３４６、３４８號",
@@ -5132,6 +5115,23 @@
                 "coordinates": [
                     120.966538,
                     24.809514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方珍餐館",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區康樂里東大路三段５３２號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.941717,
+                    24.837917
                 ]
             }
         },
@@ -8362,23 +8362,6 @@
                 "coordinates": [
                     120.99350468243,
                     24.802782759902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "順安小吃店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區金山里金山街８５號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.022744,
-                    24.777567
                 ]
             }
         },
@@ -17382,7 +17365,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區光復路一段227號",
-                "pay_list": "信用卡\/iPASS一卡通"
+                "pay_list": "信用卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -21747,23 +21730,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "凱宏餐飲企業社",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區竹蓮里南大路３２８號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97120268101,
-                    24.798674543988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "凡妮莎咖啡",
                 "category": "餐飲",
                 "area": "東區",
@@ -21826,6 +21792,40 @@
                 "coordinates": [
                     120.97255539855,
                     24.804292858375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹金山店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區金山里金山街８５號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.022744,
+                    24.777567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹南大店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區竹蓮里南大路３２８號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97120268101,
+                    24.798674543988
                 ]
             }
         },

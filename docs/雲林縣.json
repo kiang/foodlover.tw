@@ -2422,7 +2422,7 @@
                 "category": "餐飲",
                 "area": "古坑鄉",
                 "market_address": "雲林縣古坑鄉永光村大湖口６７，６９號",
-                "pay_list": "信用卡\/iPASS一卡通"
+                "pay_list": "信用卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -10504,6 +10504,23 @@
                 "coordinates": [
                     120.428916,
                     23.705081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "今日手作烘焙",
+                "category": "糕餅",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮中正路323號",
+                "pay_list": "台灣Pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429564,
+                    23.704196
                 ]
             }
         },

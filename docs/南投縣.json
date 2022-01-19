@@ -5142,7 +5142,7 @@
                 "category": "糕餅",
                 "area": "埔里鎮",
                 "market_address": "南投縣埔里鎮薰化里西康路40號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9524,23 +9524,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "硯超小吃店",
-                "category": "餐飲",
-                "area": "竹山鎮",
-                "market_address": "南投縣竹山鎮延和里大智路９０號一樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693496,
-                    23.758759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "百閎餐飲有限公司",
                 "category": "餐飲",
                 "area": "竹山鎮",
@@ -9994,6 +9977,23 @@
                 "coordinates": [
                     120.685412,
                     23.760449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹山延和店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮延和里大智路９０號一樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693496,
+                    23.758759
                 ]
             }
         },

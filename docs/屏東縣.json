@@ -2337,7 +2337,7 @@
                 "category": "百貨美食街",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市端正里中正路72號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/iPASS一卡通"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -6855,6 +6855,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 屏東站前店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇智里中山路１１號１樓及２樓",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486169,
+                    22.670138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "格魯先生早餐店",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7569,23 +7586,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "方瑄有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇智里中山路１１號１樓及２樓",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.486169,
-                    22.670138
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新瑞商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -8158,23 +8158,6 @@
                 "coordinates": [
                     120.476499,
                     22.656987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "川廣美食有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇蘭里崇朝路８號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.478979,
-                    22.687373
                 ]
             }
         },
@@ -9773,6 +9756,23 @@
                 "coordinates": [
                     120.497361,
                     22.684234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東崇朝店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇蘭里崇朝路８號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478979,
+                    22.687373
                 ]
             }
         },
@@ -14747,7 +14747,7 @@
                 "category": "糕餅",
                 "area": "東港鎮",
                 "market_address": "屏東縣東港鎮朝安里新生三路一二九號",
-                "pay_list": "iPASS 一卡通\/悠遊付\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "iPASS 一卡通\/悠遊付\/台灣pay\/一卡通MONEY(原LINE Pay Money)\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -21224,7 +21224,7 @@
                 "category": "觀光工廠",
                 "area": "萬巒鄉",
                 "market_address": "屏東縣萬巒鄉萬和村復興路２之５５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

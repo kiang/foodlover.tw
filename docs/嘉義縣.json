@@ -4496,7 +4496,7 @@
                 "category": "糕餅",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉三興村陳厝寮1之3號",
-                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/台灣pay"
+                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -4826,23 +4826,6 @@
                 "coordinates": [
                     120.432935,
                     23.549413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫盛企業社",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―２７號一樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4215216325,
-                    23.52495024504
                 ]
             }
         },
@@ -5982,6 +5965,23 @@
                 "coordinates": [
                     120.427645,
                     23.556418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 民雄江厝店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―２７號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4215216325,
+                    23.52495024504
                 ]
             }
         },
@@ -7977,7 +7977,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "凱品企業社",
+                "shop": "八方雲集 嘉義竹崎店",
                 "category": "餐飲",
                 "area": "竹崎鄉",
                 "market_address": "嘉義縣竹崎鄉竹崎村０１４鄰中華路７號",

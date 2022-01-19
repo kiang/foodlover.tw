@@ -27939,7 +27939,7 @@
                 "category": "餐飲",
                 "area": "南區",
                 "market_address": "臺南市南區大忠里中華南路１段１２５巷４０號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -28847,6 +28847,23 @@
                 "coordinates": [
                     120.197368,
                     22.985195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "梁社漢排骨 台南尊南店",
+                "category": "餐飲",
+                "area": "南區",
+                "market_address": "臺南市南區文南里健康路２段２７４號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.189595,
+                    22.981895
                 ]
             }
         },
@@ -30479,23 +30496,6 @@
                 "coordinates": [
                     120.190171,
                     22.986305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南尊南店",
-                "category": "餐飲",
-                "area": "南區",
-                "market_address": "臺南市南區文南里健康路２段２７４號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.189595,
-                    22.981895
                 ]
             }
         },
@@ -32168,6 +32168,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 台南善化店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區文昌里光復路４９號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292996,
+                    23.128581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "根廷牛排館",
                 "category": "餐飲",
                 "area": "善化區",
@@ -33182,23 +33199,6 @@
                 "coordinates": [
                     120.301919,
                     23.132511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南善化店",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區文昌里光復路４９號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.292996,
-                    23.128581
                 ]
             }
         },
@@ -36265,6 +36265,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 台南國安店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區海佃里海佃路１段２１５－１號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191204,
+                    23.024922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "柳川商行",
                 "category": "餐飲",
                 "area": "安南區",
@@ -37302,23 +37319,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吉禾食堂",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區溪心里安中路２段１９８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.186871,
-                    23.046637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "台南民族鱔魚",
                 "category": "餐飲",
                 "area": "安南區",
@@ -37438,23 +37438,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南國安店",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區海佃里海佃路１段２１５－１號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.191204,
-                    23.024922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "八方雲集 台南幸福店",
                 "category": "餐飲",
                 "area": "安南區",
@@ -37551,6 +37534,23 @@
                 "coordinates": [
                     120.217205,
                     23.045193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台南台江店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區溪心里安中路２段１９８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.186871,
+                    23.046637
                 ]
             }
         },
@@ -57532,6 +57532,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 台南大同店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區大德里大同路２段１８１號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21404495804,
+                    22.976696051852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "梁社漢排骨 台南國賓店",
                 "category": "餐飲",
                 "area": "東區",
@@ -61952,23 +61969,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南大同店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區大德里大同路２段１８１號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.21404495804,
-                    22.976696051852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "八方雲集 台南東門店",
                 "category": "餐飲",
                 "area": "東區",
@@ -64145,6 +64145,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 歸仁中山店",
+                "category": "餐飲",
+                "area": "歸仁區",
+                "market_address": "臺南市歸仁區後市里０２６鄰中山路二段１４８號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290299,
+                    22.967333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "東津早餐店",
                 "category": "餐飲",
                 "area": "歸仁區",
@@ -64547,23 +64564,6 @@
                 "coordinates": [
                     120.287886,
                     22.968997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚歸仁中山店",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區後市里０２６鄰中山路二段１４８號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.290299,
-                    22.967333
                 ]
             }
         },
@@ -69602,6 +69602,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 台南永大店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區西灣里永大路二段１８１號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26168426767,
+                    23.007077377061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "梁社漢排骨 台南復國店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區復國里０２１鄰復國一路１７５號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24604761916,
+                    23.006656036211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "桔仔冰飲店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -72554,40 +72588,6 @@
                 "coordinates": [
                     120.227543,
                     23.012917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南永大店",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區西灣里永大路二段１８１號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.26168426767,
-                    23.007077377061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚台南復國店",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區復國里０２１鄰復國一路１７５號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24604761916,
-                    23.006656036211
                 ]
             }
         },
@@ -76991,23 +76991,6 @@
                 "coordinates": [
                     120.247134,
                     23.18381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "臺南市龍崎區農會",
-                "category": "餐飲",
-                "area": "龍崎區",
-                "market_address": "臺南市龍崎區崎頂里新市子２２３號",
-                "pay_list": "信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.36008,
-                    22.966308
                 ]
             }
         },
