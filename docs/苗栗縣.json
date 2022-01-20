@@ -633,23 +633,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "山雞小吃店",
-                "category": "餐飲",
-                "area": "三義鄉",
-                "market_address": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.771049,
-                    24.412154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "居鳩堂有限公司",
                 "category": "餐飲",
                 "area": "三義鄉",
@@ -865,6 +848,23 @@
                 "coordinates": [
                     120.795479,
                     24.391145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 苗栗三義店",
+                "category": "餐飲",
+                "area": "三義鄉",
+                "market_address": "苗栗縣三義鄉廣盛村００８鄰中正路１６５號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.771049,
+                    24.412154
                 ]
             }
         },
@@ -6600,24 +6600,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方食堂",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮正南里０１８鄰中正路１７７號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.874923,
-                    24.683592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "健馳商行",
+                "shop": "八方雲集 竹南中華店",
                 "category": "餐飲",
                 "area": "竹南鎮",
                 "market_address": "苗栗縣竹南鎮頂埔里００１鄰中華路４號",
@@ -6628,6 +6611,23 @@
                 "coordinates": [
                     120.925814,
                     24.706593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹南中正店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮正南里０１８鄰中正路１７７號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.874923,
+                    24.683592
                 ]
             }
         },
@@ -9337,23 +9337,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "蒲公英小吃店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里２１鄰府前路１７１號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.817894,
-                    24.559923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶湯會 苗栗府前店",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11598,24 +11581,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集苗栗中正店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市勝利里１鄰中正路９１１號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.816008,
-                    24.551241
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集為公店",
+                "shop": "八方雲集 苗栗為公店",
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市上苗里３鄰爲公路６２號１樓",
@@ -11626,6 +11592,40 @@
                 "coordinates": [
                     120.824166,
                     24.569842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 苗栗府前店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市建功里２１鄰府前路１７１號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817894,
+                    24.559923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 苗栗中正店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市勝利里１鄰中正路９１１號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816008,
+                    24.551241
                 ]
             }
         },
@@ -12822,6 +12822,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 苗栗銅鑼店",
+                "category": "餐飲",
+                "area": "銅鑼鄉",
+                "market_address": "苗栗縣銅鑼鄉銅鑼村中正路３２號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.786917,
+                    24.484348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "充沛屋",
                 "category": "餐飲",
                 "area": "銅鑼鄉",
@@ -12867,23 +12884,6 @@
                 "coordinates": [
                     120.770859,
                     24.462693
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "二哥的小吃店",
-                "category": "餐飲",
-                "area": "銅鑼鄉",
-                "market_address": "苗栗縣銅鑼鄉銅鑼村中正路３２號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.786917,
-                    24.484348
                 ]
             }
         },
@@ -13547,23 +13547,6 @@
                 "coordinates": [
                     120.901238,
                     24.701906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金品小廚",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市民族里００１鄰信義路１０１號",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.907261,
-                    24.68642
                 ]
             }
         },
@@ -16188,23 +16171,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "向日葵小吃店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市建國里１１鄰建國路１１２―２號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.91024900068,
-                    24.695606243077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "后拾食舖",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -16471,6 +16437,40 @@
                 "coordinates": [
                     120.911626,
                     24.694571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 頭份建國店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市建國里１１鄰建國路１１２―２號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.91024900068,
+                    24.695606243077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 苗栗頭份店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市民族里００１鄰信義路１０１號",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907261,
+                    24.68642
                 ]
             }
         },

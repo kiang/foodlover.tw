@@ -1398,23 +1398,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豪吃小吃店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區光田里水田街１６３號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.969085,
-                    24.816685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "豚丼屋餐飲店",
                 "category": "餐飲",
                 "area": "北區",
@@ -2673,23 +2656,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "燕珠小吃店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區南寮里東大路三段４７９號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.938878,
-                    24.839417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "無恙蔬食",
                 "category": "餐飲",
                 "area": "北區",
@@ -3245,23 +3211,6 @@
                 "coordinates": [
                     120.962779,
                     24.806588
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "東西南北商行",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區客雅里延平路一段２７２號",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.952572,
-                    24.80515
                 ]
             }
         },
@@ -5070,6 +5019,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 新竹水田店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區光田里水田街１６３號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.969085,
+                    24.816685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹延平店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區客雅里延平路一段２７２號",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.952572,
+                    24.80515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方雲集 新竹四維店",
                 "category": "餐飲",
                 "area": "北區",
@@ -5081,6 +5064,23 @@
                 "coordinates": [
                     120.960734,
                     24.800847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹南寮店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區南寮里東大路三段４７９號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.938878,
+                    24.839417
                 ]
             }
         },
@@ -24909,23 +24909,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "旭昇小吃店",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區東香里五福路二段７２３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.952699,
-                    24.756499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新竹大庄50嵐門市",
                 "category": "餐飲",
                 "area": "香山區",
@@ -24937,23 +24920,6 @@
                 "coordinates": [
                     120.926629,
                     24.790824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "揚欣小吃店",
-                "category": "餐飲",
-                "area": "香山區",
-                "market_address": "新竹市香山區香山里大庄路９６號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.92649,
-                    24.79098
                 ]
             }
         },
@@ -25294,6 +25260,40 @@
                 "coordinates": [
                     120.922742,
                     24.804998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹大庄店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區香山里大庄路９６號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.92649,
+                    24.79098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹五福店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區東香里五福路二段７２３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.952699,
+                    24.756499
                 ]
             }
         },

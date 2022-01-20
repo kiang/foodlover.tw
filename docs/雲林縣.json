@@ -3081,6 +3081,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "李排骨酥餐館",
+                "category": "餐飲",
+                "area": "崙背鄉",
+                "market_address": "雲林縣崙背鄉南陽村建國路１６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35437,
+                    23.759229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "崙背中山50嵐門市",
                 "category": "餐飲",
                 "area": "崙背鄉",
@@ -4003,7 +4020,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市嘉東里００５鄰嘉新路２２２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11058,7 +11075,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮中山路13號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

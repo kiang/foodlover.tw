@@ -4815,23 +4815,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "菻美顏企業社",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區灣中里建工路６９８號２樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.320874,
-                    22.648906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "華納不只是國際有限公司",
                 "category": "餐飲",
                 "area": "三民區",
@@ -44497,7 +44480,7 @@
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區新上里光興街２２１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -60558,6 +60541,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "悅心餐館",
+                "category": "餐飲",
+                "area": "新興區",
+                "market_address": "高雄市新興區文昌里民族二路４４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313758,
+                    22.631837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "悅寶企業股份有限公司",
                 "category": "餐飲",
                 "area": "新興區",
@@ -63578,23 +63578,6 @@
                 "coordinates": [
                     120.480875,
                     22.891753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "高雄市旗山區農會供銷部",
-                "category": "餐飲",
-                "area": "旗山區",
-                "market_address": "高雄市旗山區湄洲里中山路６５號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481888,
-                    22.886903
                 ]
             }
         },
@@ -86959,6 +86942,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "厚得福湯包麵食專賣店",
+                "category": "餐飲",
+                "area": "苓雅區",
+                "market_address": "高雄市苓雅區成功一路214號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296775,
+                    22.617134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "卡啡那國際有限公司文化分公司",
                 "category": "餐飲",
                 "area": "苓雅區",
@@ -100698,6 +100698,23 @@
                 "shop": "吳家紅茶冰",
                 "category": "餐飲",
                 "area": "鳳山區",
+                "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350668,
+                    22.629114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰",
+                "category": "餐飲",
+                "area": "鳳山區",
                 "market_address": "高雄市鳳山區鎮北里２１鄰力行路２７號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
@@ -100723,23 +100740,6 @@
                 "coordinates": [
                     120.341886,
                     22.597417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.350668,
-                    22.629114
                 ]
             }
         },
