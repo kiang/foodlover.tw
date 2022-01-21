@@ -5971,23 +5971,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "心想事成麵食坊",
-                "category": "餐飲",
-                "area": "新城鄉",
-                "market_address": "花蓮縣新城鄉北埔村北埔路２２７號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603842,
-                    24.033576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "彤杉早餐店",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -6220,6 +6203,23 @@
                 "coordinates": [
                     121.603804,
                     24.033666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 花蓮北埔店",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉北埔村北埔路２２７號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603842,
+                    24.033576
                 ]
             }
         },

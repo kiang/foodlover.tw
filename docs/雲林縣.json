@@ -9456,23 +9456,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "站前早餐店",
-                "category": "餐飲",
-                "area": "斗南鎮",
-                "market_address": "雲林縣斗南鎮東仁里０１３鄰南昌路５０號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481153,
-                    23.674054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "秀美挫冰燒仙草",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -9552,6 +9535,23 @@
                 "coordinates": [
                     120.475167,
                     23.678909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 斗南站前店",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮東仁里０１３鄰南昌路５０號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481153,
+                    23.674054
                 ]
             }
         },

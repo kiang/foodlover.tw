@@ -463,6 +463,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 嘉義後庄店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459895,
+                    23.453866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "春町商行",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -610,23 +627,6 @@
                 "coordinates": [
                     120.469072,
                     23.451191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品興商行",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459895,
-                    23.453866
                 ]
             }
         },

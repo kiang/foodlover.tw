@@ -2809,6 +2809,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "成乙宏小吃店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市中興里文化路１３號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.567306,
+                    23.567903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "懶人披薩雞排店",
                 "category": "餐飲",
                 "area": "馬公市",

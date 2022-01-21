@@ -52959,6 +52959,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "台灣千房股份有限公司",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區新上里明誠二路３３２號６樓之１",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308237,
+                    22.661227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "台灣北壽心股份有限公司東京牛奶起司工房高雄店",
                 "category": "餐飲",
                 "area": "左營區",
@@ -60983,7 +61000,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛股份有限公司小蒙牛高雄分公司",
+                "shop": "小蒙牛頂級麻辣養生鍋 高雄店",
                 "category": "餐飲",
                 "area": "新興區",
                 "market_address": "高雄市新興區振華里中山二路４８６號１樓",
