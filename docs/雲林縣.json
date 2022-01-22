@@ -2792,7 +2792,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "欣欣早餐店",
+                "shop": "晨間廚房 土庫馬光店",
                 "category": "餐飲",
                 "area": "土庫鎮",
                 "market_address": "雲林縣土庫鎮東平里馬光路５６之１號１樓",
@@ -6600,7 +6600,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間飲食店",
+                "shop": "晨間廚房 斗六鎮北店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市信義里鎮北路３６號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543392,
+                    23.711932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 斗六仁義店",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市崙峰里仁義路３８號",
@@ -7365,7 +7382,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛斗六有限公司",
+                "shop": "小蒙牛頂級麻辣養生鍋 斗六店",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市中和里中山路７１號１樓",
@@ -7427,23 +7444,6 @@
                 "coordinates": [
                     120.53399,
                     23.717268
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宣豐早餐店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市信義里鎮北路３６號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.543392,
-                    23.711932
                 ]
             }
         },
@@ -12023,6 +12023,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 雲林虎尾店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮西安里林森路二段１２１．１２３號１－２樓．忠孝路６５號１－２樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.431057,
+                    23.70748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "林記營養樂活果汁店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -12969,23 +12986,6 @@
                 "coordinates": [
                     120.431656,
                     23.712395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚雲林虎尾店",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮西安里林森路二段１２１．１２３號１－２樓．忠孝路６５號１－２樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.431057,
-                    23.70748
                 ]
             }
         },
@@ -14029,23 +14029,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "欣晨廚房",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮正興里公正路１８９號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.461794,
-                    23.799793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "櫻花茶莊",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -14108,6 +14091,23 @@
                 "coordinates": [
                     120.461885,
                     23.801193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 西螺公正店",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮正興里公正路１８９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461794,
+                    23.799793
                 ]
             }
         },
@@ -14335,7 +14335,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司雲林西螺分店",
+                "shop": "五鮮級平價鍋物 西螺西興南店",
                 "category": "餐飲",
                 "area": "西螺鎮",
                 "market_address": "雲林縣西螺鎮漢光里西興南路１００號",

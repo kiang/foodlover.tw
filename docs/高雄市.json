@@ -9133,6 +9133,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 高雄新民店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區灣利里新民路１４６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322776,
+                    22.652994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨與食早餐店",
                 "category": "餐飲",
                 "area": "三民區",
@@ -11558,23 +11575,6 @@
                 "coordinates": [
                     120.32942637303,
                     22.638640749124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家鑫早餐店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區灣利里新民路１４６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.322776,
-                    22.652994
                 ]
             }
         },
@@ -17259,6 +17259,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 仁武中華店",
+                "category": "餐飲",
+                "area": "仁武區",
+                "market_address": "高雄市仁武區文武里０５７鄰中華路２５２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351986,
+                    22.700137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晉和記牛肉",
                 "category": "餐飲",
                 "area": "仁武區",
@@ -17576,23 +17593,6 @@
                 "coordinates": [
                     120.352273,
                     22.702254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宇宬早餐",
-                "category": "餐飲",
-                "area": "仁武區",
-                "market_address": "高雄市仁武區文武里０５７鄰中華路２５２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.351986,
-                    22.700137
                 ]
             }
         },
@@ -25521,23 +25521,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鄭和晨間廚房早餐店",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區民權里鄭和路６６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313269,
-                    22.60802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鄭和小吃店",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -27068,23 +27051,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞北商行",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞華里瑞北路３０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.335441,
-                    22.609378
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瑋一一六號企業有限公司",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -28139,6 +28105,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 高雄時代店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區興邦里凱旋四路３１２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312355,
+                    22.593767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 瑞北店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞華里瑞北路３０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335441,
+                    22.609378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 康定店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區明道里康定路３９―１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320913,
+                    22.583606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 前鎮鄭和店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區民權里鄭和路６６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313269,
+                    22.60802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晟暘食品坊",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -28150,23 +28184,6 @@
                 "coordinates": [
                     120.304216,
                     22.604966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "時代晨間廚房早點店",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區興邦里凱旋四路３１２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.312355,
-                    22.593767
                 ]
             }
         },
@@ -28711,23 +28728,6 @@
                 "coordinates": [
                     120.320898,
                     22.611927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "康定早餐店",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區明道里康定路３９―１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.320913,
-                    22.583606
                 ]
             }
         },
@@ -34514,7 +34514,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房大社大吉店",
+                "shop": "晨間廚房 大社大吉店",
                 "category": "餐飲",
                 "area": "大社區",
                 "market_address": "高雄市大社區大社里大吉路１６０號",
@@ -63584,23 +63584,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "麗美早餐店",
-                "category": "餐飲",
-                "area": "旗山區",
-                "market_address": "高雄市旗山區竹峰里文中路３９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.480875,
-                    22.891753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "食川涼麵",
                 "category": "餐飲",
                 "area": "旗山區",
@@ -63918,6 +63901,23 @@
                 "coordinates": [
                     120.483238,
                     22.89008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 旗山店",
+                "category": "餐飲",
+                "area": "旗山區",
+                "market_address": "高雄市旗山區竹峰里文中路３９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480875,
+                    22.891753
                 ]
             }
         },
@@ -65777,23 +65777,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂來恩早餐店",
-                "category": "餐飲",
-                "area": "林園區",
-                "market_address": "高雄市林園區中厝里中厝路２２３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.399591,
-                    22.531455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "極慶企業",
                 "category": "餐飲",
                 "area": "林園區",
@@ -65890,6 +65873,23 @@
                 "coordinates": [
                     120.3922,
                     22.512008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 林園中厝店",
+                "category": "餐飲",
+                "area": "林園區",
+                "market_address": "高雄市林園區中厝里中厝路２２３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.399591,
+                    22.531455
                 ]
             }
         },
@@ -67369,23 +67369,6 @@
                 "coordinates": [
                     120.292265,
                     22.710827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "饕客輕食坊",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區清豐里旗楠路９０９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.339378,
-                    22.742961
                 ]
             }
         },
@@ -70231,23 +70214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "海專早餐店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區瑞屏里海專路１６１號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.314268,
-                    22.724405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "海女商行",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -70877,23 +70843,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晴天早餐店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區隆昌里後昌路８２３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294935,
-                    22.711372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "景謙企業行",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -70911,7 +70860,41 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房楠新餐飲店",
+                "shop": "晨間廚房 都會公園店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區健民街１０巷２４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322408,
+                    22.729616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 海專店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區瑞屏里海專路１６１號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314268,
+                    22.724405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 楠新店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區惠楠里楠梓新路２６７號",
@@ -70928,17 +70911,51 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨品輕食坊",
+                "shop": "晨間廚房 旗楠店",
                 "category": "餐飲",
                 "area": "楠梓區",
-                "market_address": "高雄市楠梓區健民街１０巷２４號１樓",
+                "market_address": "高雄市楠梓區清豐里旗楠路９０９號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.322408,
-                    22.729616
+                    120.339378,
+                    22.742961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 後昌店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區隆昌里後昌路８２３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294935,
+                    22.711372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 常德店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區清豐里常德路３１４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33729,
+                    22.736992
                 ]
             }
         },
@@ -71608,23 +71625,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "常德早餐店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區清豐里常德路３１４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33729,
-                    22.736992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "常來鹹酥雞",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -71778,7 +71778,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛股份有限公司小蒙牛楠梓門市部",
+                "shop": "小蒙牛頂級麻辣養生鍋 楠梓店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區藍田里藍田路２８８號",
@@ -73648,7 +73648,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司高雄楠梓分店",
+                "shop": "五鮮級平價鍋物 楠梓海專店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區海專路１６９號",
@@ -98213,6 +98213,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 鳳山文衡店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文衡里文衡路３２１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352746,
+                    22.640324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 鳳山工協店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區中正里工協街３７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.371979,
+                    22.629845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨間廚房",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -98700,23 +98734,6 @@
                 "coordinates": [
                     120.353037,
                     22.640274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文衡參貳壹",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文衡里文衡路３２１號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.352746,
-                    22.640324
                 ]
             }
         },
@@ -99397,23 +99414,6 @@
                 "coordinates": [
                     120.373715,
                     22.619351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "工協店",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區中正里工協街３７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.371979,
-                    22.629845
                 ]
             }
         },
@@ -100715,23 +100715,6 @@
                 "shop": "吳家紅茶冰",
                 "category": "餐飲",
                 "area": "鳳山區",
-                "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.350668,
-                    22.629114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "鳳山區",
                 "market_address": "高雄市鳳山區鎮北里２１鄰力行路２７號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
@@ -100757,6 +100740,23 @@
                 "coordinates": [
                     120.341886,
                     22.597417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區忠義里光復路１段１２５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.350668,
+                    22.629114
                 ]
             }
         },

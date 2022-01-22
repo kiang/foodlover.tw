@@ -3132,6 +3132,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 後龍中山店",
+                "category": "餐飲",
+                "area": "後龍鎮",
+                "market_address": "苗栗縣後龍鎮大庄里０１８鄰中山路２２０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.793516,
+                    24.612864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "摩斯漢堡高鐵苗栗門市部",
                 "category": "餐飲",
                 "area": "後龍鎮",
@@ -3143,23 +3160,6 @@
                 "coordinates": [
                     120.824994,
                     24.605871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "惠子早餐店",
-                "category": "餐飲",
-                "area": "後龍鎮",
-                "market_address": "苗栗縣後龍鎮大庄里０１８鄰中山路２２０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.793516,
-                    24.612864
                 ]
             }
         },
@@ -15236,6 +15236,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 頭份建國店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市成功里５鄰建國路１６６號一樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908741,
+                    24.696501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨安早午餐店",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -15610,7 +15627,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛股份有限公司小蒙牛頭份門市部",
+                "shop": "小蒙牛頂級麻辣養生鍋 頭份店",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市東庄里１５鄰中央路１０３號",
@@ -15638,23 +15655,6 @@
                 "coordinates": [
                     120.907647,
                     24.689606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家駿早餐店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市成功里５鄰建國路１６６號一樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.908741,
-                    24.696501
                 ]
             }
         },

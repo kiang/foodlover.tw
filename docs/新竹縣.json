@@ -20948,6 +20948,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 竹東東寧店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮竹東里０１６鄰東寧路三段１５４號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.085643,
+                    24.740147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "松大食品有限公司",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -21231,23 +21248,6 @@
                 "coordinates": [
                     121.09206864156,
                     24.736619651581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "得春商行",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.083693,
-                    24.74361
                 ]
             }
         },
@@ -21628,17 +21628,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚竹東東寧店",
+                "shop": "八方雲集 竹東長春三店",
                 "category": "餐飲",
                 "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮竹東里０１６鄰東寧路三段１５４號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.085643,
-                    24.740147
+                    121.083693,
+                    24.74361
                 ]
             }
         },

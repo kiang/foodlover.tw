@@ -19231,6 +19231,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 花蓮中山店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里００４鄰中山路１９６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60823,
+                    23.978646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨研早午餐",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -20704,23 +20721,6 @@
                 "coordinates": [
                     121.56759157346,
                     23.995437536385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "尼希米食坊",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國治里００４鄰中山路１９６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60823,
-                    23.978646
                 ]
             }
         },
