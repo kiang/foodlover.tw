@@ -3931,23 +3931,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "黃記小吃",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市成功里成功路１５０號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548361,
-                    23.707077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "黃朝商行",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6600,6 +6583,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 斗六龍潭店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市龍潭里龍潭北路１６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528152,
+                    23.69178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨間廚房 斗六鎮北店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6611,6 +6611,40 @@
                 "coordinates": [
                     120.543392,
                     23.711932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 斗六成功店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市成功里成功路１５０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548361,
+                    23.707077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 斗六建成店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮西里中堅西路７３７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531426,
+                    23.702691
                 ]
             }
         },
@@ -6634,17 +6668,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房",
+                "shop": "晨間廚房 斗六中山店",
                 "category": "餐飲",
                 "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮西里中堅西路７３７號",
-                "pay_list": "台灣pay"
+                "market_address": "雲林縣斗六市鎮南里中山路４０２之１號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.531426,
-                    23.702691
+                    120.538014,
+                    23.698509
                 ]
             }
         },
@@ -7529,23 +7563,6 @@
                 "coordinates": [
                     120.542625,
                     23.714276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "妙妙早餐店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市龍潭里龍潭北路１６號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.528152,
-                    23.69178
                 ]
             }
         },
@@ -8532,23 +8549,6 @@
                 "coordinates": [
                     120.536148,
                     23.700786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "享吃食房",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中山路４０２之１號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538014,
-                    23.698509
                 ]
             }
         },

@@ -4866,7 +4866,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "蔗好喝飲料店",
+                "shop": "蔗一攤 竹南光復店",
                 "category": "餐飲",
                 "area": "竹南鎮",
                 "market_address": "苗栗縣竹南鎮照南里光復路１７３號１樓",
@@ -5784,6 +5784,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 竹南中正店",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮正南里中正路１１９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.876285,
+                    24.683686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨恩小吃店",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -6543,23 +6560,6 @@
                 "coordinates": [
                     120.872417,
                     24.692067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "可口美咖早午餐",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮正南里中正路１１９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.876285,
-                    24.683686
                 ]
             }
         },
@@ -10340,6 +10340,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 苗栗文山店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.814374,
+                    24.571905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "星勝企業社",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11728,23 +11745,6 @@
                 "coordinates": [
                     120.817621,
                     24.574051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "丁悅早餐店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市文山里０１１鄰國華路７８６巷１８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.814374,
-                    24.571905
                 ]
             }
         },

@@ -16035,23 +16035,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萬弘企業社",
-                "category": "餐飲",
-                "area": "仁德區",
-                "market_address": "臺南市仁德區仁義里中清路７０號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.255996,
-                    22.970147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶客飲料店",
                 "category": "餐飲",
                 "area": "仁德區",
@@ -16624,6 +16607,23 @@
                 "coordinates": [
                     120.257244,
                     22.988603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 台南中清店",
+                "category": "餐飲",
+                "area": "仁德區",
+                "market_address": "臺南市仁德區仁義里中清路７０號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255996,
+                    22.970147
                 ]
             }
         },
@@ -32287,6 +32287,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 善化中正店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區文昌里０２１鄰中正路１８０號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294254,
+                    23.123942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 善化中山店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區光文里中山路１９１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300075,
+                    23.13251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "春茗坊茶行",
                 "category": "餐飲",
                 "area": "善化區",
@@ -32678,23 +32712,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家安廚房商行",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區光文里中山路１９１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300075,
-                    23.13251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "家和企業社",
                 "category": "餐飲",
                 "area": "善化區",
@@ -32961,23 +32978,6 @@
                 "coordinates": [
                     120.288158,
                     23.127445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品饌美食",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區文昌里０２１鄰中正路１８０號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294254,
-                    23.123942
                 ]
             }
         },
@@ -33341,7 +33341,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司台南善化分店",
+                "shop": "五鮮級平價鍋物 善化民生店",
                 "category": "餐飲",
                 "area": "善化區",
                 "market_address": "臺南市善化區坐駕里民生路３８９號",
@@ -35296,23 +35296,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "苡嘉早餐",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區溪心里安中路３段５７號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.182659,
-                    23.047283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "自在軒 安中店",
                 "category": "餐飲",
                 "area": "安南區",
@@ -36452,6 +36435,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 台南安南店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區溪北里安和路１段４３號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.214883,
+                    23.026727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 台南安中店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區溪心里安中路３段５７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182659,
+                    23.047283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 台南和順店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區州南里安和路４段４８６號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218905,
+                    23.060782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨美小吃部",
                 "category": "餐飲",
                 "area": "安南區",
@@ -36599,23 +36633,6 @@
                 "coordinates": [
                     120.189109,
                     23.050343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文英早餐店",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區州南里安和路４段４８６號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.218905,
-                    23.060782
                 ]
             }
         },
@@ -36854,23 +36871,6 @@
                 "coordinates": [
                     120.210845,
                     23.029771
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小安和早餐店",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區溪北里安和路１段４３號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.214883,
-                    23.026727
                 ]
             }
         },
@@ -43966,6 +43966,788 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮茶道Presotea 新化中山店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中山路３４４號１樓",
+                "pay_list": "台灣pay\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306456,
+                    23.035913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "阿旺美食",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里中山路２４３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308455,
+                    23.035931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "迷客夏 台南新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中山路２１１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309527,
+                    23.036134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "街役場古蹟餐坊",
+                "category": "餐飲\/糕餅",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里中正路５００號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30734,
+                    23.038174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蝶探吉店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里６鄰中正路５１９號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307388,
+                    23.037469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蓁豪家餐坊",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里忠孝路６８號１樓",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306327,
+                    23.03835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "茶湯會 台南新化中正店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里中正路３５２號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308381,
+                    23.034901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "臻點飲食店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里忠孝路１０３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304612,
+                    23.037801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "臺南市觀光發展基金",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里００１鄰中興路４２巷３６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33609,
+                    23.027024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "能博旺國際傳播有限公司",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區知義里口埤７６號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353133,
+                    23.023997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老街炒飯",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里中正路４８６號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307687,
+                    23.037662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "翰齡企業社",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區北勢里中正路１２０１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296819,
+                    23.059251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "知點新時尚料理餐廳",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區知義里復興路１巷１６號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310801,
+                    23.024213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "真心食府心話",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里和平街２５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310267,
+                    23.033536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "田現宰山羊肉店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區??拔里??拔林２５之５號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35130674561,
+                    23.066535479358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漿果咖啡館",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里復興路２８５―１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311584,
+                    23.031023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清波飲料店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區協興里忠孝路１８５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302905,
+                    23.037459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心冷飲新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里信義路１９５號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3088,
+                    23.034993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心冷飲新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里中山路４７１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30356,
+                    23.035647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "淼漫三明治",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里復興路３１５號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309335,
+                    23.036082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "洧佶商行",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里００１鄰中山路２３８號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308156,
+                    23.036083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "永旭茶行",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里０３１鄰中正路３４０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308401,
+                    23.034711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "歐珍娜餐飲店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區協興里忠孝路１８５號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302905,
+                    23.037459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "欣桔點心",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里０１７鄰忠孝路１４４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303591,
+                    23.037851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "楊記餐飲店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里忠孝路１３７號",
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304218,
+                    23.037745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "東成醬油有限公司",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區知義里中興路２９３號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329165,
+                    23.025476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "未來式企業有限公司",
+                "category": "餐飲\/糕餅",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里信義路５４號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319455,
+                    23.037983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 新化中正店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里中正路４８０―１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307008,
+                    23.038499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "明椿茶行",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中山路２６４號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30762,
+                    23.036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新泰餐飲",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中正路４５７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307858,
+                    23.036362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新化活力早餐店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區協興里正新路２０８號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302965,
+                    23.036258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新化林場",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區知義里口埤７６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353133,
+                    23.023997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "悠活食早午餐",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里中山路４４７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304139,
+                    23.035623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "彬順茶飲",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中山路３２６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306752,
+                    23.035941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "尚賀茶飲店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里忠孝路５１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306731,
+                    23.038208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小森活餐飲",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里０１７鄰忠孝路１２８號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304002,
+                    23.037925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "威威飯館",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里４鄰中正路４６５號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307792,
+                    23.03646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "塔比比多咖啡館",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里０３２鄰信義路２３０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308401,
+                    23.035073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "古丁原味品茶館 新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里０３２鄰中正路３８４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308201,
+                    23.035542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "勵簡早餐店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里中山路４４８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304219,
+                    23.035822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 台南新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中山路４０６－１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305053,
+                    23.035826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "光庸生活飲食坊",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區協興里忠孝路１７１號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303107,
+                    23.037506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "伯勝有限公司",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區東榮里中正路３５２號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308381,
+                    23.034901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亦翔冷飲",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里１鄰中正路４５１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307891,
+                    23.036235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "PIZZA HUT必勝客-台南新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里中正路５４５―１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307945,
+                    23.036072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 台南新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區太平里忠孝路１０號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309195,
+                    23.038761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "銘峵魯味",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "新市區",
@@ -45156,7 +45938,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東芯餐飲",
+                "shop": "晨間廚房 新市龍目井店",
                 "category": "餐飲",
                 "area": "新市區",
                 "market_address": "臺南市新市區大營里龍目井路１２３號１樓",
@@ -45173,7 +45955,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨新美食坊",
+                "shop": "晨間廚房 新市富林店",
+                "category": "餐飲",
+                "area": "新市區",
+                "market_address": "臺南市新市區新和里富安五街１８號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291742,
+                    23.081523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 新市中正店",
                 "category": "餐飲",
                 "area": "新市區",
                 "market_address": "臺南市新市區新和里中正路１８３號１樓",
@@ -45218,23 +46017,6 @@
                 "coordinates": [
                     120.30694,
                     23.109521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昶德小吃店",
-                "category": "餐飲",
-                "area": "新市區",
-                "market_address": "臺南市新市區新和里富安五街１８號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291742,
-                    23.081523
                 ]
             }
         },
@@ -45972,7 +46754,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司台南新市分店",
+                "shop": "五鮮級平價鍋物 台南新市店",
                 "category": "餐飲",
                 "area": "新市區",
                 "market_address": "臺南市新市區新和里民生路８３，８５，８７號",
@@ -47944,7 +48726,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨宏早餐店",
+                "shop": "晨間廚房 新營東興店",
+                "category": "餐飲",
+                "area": "新營區",
+                "market_address": "臺南市新營區新東里東興路１０１號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.323055,
+                    23.313562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 新營新進店",
                 "category": "餐飲",
                 "area": "新營區",
                 "market_address": "臺南市新營區永平里新進路２段９４號１樓",
@@ -48346,23 +49145,6 @@
                 "coordinates": [
                     120.306404,
                     23.30918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "巧富早餐店",
-                "category": "餐飲",
-                "area": "新營區",
-                "market_address": "臺南市新營區新東里東興路１０１號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.323055,
-                    23.313562
                 ]
             }
         },
@@ -54472,23 +55254,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "羿品生有限公司",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇德里中華東路３段１９９號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.22558160135,
-                    22.976392530586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "義豐餐酒館",
                 "category": "餐飲",
                 "area": "東區",
@@ -57277,6 +58042,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 台南東成店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區虎尾里東成街１９６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23742932163,
+                    22.980260263837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 台南崇明店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇明里崇明路５８８號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224628,
+                    22.972715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨間廚房 台南崇善店",
                 "category": "餐飲",
                 "area": "東區",
@@ -58461,6 +59260,23 @@
                 "coordinates": [
                     120.22644186785,
                     22.97805638912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "廚房有雞花雕雞 中華總店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇德里中華東路３段１９９號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22558160135,
+                    22.976392530586
                 ]
             }
         },
@@ -61017,23 +61833,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "加賀家早餐店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區虎尾里東成街１９６號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.23742932163,
-                    22.980260263837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "加味小吃店",
                 "category": "餐飲",
                 "area": "東區",
@@ -61725,23 +62524,6 @@
                 "coordinates": [
                     120.224582,
                     22.989536
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "五八八早餐店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇明里崇明路５８８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.224628,
-                    22.972715
                 ]
             }
         },
@@ -62445,6 +63227,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 柳營中山店",
+                "category": "餐飲",
+                "area": "柳營區",
+                "market_address": "臺南市柳營區東昇里中山西路１段７１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.323241,
+                    23.278815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "尖山埤江南渡假村",
                 "category": "餐飲",
                 "area": "柳營區",
@@ -62524,23 +63323,6 @@
                 "coordinates": [
                     120.313894,
                     23.276627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "七一茶飲",
-                "category": "餐飲",
-                "area": "柳營區",
-                "market_address": "臺南市柳營區東昇里中山西路１段７１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.323241,
-                    23.278815
                 ]
             }
         },
@@ -75756,6 +76538,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 麻豆興中店",
+                "category": "餐飲",
+                "area": "麻豆區",
+                "market_address": "臺南市麻豆區東角里興中路１６９―４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25354,
+                    23.18356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晤饕小吃店",
                 "category": "餐飲",
                 "area": "麻豆區",
@@ -76113,23 +76912,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "倡定廚房商行",
-                "category": "餐飲",
-                "area": "麻豆區",
-                "market_address": "臺南市麻豆區東角里興中路１６９―４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.25354,
-                    23.18356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "信誠商行",
                 "category": "餐飲",
                 "area": "麻豆區",
@@ -76164,7 +76946,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司台南麻豆分店",
+                "shop": "五鮮級平價鍋物 麻豆新生北店",
                 "category": "餐飲",
                 "area": "麻豆區",
                 "market_address": "臺南市麻豆區油車里０２２鄰新生北路１０８號",
