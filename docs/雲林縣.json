@@ -871,6 +871,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樸樂咖啡早午餐 雲林北港店",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮大同里文化路１２８號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303089,
+                    23.571999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "柏瑋商號",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -1086,23 +1103,6 @@
                 "coordinates": [
                     120.299145,
                     23.572261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "回饗早餐店",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮大同里文化路１２８號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.303089,
-                    23.571999
                 ]
             }
         },
@@ -9494,7 +9494,7 @@
                 "category": "餐飲",
                 "area": "斗南鎮",
                 "market_address": "雲林縣斗南鎮南昌里文元二街４３號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",

@@ -18347,6 +18347,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "濰克早午餐 潮州新生店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮新生里新生路１１０―１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53919431371,
+                    22.551291710248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "潮鳴商行",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18596,23 +18613,6 @@
                 "coordinates": [
                     120.537083,
                     22.545558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "歐邁早餐坊",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮新生里新生路１１０―１號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.53919431371,
-                    22.551291710248
                 ]
             }
         },

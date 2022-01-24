@@ -15729,23 +15729,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雙妞小吃店",
-                "category": "餐飲",
-                "area": "仁德區",
-                "market_address": "臺南市仁德區保安里二仁路一段８２―１號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.226117,
-                    22.916965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "集鮮餐飲店",
                 "category": "餐飲",
                 "area": "仁德區",
@@ -16522,6 +16505,23 @@
                 "coordinates": [
                     120.224136,
                     22.922955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "歐兔啡食館 台南嘉藥館",
+                "category": "餐飲",
+                "area": "仁德區",
+                "market_address": "臺南市仁德區保安里二仁路一段８２―１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.226117,
+                    22.916965
                 ]
             }
         },
@@ -32644,23 +32644,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "岑黛食堂",
-                "category": "餐飲",
-                "area": "善化區",
-                "market_address": "臺南市善化區光文里中山路２０８―２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.306484,
-                    23.133827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小李白有限公司",
                 "category": "餐飲",
                 "area": "善化區",
@@ -33284,6 +33267,23 @@
                 "coordinates": [
                     120.271493,
                     23.130913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "元氣早午餐輕食 善化中山店",
+                "category": "餐飲",
+                "area": "善化區",
+                "market_address": "臺南市善化區光文里中山路２０８―２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306484,
+                    23.133827
                 ]
             }
         },
@@ -44221,6 +44221,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "濰克早午餐 新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區武安里中山路４４８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304219,
+                    23.035822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漿果咖啡館",
                 "category": "餐飲",
                 "area": "新化區",
@@ -44623,23 +44640,6 @@
                 "coordinates": [
                     120.308201,
                     23.035542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "勵簡早餐店",
-                "category": "餐飲",
-                "area": "新化區",
-                "market_address": "臺南市新化區武安里中山路４４８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304219,
-                    23.035822
                 ]
             }
         },
@@ -66270,23 +66270,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長億美食坊",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區正強里正強街２４５號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.251512,
-                    23.030054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鐵木匠企業社",
                 "category": "餐飲",
                 "area": "永康區",
@@ -68684,6 +68667,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "濰克早午餐 台南崑大店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區崑山里大灣路９４２巷２７號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254897,
+                    23.000025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "濰克早午餐 台南南台店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區尚頂里南台街５８號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222336,
+                    23.022667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "濬詠企業社",
                 "category": "餐飲",
                 "area": "永康區",
@@ -69398,6 +69415,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樸樂咖啡 永康正強(原裕學)店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區正強里正強街２４５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251512,
+                    23.030054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "樸九鼎美食館",
                 "category": "餐飲",
                 "area": "永康區",
@@ -70055,23 +70089,6 @@
                 "coordinates": [
                     120.240457,
                     23.038468
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昱鑫早午餐行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區尚頂里南台街５８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.222336,
-                    23.022667
                 ]
             }
         },
@@ -71262,23 +71279,6 @@
                 "coordinates": [
                     120.276069,
                     23.020585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富順早餐坊",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區崑山里大灣路９４２巷２７號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.254897,
-                    23.000025
                 ]
             }
         },
@@ -76385,23 +76385,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "盈瑜晨食坊",
-                "category": "餐飲",
-                "area": "麻豆區",
-                "market_address": "臺南市麻豆區新興里自由路３２―７號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24418751574,
-                    23.185176359311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "百香商行",
                 "category": "餐飲",
                 "area": "麻豆區",
@@ -76447,6 +76430,23 @@
                 "coordinates": [
                     120.247317,
                     23.183612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "濰克早午餐 麻豆店",
+                "category": "餐飲",
+                "area": "麻豆區",
+                "market_address": "臺南市麻豆區新興里自由路３２―７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24418751574,
+                    23.185176359311
                 ]
             }
         },

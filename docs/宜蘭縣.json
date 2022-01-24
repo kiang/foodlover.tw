@@ -2231,6 +2231,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樸樂咖啡早午餐 宜蘭冬山店",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉南興村照安路３３巷１０號一樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.793678,
+                    24.631551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "桃花源牛肉麵",
                 "category": "餐飲",
                 "area": "冬山鄉",
@@ -2888,23 +2905,6 @@
                 "coordinates": [
                     121.750637,
                     24.630547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "亞歆早餐店",
-                "category": "餐飲",
-                "area": "冬山鄉",
-                "market_address": "宜蘭縣冬山鄉南興村照安路３３巷１０號一樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.793678,
-                    24.631551
                 ]
             }
         },
