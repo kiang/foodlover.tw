@@ -1534,6 +1534,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "蕃茄村漢堡 新竹光華東店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區金華里光華東街４３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974288,
+                    24.816164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蔡林記有限公司",
                 "category": "餐飲",
                 "area": "北區",
@@ -3976,23 +3993,6 @@
                 "coordinates": [
                     120.965112,
                     24.8028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "幸福番茄早餐店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區金華里光華東街４３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.974288,
-                    24.816164
                 ]
             }
         },

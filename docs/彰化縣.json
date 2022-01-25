@@ -3285,23 +3285,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "寶莊商行",
-                "category": "餐飲",
-                "area": "和美鎮",
-                "market_address": "彰化縣和美鎮和北里彰美路六段１２９號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.49647,
-                    24.114453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "宸莊有限公司",
                 "category": "餐飲",
                 "area": "和美鎮",
@@ -3381,6 +3364,23 @@
                 "coordinates": [
                     120.491894,
                     24.115002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "十二韻茶飲 和美店",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮和北里彰美路六段１２９號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49647,
+                    24.114453
                 ]
             }
         },

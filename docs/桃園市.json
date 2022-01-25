@@ -5801,6 +5801,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "蕃茄村漢堡 中壢榮耀店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區普義里溪洲街２５９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.229674,
+                    24.961731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蔬菜蛋餅店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -15451,23 +15468,6 @@
                 "coordinates": [
                     121.225693743,
                     24.9566517895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小蕃茄早餐店",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區普義里溪洲街２５９號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.229674,
-                    24.961731
                 ]
             }
         },

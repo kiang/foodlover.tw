@@ -4815,6 +4815,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樸樂珈琲 新竹湖口店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉孝勢村民生街２９號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046004,
+                    24.900829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "樂活速食坊股份有限公司勝十蘭湖口北上店",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -5574,23 +5591,6 @@
                 "coordinates": [
                     121.043959,
                     24.902612
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "億香園飲食店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉孝勢村民生街２９號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.046004,
-                    24.900829
                 ]
             }
         },
@@ -9507,7 +9507,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "蕃茄村縣政店",
+                "shop": "蕃茄村漢堡 竹北縣政店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市縣政二路８１號",
@@ -12907,6 +12907,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樸樂咖啡 竹北嘉興店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東興里嘉興路４３７號一樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03205,
+                    24.821587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "樸實無華餐飲店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -13139,23 +13156,6 @@
                 "coordinates": [
                     120.987156,
                     24.836562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "榛品早餐店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東興里嘉興路４３７號一樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.03205,
-                    24.821587
                 ]
             }
         },
@@ -17976,23 +17976,6 @@
                 "shop": "六角國際事業股份有限公司竹北營業所",
                 "category": "餐飲",
                 "area": "竹北市",
-                "market_address": "新竹縣竹北市福德里三民路３７３號１樓前段",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.011328,
-                    24.833677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "六角國際事業股份有限公司竹北營業所",
-                "category": "餐飲",
-                "area": "竹北市",
                 "market_address": "新竹縣竹北市文化里文田街１５號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
             },
@@ -19616,6 +19599,23 @@
                 "coordinates": [
                     121.010358,
                     24.833877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Chatime日出茶太 竹北三民店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市福德里三民路３７３號１樓前段",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011328,
+                    24.833677
                 ]
             }
         },
