@@ -22801,6 +22801,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "福客多食品行",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區大港里大興街３４２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.184169,
+                    23.009696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "福勝亭 民德店",
                 "category": "餐飲",
                 "area": "北區",
@@ -63493,23 +63510,6 @@
                 "coordinates": [
                     120.498346,
                     23.221688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金湘坊",
-                "category": "夜市\/市場攤販",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區大廟里和順路２段１５１巷２７號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.279822,
-                    22.991869
                 ]
             }
         },
