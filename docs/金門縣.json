@@ -1075,6 +1075,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "金山找咖啡",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮東門里金山路２巷１弄７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.322126,
+                    24.429438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "金城早安美芝城早午餐店",
                 "category": "餐飲",
                 "area": "金城鎮",
