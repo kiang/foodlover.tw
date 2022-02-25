@@ -1,0 +1,63 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣鹿谷鄉竹豐村中湖巷３―５號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:-1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (鹿谷鄉)\t找到符合的[鄉鎮市區]，(竹豐村)\t找到符合的[村里]，(中湖巷)\t找不到符合的[巷]，(三―)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(5號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "南投縣鹿谷鄉竹豐村3鄰中湖巷5號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "竹豐村",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "中湖巷",
+      "NUMBER": "5號",
+      "X": 120.747472,
+      "Y": 23.728943
+    },
+    {
+      "FULL_ADDR": "南投縣鹿谷鄉竹豐村7鄰南坪巷5號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "竹豐村",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "南坪巷",
+      "NUMBER": "5號",
+      "X": 120.744398,
+      "Y": 23.732961
+    }
+  ]
+}
