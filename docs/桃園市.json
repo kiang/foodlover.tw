@@ -61102,23 +61102,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "ten tast ten 咖啡豆專賣店",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區南榮里００９鄰洛陽街３號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/iPASS一卡通\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.292574,
-                    25.045624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "cama café 蘆竹南福店",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -61147,6 +61130,23 @@
                 "coordinates": [
                     121.291359,
                     25.048369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Ten Past Ten 咖啡豆專賣店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區南榮里００９鄰洛陽街３號",
+                "pay_list": "信用卡\/iPASS一卡通\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292574,
+                    25.045624
                 ]
             }
         },
