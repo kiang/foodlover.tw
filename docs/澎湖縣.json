@@ -3217,23 +3217,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大仁行",
-                "category": "餐飲",
-                "area": "馬公市",
-                "market_address": "澎湖縣馬公市陽明里大勇街３１之１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.572008,
-                    23.571701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "夢想部落館",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -3432,6 +3415,40 @@
                 "coordinates": [
                     119.567057,
                     23.566319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 澎湖重慶店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市重慶里重慶街３３號１Ｆ",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.567213,
+                    23.566822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 澎湖光復店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市陽明里大勇街３１之１號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.572008,
+                    23.571701
                 ]
             }
         },
@@ -3874,23 +3891,6 @@
                 "coordinates": [
                     119.567486,
                     23.566596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "企鵝紅茶冰",
-                "category": "餐飲",
-                "area": "馬公市",
-                "market_address": "澎湖縣馬公市重慶里重慶街３３號１Ｆ",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.567213,
-                    23.566822
                 ]
             }
         },

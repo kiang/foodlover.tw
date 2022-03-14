@@ -633,6 +633,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 嘉義後庄店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村中山路５段９１８號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460239,
+                    23.452998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "倡鈺科技工業有限公司中崙澐水大自然溫泉區",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -661,23 +678,6 @@
                 "coordinates": [
                     120.545826,
                     23.415973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "伍零年代飲料店",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村中山路５段９１８號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460239,
-                    23.452998
                 ]
             }
         },
@@ -1993,23 +1993,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑩瑩冷飲坊",
-                "category": "餐飲",
-                "area": "太保市",
-                "market_address": "嘉義縣太保市後潭里０１３鄰後潭３２６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.343248,
-                    23.45213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "爭鮮股份有限公司嘉義高門市部",
                 "category": "餐飲",
                 "area": "太保市",
@@ -2316,6 +2299,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 太保後潭店",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市後潭里０１３鄰後潭３２６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343248,
+                    23.45213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "口吅品咖啡茶飲",
                 "category": "餐飲",
                 "area": "太保市",
@@ -2469,23 +2469,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "蔡家紅茶冰店",
-                "category": "餐飲",
-                "area": "布袋鎮",
-                "market_address": "嘉義縣布袋鎮興中里上海路２８５號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.159077,
-                    23.379159
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "草根王商行",
                 "category": "餐飲",
                 "area": "布袋鎮",
@@ -2565,6 +2548,23 @@
                 "coordinates": [
                     120.155492,
                     23.382276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 布袋上海店",
+                "category": "餐飲",
+                "area": "布袋鎮",
+                "market_address": "嘉義縣布袋鎮興中里上海路２８５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.159077,
+                    23.379159
                 ]
             }
         },
@@ -5869,6 +5869,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 嘉義民雄江厝店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１－８號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.422912,
+                    23.523399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "君野大飯店股份有限公司",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -6084,23 +6101,6 @@
                 "coordinates": [
                     120.437099,
                     23.532879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "二姐紅茶冰",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１－８號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.422912,
-                    23.523399
                 ]
             }
         },
@@ -6345,7 +6345,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "王家屁孩冷飲店",
+                "shop": "吳家紅茶冰 水上回歸店",
                 "category": "夜市\/市場攤販",
                 "area": "水上鄉",
                 "market_address": "嘉義縣水上鄉回歸村建國四村１９１－３號１樓",
@@ -6600,23 +6600,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "民生紅茶冰",
-                "category": "餐飲",
-                "area": "水上鄉",
-                "market_address": "嘉義縣水上鄉民生村０１８鄰忠孝街２４３號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.433324,
-                    23.449888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "正義紅茶專賣店",
                 "category": "餐飲",
                 "area": "水上鄉",
@@ -6815,6 +6798,23 @@
                 "coordinates": [
                     120.403283,
                     23.429465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 (民生社區)水上忠孝店",
+                "category": "餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉民生村０１８鄰忠孝街２４３號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433324,
+                    23.449888
                 ]
             }
         },

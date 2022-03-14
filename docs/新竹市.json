@@ -3132,23 +3132,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榖德冷飲店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區南寮里東大路四段１６７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.930554,
-                    24.844083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "森巴披薩店",
                 "category": "餐飲",
                 "area": "北區",
@@ -4792,6 +4775,23 @@
                 "coordinates": [
                     120.966089,
                     24.812106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 新竹南寮店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區南寮里東大路四段１６７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930554,
+                    24.844083
                 ]
             }
         },

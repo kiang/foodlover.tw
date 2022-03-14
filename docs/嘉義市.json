@@ -11462,23 +11462,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "榮美飲料店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里北興街３４３之１號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43629,
-                    23.48657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "梁社漢排骨 嘉義仁愛店",
                 "category": "餐飲",
                 "area": "西區",
@@ -12822,23 +12805,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宏利商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福全里友愛路１２８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43441,
-                    23.478899
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "安可綿綿??店",
                 "category": "餐飲",
                 "area": "西區",
@@ -13326,6 +13292,40 @@
                 "coordinates": [
                     120.44337,
                     23.45966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義友愛店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福全里友愛路１２８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43441,
+                    23.478899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義北興店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里北興街３４３之１號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43629,
+                    23.48657
                 ]
             }
         },

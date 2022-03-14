@@ -2129,23 +2129,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿南飲料店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市三和里三和三路２０號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686181,
-                    23.904958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金時代書香咖啡",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3217,23 +3200,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "星星飲料店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市三民里彰南路二段２１７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.681511,
-                    23.912068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "日日春食品商行",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3789,6 +3755,40 @@
                 "coordinates": [
                     120.685053,
                     23.908242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 南投彰南店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市三民里彰南路二段２１７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681511,
+                    23.912068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 南投三和店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市三和里三和三路２０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686181,
+                    23.904958
                 ]
             }
         },
@@ -9966,6 +9966,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 竹山集山店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮延和里０１０鄰集山路三段５８６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692615,
+                    23.761303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "原山小吃部",
                 "category": "餐飲",
                 "area": "竹山鎮",
@@ -10011,23 +10028,6 @@
                 "coordinates": [
                     120.684563,
                     23.757795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "云辰紅茶冰",
-                "category": "餐飲",
-                "area": "竹山鎮",
-                "market_address": "南投縣竹山鎮延和里０１０鄰集山路三段５８６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.692615,
-                    23.761303
                 ]
             }
         },

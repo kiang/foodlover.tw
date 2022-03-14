@@ -1602,23 +1602,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鼎中吳家紅茶冰",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區鼎盛里鼎中路７５３―１３號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32168464446,
-                    22.674596431462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "點多多有限公司",
                 "category": "餐飲\/糕餅",
                 "area": "三民區",
@@ -8266,23 +8249,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永基冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶龍里建興路２６０號騎樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.3243899355,
-                    22.645157923482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "水蘭舍企業社",
                 "category": "餐飲",
                 "area": "三民區",
@@ -13224,6 +13190,40 @@
                 "coordinates": [
                     120.317024,
                     22.647746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 鼎中店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區鼎盛里鼎中路７５３―１３號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32168464446,
+                    22.674596431462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 高雄建興店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶龍里建興路２６０號騎樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3243899355,
+                    22.645157923482
                 ]
             }
         },
@@ -36911,23 +36911,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "康莊大道冷飲店",
-                "category": "餐飲",
-                "area": "小港區",
-                "market_address": "高雄市小港區順苓里康莊路８９號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.355504,
-                    22.568529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "幸福隅咖啡屋",
                 "category": "餐飲",
                 "area": "小港區",
@@ -37506,6 +37489,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 高雄小港二苓店",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區三苓里二苓路２１２號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348648,
+                    22.565577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 小港店",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區順苓里康莊路８９號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355504,
+                    22.568529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "向陽食品行",
                 "category": "餐飲",
                 "area": "小港區",
@@ -37891,23 +37908,6 @@
                 "coordinates": [
                     120.355199,
                     22.583244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "二苓冷飲站",
-                "category": "餐飲",
-                "area": "小港區",
-                "market_address": "高雄市小港區三苓里二苓路２１２號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348648,
-                    22.565577
                 ]
             }
         },
@@ -52670,6 +52670,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 重愛店",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區福山里重愛路２號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31965333061,
+                    22.683158173206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "吳家紅茶冰 果貿店",
                 "category": "餐飲",
                 "area": "左營區",
@@ -52681,23 +52698,6 @@
                 "coordinates": [
                     120.289208,
                     22.670418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區福山里重愛路２號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31965333061,
-                    22.683158173206
                 ]
             }
         },
@@ -72798,7 +72798,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吳家紅茶冰（莒光店）",
+                "shop": "吳家紅茶冰 莒光店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區秀昌里後昌路８５０號（騎樓）",
@@ -72815,7 +72815,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吳家紅茶冰後勁店",
+                "shop": "吳家紅茶冰 楠梓後勁店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區瑞屏里後昌路１３８號",
@@ -72832,7 +72832,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吳家紅茶冰右昌店",
+                "shop": "吳家紅茶冰 楠梓右昌店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區建昌里右昌街１８０號",
@@ -75314,23 +75314,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "照幸企業社",
-                "category": "餐飲",
-                "area": "湖內區",
-                "market_address": "高雄市湖內區湖東里東方路５１號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248874,
-                    22.879767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "炸片天下企業行",
                 "category": "餐飲",
                 "area": "湖內區",
@@ -75478,6 +75461,23 @@
                 "coordinates": [
                     120.248822,
                     22.88238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 新東方店",
+                "category": "餐飲",
+                "area": "湖內區",
+                "market_address": "高雄市湖內區湖東里東方路５１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248874,
+                    22.879767
                 ]
             }
         },
@@ -76861,6 +76861,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 美濃中正店",
+                "category": "餐飲",
+                "area": "美濃區",
+                "market_address": "高雄市美濃區泰安里中正路一段７８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54181,
+                    22.899746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "原鄉緣餐廰",
                 "category": "餐飲",
                 "area": "美濃區",
@@ -76940,23 +76957,6 @@
                 "coordinates": [
                     120.529563,
                     22.886405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "傳承飲品",
-                "category": "餐飲",
-                "area": "美濃區",
-                "market_address": "高雄市美濃區泰安里中正路一段７８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54181,
-                    22.899746
                 ]
             }
         },
@@ -85310,23 +85310,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富逸紅茶冰",
-                "category": "餐飲",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區福海里漢昌街１２０號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32912870151,
-                    22.621597999115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "富茶實業股份有限公司",
                 "category": "餐飲",
                 "area": "苓雅區",
@@ -86783,6 +86766,23 @@
                 "coordinates": [
                     120.326508,
                     22.634483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 三信店",
+                "category": "餐飲",
+                "area": "苓雅區",
+                "market_address": "高雄市苓雅區福海里漢昌街１２０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32912870151,
+                    22.621597999115
                 ]
             }
         },
@@ -89866,7 +89866,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吳家紅茶冰路竹店",
+                "shop": "吳家紅茶冰 路竹店",
                 "category": "餐飲",
                 "area": "路竹區",
                 "market_address": "高雄市路竹區竹南里中正路１９９號（騎樓）",
@@ -90268,6 +90268,40 @@
                 "coordinates": [
                     120.325892,
                     22.879802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "惠昌食品有限公司",
+                "category": "糕餅",
+                "area": "阿蓮區",
+                "market_address": "高雄市阿蓮區清蓮里中正路６３８巷３７號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328871,
+                    22.881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千德國際有限公司",
+                "category": "糕餅",
+                "area": "阿蓮區",
+                "market_address": "高雄市阿蓮區南蓮里民族路１９巷１３號２樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329776,
+                    22.8795
                 ]
             }
         },
@@ -93668,23 +93702,6 @@
                 "coordinates": [
                     120.349917,
                     22.632383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雅登冷飲店",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區福祥里自強二路３７號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32778711918,
-                    22.594399562004
                 ]
             }
         },
@@ -100678,7 +100695,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吳家紅茶冰",
+                "shop": "吳家紅茶冰 鳳甲店",
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區二甲里南華一路２６號",
@@ -100689,6 +100706,40 @@
                 "coordinates": [
                     120.341886,
                     22.597417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 高雄力行店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區鎮北里２１鄰力行路２７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36539,
+                    22.639336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 五甲自強店",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區福祥里自強二路３７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32778711918,
+                    22.594399562004
                 ]
             }
         },
@@ -100706,23 +100757,6 @@
                 "coordinates": [
                     120.350668,
                     22.629114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吳家紅茶冰",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區鎮北里２１鄰力行路２７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.36539,
-                    22.639336
                 ]
             }
         },
@@ -104231,23 +104265,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "荃芳飲料店",
-                "category": "餐飲",
-                "area": "鹽埕區",
-                "market_address": "高雄市鹽埕區壽星里北斗街２７號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.283948,
-                    22.631689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶品草木珍壹號舖",
                 "category": "餐飲",
                 "area": "鹽埕區",
@@ -104979,23 +104996,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新樂紅茶冷飲",
-                "category": "餐飲",
-                "area": "鹽埕區",
-                "market_address": "高雄市鹽埕區光明里新樂街１４３號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.284614,
-                    22.624151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新星早餐店",
                 "category": "餐飲",
                 "area": "鹽埕區",
@@ -105687,6 +105687,40 @@
                 "coordinates": [
                     120.287322,
                     22.620289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 鹽埕店",
+                "category": "餐飲",
+                "area": "鹽埕區",
+                "market_address": "高雄市鹽埕區壽星里北斗街２７號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.283948,
+                    22.631689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 新樂店",
+                "category": "餐飲",
+                "area": "鹽埕區",
+                "market_address": "高雄市鹽埕區光明里新樂街１４３號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284614,
+                    22.624151
                 ]
             }
         },
