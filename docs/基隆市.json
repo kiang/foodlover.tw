@@ -1568,6 +1568,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆中華店(比屋冷飲店)",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區通化里中華路５巷１２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73848,
+                    25.145047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淼莎便當",
                 "category": "餐飲",
                 "area": "中山區",
@@ -1579,23 +1596,6 @@
                 "coordinates": [
                     121.738114,
                     25.132285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "比屋冷飲店",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區通化里中華路５巷１２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.73848,
-                    25.145047
                 ]
             }
         },
@@ -3523,6 +3523,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆八斗子店(大洲冷飲店)",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區砂子里北寧路３９２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796535,
+                    25.13959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海節餐酒館",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4384,23 +4401,6 @@
                 "coordinates": [
                     121.772593,
                     25.150839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大洲冷飲店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區砂子里北寧路３９２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.796535,
-                    25.13959
                 ]
             }
         },

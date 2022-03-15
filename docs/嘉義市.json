@@ -2010,23 +2010,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萌嘎嘎飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中山里民國路２４０－４號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45979,
-                    23.48358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "莊北門肉圓",
                 "category": "餐飲",
                 "area": "東區",
@@ -2157,23 +2140,6 @@
                 "coordinates": [
                     120.4543,
                     23.47748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "舊味飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區民族里光華路３２之２號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.454415,
-                    23.477411
                 ]
             }
         },
@@ -4900,23 +4866,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "尚蓋讚飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區王田里林森東路３３２號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46471,
-                    23.48919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "小陸碳烤餐飲有限公司",
                 "category": "餐飲",
                 "area": "東區",
@@ -4945,23 +4894,6 @@
                 "coordinates": [
                     120.4531,
                     23.49181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小莫飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區宣信里興業東路３６３號一樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45771,
-                    23.469799
                 ]
             }
         },
@@ -5495,23 +5427,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "壹玖陸玖飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區朝陽里民族路１３９號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45793,
-                    23.47661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "墨哥行",
                 "category": "餐飲",
                 "area": "東區",
@@ -5829,6 +5744,91 @@
                 "coordinates": [
                     120.46308,
                     23.48327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義興業店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區宣信里興業東路３６３號一樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45771,
+                    23.469799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義民權店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里民國路２４０－４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45979,
+                    23.48358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義民族店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區朝陽里民族路１３９號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45793,
+                    23.47661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義林森店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區王田里林森東路３３２號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46471,
+                    23.48919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 嘉義光華店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區民族里光華路３２之２號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.454415,
+                    23.477411
                 ]
             }
         },

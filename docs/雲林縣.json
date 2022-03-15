@@ -1602,6 +1602,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 口湖中正店(一元冷飲站)",
+                "category": "餐飲",
+                "area": "口湖鄉",
+                "market_address": "雲林縣口湖鄉湖東村中正路一段１９８號",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183458,
+                    23.584099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海口有限公司",
                 "category": "餐飲",
                 "area": "口湖鄉",
@@ -1664,23 +1681,6 @@
                 "coordinates": [
                     120.144658,
                     23.61942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "一元冷飲站",
-                "category": "餐飲",
-                "area": "口湖鄉",
-                "market_address": "雲林縣口湖鄉湖東村中正路一段１９８號",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.183458,
-                    23.584099
                 ]
             }
         },
@@ -4900,23 +4900,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "茶香冷飲店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮東里文化路１９１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.551188,
-                    23.711494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶聚CHAGE 斗六中正店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6107,7 +6090,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 斗六文化店(茶香冷飲店)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮東里文化路１９１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551188,
+                    23.711494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 斗六店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市中和里雲林路１段３３號",

@@ -2860,6 +2860,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 南投中正店(中興冷飲站)",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市營北里２７鄰中正路２２２―１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69382370279,
+                    23.945795964505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清原芋圓 南投縣南投店",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4214,23 +4231,6 @@
                 "coordinates": [
                     120.685064,
                     23.907465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中興冷飲站",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市營北里２７鄰中正路２２２―１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.69382370279,
-                    23.945795964505
                 ]
             }
         },

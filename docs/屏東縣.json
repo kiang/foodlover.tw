@@ -1279,7 +1279,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全冷飲站屏東內埔店",
+                "shop": "清心福全 內埔廣濟店(清心福全冷飲站屏東內埔店)",
                 "category": "餐飲",
                 "area": "內埔鄉",
                 "market_address": "屏東縣內埔鄉內埔村５鄰廣濟路９６號",
@@ -6090,7 +6090,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 廣東店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市仁愛里廣東路５９５號",
@@ -6101,6 +6101,23 @@
                 "coordinates": [
                     120.49746139616,
                     22.684147892222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 勝利店(勝利冷飲店)",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市空翔里勝利路１９６－３號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4800806246,
+                    22.679144850241
                 ]
             }
         },
@@ -9535,23 +9552,6 @@
                 "coordinates": [
                     120.485021,
                     22.679168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "勝利冷飲店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市空翔里勝利路１９６－３號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4800806246,
-                    22.679144850241
                 ]
             }
         },
@@ -18534,6 +18534,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 潮州店(清心冷飲潮州店)",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮潮州里建基路１６８號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540605,
+                    22.551193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心冷飲潮州永德店",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18545,23 +18562,6 @@
                 "coordinates": [
                     120.542745,
                     22.5427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心冷飲潮州店",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮潮州里建基路１６８號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.540605,
-                    22.551193
                 ]
             }
         },
@@ -21356,6 +21356,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 屏東萬巒店(六堆冷飲店)",
+                "category": "餐飲",
+                "area": "萬巒鄉",
+                "market_address": "屏東縣萬巒鄉萬和村１８鄰褒忠路１６３號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569083,
+                    22.573263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沐茶商行",
                 "category": "餐飲",
                 "area": "萬巒鄉",
@@ -21469,23 +21486,6 @@
                 "coordinates": [
                     120.610063,
                     22.571626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "六堆冷飲店",
-                "category": "餐飲",
-                "area": "萬巒鄉",
-                "market_address": "屏東縣萬巒鄉萬和村１８鄰褒忠路１６３號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.569083,
-                    22.573263
                 ]
             }
         },

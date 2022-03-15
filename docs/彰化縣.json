@@ -276,23 +276,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "橙湘飲品店",
-                "category": "餐飲",
-                "area": "二林鎮",
-                "market_address": "彰化縣二林鎮永興里二溪路六段４４９號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.419945,
-                    23.954663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "林裕桂綿綿冰",
                 "category": "餐飲",
                 "area": "二林鎮",
@@ -491,6 +474,23 @@
                 "coordinates": [
                     120.362033,
                     23.897684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 萬興店",
+                "category": "餐飲",
+                "area": "二林鎮",
+                "market_address": "彰化縣二林鎮永興里二溪路六段４４９號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419945,
+                    23.954663
                 ]
             }
         },
@@ -8151,7 +8151,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市三信里中山路２段３６６、３６８號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -9405,7 +9405,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "統一多拿滋股份有限公司員林大潤發門市部",
+                "shop": "Mister Donut統一多拿滋 員林大潤發門市",
                 "category": "糕餅",
                 "area": "埔心鄉",
                 "market_address": "彰化縣埔心鄉瓦南村中山路３１９號",
@@ -10697,7 +10697,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "喜祥旺商行",
+                "shop": "吳家紅茶冰 大村茄苳店",
                 "category": "餐飲",
                 "area": "大村鄉",
                 "market_address": "彰化縣大村鄉大村村茄苳路一段１７號",
@@ -19843,6 +19843,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "可宏烘焙工坊",
+                "category": "糕餅",
+                "area": "溪湖鎮",
+                "market_address": "彰化縣溪湖鎮太平里地政路１５０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47608,
+                    23.964293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "麥當勞彰化溪湖分公司",
                 "category": "餐飲",
                 "area": "溪湖鎮",
@@ -20948,7 +20965,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "天天賺商行",
+                "shop": "吳家紅茶冰 田中中州店",
                 "category": "餐飲\/糕餅",
                 "area": "田中鎮",
                 "market_address": "彰化縣田中鎮南路里中州路一段２８９號",
@@ -22937,6 +22954,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 線西沿海店(永財冷飲站)",
+                "category": "餐飲",
+                "area": "線西鄉",
+                "market_address": "彰化縣線西鄉寓埔村沿海路１段９０４號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46347,
+                    24.134575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "津悅坊",
                 "category": "餐飲",
                 "area": "線西鄉",
@@ -22948,23 +22982,6 @@
                 "coordinates": [
                     120.469897,
                     24.129048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永財冷飲站",
-                "category": "餐飲",
-                "area": "線西鄉",
-                "market_address": "彰化縣線西鄉寓埔村沿海路１段９０４號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46347,
-                    24.134575
                 ]
             }
         },
@@ -24943,23 +24960,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鹿港冷飲站",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮永安里０１５鄰鹿東路５４號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.439553,
-                    24.056761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鹿壹餐飲有限公司",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -25419,23 +25419,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "聯富勝冷飲店",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮郭厝里２鄰鹿草路１段８１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.432632,
-                    24.060911
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老成珍",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -25583,23 +25566,6 @@
                 "coordinates": [
                     120.43734,
                     24.055149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "福心冷飲店",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮大有里民權路２７３號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.432925,
-                    24.055354
                 ]
             }
         },
@@ -25787,6 +25753,57 @@
                 "coordinates": [
                     120.439722,
                     24.056974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鹿港民權店(福心冷飲店)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮大有里民權路２７３號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432925,
+                    24.055354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鹿港店(鹿港冷飲站)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮永安里０１５鄰鹿東路５４號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439553,
+                    24.056761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鹿港二店(聯富勝冷飲店)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮郭厝里２鄰鹿草路１段８１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432632,
+                    24.060911
                 ]
             }
         },

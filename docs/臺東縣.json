@@ -1126,6 +1126,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "吳家紅茶冰 太麻里店",
+                "category": "餐飲",
+                "area": "太麻里鄉",
+                "market_address": "臺東縣太麻里鄉泰和村太麻里街２４３號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.005609,
+                    22.610671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "原愛工坊",
                 "category": "餐飲",
                 "area": "太麻里鄉",
@@ -1154,23 +1171,6 @@
                 "coordinates": [
                     121.006215,
                     22.612423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "來發冷飲店",
-                "category": "餐飲",
-                "area": "太麻里鄉",
-                "market_address": "臺東縣太麻里鄉泰和村太麻里街２４３號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.005609,
-                    22.610671
                 ]
             }
         },
@@ -4832,23 +4832,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "青津冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市鐵花里中華路一段５７１號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.149626,
-                    22.750596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "零晨早餐工廠",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -5155,40 +5138,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫隆冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市建業里知本路三段６４８號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.041557,
-                    22.706437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫鑫飲品店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市文化里中山路３１４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.149737,
-                    22.754555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鑫發冷飲店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -5200,23 +5149,6 @@
                 "coordinates": [
                     121.115199,
                     22.785696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫旺冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐榮里漢陽北路２２０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.134125,
-                    22.748358
                 ]
             }
         },
@@ -6067,23 +5999,6 @@
                 "coordinates": [
                     121.15016246861,
                     22.750031359313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "莉莎冷飲店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐田里中興路四段４１２號１樓",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.094601,
-                    22.774597
                 ]
             }
         },
@@ -10300,6 +10215,91 @@
                 "coordinates": [
                     121.15069,
                     22.753211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 台東豐田店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐田里中興路四段４１２號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094601,
+                    22.774597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 台東知本店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市建業里知本路三段６４８號１樓",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.041557,
+                    22.706437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 台東漢陽店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐榮里漢陽北路２２０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.134125,
+                    22.748358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市鐵花里中華路一段５７１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149626,
+                    22.750596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吳家紅茶冰 台東中山店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市文化里中山路３１４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149737,
+                    22.754555
                 ]
             }
         },
