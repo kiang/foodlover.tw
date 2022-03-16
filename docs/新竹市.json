@@ -1772,23 +1772,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "芷蕾冷飲店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "新竹市北區北門里中正路２７３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.963488,
-                    24.813109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "花茶酒坊",
                 "category": "餐飲",
                 "area": "北區",
@@ -2871,6 +2854,23 @@
                 "coordinates": [
                     120.952785,
                     24.805147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 新竹中正店(芷蕾冷飲店)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "新竹市北區北門里中正路２７３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.963488,
+                    24.813109
                 ]
             }
         },

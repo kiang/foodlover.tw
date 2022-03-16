@@ -242,6 +242,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 二林新生店(新生冷飲店)",
+                "category": "餐飲",
+                "area": "二林鎮",
+                "market_address": "彰化縣二林鎮東和里新生路１０號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368848,
+                    23.899578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沁映茗茶",
                 "category": "餐飲",
                 "area": "二林鎮",
@@ -321,23 +338,6 @@
                 "coordinates": [
                     120.36731,
                     23.898454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新生冷飲店",
-                "category": "餐飲",
-                "area": "二林鎮",
-                "market_address": "彰化縣二林鎮東和里新生路１０號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.368848,
-                    23.899578
                 ]
             }
         },
@@ -6475,23 +6475,6 @@
                 "coordinates": [
                     120.573566,
                     23.965941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永吉冷飲站",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市民生里中正路２５４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.574425,
-                    23.954694
                 ]
             }
         },
@@ -13213,23 +13196,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "華山冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市民權里華山路２０１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.537868,
-                    24.075218
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "莫尼廚坊",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -14635,6 +14601,23 @@
                 "coordinates": [
                     120.572153,
                     24.086013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化華山店(華山冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市民權里華山路２０１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537868,
+                    24.075218
                 ]
             }
         },

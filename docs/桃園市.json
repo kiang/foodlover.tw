@@ -21016,23 +21016,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "真愛冷飲店",
-                "category": "餐飲",
-                "area": "八德區",
-                "market_address": "桃園市八德區茄明里中華路１６９號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.278914,
-                    24.983843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "真功夫餐廳有限公司",
                 "category": "餐飲",
                 "area": "八德區",
@@ -21452,6 +21435,23 @@
                 "coordinates": [
                     121.286814,
                     24.92921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 八德富裕店(真愛冷飲店)",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區茄明里中華路１６９號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.278914,
+                    24.983843
                 ]
             }
         },
@@ -30451,6 +30451,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 平鎮龍南店(民宜冷飲店)",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區東社里龍南路１０號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.244625,
+                    24.924899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 平鎮山頂店(民群冷飲店)",
                 "category": "餐飲",
                 "area": "平鎮區",
@@ -30598,23 +30615,6 @@
                 "coordinates": [
                     121.20675,
                     24.957131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "民宜冷飲店",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區東社里龍南路１０號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.244625,
-                    24.924899
                 ]
             }
         },

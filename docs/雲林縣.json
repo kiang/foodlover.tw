@@ -2758,23 +2758,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "煌君冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮南平里馬光路７０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.356684,
-                    23.705497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清曄飲食部",
                 "category": "餐飲",
                 "area": "土庫鎮",
@@ -2786,6 +2769,23 @@
                 "coordinates": [
                     120.353505,
                     23.705221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 土庫馬光店(煌君冷飲店)",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮南平里馬光路７０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356684,
+                    23.705497
                 ]
             }
         },

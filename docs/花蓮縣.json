@@ -106,6 +106,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 花蓮光復店(境杰清心冷飲站)",
+                "category": "餐飲",
+                "area": "光復鄉",
+                "market_address": "花蓮縣光復鄉大華村中山路二段３０９號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424556,
+                    23.667943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "毓亨有限公司",
                 "category": "餐飲",
                 "area": "光復鄉",
@@ -236,23 +253,6 @@
                 "coordinates": [
                     121.390626,
                     23.605573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "境杰清心冷飲站",
-                "category": "餐飲",
-                "area": "光復鄉",
-                "market_address": "花蓮縣光復鄉大華村中山路二段３０９號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.424556,
-                    23.667943
                 ]
             }
         },
@@ -4611,23 +4611,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "志學冷飲讚",
-                "category": "餐飲",
-                "area": "壽豐鄉",
-                "market_address": "花蓮縣壽豐鄉志學村中山路２段２１８號１樓",
-                "pay_list": "悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.526839,
-                    23.897859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "後山歲月",
                 "category": "餐飲",
                 "area": "壽豐鄉",
@@ -7314,23 +7297,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞興飲料店",
-                "category": "餐飲",
-                "area": "瑞穗鄉",
-                "market_address": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.377447,
-                    23.497161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瑞穗貴族派",
                 "category": "餐飲",
                 "area": "瑞穗鄉",
@@ -7376,6 +7342,23 @@
                 "coordinates": [
                     121.34802,
                     23.49464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 花蓮瑞穗店(瑞興飲料店)",
+                "category": "餐飲",
+                "area": "瑞穗鄉",
+                "market_address": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377447,
+                    23.497161
                 ]
             }
         },

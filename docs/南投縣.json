@@ -6957,6 +6957,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 埔里中山店(大成冷飲店)",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮大城里中山路３段５９７號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.949892,
+                    23.97059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "洋式咖啡堂",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -7835,23 +7852,6 @@
                 "coordinates": [
                     120.976617,
                     23.97114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大成冷飲店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮大城里中山路３段５９７號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.949892,
-                    23.97059
                 ]
             }
         },
@@ -11598,23 +11598,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "祐民商行",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮上林里太平路一段２０９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.681276,
-                    23.960567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "石頭餐飲有限公司",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -11966,6 +11949,23 @@
                 "coordinates": [
                     120.684259,
                     23.980471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 草屯佑民店(祐民商行)",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮上林里太平路一段２０９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681276,
+                    23.960567
                 ]
             }
         },

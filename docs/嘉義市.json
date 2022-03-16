@@ -9983,23 +9983,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "綺綺冷飲店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福民里興業西路３３９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43768,
-                    23.46761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "統香商行",
                 "category": "餐飲",
                 "area": "西區",
@@ -11048,6 +11031,23 @@
                 "coordinates": [
                     120.436077,
                     23.486896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義興業店(綺綺冷飲店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福民里興業西路３３９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43768,
+                    23.46761
                 ]
             }
         },

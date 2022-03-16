@@ -565,6 +565,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 屏東佳冬店(宏利冷飲店)",
+                "category": "餐飲",
+                "area": "佳冬鄉",
+                "market_address": "屏東縣佳冬鄉玉光村０１４鄰中山路４９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562872,
+                    22.428618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "林俊逸的鋼管雞",
                 "category": "餐飲",
                 "area": "佳冬鄉",
@@ -593,23 +610,6 @@
                 "coordinates": [
                     120.562541,
                     22.432527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宏利冷飲店",
-                "category": "餐飲",
-                "area": "佳冬鄉",
-                "market_address": "屏東縣佳冬鄉玉光村０１４鄰中山路４９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.562872,
-                    22.428618
                 ]
             }
         },
@@ -6073,23 +6073,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全冷飲站屏東民族店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市大同里民族路６０號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48884254239,
-                    22.670062465491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清心福全 廣東店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -6101,6 +6084,23 @@
                 "coordinates": [
                     120.49746139616,
                     22.684147892222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 屏東民族店(清心福全冷飲站屏東民族店)",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市大同里民族路６０號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48884254239,
+                    22.670062465491
                 ]
             }
         },
@@ -12499,7 +12499,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 恆春店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城北里中正路９９號",
@@ -15474,6 +15474,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 東港店(東港冷飲站)",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮興臺里７鄰中山路８３號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.449254,
+                    22.46712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海味珍海產館",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15695,23 +15712,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東港冷飲站",
-                "category": "餐飲",
-                "area": "東港鎮",
-                "market_address": "屏東縣東港鎮興臺里７鄰中山路８３號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.449254,
-                    22.46712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "東永興茶行",
                 "category": "餐飲",
                 "area": "東港鎮",
@@ -15910,6 +15910,23 @@
                 "coordinates": [
                     120.460426,
                     22.472573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "廟口簡餐異國料理餐坊",
+                "category": "餐飲",
+                "area": "東港鎮",
+                "market_address": "屏東縣東港鎮東隆里１９鄰東隆街１４－３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448398,
+                    22.462965
                 ]
             }
         },
@@ -17242,7 +17259,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 林邊店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "林邊鄉",
                 "market_address": "屏東縣林邊鄉仁和村中山路２０３號",

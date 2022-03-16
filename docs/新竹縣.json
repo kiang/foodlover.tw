@@ -4730,6 +4730,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 湖口成功店(原味冷飲店)",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉信勢村成功路９２號",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043496,
+                    24.905517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 湖口工業店(振群冷飲站)",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉工業一路２５號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026659,
+                    24.869637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 湖口仁和店(新竹仁和冷飲店)",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -4945,23 +4979,6 @@
                 "coordinates": [
                     121.025045,
                     24.862596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "振群冷飲站",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉工業一路２５號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026659,
-                    24.869637
                 ]
             }
         },
@@ -5387,23 +5404,6 @@
                 "coordinates": [
                     121.0429,
                     24.894669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "原味冷飲店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉信勢村成功路９２號",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.043496,
-                    24.905517
                 ]
             }
         },
