@@ -28547,6 +28547,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 夏林店(清喜冷飲店)",
+                "category": "餐飲",
+                "area": "南區",
+                "market_address": "臺南市南區廣州里夏林路１－３１號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195136,
+                    22.985703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 台南金華總店(清心福全冷飲店)",
                 "category": "餐飲",
                 "area": "南區",
@@ -28558,23 +28575,6 @@
                 "coordinates": [
                     120.189972,
                     22.976133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清喜冷飲店",
-                "category": "餐飲",
-                "area": "南區",
-                "market_address": "臺南市南區廣州里夏林路１－３１號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.195136,
-                    22.985703
                 ]
             }
         },

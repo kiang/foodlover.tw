@@ -2741,23 +2741,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "秝淇飲料店",
-                "category": "餐飲",
-                "area": "新港鄉",
-                "market_address": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34748,
-                    23.553011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "田媽媽火雞森林",
                 "category": "餐飲",
                 "area": "新港鄉",
@@ -2769,6 +2752,23 @@
                 "coordinates": [
                     120.357321,
                     23.545231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 新港奉天店(秝淇飲料店)",
+                "category": "餐飲",
+                "area": "新港鄉",
+                "market_address": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34748,
+                    23.553011
                 ]
             }
         },

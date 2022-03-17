@@ -2299,23 +2299,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "聖庭冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區過溝里吳鳳北路７７號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.453509,
-                    23.47576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老院子一九五一餐飲店",
                 "category": "餐飲",
                 "area": "東區",
@@ -3245,6 +3228,23 @@
                 "coordinates": [
                     120.45217,
                     23.50029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義吳鳳店(聖庭冷飲店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區過溝里吳鳳北路７７號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453509,
+                    23.47576
                 ]
             }
         },
@@ -11054,6 +11054,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 嘉義仁愛店(勤叡商行)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區書院里仁愛路４７２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44224,
+                    23.47589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心冷飲站世賢店",
                 "category": "餐飲",
                 "area": "西區",
@@ -13683,23 +13700,6 @@
                 "coordinates": [
                     120.42879,
                     23.491769
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "勤叡商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區書院里仁愛路４７２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44224,
-                    23.47589
                 ]
             }
         },

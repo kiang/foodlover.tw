@@ -39818,6 +39818,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 本洲店(本洲冷飲站)",
+                "category": "餐飲",
+                "area": "岡山區",
+                "market_address": "高雄市岡山區本洲里本洲路３３９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261878,
+                    22.807521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 岡山嘉興店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "岡山區",
@@ -40152,23 +40169,6 @@
                 "coordinates": [
                     120.295205,
                     22.795672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "本洲冷飲站",
-                "category": "餐飲",
-                "area": "岡山區",
-                "market_address": "高雄市岡山區本洲里本洲路３３９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.261878,
-                    22.807521
                 ]
             }
         },
