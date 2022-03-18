@@ -378,7 +378,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "燈輝商行",
+                "shop": "清心福全 中埔頂六店(燈輝商行)",
                 "category": "餐飲",
                 "area": "中埔鄉",
                 "market_address": "嘉義縣中埔鄉富收村１鄰頂中下街７－１號",
@@ -3472,6 +3472,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 朴子二店(永和冷飲站)",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市永和里??菜埔３７―２４號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2355164245,
+                    23.463819775877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "津鋮小火鍋",
                 "category": "餐飲",
                 "area": "朴子市",
@@ -3517,23 +3534,6 @@
                 "coordinates": [
                     120.242035,
                     23.465357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永和冷飲站",
-                "category": "餐飲",
-                "area": "朴子市",
-                "market_address": "嘉義縣朴子市永和里??菜埔３７―２４號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2355164245,
-                    23.463819775877
                 ]
             }
         },

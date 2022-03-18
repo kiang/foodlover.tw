@@ -25181,23 +25181,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "隆興冷飲站",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區瑞崗里瑞和街１６３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.328329,
-                    22.606206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "陸陸早餐店",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -25328,23 +25311,6 @@
                 "coordinates": [
                     120.299049,
                     22.60426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鎮興清心冷飲站",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區鎮榮里鎮興路１４５之１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.312207,
-                    22.591701
                 ]
             }
         },
@@ -27436,6 +27402,40 @@
                 "coordinates": [
                     120.32356956976,
                     22.576739903798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 高雄隆興店(隆興冷飲站)",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區瑞崗里瑞和街１６３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328329,
+                    22.606206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 高雄鎮興店(鎮興清心冷飲站)",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區鎮榮里鎮興路１４５之１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312207,
+                    22.591701
                 ]
             }
         },
@@ -63839,7 +63839,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全冷飲站旗山延平店",
+                "shop": "清心福全 旗山延平店(清心福全冷飲站旗山延平店)",
                 "category": "餐飲",
                 "area": "旗山區",
                 "market_address": "高雄市旗山區大德里８鄰延平一路７２２之２號",
@@ -96088,23 +96088,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福澤冷飲店",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區富甲里３鄰五甲二路４３４號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.335779,
-                    22.598122
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福杯綠茶專賣店",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -97102,6 +97085,23 @@
                 "coordinates": [
                     120.349097,
                     22.626373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鳳山自強二店(福澤冷飲店)",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區富甲里３鄰五甲二路４３４號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.335779,
+                    22.598122
                 ]
             }
         },

@@ -14573,23 +14573,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "麥寮中興冷飲站",
-                "category": "餐飲",
-                "area": "麥寮鄉",
-                "market_address": "雲林縣麥寮鄉麥津村２３鄰中興路６５號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.251626,
-                    23.751994
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鮮茶道Presotea 麥寮中興店",
                 "category": "餐飲",
                 "area": "麥寮鄉",
@@ -14720,6 +14703,23 @@
                 "coordinates": [
                     120.261992,
                     23.790156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 麥寮中興店(麥寮中興冷飲站)",
+                "category": "餐飲",
+                "area": "麥寮鄉",
+                "market_address": "雲林縣麥寮鄉麥津村２３鄰中興路６５號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251626,
+                    23.751994
                 ]
             }
         },

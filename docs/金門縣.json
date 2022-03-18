@@ -4747,23 +4747,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雄峰冷飲店",
-                "category": "餐飲",
-                "area": "金湖鎮",
-                "market_address": "金門縣金湖鎮山外里黃海路９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.4147,
-                    24.442979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金王餐飲",
                 "category": "餐飲",
                 "area": "金湖鎮",
@@ -5030,6 +5013,23 @@
                 "coordinates": [
                     118.416115,
                     24.44462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 金門山外店(雄峰冷飲店)",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮山外里黃海路９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4147,
+                    24.442979
                 ]
             }
         },
