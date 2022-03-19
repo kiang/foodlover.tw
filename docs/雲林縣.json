@@ -9490,6 +9490,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 斗南文元店(文元冷飲站)",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮明昌里０１６鄰延平路二段５５０―６號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47587757163,
+                    23.671790680233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清原芋圓 斗南總店",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -9586,23 +9603,6 @@
                 "coordinates": [
                     120.479321,
                     23.674993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文元冷飲站",
-                "category": "餐飲",
-                "area": "斗南鎮",
-                "market_address": "雲林縣斗南鎮明昌里０１６鄰延平路二段５５０―６號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.47587757163,
-                    23.671790680233
                 ]
             }
         },
@@ -11241,23 +11241,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "菁心冷飲站",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮西安里６鄰中正路２９４號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43019,
-                    23.70491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "荷馬異國料理",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -11864,6 +11847,23 @@
                 "coordinates": [
                     120.495726,
                     23.730049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 虎尾中正店(菁心冷飲站)",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮西安里６鄰中正路２９４號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43019,
+                    23.70491
                 ]
             }
         },
