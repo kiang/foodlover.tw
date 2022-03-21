@@ -7875,6 +7875,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 台南青年新店(均浩冷飲店)",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區城隍里青年路１０６號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.208582,
+                    22.991869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 台南協進店(冰心冷飲棧)",
                 "category": "餐飲",
                 "area": "中西區",
@@ -12408,23 +12425,6 @@
                 "coordinates": [
                     120.202016,
                     22.995822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "均浩冷飲店",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區城隍里青年路１０６號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.208582,
-                    22.991869
                 ]
             }
         },
@@ -54183,23 +54183,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "裕信冷飲",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區裕聖里裕信路３６８號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24494509841,
-                    22.979226979809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "被愛咖啡工作坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -56693,6 +56676,23 @@
                 "coordinates": [
                     120.226727,
                     22.984369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 裕信店(裕信冷飲)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區裕聖里裕信路３６８號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24494509841,
+                    22.979226979809
                 ]
             }
         },

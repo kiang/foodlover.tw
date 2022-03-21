@@ -106,7 +106,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "誌鍛冷飲店",
+                "shop": "清心福全 元長中山店(誌鍛冷飲店)",
                 "category": "餐飲",
                 "area": "元長鄉",
                 "market_address": "雲林縣元長鄉長南村中山路２２－１０號",
@@ -837,7 +837,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全冷飲站北港二店",
+                "shop": "清心福全 北港大同店(大同冷飲站)",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮光復里大同路２６１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299145,
+                    23.572261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 北港二店(清心福全冷飲站北港二店)",
                 "category": "餐飲",
                 "area": "北港鎮",
                 "market_address": "雲林縣北港鎮華勝里民享路２號",
@@ -1086,23 +1103,6 @@
                 "coordinates": [
                     120.299865,
                     23.574846
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大同冷飲站",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮光復里大同路２６１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.299145,
-                    23.572261
                 ]
             }
         },

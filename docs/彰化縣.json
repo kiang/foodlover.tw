@@ -13451,23 +13451,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "自強冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市新興里自強路１８５―１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54324808936,
-                    24.090180494639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "胖老爹美式炸雞 彰化自強店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -14624,6 +14607,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 彰化自強店(自強冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市新興里自強路１８５―１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54324808936,
+                    24.090180494639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化泰和店(泰和冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市阿夷里泰和路２段４１３號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556409,
+                    24.095692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化民生店(一心冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市永生里民生路４６號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542779,
+                    24.075714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化中正店(正心冷飲店)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市彰安里中正路２段５８０號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53539243474,
+                    24.069429561078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 中華西店(佳富飲料站)",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -14828,23 +14879,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "泰和冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市阿夷里泰和路２段４１３號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.556409,
-                    24.095692
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "河南味麵食館",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -15043,23 +15077,6 @@
                 "coordinates": [
                     120.542953,
                     24.072756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "正心冷飲店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市彰安里中正路２段５８０號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.53539243474,
-                    24.069429561078
                 ]
             }
         },
@@ -18579,23 +18596,6 @@
                 "coordinates": [
                     120.540468,
                     24.079052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "一心冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市永生里民生路４６號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542779,
-                    24.075714
                 ]
             }
         },
@@ -25793,6 +25793,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 彰化福興彰鹿店(再益冷飲店)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮街尾里復興南路４號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439561,
+                    24.048954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海燕國際貿易有限公司",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -26484,23 +26501,6 @@
                 "coordinates": [
                     120.438357,
                     24.056025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "再益冷飲店",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮街尾里復興南路４號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.439561,
-                    24.048954
                 ]
             }
         },

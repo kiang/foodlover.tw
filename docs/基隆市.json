@@ -3540,6 +3540,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆中船店(品緻冷飲站)",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正船里中船路８８號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751257,
+                    25.137423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海節餐酒館",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4537,23 +4554,6 @@
                 "coordinates": [
                     121.783468,
                     25.148375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品緻冷飲站",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區正船里中船路８８號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.751257,
-                    25.137423
                 ]
             }
         },

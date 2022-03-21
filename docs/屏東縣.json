@@ -1279,6 +1279,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 內埔龍泉店(內埔龍泉冷飲站)",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉龍泉村原勝路２２７號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600021,
+                    22.669172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 內埔廣濟店(清心福全冷飲站屏東內埔店)",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1772,23 +1789,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "內埔龍泉冷飲站",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉龍泉村原勝路２２７號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.600021,
-                    22.669172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "內埔早餐店",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1959,6 +1959,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 南州三民店(南州冷飲店)",
+                "category": "餐飲",
+                "area": "南州鄉",
+                "market_address": "屏東縣南州鄉溪南村三民路１６３號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.506677,
+                    22.489611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晴汶早午餐",
                 "category": "餐飲",
                 "area": "南州鄉",
@@ -2021,23 +2038,6 @@
                 "coordinates": [
                     120.515739,
                     22.484528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "南州冷飲店",
-                "category": "餐飲",
-                "area": "南州鄉",
-                "market_address": "屏東縣南州鄉溪南村三民路１６３號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.506677,
-                    22.489611
                 ]
             }
         },
@@ -6107,6 +6107,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 屏東林森二店(森二福全茶飲站)",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市橋北里廣東路５１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49879953805,
+                    22.670875280754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 勝利店(勝利冷飲店)",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -6798,23 +6815,6 @@
                 "coordinates": [
                     120.498275,
                     22.684839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "森二福全茶飲站",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市橋北里廣東路５１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.49879953805,
-                    22.670875280754
                 ]
             }
         },
@@ -20217,6 +20217,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 屏東琉球店(小琉球冷飲店)",
+                "category": "餐飲",
+                "area": "琉球鄉",
+                "market_address": "屏東縣琉球鄉大福村中正路１７２－７號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.370469,
+                    22.339677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "榖泰泰式餐飲",
                 "category": "餐飲",
                 "area": "琉球鄉",
@@ -20262,23 +20279,6 @@
                 "coordinates": [
                     120.381943,
                     22.353145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小琉球冷飲店",
-                "category": "餐飲",
-                "area": "琉球鄉",
-                "market_address": "屏東縣琉球鄉大福村中正路１７２－７號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.370469,
-                    22.339677
                 ]
             }
         },
@@ -20948,7 +20948,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 萬丹社皮店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "萬丹鄉",
                 "market_address": "屏東縣萬丹鄉社皮村大昌路５３９號",
@@ -21628,6 +21628,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 車城中山店(天秤座)",
+                "category": "餐飲",
+                "area": "車城鄉",
+                "market_address": "屏東縣車城鄉福興村中山路５－２號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713989,
+                    22.070236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "洺泉餐飲",
                 "category": "餐飲",
                 "area": "車城鄉",
@@ -21656,23 +21673,6 @@
                 "coordinates": [
                     120.715058,
                     22.072444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "天秤座",
-                "category": "餐飲",
-                "area": "車城鄉",
-                "market_address": "屏東縣車城鄉福興村中山路５－２號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.713989,
-                    22.070236
                 ]
             }
         },

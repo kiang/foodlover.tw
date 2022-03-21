@@ -14896,6 +14896,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 新竹食品店(新竹食品冷飲店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區南大里食品路２３１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97427576444,
+                    24.795768969187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 新竹林森店(林森冷飲店)",
                 "category": "餐飲",
                 "area": "東區",
@@ -14924,6 +14941,40 @@
                 "coordinates": [
                     120.98724469093,
                     24.805529766144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 新竹寶山店(佳銓冷飲站)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區高峰里寶山路１２２號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97501752029,
+                    24.792503800074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 新竹南大店(南大冷飲店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區振興里南大路４３８號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.968411,
+                    24.796904
                 ]
             }
         },
@@ -16029,23 +16080,6 @@
                 "coordinates": [
                     120.996511,
                     24.797972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "林森冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區南門里林森路７６號",
-                "pay_list": "悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96723732312,
-                    24.801046089607
                 ]
             }
         },
@@ -17185,23 +17219,6 @@
                 "coordinates": [
                     120.991476,
                     24.80082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新竹食品冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區南大里食品路２３１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97427576444,
-                    24.795768969187
                 ]
             }
         },
@@ -21084,23 +21101,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "南大冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區振興里南大路４３８號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.968411,
-                    24.796904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "卓師傅鐵板燒",
                 "category": "餐飲",
                 "area": "東區",
@@ -22302,23 +22302,6 @@
                 "coordinates": [
                     121.00885101863,
                     24.794785623809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佳銓冷飲站",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區高峰里寶山路１２２號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97501752029,
-                    24.792503800074
                 ]
             }
         },
@@ -23951,6 +23934,23 @@
                 "coordinates": [
                     120.97410391947,
                     24.808845182106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 園區2店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "新竹市東區金山里光復路一段１２５號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02322566024,
+                    24.781346399397
                 ]
             }
         },

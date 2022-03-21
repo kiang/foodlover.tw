@@ -3472,6 +3472,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 朴子山通店(云莆冷飲店)",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市文化里海通路３３號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244031,
+                    23.463647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 朴子二店(永和冷飲站)",
                 "category": "餐飲",
                 "area": "朴子市",
@@ -3772,23 +3789,6 @@
                 "coordinates": [
                     120.241142,
                     23.465292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "云莆冷飲店",
-                "category": "餐飲",
-                "area": "朴子市",
-                "market_address": "嘉義縣朴子市文化里海通路３３號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.244031,
-                    23.463647
                 ]
             }
         },

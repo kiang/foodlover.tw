@@ -7858,6 +7858,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 高雄九如店(微笑可可冷飲店)",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區安發里延吉街５４號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31981279975,
+                    22.640442519297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 熱河店(德記茶行)",
                 "category": "餐飲",
                 "area": "三民區",
@@ -10555,23 +10572,6 @@
                 "coordinates": [
                     120.332052,
                     22.64881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "微笑可可冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區安發里延吉街５４號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31981279975,
-                    22.640442519297
                 ]
             }
         },
@@ -66542,6 +66542,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 蚵寮二店(光明一品茶冷飲)",
+                "category": "餐飲",
+                "area": "梓官區",
+                "market_address": "高雄市梓官區禮蚵里０１１鄰光明路１４８號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250366,
+                    22.732945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淇幻冰城",
                 "category": "餐飲",
                 "area": "梓官區",
@@ -66604,23 +66621,6 @@
                 "coordinates": [
                     120.2476,
                     22.734259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "光明一品茶冷飲",
-                "category": "餐飲",
-                "area": "梓官區",
-                "market_address": "高雄市梓官區禮蚵里０１１鄰光明路１４８號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.250366,
-                    22.732945
                 ]
             }
         },
@@ -70163,6 +70163,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 楠梓後勁夜市店(後勁夜市店)",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區錦屏里後昌路７９號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311462,
+                    22.7194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淳元商行",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -71483,23 +71500,6 @@
                 "coordinates": [
                     120.297954,
                     22.72355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "後勁夜市店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區錦屏里後昌路７９號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.311462,
-                    22.7194
                 ]
             }
         },
@@ -109858,7 +109858,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心華榮冷飲店",
+                "shop": "清心福全 鼓山華榮店(清心華榮冷飲店)",
                 "category": "餐飲",
                 "area": "鼓山區",
                 "market_address": "高雄市鼓山區華豐里華榮路３３１－１號",
