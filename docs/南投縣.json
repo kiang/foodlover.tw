@@ -2860,6 +2860,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 南投南陽店(南陽冷飲站)",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市平和里６鄰南陽路８２號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689508,
+                    23.909867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 南投南崗店(中成冷飲站)",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市漳和里０２５鄰南崗２路３２２號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678006,
+                    23.913699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 南投中正店(中興冷飲站)",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3914,23 +3948,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "南陽冷飲站",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市平和里６鄰南陽路８２號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.689508,
-                    23.909867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南投稅務出張所",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4231,23 +4248,6 @@
                 "coordinates": [
                     120.685064,
                     23.907465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中成冷飲站",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市漳和里０２５鄰南崗２路３２２號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.678006,
-                    23.913699
                 ]
             }
         },
@@ -6226,23 +6226,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "茶米麴茶飲站",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮北門里中山路二段２８３號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.968063,
-                    23.965622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶湯會 埔里中正店",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -6957,6 +6940,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 埔里忠孝店(忠孝冷飲店)",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮東門里忠孝路１８２號",
+                "pay_list": "信用卡\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971097,
+                    23.963595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 埔里南盛店(桂禾棠茶飲站)",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -6968,6 +6968,23 @@
                 "coordinates": [
                     120.971281,
                     23.968285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 埔里中正店(茶米麴茶飲站)",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮北門里中山路二段２８３號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.968063,
+                    23.965622
                 ]
             }
         },
@@ -7478,23 +7495,6 @@
                 "coordinates": [
                     120.976757,
                     23.965876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "忠孝冷飲店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮東門里忠孝路１８２號",
-                "pay_list": "信用卡\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.971097,
-                    23.963595
                 ]
             }
         },

@@ -2792,6 +2792,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 土庫建國店(夏漾冷飲店)",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮宮北里１８鄰建國路９８號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395048,
+                    23.679366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨間廚房 土庫馬光店",
                 "category": "餐飲",
                 "area": "土庫鎮",
@@ -2837,23 +2854,6 @@
                 "coordinates": [
                     120.395915,
                     23.675583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "夏漾冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮宮北里１８鄰建國路９８號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.395048,
-                    23.679366
                 ]
             }
         },
@@ -6090,6 +6090,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 斗六西平店(延平冷飲站)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市三平里西平路２３４號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536074,
+                    23.711639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 斗六文化店(茶香冷飲店)",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7274,23 +7291,6 @@
                 "coordinates": [
                     120.549432,
                     23.703683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "延平冷飲站",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市三平里西平路２３４號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536074,
-                    23.711639
                 ]
             }
         },
@@ -11853,6 +11853,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 雲林工專店(工專冷飲站)",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮立仁里２４鄰工專路９２號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42541,
+                    23.701543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 虎尾光復店(光復冷飲店)",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮新興里０２２鄰光復路３７９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.438218,
+                    23.709969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 虎尾中正店(菁心冷飲站)",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -12550,23 +12584,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "工專冷飲站",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮立仁里２４鄰工專路９２號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.42541,
-                    23.701543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "山湶企業社",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13020,23 +13037,6 @@
                 "coordinates": [
                     120.440172,
                     23.709972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "光復冷飲店",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮新興里０２２鄰光復路３７９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.438218,
-                    23.709969
                 ]
             }
         },

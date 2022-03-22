@@ -395,7 +395,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "水龍冷飲站",
+                "shop": "清心福全 三義勝興店(水龍冷飲站)",
                 "category": "餐飲",
                 "area": "三義鄉",
                 "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１７０―５號１樓",
@@ -3115,7 +3115,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "燕妮冷飲店",
+                "shop": "清心福全 後龍三民店(燕妮冷飲店)",
                 "category": "餐飲",
                 "area": "後龍鎮",
                 "market_address": "苗栗縣後龍鎮中龍里１２鄰三民路１２１號１樓",
@@ -7535,23 +7535,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "站前飲品專賣店",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里９鄰爲公路５８號１Ｆ",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652227,
-                    24.443256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "站前便當專賣店",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -7597,6 +7580,23 @@
                 "coordinates": [
                     120.654712,
                     24.440242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 苑裡站前店(站前飲品專賣店)",
+                "category": "餐飲",
+                "area": "苑裡鎮",
+                "market_address": "苗栗縣苑裡鎮苑南里９鄰爲公路５８號１Ｆ",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652227,
+                    24.443256
                 ]
             }
         },
@@ -14760,6 +14760,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 頭份建國店(建國冷飲站)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市建國里１１鄰建國路１００號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.910719,
+                    24.695338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 苗栗頭份信義店(宗文冷飲店)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市信義里９鄰信義路５５號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.908519,
+                    24.68495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 尚順店(山川堂)",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -15423,23 +15457,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "建國冷飲站",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市建國里１１鄰建國路１００號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.910719,
-                    24.695338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "廣湘川小館",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -15621,23 +15638,6 @@
                 "coordinates": [
                     120.907647,
                     24.689606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宗文冷飲店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市信義里９鄰信義路５５號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.908519,
-                    24.68495
                 ]
             }
         },

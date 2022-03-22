@@ -1,7 +1,22 @@
 [
     {
         "index": 1,
-        "shop": "義竹冷飲店",
+        "shop": "生活空間",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "雲嘉南",
+        "city": "嘉義縣",
+        "area": "義竹鄉",
+        "market_address": "嘉義縣義竹鄉仁里村９鄰義竹３８６―４號",
+        "pay_list": [
+            "台灣pay",
+            "信用卡"
+        ]
+    },
+    {
+        "index": 2,
+        "shop": "清心福全 義竹六桂店(義竹冷飲店)",
         "category": [
             "餐飲"
         ],
@@ -14,21 +29,6 @@
             "一卡通MONEY(原LINE Pay Money)",
             "悠遊付",
             "橘子支付"
-        ]
-    },
-    {
-        "index": 2,
-        "shop": "生活空間",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "雲嘉南",
-        "city": "嘉義縣",
-        "area": "義竹鄉",
-        "market_address": "嘉義縣義竹鄉仁里村９鄰義竹３８６―４號",
-        "pay_list": [
-            "台灣pay",
-            "信用卡"
         ]
     }
 ]

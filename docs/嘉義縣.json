@@ -8045,23 +8045,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "義竹冷飲店",
-                "category": "餐飲",
-                "area": "義竹鄉",
-                "market_address": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.246088,
-                    23.338298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "生活空間",
                 "category": "餐飲",
                 "area": "義竹鄉",
@@ -8073,6 +8056,23 @@
                 "coordinates": [
                     120.24211352725,
                     23.336146257317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 義竹六桂店(義竹冷飲店)",
+                "category": "餐飲",
+                "area": "義竹鄉",
+                "market_address": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246088,
+                    23.338298
                 ]
             }
         },

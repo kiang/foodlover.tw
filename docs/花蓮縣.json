@@ -1500,23 +1500,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "花濃冷飲店",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉北昌村建國路１段５３―１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.59492616682,
-                    23.984965970706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "芙蓉園美食天地",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -1987,6 +1970,40 @@
                 "coordinates": [
                     121.586878,
                     23.972923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 花蓮花濃店(花濃冷飲店)",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉北昌村建國路１段５３―１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59492616682,
+                    23.984965970706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 吉安中華店(友愛冷飲站)",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉宜昌村１９鄰中華路２段２２９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.580265,
+                    23.97324
                 ]
             }
         },
@@ -3092,23 +3109,6 @@
                 "coordinates": [
                     121.580217,
                     23.973236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "友愛冷飲站",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉宜昌村１９鄰中華路２段２２９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.580265,
-                    23.97324
                 ]
             }
         },
@@ -5750,6 +5750,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 新城北埔店(沁涼冷飲站)",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉北埔村１４鄰民有街２７５號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604099,
+                    24.035691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沁飲中西式早午餐",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -5761,23 +5778,6 @@
                 "coordinates": [
                     121.643579,
                     24.132121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "沁涼冷飲站",
-                "category": "餐飲",
-                "area": "新城鄉",
-                "market_address": "花蓮縣新城鄉北埔村１４鄰民有街２７５號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.604099,
-                    24.035691
                 ]
             }
         },
@@ -17922,6 +17922,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 花蓮新港店(月心冷飲站)",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里１６鄰新港街６７號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60656490377,
+                    23.979181160479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 花蓮中華店(偉翔冷飲站)",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主工里中華路１１６號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60571674567,
+                    23.975923420813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海豚遇見貓",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -19106,23 +19140,6 @@
                 "coordinates": [
                     121.619519,
                     23.981449
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "月心冷飲站",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國治里１６鄰新港街６７號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60656490377,
-                    23.979181160479
                 ]
             }
         },
@@ -23237,23 +23254,6 @@
                 "coordinates": [
                     121.593536,
                     23.990048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "偉翔冷飲站",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主工里中華路１１６號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60571674567,
-                    23.975923420813
                 ]
             }
         },

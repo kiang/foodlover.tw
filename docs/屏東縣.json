@@ -6073,6 +6073,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 長治中興店(中興冷飲店)",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市大連里大連路７－２６號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50905852196,
+                    22.684045159889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 廣東店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -10357,23 +10374,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "中興冷飲店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市大連里大連路７－２６號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.50905852196,
-                    22.684045159889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "不老屋飲品行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -14386,23 +14386,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑞成冷飲店",
-                "category": "餐飲",
-                "area": "新園鄉",
-                "market_address": "屏東縣新園鄉仙吉村０１４鄰仙吉路５７號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4601,
-                    22.541961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "珍鮮鍋",
                 "category": "餐飲",
                 "area": "新園鄉",
@@ -14414,6 +14397,23 @@
                 "coordinates": [
                     120.460195,
                     22.536857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 新園仙吉店(瑞成冷飲店)",
+                "category": "餐飲",
+                "area": "新園鄉",
+                "market_address": "屏東縣新園鄉仙吉村０１４鄰仙吉路５７號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4601,
+                    22.541961
                 ]
             }
         },
