@@ -4951,23 +4951,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新竹仁和冷飲店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉鳳凰村仁和路１４１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.014945,
-                    24.872893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "文饌池上飯包",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -12108,6 +12091,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 竹北華興店(清全冷飲站)",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市華興街２７８號",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99985072048,
+                    24.83776241577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 竹北文興店(清心福全股份有限公司竹北文興店)",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12221,23 +12221,6 @@
                 "coordinates": [
                     121.011993,
                     24.835155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清全冷飲站",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市華興街２７８號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.99985072048,
-                    24.83776241577
                 ]
             }
         },
@@ -20608,23 +20591,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "竹東鎮中興冷飲店",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮忠孝里１２鄰長春路３段２７３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.081726,
-                    24.745614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "竹東豐盛堂",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20874,6 +20840,23 @@
                 "coordinates": [
                     121.087891,
                     24.738392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 竹東中興店(竹東鎮中興冷飲店)",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮忠孝里１２鄰長春路３段２７３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.081726,
+                    24.745614
                 ]
             }
         },

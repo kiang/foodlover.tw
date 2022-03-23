@@ -310,23 +310,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾翔冷飲店",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460445,
-                    23.452421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福友咖啡農場",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -372,6 +355,23 @@
                 "coordinates": [
                     120.459535,
                     23.454248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義後庄店(禾翔冷飲店)",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460445,
+                    23.452421
                 ]
             }
         },

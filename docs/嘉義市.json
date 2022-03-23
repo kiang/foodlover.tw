@@ -8555,23 +8555,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "青育飲料店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福全里友愛路１６４號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43428,
-                    23.48008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "露比夫人有限公司",
                 "category": "餐飲",
                 "area": "西區",
@@ -11048,6 +11031,23 @@
                 "coordinates": [
                     120.43768,
                     23.46761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義友愛店(青育飲料店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福全里友愛路１６４號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43428,
+                    23.48008
                 ]
             }
         },

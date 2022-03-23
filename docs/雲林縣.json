@@ -2571,6 +2571,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 四湖中正店(掌春冷飲店)",
+                "category": "餐飲",
+                "area": "四湖鄉",
+                "market_address": "雲林縣四湖鄉湖西村中正路４１８－１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225112,
+                    23.634893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "永祥豆漿",
                 "category": "餐飲",
                 "area": "四湖鄉",
@@ -2582,23 +2599,6 @@
                 "coordinates": [
                     120.225264,
                     23.636061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "掌春冷飲店",
-                "category": "餐飲",
-                "area": "四湖鄉",
-                "market_address": "雲林縣四湖鄉湖西村中正路４１８－１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.225112,
-                    23.634893
                 ]
             }
         },
@@ -11887,6 +11887,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 虎尾仁愛店(仁愛冷飲店)",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮中山里３鄰中正路９１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434583,
+                    23.708562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 虎尾中正店(菁心冷飲站)",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13094,23 +13111,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "仁愛冷飲店",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮中山里３鄰中正路９１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434583,
-                    23.708562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "井野日本料理",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13910,23 +13910,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福來冷飲店",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮新豐里福來路４１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.446141,
-                    23.7832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盛駩食品行",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -14006,6 +13989,23 @@
                 "coordinates": [
                     120.461845,
                     23.79923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 西螺新社店(福來冷飲店)",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮新豐里福來路４１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.446141,
+                    23.7832
                 ]
             }
         },

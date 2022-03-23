@@ -13587,23 +13587,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿貝企業社",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市主勤里自由街１２０號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605705,
-                    23.976929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿草蚵仔煎串燒",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -17905,7 +17888,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全飲料店",
+                "shop": "清心福全 花蓮華西店(清心福全飲料店)",
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市民心里１４鄰華西１１７－３號１樓",
@@ -17950,6 +17933,23 @@
                 "coordinates": [
                     121.60571674567,
                     23.975923420813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 花蓮中山店(中山冷飲站)",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國裕里０４９鄰中山路５６８號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59765701386,
+                    23.99233497022
                 ]
             }
         },
@@ -23662,23 +23662,6 @@
                 "coordinates": [
                     121.629295,
                     23.9951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中山冷飲站",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國裕里０４９鄰中山路５６８號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.59765701386,
-                    23.99233497022
                 ]
             }
         },

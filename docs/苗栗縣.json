@@ -5087,23 +5087,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "紅豆村飲料站",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮照南里光復路２０４號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.879384,
-                    24.688558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "紅瓦舍燒烤店",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -5506,6 +5489,23 @@
                 "coordinates": [
                     120.877784,
                     24.684995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 竹南光復店(紅豆村飲料站)",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮照南里光復路２０４號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879384,
+                    24.688558
                 ]
             }
         },
@@ -8946,23 +8946,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長縉冷飲站",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２２２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.828346,
-                    24.570941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鑫旺號食品行",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -9898,6 +9881,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 苗栗為公店(長縉冷飲站)",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市清華里２０鄰爲公路２２２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.828346,
+                    24.570941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 苗栗文昌店(文昌冷飲站)",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市玉華里玉清街１６巷１號旁",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.827302,
+                    24.563445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 苗栗府前店(長龍冷飲站)",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -10385,23 +10402,6 @@
                 "coordinates": [
                     120.814742,
                     24.57204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文昌冷飲站",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市玉華里玉清街１６巷１號旁",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.827302,
-                    24.563445
                 ]
             }
         },
