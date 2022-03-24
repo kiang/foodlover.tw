@@ -1194,6 +1194,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 公館大同店(宏吉利飲料店)",
+                "category": "餐飲",
+                "area": "公館鄉",
+                "market_address": "苗栗縣公館鄉玉泉村１５鄰２５―２號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.825233,
+                    24.505889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "油桐花坊",
                 "category": "餐飲",
                 "area": "公館鄉",
@@ -1409,23 +1426,6 @@
                 "coordinates": [
                     120.829804,
                     24.527939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宏吉利飲料店",
-                "category": "餐飲",
-                "area": "公館鄉",
-                "market_address": "苗栗縣公館鄉玉泉村１５鄰２５―２號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.825233,
-                    24.505889
                 ]
             }
         },
@@ -4747,23 +4747,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鈺盛冷飲店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮照南里１６鄰博愛街１６０號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.875158,
-                    24.687016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金地王股份有限公司",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -5489,6 +5472,23 @@
                 "coordinates": [
                     120.877784,
                     24.684995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 竹南博愛店(鈺盛冷飲店)",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮照南里１６鄰博愛街１６０號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.875158,
+                    24.687016
                 ]
             }
         },
@@ -8827,23 +8827,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "飛騰冷飲店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市勝利里３１鄰新東街１４０號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.821121,
-                    24.551197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "青舍有限公司",
                 "category": "餐飲\/糕餅",
                 "area": "苗栗市",
@@ -9892,6 +9875,23 @@
                 "coordinates": [
                     120.828346,
                     24.570941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 苗栗新東店(飛騰冷飲店)",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市勝利里３１鄰新東街１４０號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821121,
+                    24.551197
                 ]
             }
         },

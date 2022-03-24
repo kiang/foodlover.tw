@@ -14590,6 +14590,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 彰南店(彰南冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市福山里彰南路１段２７０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.572153,
+                    24.086013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 彰化華山店(華山冷飲站)",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -16114,23 +16131,6 @@
                 "coordinates": [
                     120.539226,
                     24.087779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "彰南冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市福山里彰南路１段２７０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.572153,
-                    24.086013
                 ]
             }
         },
@@ -22223,23 +22223,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福來冷飲站",
-                "category": "餐飲",
-                "area": "福興鄉",
-                "market_address": "彰化縣福興鄉福興村４鄰沿海路五段３２４號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.430916,
-                    24.049938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "炸職人商行",
                 "category": "餐飲",
                 "area": "福興鄉",
@@ -22251,6 +22234,23 @@
                 "coordinates": [
                     120.436718,
                     24.045449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 福興沿海店(福來冷飲站)",
+                "category": "餐飲",
+                "area": "福興鄉",
+                "market_address": "彰化縣福興鄉福興村４鄰沿海路五段３２４號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430916,
+                    24.049938
                 ]
             }
         },

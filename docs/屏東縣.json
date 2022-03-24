@@ -6107,6 +6107,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 屏東龍華店(清心冷飲站)",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市龍華里龍華路１８２―１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48210547802,
+                    22.635558709304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 屏東民族店(清心福全冷飲站屏東民族店)",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -6152,23 +6169,6 @@
                 "coordinates": [
                     120.4800806246,
                     22.679144850241
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心冷飲站",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市龍華里龍華路１８２―１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48210547802,
-                    22.635558709304
                 ]
             }
         },
