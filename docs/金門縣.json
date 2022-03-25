@@ -1687,23 +1687,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "煒倫冷飲店",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮北門里民生路３７－３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.319079,
-                    24.43539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瀧欣小吃店",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -1749,6 +1732,23 @@
                 "coordinates": [
                     118.31978604448,
                     24.430619278325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 金門店(煒倫冷飲店)",
+                "category": "餐飲",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮北門里民生路３７－３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319079,
+                    24.43539
                 ]
             }
         },

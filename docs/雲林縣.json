@@ -2979,7 +2979,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "御品軒冷飲站",
+                "shop": "清心福全 大埤延平店(御品軒冷飲站)",
                 "category": "餐飲",
                 "area": "大埤鄉",
                 "market_address": "雲林縣大埤鄉豐田村００９鄰延平路３段６―２號",
@@ -3081,6 +3081,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 崙背中山店(中山冷飲店)",
+                "category": "餐飲",
+                "area": "崙背鄉",
+                "market_address": "雲林縣崙背鄉東明村８鄰中山路２４２號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354371,
+                    23.76107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "李排骨酥餐館",
                 "category": "餐飲",
                 "area": "崙背鄉",
@@ -3143,23 +3160,6 @@
                 "coordinates": [
                     120.354699,
                     23.759861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中山冷飲店",
-                "category": "餐飲",
-                "area": "崙背鄉",
-                "market_address": "雲林縣崙背鄉東明村８鄰中山路２４２號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.354371,
-                    23.76107
                 ]
             }
         },
@@ -6107,6 +6107,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 斗六石榴店(昱立企業行)",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市榴中里石榴路１０６―１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58411189672,
+                    23.723154013354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 斗六文化店(茶香冷飲店)",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6696,23 +6713,6 @@
                 "coordinates": [
                     120.538014,
                     23.698509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昱立企業行",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市榴中里石榴路１０６―１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.58411189672,
-                    23.723154013354
                 ]
             }
         },
@@ -10187,7 +10187,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "莿桐冷飲站",
+                "shop": "清心福全 莿桐中山店(莿桐冷飲站)",
                 "category": "餐飲",
                 "area": "莿桐鄉",
                 "market_address": "雲林縣莿桐鄉莿桐村中山路１６３號１樓",

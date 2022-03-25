@@ -2826,6 +2826,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 綠島南寮店(宇亨冷飲站)",
+                "category": "餐飲",
+                "area": "綠島鄉",
+                "market_address": "臺東縣綠島鄉南寮村南寮路１４０號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4697,
+                    22.667157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "梅蓮民宿",
                 "category": "餐飲",
                 "area": "綠島鄉",
@@ -2905,23 +2922,6 @@
                 "coordinates": [
                     121.47357,
                     22.661605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宇亨冷飲站",
-                "category": "餐飲",
-                "area": "綠島鄉",
-                "market_address": "臺東縣綠島鄉南寮村南寮路１４０號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4697,
-                    22.667157
                 ]
             }
         },

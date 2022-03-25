@@ -1483,23 +1483,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鈺庭冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東川里大雅路２段６５６號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.466849,
-                    23.477309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金麟餐飲店",
                 "category": "餐飲",
                 "area": "東區",
@@ -3228,6 +3211,23 @@
                 "coordinates": [
                     120.45217,
                     23.50029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義大雅店(鈺庭冷飲店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東川里大雅路２段６５６號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.466849,
+                    23.477309
                 ]
             }
         },
@@ -11564,23 +11564,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "松品商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區番社里中山路４０２號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44549,
-                    23.47964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "杰沄商行",
                 "category": "餐飲",
                 "area": "西區",
@@ -12901,6 +12884,23 @@
                 "coordinates": [
                     120.43186,
                     23.491309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "太將鍋日式涮涮鍋 嘉義中山店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區番社里中山路４０２號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44549,
+                    23.47964
                 ]
             }
         },

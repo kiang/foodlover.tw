@@ -2010,6 +2010,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 吉安中正店(永恆冷飲站)",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉仁里村１３鄰中正路１段１０４號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591807,
+                    23.96629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淳純飲料店",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -2123,23 +2140,6 @@
                 "coordinates": [
                     121.581597,
                     23.990646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永恆冷飲站",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉仁里村１３鄰中正路１段１０４號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.591807,
-                    23.96629
                 ]
             }
         },
@@ -17939,6 +17939,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 花蓮中美店(川泉湧飲料店)",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民政里２鄰中美路１５１號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.628176,
+                    23.994344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 花蓮中山店(中山冷飲站)",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -20534,23 +20551,6 @@
                 "coordinates": [
                     121.605948,
                     23.978743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "川泉湧飲料店",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市民政里２鄰中美路１５１號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.628176,
-                    23.994344
                 ]
             }
         },

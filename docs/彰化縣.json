@@ -769,23 +769,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "顏記茶坊",
-                "category": "餐飲",
-                "area": "伸港鄉",
-                "market_address": "彰化縣伸港鄉新港村１鄰中山路４７號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48566,
-                    24.14719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "迷客夏 彰化伸港店",
                 "category": "餐飲",
                 "area": "伸港鄉",
@@ -848,6 +831,23 @@
                 "coordinates": [
                     120.486947,
                     24.161517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 伸港信義店(顏記茶坊)",
+                "category": "餐飲",
+                "area": "伸港鄉",
+                "market_address": "彰化縣伸港鄉新港村１鄰中山路４７號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48566,
+                    24.14719
                 ]
             }
         },
@@ -2503,23 +2503,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豪軒冷飲站",
-                "category": "餐飲",
-                "area": "和美鎮",
-                "market_address": "彰化縣和美鎮犁盛里彰新路２段５３３號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536248,
-                    24.097792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "藝術家咖啡館",
                 "category": "餐飲\/糕餅",
                 "area": "和美鎮",
@@ -2871,6 +2854,23 @@
                 "coordinates": [
                     120.496849,
                     24.114021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 和美彰新店(豪軒冷飲站)",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮犁盛里彰新路２段５３３號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536248,
+                    24.097792
                 ]
             }
         },
@@ -5784,23 +5784,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福品冷飲站",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市林厝里山脚路一段４３１號",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.60045814911,
-                    23.942980888214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "祈頭並進有限公司",
                 "category": "餐飲",
                 "area": "員林市",
@@ -6288,6 +6271,23 @@
                 "coordinates": [
                     120.564792,
                     23.962456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 員林林厝店(福品冷飲站)",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市林厝里山脚路一段４３１號",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.60045814911,
+                    23.942980888214
                 ]
             }
         },
@@ -9796,23 +9796,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佳事飲茶行",
-                "category": "餐飲",
-                "area": "埔心鄉",
-                "market_address": "彰化縣埔心鄉東門村１１鄰員鹿路２段３８１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542592,
-                    23.952725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "三商巧福 員林店",
                 "category": "餐飲",
                 "area": "埔心鄉",
@@ -9926,23 +9909,6 @@
                 "coordinates": [
                     120.466537,
                     23.998954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "益心飲料店",
-                "category": "餐飲",
-                "area": "埔鹽鄉",
-                "market_address": "彰化縣埔鹽鄉埔南村彰水路１段３００號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476654,
-                    23.994202
                 ]
             }
         },
@@ -10323,7 +10289,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "河馬冷飲站",
+                "shop": "清心福全 大城南平店(河馬冷飲站)",
                 "category": "餐飲",
                 "area": "大城鄉",
                 "market_address": "彰化縣大城鄉東城村南平路３３９號１樓",
@@ -10453,6 +10419,23 @@
                 "coordinates": [
                     120.54543,
                     23.991913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 大村山腳店(山腳冷飲站)",
+                "category": "餐飲",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉福興村９鄰山腳路１０９―６號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58198517878,
+                    23.994123310272
                 ]
             }
         },
@@ -10606,23 +10589,6 @@
                 "coordinates": [
                     120.596309,
                     24.001239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "山腳冷飲站",
-                "category": "餐飲",
-                "area": "大村鄉",
-                "market_address": "彰化縣大村鄉福興村９鄰山腳路１０９―６號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.58198517878,
-                    23.994123310272
                 ]
             }
         },
@@ -12805,23 +12771,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "辰奕采冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市五權里彰美路１段２４１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.5367651465,
-                    24.089438468573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "路邊攤擔擔麵",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -13825,23 +13774,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "立荃冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市莿桐里４鄰彰水路１７８－１１號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.51553040807,
-                    24.056584744537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "立偉商行",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -13910,23 +13842,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福華冷飲店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市牛埔里６鄰彰南路３段２６６號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.59833134335,
-                    24.081464346514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福勝亭 彰福店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -13972,40 +13887,6 @@
                 "coordinates": [
                     120.56869888894,
                     24.087536674579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "福元冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市磚??里線東路一段４６６―１號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.51856652395,
-                    24.074763235533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "福來聚冷飲站",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市和調里實踐路４０號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.55396048843,
-                    24.083222183534
                 ]
             }
         },
@@ -14641,6 +14522,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 彰化線東店(福元冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市磚??里線東路一段４６６―１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51856652395,
+                    24.074763235533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 彰化泰和店(泰和冷飲站)",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -14675,6 +14573,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 彰化彰美店(辰奕采冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市五權里彰美路１段２４１號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5367651465,
+                    24.089438468573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化彰水店(立荃冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市莿桐里４鄰彰水路１７８－１１號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51553040807,
+                    24.056584744537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化實踐店(福來聚冷飲站)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市和調里實踐路４０號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55396048843,
+                    24.083222183534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化大埔二店(心怡冷飲店)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市延平里大埔路４２３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543439,
+                    24.063095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 彰化中正店(正心冷飲店)",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -14686,6 +14652,23 @@
                 "coordinates": [
                     120.53539243474,
                     24.069429561078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 彰化一心店(福華冷飲店)",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市牛埔里６鄰彰南路３段２６６號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59833134335,
+                    24.081464346514
                 ]
             }
         },
@@ -16080,23 +16063,6 @@
                 "coordinates": [
                     120.51865379814,
                     24.060704824207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "心怡冷飲店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市延平里大埔路４２３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.543439,
-                    24.063095
                 ]
             }
         },
@@ -20200,23 +20166,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福鴻冷飲店",
-                "category": "餐飲",
-                "area": "溪湖鎮",
-                "market_address": "彰化縣溪湖鎮大竹里西環路７９號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.479416,
-                    23.955947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "真滿美食館",
                 "category": "餐飲",
                 "area": "溪湖鎮",
@@ -21934,7 +21883,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "德東冷飲站",
+                "shop": "清心福全 社頭社斗店(德東冷飲站)",
                 "category": "餐飲",
                 "area": "社頭鄉",
                 "market_address": "彰化縣社頭鄉社頭村社斗路１段３６２號",
@@ -21945,6 +21894,23 @@
                 "coordinates": [
                     120.584881,
                     23.896812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 社頭員集店(大頭冷飲站)",
+                "category": "餐飲",
+                "area": "社頭鄉",
+                "market_address": "彰化縣社頭鄉社頭村６鄰員集路２段２７７號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587299,
+                    23.899688
                 ]
             }
         },
@@ -21962,23 +21928,6 @@
                 "coordinates": [
                     120.58753,
                     23.897625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大頭冷飲站",
-                "category": "餐飲",
-                "area": "社頭鄉",
-                "market_address": "彰化縣社頭鄉社頭村６鄰員集路２段２７７號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.587299,
-                    23.899688
                 ]
             }
         },
@@ -23039,7 +22988,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福菁冷飲站",
+                "shop": "清心福全 芬園彰南店(福菁冷飲站)",
                 "category": "餐飲",
                 "area": "芬園鄉",
                 "market_address": "彰化縣芬園鄉社口村４鄰彰南路４段１０７號",
@@ -23600,6 +23549,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 花壇廖厝店(士鈴冷飲)",
+                "category": "餐飲",
+                "area": "花壇鄉",
+                "market_address": "彰化縣花壇鄉北口村１７鄰中山路２段６４５號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533553,
+                    24.044661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 花壇中山店(大圭冷飲店)",
                 "category": "餐飲",
                 "area": "花壇鄉",
@@ -23781,23 +23747,6 @@
                 "coordinates": [
                     120.575479,
                     24.036358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "士鈴冷飲",
-                "category": "餐飲",
-                "area": "花壇鄉",
-                "market_address": "彰化縣花壇鄉北口村１７鄰中山路２段６４５號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.533553,
-                    24.044661
                 ]
             }
         },
@@ -25759,6 +25708,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 鹿港彰頂店(永富冷飲站)",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮頂番里彰頂路３２７號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.482266,
+                    24.085681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 鹿港店(鹿港冷飲站)",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -25872,23 +25838,6 @@
                 "coordinates": [
                     120.458288,
                     24.070758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永富冷飲站",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮頂番里彰頂路３２７號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.482266,
-                    24.085681
                 ]
             }
         },

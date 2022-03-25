@@ -616,23 +616,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鴻輝冷飲店",
-                "category": "餐飲",
-                "area": "五結鄉",
-                "market_address": "宜蘭縣五結鄉上四村００５鄰中正路二段１１１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.768793,
-                    24.69772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鮮茶道Presotea 五結利成店",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -1052,6 +1035,23 @@
                 "coordinates": [
                     121.828221,
                     24.648769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 五結中正店(鴻輝冷飲店)",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉上四村００５鄰中正路二段１１１號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768793,
+                    24.69772
                 ]
             }
         },

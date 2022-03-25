@@ -15,7 +15,23 @@
     },
     {
         "index": 2,
-        "shop": "福榮冷飲站",
+        "shop": "真大豐冷飲店",
+        "category": [
+            "餐飲"
+        ],
+        "zone": "高屏",
+        "city": "屏東縣",
+        "area": "鹽埔鄉",
+        "market_address": "屏東縣鹽埔鄉新圍村０１０鄰新高路１２號",
+        "pay_list": [
+            "信用卡",
+            "街口",
+            "一卡通MONEY(原LINE Pay Money)"
+        ]
+    },
+    {
+        "index": 3,
+        "shop": "清心福全 鹽埔維新店(福榮冷飲站)",
         "category": [
             "餐飲"
         ],
@@ -31,22 +47,6 @@
             "悠遊卡",
             "街口",
             "橘子支付",
-            "一卡通MONEY(原LINE Pay Money)"
-        ]
-    },
-    {
-        "index": 3,
-        "shop": "真大豐冷飲店",
-        "category": [
-            "餐飲"
-        ],
-        "zone": "高屏",
-        "city": "屏東縣",
-        "area": "鹽埔鄉",
-        "market_address": "屏東縣鹽埔鄉新圍村０１０鄰新高路１２號",
-        "pay_list": [
-            "信用卡",
-            "街口",
             "一卡通MONEY(原LINE Pay Money)"
         ]
     },

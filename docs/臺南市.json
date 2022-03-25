@@ -23311,6 +23311,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 台南新公園店(合芯飲料店)",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區延平里公園路８２２―１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21146849444,
+                    23.012238458017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 公園南店(鴻益冷飲店)",
                 "category": "餐飲",
                 "area": "北區",
@@ -25617,23 +25634,6 @@
                 "coordinates": [
                     120.209762,
                     23.009167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "合芯飲料店",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區延平里公園路８２２―１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.21146849444,
-                    23.012238458017
                 ]
             }
         },
@@ -35959,6 +35959,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 台南安和店(涼一下冷飲店)",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區州南里安和路４段５６２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218858,
+                    23.062183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 台南北安店(山南雲茶坊)",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區鳳凰里北安路３段１４９號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202746,
+                    23.040994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淑花工作坊",
                 "category": "餐飲",
                 "area": "安南區",
@@ -35970,23 +36004,6 @@
                 "coordinates": [
                     120.217042,
                     23.044751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "涼一下冷飲店",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區州南里安和路４段５６２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.218858,
-                    23.062183
                 ]
             }
         },
@@ -36752,23 +36769,6 @@
                 "coordinates": [
                     120.213567,
                     23.030168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "山南雲茶坊",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區鳳凰里北安路３段１４９號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.202746,
-                    23.040994
                 ]
             }
         },
@@ -76419,6 +76419,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 麻豆興中店(明君冷飲店)",
+                "category": "餐飲",
+                "area": "麻豆區",
+                "market_address": "臺南市麻豆區東角里興中路１８６－３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254484,
+                    23.183575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "欣欣冷飲店",
                 "category": "餐飲",
                 "area": "麻豆區",
@@ -76532,23 +76549,6 @@
                 "coordinates": [
                     120.252998,
                     23.183826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "明君冷飲店",
-                "category": "餐飲",
-                "area": "麻豆區",
-                "market_address": "臺南市麻豆區東角里興中路１８６－３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.254484,
-                    23.183575
                 ]
             }
         },
