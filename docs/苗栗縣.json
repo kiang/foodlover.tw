@@ -2758,6 +2758,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 大湖富興店(一葉茶行號)",
+                "category": "餐飲",
+                "area": "大湖鄉",
+                "market_address": "苗栗縣大湖鄉富興村００９鄰八寮灣２５號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.86883,
+                    24.431674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "泓品棕櫚泉興業有限公司",
                 "category": "餐飲",
                 "area": "大湖鄉",
@@ -2939,23 +2956,6 @@
                 "coordinates": [
                     120.875297,
                     24.443453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "一葉茶行號",
-                "category": "餐飲",
-                "area": "大湖鄉",
-                "market_address": "苗栗縣大湖鄉富興村００９鄰八寮灣２５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.86883,
-                    24.431674
                 ]
             }
         },
@@ -14760,6 +14760,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 頭份文化店(峰川堂)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市山下里０１４鄰文化街２３１號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.900565,
+                    24.701304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 頭份建國店(建國冷飲站)",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -14771,6 +14788,23 @@
                 "coordinates": [
                     120.910719,
                     24.695338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 頭份中正店(中正冷飲店)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市新華里３鄰中正一路５０７號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.93828,
+                    24.683378
                 ]
             }
         },
@@ -15587,23 +15621,6 @@
                 "coordinates": [
                     120.905378,
                     24.696791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "峰川堂",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市山下里０１４鄰文化街２３１號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.900565,
-                    24.701304
                 ]
             }
         },
@@ -16573,23 +16590,6 @@
                 "coordinates": [
                     120.916473,
                     24.695181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中正冷飲店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市新華里３鄰中正一路５０７號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.93828,
-                    24.683378
                 ]
             }
         },

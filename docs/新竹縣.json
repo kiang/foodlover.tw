@@ -22240,23 +22240,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "關西明德冷飲站",
-                "category": "餐飲",
-                "area": "關西鎮",
-                "market_address": "新竹縣關西鎮北斗里明德路９９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.176422,
-                    24.793322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "關西仙草坊",
                 "category": "餐飲",
                 "area": "關西鎮",
@@ -22489,6 +22472,23 @@
                 "coordinates": [
                     121.175756,
                     24.794646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 關西明德店(關西明德冷飲站)",
+                "category": "餐飲",
+                "area": "關西鎮",
+                "market_address": "新竹縣關西鎮北斗里明德路９９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176422,
+                    24.793322
                 ]
             }
         },

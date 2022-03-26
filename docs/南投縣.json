@@ -11989,6 +11989,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 草屯南開店(寶鴻冷飲站)",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮富寮里中正路５５７―３９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69596794572,
+                    23.978844807144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 草屯佑民店(祐民商行)",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12731,23 +12748,6 @@
                 "coordinates": [
                     120.688796,
                     23.976399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "寶鴻冷飲站",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮富寮里中正路５５７―３９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.69596794572,
-                    23.978844807144
                 ]
             }
         },

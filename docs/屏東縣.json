@@ -12516,6 +12516,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 南灣店(核三冷飲)",
+                "category": "餐飲",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮南灣里５鄰南灣路３７４號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.757395,
+                    21.967382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "深海巨魷魷之屋",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "恆春鎮",
@@ -12765,23 +12782,6 @@
                 "coordinates": [
                     120.800227,
                     21.944447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "核三冷飲",
-                "category": "餐飲",
-                "area": "恆春鎮",
-                "market_address": "屏東縣恆春鎮南灣里５鄰南灣路３７４號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.757395,
-                    21.967382
                 ]
             }
         },

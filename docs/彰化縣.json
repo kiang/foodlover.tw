@@ -208,23 +208,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福源冷飲站",
-                "category": "餐飲",
-                "area": "二林鎮",
-                "market_address": "彰化縣二林鎮後厝里０１８鄰斗苑路四段５６９號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.375877,
-                    23.899441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瑞銘商行",
                 "category": "餐飲",
                 "area": "二林鎮",
@@ -253,6 +236,23 @@
                 "coordinates": [
                     120.368848,
                     23.899578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 二林斗苑店(福源冷飲站)",
+                "category": "餐飲",
+                "area": "二林鎮",
+                "market_address": "彰化縣二林鎮後厝里０１８鄰斗苑路四段５６９號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.375877,
+                    23.899441
                 ]
             }
         },
@@ -10085,23 +10085,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清福冷飲店",
-                "category": "餐飲",
-                "area": "埤頭鄉",
-                "market_address": "彰化縣埤頭鄉合興村彰水路三段４５８號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459127,
-                    23.890844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清心福全 埤頭斗苑東店(明福茶行)",
                 "category": "餐飲",
                 "area": "埤頭鄉",
@@ -10113,6 +10096,23 @@
                 "coordinates": [
                     120.496309,
                     23.884285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 埤頭彰水店(清福冷飲店)",
+                "category": "餐飲",
+                "area": "埤頭鄉",
+                "market_address": "彰化縣埤頭鄉合興村彰水路三段４５８號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459127,
+                    23.890844
                 ]
             }
         },
@@ -21526,23 +21526,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "青育冷飲店",
-                "category": "餐飲",
-                "area": "田尾鄉",
-                "market_address": "彰化縣田尾鄉溪畔村００２鄰中山路二段５０９號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538341,
-                    23.90388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿嬤私房菜",
                 "category": "餐飲",
                 "area": "田尾鄉",
@@ -21622,6 +21605,23 @@
                 "coordinates": [
                     120.52722,
                     23.903527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 田尾中山店(青育冷飲店)",
+                "category": "餐飲",
+                "area": "田尾鄉",
+                "market_address": "彰化縣田尾鄉溪畔村００２鄰中山路二段５０９號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538341,
+                    23.90388
                 ]
             }
         },
@@ -22155,7 +22155,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "秀工冷飲站",
+                "shop": "炸職人商行",
+                "category": "餐飲",
+                "area": "福興鄉",
+                "market_address": "彰化縣福興鄉西勢村００２鄰員鹿路二段４８２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436718,
+                    24.045449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 秀水彰水店(秀工冷飲站)",
                 "category": "餐飲",
                 "area": "福興鄉",
                 "market_address": "彰化縣福興鄉萬豐村４鄰彰水路８６號",
@@ -22172,17 +22189,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "炸職人商行",
+                "shop": "清心福全 福興西勢店(昇益冷飲店)",
                 "category": "餐飲",
                 "area": "福興鄉",
-                "market_address": "彰化縣福興鄉西勢村００２鄰員鹿路二段４８２號１樓",
-                "pay_list": "台灣pay"
+                "market_address": "彰化縣福興鄉西勢村員鹿路２段２１３號１樓",
+                "pay_list": "Pi 拍錢包\/街口"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.436718,
-                    24.045449
+                    120.435925,
+                    24.040285
                 ]
             }
         },
@@ -22251,23 +22268,6 @@
                 "coordinates": [
                     120.489473,
                     24.018936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "昇益冷飲店",
-                "category": "餐飲",
-                "area": "福興鄉",
-                "market_address": "彰化縣福興鄉西勢村員鹿路２段２１３號１樓",
-                "pay_list": "Pi 拍錢包\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.435925,
-                    24.040285
                 ]
             }
         },
@@ -22461,7 +22461,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "秀中冷飲店",
+                "shop": "清心福全 秀水中山店(秀中冷飲店)",
                 "category": "餐飲",
                 "area": "秀水鄉",
                 "market_address": "彰化縣秀水鄉安東村中山路３６９號１樓",
@@ -22767,7 +22767,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大明福飲料店",
+                "shop": "清心福全 竹塘竹林店(大明福飲料店)",
                 "category": "餐飲",
                 "area": "竹塘鄉",
                 "market_address": "彰化縣竹塘鄉竹塘村０２１鄰竹林路一段１６８號",
