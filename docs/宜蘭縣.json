@@ -5937,7 +5937,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鬼椒一番美食坊",
+                "shop": "鬼椒一番鍋 宜蘭店",
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市大新里００２鄰新民路２號",
@@ -10493,7 +10493,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "上乘三家有限公司宜蘭分公司",
+                "shop": "上乘三家涮涮鍋 宜蘭店",
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市神農里宜興路一段２號",
@@ -14363,6 +14363,23 @@
                 "coordinates": [
                     121.769183,
                     24.673635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鬼椒麻辣王 羅東旗艦店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮公正里公正路１５０號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769446,
+                    24.67883
                 ]
             }
         },
@@ -18602,7 +18619,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "上乘三家有限公司羅東分公司",
+                "shop": "上乘三家涮涮鍋 羅東店",
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮中山里民權路１４７號",
@@ -18630,23 +18647,6 @@
                 "coordinates": [
                     121.759893,
                     24.678191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "七辣食坊",
-                "category": "餐飲",
-                "area": "羅東鎮",
-                "market_address": "宜蘭縣羅東鎮公正里公正路１５０號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.769446,
-                    24.67883
                 ]
             }
         },

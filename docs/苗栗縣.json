@@ -191,23 +191,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "香淳茶舖",
-                "category": "餐飲",
-                "area": "三義鄉",
-                "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１６８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.768497,
-                    24.41123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "集元裕",
                 "category": "餐飲",
                 "area": "三義鄉",
@@ -746,6 +729,23 @@
                 "coordinates": [
                     120.76691900858,
                     24.408125184913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "喫茶小鋪 三義中正店",
+                "category": "餐飲",
+                "area": "三義鄉",
+                "market_address": "苗栗縣三義鄉廣盛村９鄰中正路１６８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.768497,
+                    24.41123
                 ]
             }
         },

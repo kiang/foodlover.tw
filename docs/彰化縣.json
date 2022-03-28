@@ -16477,23 +16477,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "尚豪茶舖",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市萬安里永安街１５４號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.545215,
-                    24.086345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "尚品浩食堂",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -17168,6 +17151,23 @@
                 "coordinates": [
                     120.535685,
                     24.06415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "喫茶小鋪 彰化永安店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市萬安里永安街１５４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545215,
+                    24.086345
                 ]
             }
         },
