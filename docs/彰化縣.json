@@ -10340,6 +10340,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "麥味登 大葉大學店",
+                "category": "餐飲",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉黃厝村山脚路４２―４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59139,
+                    23.981923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "青純食品企業有限公司",
                 "category": "餐飲",
                 "area": "大村鄉",
@@ -10470,23 +10487,6 @@
                 "coordinates": [
                     120.586257,
                     23.989401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "歐嗨喲早餐店",
-                "category": "餐飲",
-                "area": "大村鄉",
-                "market_address": "彰化縣大村鄉黃厝村山脚路４２―４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.59139,
-                    23.981923
                 ]
             }
         },

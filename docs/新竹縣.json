@@ -2741,23 +2741,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "泰揚商行",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉新興路２２９號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.996452,
-                    24.87012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永奇商行",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -2973,6 +2956,23 @@
                 "coordinates": [
                     120.990253,
                     24.866806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "康青龍 新竹新豐店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉新興路２２９號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996452,
+                    24.87012
                 ]
             }
         },

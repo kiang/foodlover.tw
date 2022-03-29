@@ -803,6 +803,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮友火鍋 花蓮旗艦店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉宜昌村中華路二段１１號",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.587084,
+                    23.973576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "騰林興業有限公司",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -1256,23 +1273,6 @@
                 "coordinates": [
                     121.564173,
                     23.993704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "虹品企業有限公司",
-                "category": "餐飲",
-                "area": "吉安鄉",
-                "market_address": "花蓮縣吉安鄉宜昌村中華路二段１１號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.587084,
-                    23.973576
                 ]
             }
         },
@@ -16953,23 +16953,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福御小館",
-                "category": "餐飲",
-                "area": "花蓮市",
-                "market_address": "花蓮縣花蓮市國風里林森路２７９號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60226768341,
-                    23.979492298388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福建街香腸",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -23764,6 +23747,23 @@
                 "coordinates": [
                     121.602006,
                     23.973531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "上乘三家涮涮鍋 花蓮旗艦店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國風里林森路２７９號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60226768341,
+                    23.979492298388
                 ]
             }
         },

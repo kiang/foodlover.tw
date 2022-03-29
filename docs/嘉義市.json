@@ -1398,23 +1398,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿寶晨食館",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中山里安樂街６６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46108,
-                    23.48316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿原廚房義大利麵店",
                 "category": "餐飲",
                 "area": "東區",
@@ -4679,23 +4662,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "干丹輕茶飲茶店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區朝陽里民族路１８７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45644,
-                    23.476459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "常常手作坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -6917,6 +6883,40 @@
                 "coordinates": [
                     120.44959,
                     23.48037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "LoHa甘丹輕茶飲 嘉義南門店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區朝陽里民族路１８７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45644,
+                    23.476459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "A-bao house 嘉義新生店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里安樂街６６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46108,
+                    23.48316
                 ]
             }
         },

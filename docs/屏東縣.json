@@ -5410,6 +5410,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "石頭日式炭火燒肉 屏東尊貴館",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市泰安里３鄰公園路３８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488984,
+                    22.674858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "知風自家烘焙咖啡館",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9399,23 +9416,6 @@
                 "coordinates": [
                     120.488449,
                     22.683722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "南香商行",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市泰安里３鄰公園路３８號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488984,
-                    22.674858
                 ]
             }
         },

@@ -2762,7 +2762,7 @@
                 "category": "餐飲",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -2847,7 +2847,7 @@
                 "category": "餐飲",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村０１６鄰中山路４３號",
-                "pay_list": "icash pay\/Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/歐付寶"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -4401,23 +4401,6 @@
                 "coordinates": [
                     120.460605,
                     23.545738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "麥田歐式烘焙屋",
-                "category": "糕餅",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉東榮村１６鄰文化路２８號",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429522,
-                    23.552074
                 ]
             }
         },
