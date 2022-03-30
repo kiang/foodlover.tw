@@ -2996,7 +2996,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮自然企業有限公司台南第５２營運處",
+                "shop": "鮮自然 民族門市",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區赤嵌里民族路二段１３４號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20456734567,
+                    22.996237864888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮自然 新新賢門市",
                 "category": "餐飲",
                 "area": "中西區",
                 "market_address": "臺南市中西區兌悅里１０鄰文賢路２００號１樓",
@@ -3007,6 +3024,23 @@
                 "coordinates": [
                     120.19390090748,
                     23.003195736263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鮮自然 府前台銀門市",
+                "category": "餐飲",
+                "area": "中西區",
+                "market_address": "臺南市中西區郡王里府前路１段１５１號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.207302,
+                    22.988896
                 ]
             }
         },
@@ -11439,40 +11473,6 @@
                 "coordinates": [
                     120.197331,
                     22.999124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富南陀國際有限公司民族營運處",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區赤嵌里民族路二段１３４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.20456734567,
-                    22.996237864888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富南陀國際有限公司府前台銀營運處",
-                "category": "餐飲",
-                "area": "中西區",
-                "market_address": "臺南市中西區郡王里府前路１段１５１號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.207302,
-                    22.988896
                 ]
             }
         },
@@ -63601,23 +63601,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鼎睿茶坊",
-                "category": "餐飲",
-                "area": "歸仁區",
-                "market_address": "臺南市歸仁區大潭里長榮路１段２３０之１號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.269752,
-                    22.910433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "黑皮太麵疙瘩鍋燒意麵專賣店",
                 "category": "餐飲",
                 "area": "歸仁區",
@@ -63884,6 +63867,23 @@
                 "coordinates": [
                     120.293942,
                     22.965502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "自在軒 歸仁大潭店",
+                "category": "餐飲",
+                "area": "歸仁區",
+                "market_address": "臺南市歸仁區大潭里長榮路１段２３０之１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.269752,
+                    22.910433
                 ]
             }
         },

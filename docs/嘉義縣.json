@@ -2660,7 +2660,7 @@
                 "category": "糕餅",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村１９鄰中山路８５－２號",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -5376,23 +5376,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東榮茶行",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉東榮村５鄰東榮路１５號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.432633,
-                    23.557366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "最愛晨食",
                 "category": "餐飲",
                 "area": "民雄鄉",
@@ -5771,7 +5754,7 @@
                 "category": "餐飲",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉三興村大學路１段１６８號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -6288,6 +6271,23 @@
                 "coordinates": [
                     120.429288,
                     23.556201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 民雄店(東榮茶行)",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉東榮村５鄰東榮路１５號１樓",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432633,
+                    23.557366
                 ]
             }
         },
