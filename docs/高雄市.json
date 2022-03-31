@@ -35415,6 +35415,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "靜岡日本料理(竑碩興業有限公司)",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區泰山里宏平路１３６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362391,
+                    22.570771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雅典娜咖啡企業行",
                 "category": "餐飲",
                 "area": "小港區",
@@ -36004,23 +36021,6 @@
                 "coordinates": [
                     120.366272,
                     22.572678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "竑碩興業有限公司",
-                "category": "餐飲",
-                "area": "小港區",
-                "market_address": "高雄市小港區泰山里宏平路１３６號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.362391,
-                    22.570771
                 ]
             }
         },

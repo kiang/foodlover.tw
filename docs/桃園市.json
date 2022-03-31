@@ -1925,23 +1925,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "麥基客速食餐飲有限公司",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區石頭里中正路１０２號１－３樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.22307983861,
-                    24.954940874389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鹿旺咖啡飲品店",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18375,6 +18358,23 @@
                 "coordinates": [
                     121.22564713536,
                     24.95667217399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "吉可有限公司",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區永福里中園路２段９９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.23436471234,
+                    24.991410876871
                 ]
             }
         },
