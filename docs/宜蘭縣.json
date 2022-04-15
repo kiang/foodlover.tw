@@ -42,7 +42,7 @@
                 "category": "糕餅",
                 "area": "三星鄉",
                 "market_address": "宜蘭縣三星鄉大義村上將路３段３７６巷２５號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5104,6 +5104,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "攤販梁○棋號",
+                "category": "夜市\/市場攤販",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市和睦路１５４巷２４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75945998332,
+                    24.759949002748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "彭○堂",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市東港路６６巷１５弄９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766385,
+                    24.753934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宜蘭市中央臨時攤販集中場(綠九市場)-91",
                 "category": "夜市\/市場攤販",
                 "area": "宜蘭市",
@@ -5387,6 +5421,23 @@
                 "coordinates": [
                     121.749722,
                     24.746689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "三源之家（２４攤位）",
+                "category": "夜市\/市場攤販",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市新民里民生街３２號１－２樓（南館市場）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752624,
+                    24.755279
                 ]
             }
         },
@@ -6192,6 +6243,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "風芸商行",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市東門里聖後街１０７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755493,
+                    24.758486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "順順鵝肉大王",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市菜園里小東路１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756709,
+                    24.758692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "順大餐飲店",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -6271,6 +6356,23 @@
                 "coordinates": [
                     121.749896,
                     24.746869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陽光田園股份有限公司宜蘭分公司",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市擺厘里０１２鄰女中路二段４９３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749433,
+                    24.744679
                 ]
             }
         },
@@ -6617,6 +6719,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "里亞料理廚房",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市思源里００７鄰女中路三段５２３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735848,
+                    24.747309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "酒廠餐廳",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -6628,6 +6747,23 @@
                 "coordinates": [
                     121.749443,
                     24.757169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "邊境炸雞",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市思源里００３鄰宜中路３７號一樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74233,
+                    24.74597
                 ]
             }
         },
@@ -6900,6 +7036,23 @@
                 "coordinates": [
                     121.749943,
                     24.75411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "貓霸飲料店",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市擺厘里女中路二段３９５號一樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751818,
+                    24.744966
                 ]
             }
         },
@@ -7739,6 +7892,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "皇品嘉企業行",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市南門里中山路三段９號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752033,
+                    24.755517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "皇佳牛排餐飲",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -8419,6 +8589,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "有理雞蛋仔",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市聖後街２２號（對面）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.758253,
+                    24.758237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "有朋生活有限公司",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -8844,6 +9031,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "快樂吃早餐店",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市文化里復興路二段１１８號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.746664,
+                    24.74941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "心理有素餐坊",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -8929,6 +9133,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "彭○堂",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市東港路６６巷１５弄９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766385,
+                    24.753934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "彎豆冰店",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -9008,6 +9229,23 @@
                 "coordinates": [
                     121.755588,
                     24.759986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "巴法娜工作室",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市中山路二段４３０巷１３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754029,
+                    24.752033
                 ]
             }
         },
@@ -9150,6 +9388,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "寧記食品行",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市神農路一段１２６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749637,
+                    24.747333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "富椿有限公司",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -9239,7 +9494,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市建軍里復興路３段５８號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9443,7 +9698,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市東門里新民路８８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10017,6 +10272,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "創興企業社",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市南門里３鄰西後街３０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751772,
+                    24.757249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "冰河冰坊",
                 "category": "餐飲",
                 "area": "宜蘭市",
@@ -10055,7 +10327,7 @@
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市神農里宜興路一段４８號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10187,11 +10459,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "兆洋餐飲事業股份有限公司宜蘭校舍分公司",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市東村里校舍路８５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761221,
+                    24.751069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "兆富小吃部",
                 "category": "餐飲",
                 "area": "宜蘭市",
                 "market_address": "宜蘭縣宜蘭市建業里凱旋路５１８巷２８號１樓",
-                "pay_list": "icash\/悠遊卡"
+                "pay_list": "icash\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10538,6 +10827,23 @@
                 "coordinates": [
                     121.755362,
                     24.759554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "一番烤鴨",
+                "category": "餐飲",
+                "area": "宜蘭市",
+                "market_address": "宜蘭縣宜蘭市神農里０１５鄰中山路二段３８０號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753546,
+                    24.751014
                 ]
             }
         },
@@ -11190,6 +11496,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "驚嘆號小吃部",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉白鵝村礁溪路三段１號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764436,
+                    24.800532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "風祿股份有限公司",
                 "category": "餐飲",
                 "area": "礁溪鄉",
@@ -11269,6 +11592,23 @@
                 "coordinates": [
                     121.77368,
                     24.831644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陽光田園股份有限公司礁溪分公司",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉德陽村０１１鄰仁愛路１５８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767109,
+                    24.825161
                 ]
             }
         },
@@ -11415,7 +11755,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉礁溪路五段48號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11517,7 +11857,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉六結村００５鄰礁溪路四段１８２號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11942,7 +12282,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉玉石村０１４鄰健康路１號及健康路２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11959,7 +12299,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉德陽村信義路３４巷８、１０、１２號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12187,6 +12527,23 @@
                 "coordinates": [
                     121.77333736401,
                     24.828855180349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "泰晟企業社",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉德陽村德陽路17號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772236,
+                    24.828382
                 ]
             }
         },
@@ -12843,7 +13200,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉興農路２９１巷１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12979,7 +13336,7 @@
                 "category": "餐飲",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉玉石村礁溪路５段１２１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13105,6 +13462,23 @@
                 "coordinates": [
                     121.772216,
                     24.828334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "嘉一商行",
+                "category": "餐飲",
+                "area": "礁溪鄉",
+                "market_address": "宜蘭縣礁溪鄉德陽村礁溪路５段１３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771241,
+                    24.825959
                 ]
             }
         },
@@ -13604,6 +13978,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陳○雲攤販",
+                "category": "夜市\/市場攤販",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮中山公園邊０３５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770999,
+                    24.669132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陳○娜攤販",
+                "category": "夜市\/市場攤販",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮中山公園邊０３７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773098,
+                    24.679271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "糞金龜工作室",
                 "category": "夜市\/市場攤販\/餐飲",
                 "area": "羅東鎮",
@@ -13768,6 +14176,40 @@
                 "coordinates": [
                     121.769264,
                     24.679375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "楊○勝攤販",
+                "category": "夜市\/市場攤販",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮中山公園邊０９０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769264,
+                    24.679375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "林○燐攤販",
+                "category": "夜市\/市場攤販",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮中山公園邊０９５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772296,
+                    24.67685
                 ]
             }
         },
@@ -19099,7 +19541,7 @@
                 "category": "觀光工廠",
                 "area": "蘇澳鎮",
                 "market_address": "宜蘭縣蘇澳鎮隘丁里大圳路１１８號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -19174,6 +19616,23 @@
                 "coordinates": [
                     121.851904,
                     24.596014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陽光田園股份有限公司蘇澳分公司",
+                "category": "餐飲",
+                "area": "蘇澳鎮",
+                "market_address": "宜蘭縣蘇澳鎮蘇西里０２５鄰中山路一段２０７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.845298,
+                    24.595613
                 ]
             }
         },
@@ -19265,6 +19724,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "豪美商行",
+                "category": "餐飲",
+                "area": "蘇澳鎮",
+                "market_address": "宜蘭縣蘇澳鎮龍德里蘇濱路三段８２號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.833956,
+                    24.638537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "誠恩商社股份有限公司",
                 "category": "餐飲",
                 "area": "蘇澳鎮",
@@ -19320,7 +19796,7 @@
                 "category": "餐飲",
                 "area": "蘇澳鎮",
                 "market_address": "宜蘭縣蘇澳鎮隘丁里大同路３８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -19456,7 +19932,7 @@
                 "category": "餐飲",
                 "area": "蘇澳鎮",
                 "market_address": "宜蘭縣蘇澳鎮南建里００６鄰內埤路１８號１樓",
-                "pay_list": "icash pay\/Pi 拍錢包\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/Pi 拍錢包\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -20030,6 +20506,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "夏屋舒食企業社",
+                "category": "餐飲",
+                "area": "蘇澳鎮",
+                "market_address": "宜蘭縣蘇澳鎮永榮里００１鄰新榮路１３巷２７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.833782,
+                    24.620173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "嚐鮮魚鮮魚湯",
                 "category": "餐飲",
                 "area": "蘇澳鎮",
@@ -20051,13 +20544,30 @@
                 "category": "餐飲",
                 "area": "蘇澳鎮",
                 "market_address": "宜蘭縣蘇澳鎮蘇西里中山路一段２２１―１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     121.8450146845,
                     24.595278866968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "品鱻鮮魚湯",
+                "category": "餐飲",
+                "area": "蘇澳鎮",
+                "market_address": "宜蘭縣蘇澳鎮南安里０１４鄰江夏路４６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.864957,
+                    24.582916
                 ]
             }
         },
@@ -20085,7 +20595,7 @@
                 "category": "餐飲",
                 "area": "蘇澳鎮",
                 "market_address": "宜蘭縣蘇澳鎮蘇北里８鄰新生路１８號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -20408,7 +20918,7 @@
                 "category": "糕餅",
                 "area": "頭城鎮",
                 "market_address": "宜蘭縣頭城鎮頭濱路２段５５６號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -20527,7 +21037,7 @@
                 "category": "餐飲",
                 "area": "頭城鎮",
                 "market_address": "宜蘭縣頭城鎮更新里００７鄰更新路１２５―１號",
-                "pay_list": "icash pay\/Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -20551,6 +21061,40 @@
                 "coordinates": [
                     121.838905,
                     24.884664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陽光田園股份有限公司頭城分公司",
+                "category": "餐飲",
+                "area": "頭城鎮",
+                "market_address": "宜蘭縣頭城鎮武營里開蘭路２１５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82575,
+                    24.861217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "阿姆廚房",
+                "category": "餐飲",
+                "area": "頭城鎮",
+                "market_address": "宜蘭縣頭城鎮金面里０１１鄰宜三路二段８０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798393,
+                    24.852087
                 ]
             }
         },

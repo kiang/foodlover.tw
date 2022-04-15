@@ -327,6 +327,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "妙妙的店",
+                "category": "夜市\/市場攤販",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉吉安村中山路三段２號Ａ５０攤位",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.579044,
+                    23.973486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "仁里市場-B30",
                 "category": "夜市\/市場攤販",
                 "area": "吉安鄉",
@@ -756,7 +773,7 @@
                 "category": "餐飲",
                 "area": "吉安鄉",
                 "market_address": "花蓮縣吉安鄉仁安村南濱路一段１０２號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1011,7 +1028,7 @@
                 "category": "餐飲",
                 "area": "吉安鄉",
                 "market_address": "花蓮縣吉安鄉太昌村１５鄰明義六街３８巷２２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1052,6 +1069,23 @@
                 "coordinates": [
                     121.59101,
                     23.964881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "野猴子戶外體驗有限公司",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉吉安村吉昌一街１７６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564983,
+                    23.971806
                 ]
             }
         },
@@ -1500,6 +1534,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "花樂美食",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉北昌村０２７鄰自強路６５４號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593926,
+                    23.989058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "芙蓉園美食天地",
                 "category": "餐飲",
                 "area": "吉安鄉",
@@ -1528,6 +1579,23 @@
                 "coordinates": [
                     121.560303,
                     23.968095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老味道小火鍋",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉仁里村００４鄰中正路一段２０５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59101,
+                    23.964881
                 ]
             }
         },
@@ -2490,7 +2558,7 @@
                 "category": "餐飲",
                 "area": "吉安鄉",
                 "market_address": "花蓮縣吉安鄉光華村１８鄰南濱路一段５０３、５０５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2922,6 +2990,40 @@
                 "coordinates": [
                     121.58868834992,
                     23.975080246693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "品美味小吃店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉北昌村自強路４７０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59079,
+                    23.985094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和平萬佳鄉早餐店",
+                "category": "餐飲",
+                "area": "吉安鄉",
+                "market_address": "花蓮縣吉安鄉勝安村和平路一段５３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.591657,
+                    23.981477
                 ]
             }
         },
@@ -6430,6 +6532,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "誠家綠葉",
+                "category": "餐飲",
+                "area": "玉里鎮",
+                "market_address": "花蓮縣玉里鎮中城里城西一街６１巷１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311352,
+                    23.328102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蘋果早午餐",
                 "category": "餐飲",
                 "area": "玉里鎮",
@@ -6458,6 +6577,23 @@
                 "coordinates": [
                     121.313115,
                     23.331451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣玉溪地區農會超市",
+                "category": "餐飲",
+                "area": "玉里鎮",
+                "market_address": "花蓮縣玉里鎮永昌里中華路１７７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315144,
+                    23.337945
                 ]
             }
         },
@@ -7352,7 +7488,7 @@
                 "category": "餐飲",
                 "area": "瑞穗鄉",
                 "market_address": "花蓮縣瑞穗鄉瑞穗村中正南路一段５號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7658,7 +7794,7 @@
                 "category": "餐飲",
                 "area": "秀林鄉",
                 "market_address": "花蓮縣秀林鄉崇德村崇德路９６號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7784,6 +7920,23 @@
                 "coordinates": [
                     121.504816,
                     23.96056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "舞馬企業",
+                "category": "餐飲",
+                "area": "秀林鄉",
+                "market_address": "花蓮縣秀林鄉佳民村００７鄰佳民１０７－５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592566,
+                    24.051739
                 ]
             }
         },
@@ -8304,7 +8457,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8525,7 +8678,24 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "橘子支付"
+                "pay_list": "橘子支付\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-金葉小棧",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8576,7 +8746,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "橘子支付"
+                "pay_list": "橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8780,7 +8950,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "橘子支付"
+                "pay_list": "橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8929,11 +9099,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "花蓮縣東大門攤販集中區-秀英的店",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "花蓮縣東大門攤販集中區-福町本舖檸檬汁",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "橘子支付"
+                "pay_list": "橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9273,7 +9460,24 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "iPASS一卡通\/街口"
+                "pay_list": "iPASS一卡通\/街口\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-檳榔海產",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9342,6 +9546,23 @@
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
                 "pay_list": "橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-東大門韓式炸雞&宗哥爆醬雞肉卷",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9443,7 +9664,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "iPASS 一卡通\/一卡通MONEY(原LINE Pay Money)\/街口\/橘子支付"
+                "pay_list": "iPASS 一卡通\/一卡通MONEY(原LINE Pay Money)\/街口\/橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9609,6 +9830,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "花蓮縣東大門攤販集中區-捍衛戰士一元彈珠",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "花蓮縣東大門攤販集中區-拋球王",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
@@ -9665,6 +9903,23 @@
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
                 "pay_list": "橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-手機成衣",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9886,6 +10141,40 @@
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
                 "pay_list": "街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-射擊遊戲",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610798,
+                    23.973241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮縣東大門攤販集中區-家香滷味",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市重慶路572號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10293,7 +10582,7 @@
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市重慶路572號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10629,6 +10918,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "公有零售重慶市場-19",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮市重慶路480號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60872722907,
+                    23.972127198116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "公有零售重慶市場-140",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
@@ -10664,6 +10970,23 @@
             "type": "Feature",
             "properties": {
                 "shop": "公有零售重慶市場-124",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮市重慶路480號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60872722907,
+                    23.972127198116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "公有零售重慶市場-116",
                 "category": "夜市\/市場攤販",
                 "area": "花蓮市",
                 "market_address": "花蓮市重慶路480號",
@@ -10753,6 +11076,23 @@
                 "area": "花蓮市",
                 "market_address": "花蓮市復興街31-1號",
                 "pay_list": "台灣Pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61068496269,
+                    23.976370694947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "公有零售復興市場-李○",
+                "category": "夜市\/市場攤販",
+                "area": "花蓮市",
+                "market_address": "花蓮市復興街31-1號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",

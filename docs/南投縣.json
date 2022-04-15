@@ -1759,7 +1759,7 @@
                 "category": "糕餅",
                 "area": "南投市",
                 "market_address": "南投縣南投市三和里０２１鄰公園南街３７號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,7 +1776,7 @@
                 "category": "糕餅",
                 "area": "南投市",
                 "market_address": "南投縣南投市鳳山里八卦路１１００巷２號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1800,6 +1800,23 @@
                 "coordinates": [
                     120.662302,
                     23.935734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "合宏烘焙坊",
+                "category": "糕餅",
+                "area": "南投市",
+                "market_address": "南投縣南投市內興里００１鄰新興路４７２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69417,
+                    23.932334
                 ]
             }
         },
@@ -4666,7 +4683,7 @@
                 "category": "餐飲",
                 "area": "名間鄉",
                 "market_address": "南投縣名間鄉田仔村田仔巷１６－８號",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9626,6 +9643,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "海龍王",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮延和里大智路７２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693755,
+                    23.75919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "沐森商行",
                 "category": "餐飲",
                 "area": "竹山鎮",
@@ -9885,7 +9919,7 @@
                 "category": "餐飲",
                 "area": "竹山鎮",
                 "market_address": "南投縣竹山鎮中正里００１鄰下橫街４７―２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9902,7 +9936,7 @@
                 "category": "餐飲",
                 "area": "竹山鎮",
                 "market_address": "南投縣竹山鎮竹圍里大禮路９０號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9983,6 +10017,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "同美團膳盒餐食品廠",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮延和里１８鄰集山路３段６５５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688965,
+                    23.760071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "原山小吃部",
                 "category": "餐飲",
                 "area": "竹山鎮",
@@ -10038,7 +10089,7 @@
                 "category": "餐飲",
                 "area": "竹山鎮",
                 "market_address": "南投縣竹山鎮中正里００１鄰下橫街４７―２號",
-                "pay_list": "icash pay\/Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10232,6 +10283,23 @@
                 "coordinates": [
                     120.682937,
                     23.98095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "李○偉",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮炎峰里中正路６０９號騎樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686062,
+                    23.978881
                 ]
             }
         },
@@ -10663,6 +10731,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鴻發商行",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮和平里虎山路８４７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685681,
+                    23.976927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮奶奶飲料店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -11020,6 +11105,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "這個野好工作室",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮敦和里０２７鄰碧山路３３２巷２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678182,
+                    23.978974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷客夏 南投草屯店",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -11211,7 +11313,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮和平里中山街１８２號",
-                "pay_list": "悠遊付\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "悠遊付\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11415,7 +11517,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮炎峰里明賢街１段３９號",
-                "pay_list": "信用卡\/悠遊卡"
+                "pay_list": "信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11432,7 +11534,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮山腳里虎山路１５６號",
-                "pay_list": "信用卡\/街口"
+                "pay_list": "信用卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11653,7 +11755,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮新庄里墩煌路三段１６８號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12057,6 +12159,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "深坑什麼鍋",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮和平里明賢街１２－１、１６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685256,
+                    23.975717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "浮水印餐館",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12197,7 +12316,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮中山里中山街１７１號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12248,7 +12367,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮平林里健行路１０５號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12329,6 +12448,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "李○偉",
+                "category": "餐飲\/夜市\/市場攤販",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮炎峰里中正路６０９號騎樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686062,
+                    23.978881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "朵朵私房料理",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12391,6 +12527,23 @@
                 "coordinates": [
                     120.684627,
                     23.978902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨日企業社",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮中山里草溪路９０６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680538,
+                    23.974315
                 ]
             }
         },
@@ -12703,6 +12856,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "小糧健食商行",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮炎峰里青雲街１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685727,
+                    23.979105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "小煮角弁當專販",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -12979,7 +13149,7 @@
                 "category": "餐飲",
                 "area": "草屯鎮",
                 "market_address": "南投縣草屯鎮和平里中山街１７４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13846,7 +14016,7 @@
                 "category": "糕餅",
                 "area": "集集鎮",
                 "market_address": "南投縣集集鎮吳厝里民生路８１號",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14628,7 +14798,7 @@
                 "category": "餐飲",
                 "area": "魚池鄉",
                 "market_address": "南投縣魚池鄉共和村長興巷７－９號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14907,6 +15077,23 @@
                 "coordinates": [
                     120.914941,
                     23.866599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "朝霧紅茶有限公司",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉日月村德化街１０－１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.930359,
+                    23.848462
                 ]
             }
         },
@@ -15468,6 +15655,23 @@
                 "coordinates": [
                     120.92071,
                     23.881881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "山姆大叔企業社",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉魚池村００８鄰魚池街５０９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.935359,
+                    23.89778
                 ]
             }
         },

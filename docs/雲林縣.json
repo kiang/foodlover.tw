@@ -501,7 +501,7 @@
                 "category": "餐飲",
                 "area": "北港鎮",
                 "market_address": "雲林縣北港鎮華勝里民治路１９－８號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +875,7 @@
                 "category": "餐飲",
                 "area": "北港鎮",
                 "market_address": "雲林縣北港鎮共榮里１０鄰中山路１５３號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1103,6 +1103,23 @@
                 "coordinates": [
                     120.299865,
                     23.574846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "天賜良雞商行",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮大同里文化路１４９號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302862,
+                    23.572163
                 ]
             }
         },
@@ -1874,6 +1891,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "趙○蓮",
+                "category": "餐飲",
+                "area": "古坑鄉",
+                "market_address": "雲林縣古坑鄉古坑村中山路８０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562222,
+                    23.644302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "谷泉咖啡莊園",
                 "category": "餐飲",
                 "area": "古坑鄉",
@@ -1912,7 +1946,7 @@
                 "category": "餐飲",
                 "area": "古坑鄉",
                 "market_address": "雲林縣古坑鄉華山村松林５４－５號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2456,7 @@
                 "category": "餐飲",
                 "area": "古坑鄉",
                 "market_address": "雲林縣古坑鄉永光村大湖口６７，６９號",
-                "pay_list": "信用卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2486,11 +2520,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "光昌裝璜行",
+                "category": "餐飲",
+                "area": "古坑鄉",
+                "market_address": "雲林縣古坑鄉西平村中山路１３５號古坑市場８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.561837,
+                    23.645108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "仙地企業有限公司",
                 "category": "餐飲",
                 "area": "古坑鄉",
                 "market_address": "雲林縣古坑鄉桂林村０１８鄰桃源１―３０號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9201,6 +9252,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "霸味薑母鴨斗南店",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮明昌里大成路２６―２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475952,
+                    23.675295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雲味軒鐵板燒",
                 "category": "餐飲",
                 "area": "斗南鎮",
@@ -9511,7 +9579,7 @@
                 "category": "餐飲",
                 "area": "斗南鎮",
                 "market_address": "雲林縣斗南鎮南昌里文元二街４３號",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9868,7 +9936,7 @@
                 "category": "餐飲",
                 "area": "斗南鎮",
                 "market_address": "雲林縣斗南鎮南昌里中山路６４號１樓",
-                "pay_list": "信用卡\/悠遊卡"
+                "pay_list": "信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9960,6 +10028,23 @@
                 "coordinates": [
                     120.24809,
                     23.681405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陳不二家餅舖",
+                "category": "糕餅",
+                "area": "林內鄉",
+                "market_address": "雲林縣林內鄉林南村２３鄰中正路２０５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61566,
+                    23.758486
                 ]
             }
         },
@@ -10130,6 +10215,23 @@
                 "coordinates": [
                     120.20065,
                     23.717127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "十宗德美食有限公司",
+                "category": "餐飲",
+                "area": "臺西鄉",
+                "market_address": "雲林縣臺西鄉臺西村民生路４９巷８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199923,
+                    23.698128
                 ]
             }
         },
@@ -13808,6 +13910,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "西螺省道商行",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮振興里００８鄰振興１１２－１７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471757,
+                    23.787607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茶湯會 雲林西螺店",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -14186,7 +14305,7 @@
                 "category": "餐飲",
                 "area": "西螺鎮",
                 "market_address": "雲林縣西螺鎮中興里東南路２８９巷１號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

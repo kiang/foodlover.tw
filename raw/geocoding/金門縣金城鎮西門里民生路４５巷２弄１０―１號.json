@@ -1,0 +1,46 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金城鎮西門里民生路４５巷２弄１０―１號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[金門縣]\tT:1,V:1,R:1,S:-1,L:1,A:1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[金門縣]\t { 模糊比對 } (金城鎮)\t找到符合的[鄉鎮市區]，(西門里)\t找到符合的[村里]，(民生路)\t找到符合的[路街名]，(45巷)\t找到符合的[巷]，(2弄)\t找到符合的[弄]，(一0―)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(1號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "FULL_ADDR": "金門縣金城鎮西門里25鄰民生路45巷2弄1號",
+      "COUNTY": "金門縣",
+      "TOWN": "金城鎮",
+      "VILLAGE": "西門里",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "民生路",
+      "SECTION": "",
+      "LANE": "45巷",
+      "ALLEY": "2弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 118.318593,
+      "Y": 24.435931
+    }
+  ]
+}

@@ -314,7 +314,7 @@
                 "category": "餐飲",
                 "area": "三地門鄉",
                 "market_address": "屏東縣三地門鄉三地村中正路一段１０－１號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -678,6 +678,23 @@
                 "coordinates": [
                     120.631922,
                     22.52454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "佈澤恩工作室",
+                "category": "餐飲",
+                "area": "來義鄉",
+                "market_address": "屏東縣來義鄉文樂村８鄰新樂８５之３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.625187,
+                    22.490921
                 ]
             }
         },
@@ -1160,6 +1177,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "羽全商號",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉老埤村０２４鄰壽比路７３１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.595341,
+                    22.64007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "築夢森林餐廳",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1347,6 +1381,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "比魯翁商行",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉光明路５３３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.569537,
+                    22.615691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "松阪小吃部",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1392,6 +1443,23 @@
                 "coordinates": [
                     120.596084,
                     22.641196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "曉泉商號",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉龍潭村００７鄰昭勝路８８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.600303,
+                    22.671327
                 ]
             }
         },
@@ -11194,7 +11262,7 @@
                 "category": "糕餅",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城北里００８鄰中山路８２號２樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12027,7 +12095,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城西里復興路１０３－７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12265,7 +12333,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城北里北門路１１０巷８６號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12384,7 +12452,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城南里中山路４８號",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12996,7 +13064,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮山海里萬里路２７－７號至１２號Ｂ１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13115,7 +13183,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮網紗里００２鄰省北路２７號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13268,7 +13336,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮鵝鑾里船帆路９８８號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13489,7 +13557,7 @@
                 "category": "餐飲",
                 "area": "恆春鎮",
                 "market_address": "屏東縣恆春鎮城南里１０鄰中山路４１號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17688,7 +17756,7 @@
                 "category": "糕餅",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮光華里中山路４４號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17722,7 +17790,7 @@
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮同榮里建基路１８３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17922,6 +17990,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鄞茶室飲品",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮永春里長春路１７號1樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.537634,
+                    22.545227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "達美樂披薩DOMINO'S PIZZA 潮州店",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "潮州鎮",
@@ -18041,6 +18126,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "豪家牛肉",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮富春里光春路２０３－１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538882,
+                    22.53976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蘇餅拾糖工作室",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18086,6 +18188,23 @@
                 "coordinates": [
                     120.542617,
                     22.549154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蔬香臭豆腐",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮光春里光明路6號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538614,
+                    22.539338
                 ]
             }
         },
@@ -18330,11 +18449,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "璞食蔬食坊",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮三共里四維路３８０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549544,
+                    22.557389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "牛肉蓮商行",
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮富春里天祥路４７號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -18946,7 +19082,7 @@
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮新榮里新生路６３之５號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -19677,7 +19813,7 @@
                 "category": "餐飲",
                 "area": "潮州鎮",
                 "market_address": "屏東縣潮州鎮光華里中山路４３號",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21054,7 +21190,7 @@
                 "category": "餐飲",
                 "area": "萬丹鄉",
                 "market_address": "屏東縣萬丹鄉厦北村上蚶路５８６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21105,7 +21241,7 @@
                 "category": "餐飲",
                 "area": "萬丹鄉",
                 "market_address": "屏東縣萬丹鄉萬全村萬丹路一段３９０號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21343,7 +21479,7 @@
                 "category": "餐飲",
                 "area": "萬巒鄉",
                 "market_address": "屏東縣萬巒鄉萬巒村民和路３８―４號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21428,7 +21564,7 @@
                 "category": "餐飲",
                 "area": "萬巒鄉",
                 "market_address": "屏東縣萬巒鄉萬巒村民和路８號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21615,7 +21751,7 @@
                 "category": "餐飲",
                 "area": "車城鄉",
                 "market_address": "屏東縣車城鄉溫泉村文化路５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21639,6 +21775,23 @@
                 "coordinates": [
                     120.713989,
                     22.070236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "海景世界企業股份有限公司",
+                "category": "餐飲",
+                "area": "車城鄉",
+                "market_address": "屏東縣車城鄉後灣村後灣路２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698547,
+                    22.050328
                 ]
             }
         },
@@ -22108,7 +22261,7 @@
                 "category": "餐飲",
                 "area": "里港鄉",
                 "market_address": "屏東縣里港鄉大平村仁和路３８號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

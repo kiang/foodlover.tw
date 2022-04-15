@@ -531,6 +531,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "北帝食品有限公司",
+                "category": "糕餅",
+                "area": "北區",
+                "market_address": "新竹市北區光華里國華街６７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970585,
+                    24.816354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "一百種味道食坊",
                 "category": "糕餅",
                 "area": "北區",
@@ -6135,6 +6152,23 @@
                 "coordinates": [
                     120.970904,
                     24.802247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "洪水仙",
+                "category": "夜市\/市場攤販",
+                "area": "東區",
+                "market_address": "新竹市東區竹蓮市場１樓１１２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026411,
+                    24.774535
                 ]
             }
         },
@@ -24025,6 +24059,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樂媽咪手作烘焙坊",
+                "category": "糕餅",
+                "area": "香山區",
+                "market_address": "新竹市香山區頂埔里經國路三段９２巷１６弄２５號６樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.951567,
+                    24.798245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 新竹中華店",
                 "category": "餐飲\/糕餅",
                 "area": "香山區",
@@ -24325,6 +24376,23 @@
                 "coordinates": [
                     120.92774,
                     24.789545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "貳寶媽早餐店",
+                "category": "餐飲",
+                "area": "香山區",
+                "market_address": "新竹市香山區埔前里牛埔路４１８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.943203,
+                    24.797756
                 ]
             }
         },
@@ -24726,7 +24794,7 @@
                 "category": "餐飲",
                 "area": "香山區",
                 "market_address": "新竹市香山區牛埔里牛埔東路２９２號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

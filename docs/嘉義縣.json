@@ -140,6 +140,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "雲來餐飲有限公司",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和睦村１鄰司公廍４－１５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481356,
+                    23.450975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雪晶冷熱飲店",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -212,7 +229,7 @@
                 "category": "餐飲",
                 "area": "中埔鄉",
                 "market_address": "嘉義縣中埔鄉富收村頂中下街９５、９７號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1976,6 +1993,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "築日食堂",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市安仁里０１０鄰祥和一路東段２７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296179,
+                    23.458819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "福爾摩沙茶點食品股份有限公司",
                 "category": "餐飲",
                 "area": "太保市",
@@ -2350,6 +2384,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "六隻小豬商行",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市安仁里０１０鄰祥和三路東段４３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293876,
+                    23.454671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方雲集 太保中山店",
                 "category": "餐飲",
                 "area": "太保市",
@@ -2361,6 +2412,23 @@
                 "coordinates": [
                     120.37328060055,
                     23.499220249342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "依濃商行",
+                "category": "餐飲",
+                "area": "太保市",
+                "market_address": "嘉義縣太保市安仁里０１０鄰祥和三路東段２１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293375,
+                    23.454751
                 ]
             }
         },
@@ -2463,6 +2531,23 @@
                 "coordinates": [
                     120.154493,
                     23.379604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蟹皇海鮮快炒料理",
+                "category": "餐飲",
+                "area": "布袋鎮",
+                "market_address": "嘉義縣布袋鎮岑海里０１１鄰中山路７２號附５",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.153572,
+                    23.379829
                 ]
             }
         },
@@ -2592,7 +2677,7 @@
                 "category": "糕餅",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮後村新民路８５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2609,7 +2694,7 @@
                 "category": "糕餅",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮後村新民路８５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2660,7 +2745,7 @@
                 "category": "糕餅",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村１９鄰中山路８５－２號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2762,13 +2847,30 @@
                 "category": "餐飲",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村０２３鄰中山路１２３號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.34748,
                     23.553011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "楊○豪",
+                "category": "餐飲",
+                "area": "新港鄉",
+                "market_address": "嘉義縣新港鄉宮前村中山路７２巷１０之２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.345539,
+                    23.554093
                 ]
             }
         },
@@ -2820,6 +2922,23 @@
                 "coordinates": [
                     120.343262,
                     23.557074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新港客廳",
+                "category": "餐飲",
+                "area": "新港鄉",
+                "market_address": "嘉義縣新港鄉宮後村０１５鄰宮後街４１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348902,
+                    23.557807
                 ]
             }
         },
@@ -2922,6 +3041,23 @@
                 "coordinates": [
                     120.346835,
                     23.557838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "克霖商行",
+                "category": "餐飲",
+                "area": "新港鄉",
+                "market_address": "嘉義縣新港鄉宮前村０１８鄰登雲路１３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34935,
+                    23.555465
                 ]
             }
         },
@@ -4384,6 +4520,23 @@
                 "coordinates": [
                     120.558798,
                     23.582362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "舊是這一家鹽酥雞",
+                "category": "夜市\/市場攤販",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉中樂村０２３鄰民權路３―８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43031770682,
+                    23.558164248003
                 ]
             }
         },
@@ -6430,6 +6583,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "馨玉台越料理",
+                "category": "餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉粗溪村15鄰嘉朴路１１８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395259,
+                    23.434315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雨豆樹咖啡輕飲",
                 "category": "餐飲",
                 "area": "水上鄉",
@@ -6468,7 +6638,7 @@
                 "category": "餐飲",
                 "area": "水上鄉",
                 "market_address": "嘉義縣水上鄉水頭村１７鄰中興路２９８號",
-                "pay_list": "信用卡\/悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6543,6 +6713,23 @@
                 "coordinates": [
                     120.409542,
                     23.447136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "穎益商行",
+                "category": "餐飲",
+                "area": "水上鄉",
+                "market_address": "嘉義縣水上鄉水頭村中興路４０２號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400364,
+                    23.431066
                 ]
             }
         },

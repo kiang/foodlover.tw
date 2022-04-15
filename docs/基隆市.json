@@ -21,6 +21,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "雲記法國麵包",
+                "category": "糕餅",
+                "area": "七堵區",
+                "market_address": "基隆市七堵區六堵里工建路１０４巷９６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.702183,
+                    25.089302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "郃嘉食品行烘培坊",
                 "category": "糕餅",
                 "area": "七堵區",
@@ -1290,6 +1307,23 @@
                 "coordinates": [
                     121.726175,
                     25.144542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金鳳餐飲商行",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區通化里中華路５１號（１樓）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738439,
+                    25.146218
                 ]
             }
         },
@@ -2656,6 +2690,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陳○安",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正濱里中正路５９１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770544,
+                    25.151788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "陞豪火鍋店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -2847,7 +2898,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區新豐街233號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3442,7 +3493,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區海濱里北寧路７１號１樓",
-                "pay_list": "Pi 拍錢包"
+                "pay_list": "Pi 拍錢包\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3646,7 +3697,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區德義里義二路４２號（１樓）",
-                "pay_list": "橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3901,7 +3952,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區新富里新豐街３７１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -4282,6 +4333,23 @@
                 "coordinates": [
                     121.770846,
                     25.151683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "島上有冰冰品雜貨店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區和憲里和一路３２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76836,
+                    25.15466
                 ]
             }
         },
@@ -4683,7 +4751,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區德義里信二路２８４號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -4758,6 +4826,23 @@
                 "coordinates": [
                     121.770442,
                     25.151565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "冬煦商行",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區祥豐街４８１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770197,
+                    25.146601
                 ]
             }
         },
@@ -4955,7 +5040,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區中正路２４號１樓",
-                "pay_list": "信用卡\/悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5342,6 +5427,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陳○賢攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路１５號前（飲食區編號：１６７）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74357177815,
+                    25.128500364947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陳○文攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路３２號左前（飲食區編號：１６）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74378482746,
+                    25.128475706389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "越南河粉",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "仁愛區",
@@ -5353,6 +5472,91 @@
                 "coordinates": [
                     121.7423884836,
                     25.128353231839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紀○宇攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路２７號前（飲食區編號：１５６）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74377314675,
+                    25.128803408653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "洪○榮攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路１７號前（飲食區編號：１６５）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.743619007,
+                    25.128583192186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "林○欽攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路２４號前（飲食區編號：１０）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74368138885,
+                    25.128299191561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "曾○翔攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路３５號前（飲食區編號：１５０）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74385907921,
+                    25.128943286436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "曾○美攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路３５號前（飲食區編號：１５１）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74385907921,
+                    25.128943286436
                 ]
             }
         },
@@ -5506,6 +5710,23 @@
                 "coordinates": [
                     121.740936,
                     25.129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "何○港攤販",
+                "category": "夜市\/市場攤販",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區愛四路３６號前（飲食區編號：１９）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74383362532,
+                    25.128553957648
                 ]
             }
         },
@@ -10051,6 +10272,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "關○芬攤販",
+                "category": "夜市\/市場攤販",
+                "area": "信義區",
+                "market_address": "基隆市信義區義昭里信義市場１之５４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752609,
+                    25.12884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "瑞緹商號",
                 "category": "夜市\/市場攤販",
                 "area": "信義區",
@@ -12006,6 +12244,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "黃○弘攤販",
+                "category": "夜市\/市場攤販",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區七賢里安和一街６巷２號門口",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723299,
+                    25.122198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蔡家虱目魚店",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "安樂區",
@@ -12017,6 +12272,23 @@
                 "coordinates": [
                     121.726802,
                     25.116174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "果菜市場-陳○田行",
+                "category": "夜市\/市場攤販",
+                "area": "安樂區",
+                "market_address": "基隆市麥金路127巷8號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72065263947,
+                    25.120311555584
                 ]
             }
         },
@@ -13802,6 +14074,23 @@
                 "coordinates": [
                     121.733656,
                     25.107398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鄭○女（攤位６）",
+                "category": "餐飲",
+                "area": "暖暖區",
+                "market_address": "基隆市暖暖區暖暖街１７０號（攤位６）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735963,
+                    25.099791
                 ]
             }
         },

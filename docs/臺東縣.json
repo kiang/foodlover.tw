@@ -212,7 +212,7 @@
                 "category": "餐飲",
                 "area": "卑南鄉",
                 "market_address": "臺東縣卑南鄉明峰村牧場街１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -671,7 +671,7 @@
                 "category": "餐飲",
                 "area": "卑南鄉",
                 "market_address": "臺東縣卑南鄉溫泉村鎮樂路１號１至６樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1976,6 +1976,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "悠虎咖啡工作室",
+                "category": "餐飲",
+                "area": "東河鄉",
+                "market_address": "臺東縣東河鄉北源村柑桔林路４０之５號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286716,
+                    23.004176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "巴帝崮工作室",
                 "category": "餐飲",
                 "area": "東河鄉",
@@ -1997,7 +2014,7 @@
                 "category": "餐飲",
                 "area": "東河鄉",
                 "market_address": "臺東縣東河鄉都蘭村４６鄰都蘭路４２０―４號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2286,7 +2303,7 @@
                 "category": "餐飲",
                 "area": "池上鄉",
                 "market_address": "臺東縣池上鄉福原村中山路通水巷１２號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3115,6 +3132,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "觀光夜市-石板烤肉",
+                "category": "夜市\/市場攤販",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市正氣路280巷9號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14943,
+                    22.754871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "觀光夜市-玻璃貼",
                 "category": "夜市\/市場攤販",
                 "area": "臺東市",
@@ -3222,6 +3256,23 @@
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市正氣路280巷9號",
                 "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14943,
+                    22.754871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "觀光夜市-印尼風味沙嗲",
+                "category": "夜市\/市場攤販",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市正氣路280巷9號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3347,6 +3398,23 @@
                 "coordinates": [
                     121.117536,
                     22.783836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "第一公有零售市場-天棟006號",
+                "category": "夜市\/市場攤販",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市正氣路261巷1號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14981,
+                    22.753702
                 ]
             }
         },
@@ -12102,6 +12170,23 @@
                 "coordinates": [
                     120.884377,
                     22.294536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "鄉村商行",
+                "category": "餐飲",
+                "area": "達仁鄉",
+                "market_address": "臺東縣達仁鄉土坂村土坂４８之１１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887808,
+                    22.454871
                 ]
             }
         },
