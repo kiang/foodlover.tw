@@ -314,7 +314,7 @@
                 "category": "餐飲",
                 "area": "七堵區",
                 "market_address": "基隆市七堵區福五街28號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +722,7 @@
                 "category": "餐飲",
                 "area": "七堵區",
                 "market_address": "基隆市七堵區正明里自治街４２號１樓",
-                "pay_list": "悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "悠遊付\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -773,7 +773,7 @@
                 "category": "餐飲",
                 "area": "七堵區",
                 "market_address": "基隆市七堵區百福里福五街１８號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+                "pay_list": "icash pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1154,6 +1154,23 @@
                 "coordinates": [
                     121.712293,
                     25.09721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "黃○榮攤販",
+                "category": "夜市\/市場攤販",
+                "area": "中山區",
+                "market_address": "基隆市中山區西定市場Ａ１１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73723,
+                    25.131323
                 ]
             }
         },
@@ -6107,6 +6124,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鳥巢小吃店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區仁德里孝一路６６之１號２樓及６６之２號３樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7416,
+                    25.130237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鬆餅王子餐館",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -6876,7 +6910,7 @@
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區仁德里愛一路３５號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7382,6 +7416,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "紅頂餐飲有限公司基隆營業所",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區新店里孝一路５６號２樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741254,
+                    25.130026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "紅朗自家烘焙咖啡館",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -7862,7 +7913,7 @@
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區崇文里崇安街１４１號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9082,6 +9133,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "天天鮮排骨飯",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區文昌里孝三路４２巷４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739382,
+                    25.12975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "天元企業社",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -9783,7 +9851,7 @@
                 "category": "餐飲",
                 "area": "仁愛區",
                 "market_address": "基隆市仁愛區仁德里仁二路233號2樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10395,7 +10463,7 @@
                 "category": "糕餅",
                 "area": "信義區",
                 "market_address": "基隆市信義區仁壽里信二路２１９號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10504,6 +10572,23 @@
                 "coordinates": [
                     121.75104,
                     25.13004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "順立商號",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區孝忠里深溪路３９號（１樓）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.781777,
+                    25.132452
                 ]
             }
         },
@@ -10854,7 +10939,7 @@
                 "category": "餐飲",
                 "area": "信義區",
                 "market_address": "基隆市信義區孝忠里深溪路１５６號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10990,7 +11075,7 @@
                 "category": "餐飲",
                 "area": "信義區",
                 "market_address": "基隆市信義區信綠里東信路３１２、３１４號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11150,6 +11235,23 @@
                 "coordinates": [
                     121.768812,
                     25.12834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "沙發冷飲店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區仁義里信一路９６巷１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750302,
+                    25.128857
                 ]
             }
         },
@@ -12499,6 +12601,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鱈之鄉餐飲店",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區鶯安里麥金路２３１之３號（１樓）",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721052,
+                    25.121775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮天下 麥金店(大千小吃店)",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -12669,6 +12788,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陳○穎",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區安一路４６號旁",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73453,
+                    25.131723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "阿忠食堂",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -12707,7 +12843,7 @@
                 "category": "餐飲",
                 "area": "安樂區",
                 "market_address": "基隆市安樂區武嶺街136號",
-                "pay_list": "信用卡\/iPASS一卡通"
+                "pay_list": "信用卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12731,6 +12867,23 @@
                 "coordinates": [
                     121.721041,
                     25.120709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "豪飽煲股份有限公司",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區基金一路135巷21弄2號底一層之7",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.709605,
+                    25.140056
                 ]
             }
         },
@@ -13179,6 +13332,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "楊○福",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區七賢里安和一街２巷８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.724034,
+                    25.121822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "松源食駿小吃店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -13217,7 +13387,7 @@
                 "category": "餐飲",
                 "area": "安樂區",
                 "market_address": "基隆市安樂區嘉仁里安樂路一段２０８號（１樓）",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

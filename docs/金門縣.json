@@ -4,6 +4,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "美順",
+                "category": "夜市\/市場攤販",
+                "area": "烈嶼鄉",
+                "market_address": "金門縣烈嶼鄉林湖村東林市場１３３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.247829,
+                    24.427987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "榮凱",
+                "category": "夜市\/市場攤販",
+                "area": "烈嶼鄉",
+                "market_address": "金門縣烈嶼鄉林湖村東林市場４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.247925,
+                    24.429463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "麗雅",
                 "category": "餐飲",
                 "area": "烈嶼鄉",
@@ -423,6 +457,23 @@
                 "coordinates": [
                     118.28643,
                     24.415661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "真利",
+                "category": "夜市\/市場攤販",
+                "area": "金城鎮",
+                "market_address": "金門縣金城鎮東門里菜市場３６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.31874,
+                    24.431276
                 ]
             }
         },
@@ -3442,7 +3493,7 @@
                 "category": "糕餅",
                 "area": "金寧鄉",
                 "market_address": "金門縣金寧鄉盤山村頂堡５２―４號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3772,6 +3823,23 @@
                 "coordinates": [
                     118.317227,
                     24.440055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "辰馨小舖",
+                "category": "餐飲",
+                "area": "金寧鄉",
+                "market_address": "金門縣金寧鄉湖埔村埔後６１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.315861,
+                    24.443224
                 ]
             }
         },
@@ -4475,6 +4543,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "長合",
+                "category": "餐飲",
+                "area": "金沙鎮",
+                "market_address": "金門縣金沙鎮汶沙里三民路２４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.412718,
+                    24.490134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "金沙湖濱育樂有限公司",
                 "category": "餐飲",
                 "area": "金沙鎮",
@@ -4628,6 +4713,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "我家食品店",
+                "category": "餐飲",
+                "area": "金沙鎮",
+                "market_address": "金門縣金沙鎮復興街１６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.413912,
+                    24.489298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "愜意工作室",
+                "category": "餐飲",
+                "area": "金沙鎮",
+                "market_address": "金門縣金沙鎮汶沙里三民路２４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.412718,
+                    24.490134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "山后海珠咖啡民宿",
                 "category": "餐飲",
                 "area": "金沙鎮",
@@ -4775,6 +4894,23 @@
                 "coordinates": [
                     118.41555,
                     24.44169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "蛋糕小姐製品工作室",
+                "category": "糕餅",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮新湖里塔后１２７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.408799,
+                    24.440366
                 ]
             }
         },
@@ -5217,6 +5353,23 @@
                 "coordinates": [
                     118.416734,
                     24.440605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白貓食品",
+                "category": "餐飲",
+                "area": "金湖鎮",
+                "market_address": "金門縣金湖鎮新市里復興路１１５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.414886,
+                    24.441914
                 ]
             }
         },

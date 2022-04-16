@@ -450,7 +450,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "嘉義市東區中央里中山路282號1樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -616,6 +616,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "勾勾手甜蜜烘焙坊",
+                "category": "糕餅",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里中山路１０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.462819,
+                    23.48274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "佳皇興業有限公司",
                 "category": "糕餅",
                 "area": "東區",
@@ -671,7 +688,7 @@
                 "category": "糕餅",
                 "area": "東區",
                 "market_address": "嘉義市東區中央里中正路３６５號１樓",
-                "pay_list": "信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7726,7 +7743,7 @@
                 "category": "糕餅",
                 "area": "西區",
                 "market_address": "嘉義市西區國華里中山路２９４號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7760,7 +7777,7 @@
                 "category": "糕餅",
                 "area": "西區",
                 "market_address": "嘉義市西區中山路４５９號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

@@ -110,7 +110,7 @@
                 "category": "餐飲",
                 "area": "光復鄉",
                 "market_address": "花蓮縣光復鄉大華村中山路二段３０９號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5648,6 +5648,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "花蓮七星海酒店有限公司",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉大漢村七星街１５２－２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629035,
+                    24.027184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興霖商號",
+                "category": "餐飲",
+                "area": "新城鄉",
+                "market_address": "花蓮縣新城鄉北埔村民族路４８號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603361,
+                    24.032584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "臻馥裕有限公司機場門市",
                 "category": "餐飲",
                 "area": "新城鄉",
@@ -7716,6 +7750,23 @@
                 "coordinates": [
                     121.378763,
                     23.579778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "就匠烘焙",
+                "category": "糕餅",
+                "area": "秀林鄉",
+                "market_address": "花蓮縣秀林鄉秀林村秀林３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.628594,
+                    24.122373
                 ]
             }
         },
@@ -11704,7 +11755,7 @@
                 "category": "糕餅",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國興里０３６鄰建國路二段５００號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11721,7 +11772,7 @@
                 "category": "糕餅",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國治里三民街４６號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11755,7 +11806,7 @@
                 "category": "糕餅",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國聯里國聯一路５７號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11949,6 +12000,23 @@
                 "coordinates": [
                     121.603938,
                     23.974822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "源盛珍食品行",
+                "category": "糕餅",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主學里１５鄰中正路３３３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601771,
+                    23.973728
                 ]
             }
         },
@@ -12261,6 +12329,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "慢師父烘焙工作室",
+                "category": "糕餅",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民運里１７鄰民享一街２９號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632555,
+                    23.992909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "惠比須餅舖",
                 "category": "糕餅",
                 "area": "花蓮市",
@@ -12459,6 +12544,23 @@
                 "coordinates": [
                     121.599697,
                     23.985323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "大地之愛烘焙坊",
+                "category": "糕餅",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民德里民權六街３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622765,
+                    23.985959
                 ]
             }
         },
@@ -12941,6 +13043,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮達仁日式小吃店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主力里００７鄰中華路２５０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600782,
+                    23.975372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮道味",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -13230,6 +13349,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "高綺健康廚房",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國風里０１４鄰建林街５７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598668,
+                    23.979258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "驚奇咖啡",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -13404,7 +13540,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國魂里中山路５４９―１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13496,6 +13632,23 @@
                 "coordinates": [
                     121.596217,
                     23.969442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "食画坊",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里０１２鄰節約街２４號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607054,
+                    23.978314
                 ]
             }
         },
@@ -13859,6 +14012,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陳實商行",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民有里海濱街１１９巷７-１號1樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615887,
+                    23.97551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "阿鴻焢肉飯",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -13938,6 +14108,23 @@
                 "coordinates": [
                     121.605531,
                     23.991693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "阿米濕餐酒館",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國治里節約街４０號２樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608259,
+                    23.979108
                 ]
             }
         },
@@ -14458,7 +14645,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國光里００３鄰大同街８７、８９號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14573,6 +14760,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "軒水蓮有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國安里０１０鄰建國路６巷２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606989,
+                    23.982754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "軒客居小吃店",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -14584,6 +14788,23 @@
                 "coordinates": [
                     121.60098029813,
                     23.988072617628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路邊烤肉奇萊店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國威里００７鄰民國路１５１―１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604636,
+                    23.978323
                 ]
             }
         },
@@ -15066,6 +15287,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "虎藏燒肉",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主學里中正路３７１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602628,
+                    23.974274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "藝術廣場多媒體股份有限公司松園門市部",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -15202,6 +15440,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "蒔夜商店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國聯里商校街９６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603359,
+                    23.987821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蒔光啡室商行",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -15325,7 +15580,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國聯里國聯五路６９號４樓、６樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -15672,6 +15927,23 @@
                 "coordinates": [
                     121.598195,
                     23.974865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "花蓮慶祥慶典商行",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主學里中正路２５５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600221,
+                    23.972747
                 ]
             }
         },
@@ -16035,6 +16307,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "興食尚餐館",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民德里００３鄰中美路５２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.619007,
+                    23.98308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "興旺餐坊",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -16392,6 +16681,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "肉慾企業社",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主睦里成功街１６５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605615,
+                    23.973219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "職牛商號",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -16573,6 +16879,23 @@
                 "coordinates": [
                     121.59376145008,
                     23.974714030443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老味燒腊",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民運里０４６鄰美崙市場２４號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.630337,
+                    23.994064
                 ]
             }
         },
@@ -17208,6 +17531,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "禾德豐股份有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主勤里００３鄰中華路９６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606536,
+                    23.976037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "禮來春天輕食養生健康館",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -17450,7 +17790,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國華里林森路３３３之３號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17610,6 +17950,23 @@
                 "coordinates": [
                     121.607471,
                     23.974022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "田村小吃店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主權里１４鄰德安一街２２５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593774,
+                    23.971847
                 ]
             }
         },
@@ -18045,7 +18402,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市主義里南京街２７２號",
-                "pay_list": "街口\/iPASS 一卡通\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+                "pay_list": "街口\/iPASS 一卡通\/一卡通MONEY(原LINE Pay Money)\/橘子支付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -18772,6 +19129,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "歐啦有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國安里０１０鄰建國路２３號２樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60620472436,
+                    23.982823009993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "歐兜賣雞蛋糕",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -18878,7 +19252,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國安里８鄰復興街８５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/iPASS一卡通"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/iPASS一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -19269,7 +19643,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市主商里２３鄰博愛街１４４號１樓",
-                "pay_list": "信用卡\/街口"
+                "pay_list": "信用卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -19354,13 +19728,30 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國聯里１鄰商校街１７４號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     121.601919,
                     23.987423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "李好早午餐",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國光里進豐街２２巷１５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607078,
+                    23.984577
                 ]
             }
         },
@@ -19497,6 +19888,23 @@
                 "coordinates": [
                     121.60652,
                     23.982272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "曾○壽司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民政里中美路１５９號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.628285,
+                    23.994475
                 ]
             }
         },
@@ -19718,6 +20126,23 @@
                 "coordinates": [
                     121.60883,
                     23.982033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "明欣萬佳鄉早餐店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國光里明禮路１０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609183,
+                    23.98158
                 ]
             }
         },
@@ -19990,6 +20415,23 @@
                 "coordinates": [
                     121.632231,
                     23.9926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新欣麵館",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國威里１鄰民國路１２５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605998,
+                    23.979212
                 ]
             }
         },
@@ -20370,6 +20812,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "思慕餐廚",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主安里中正路１４３巷７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597509,
+                    23.971291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "忠厚寶石花坊",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -20517,6 +20976,23 @@
                 "coordinates": [
                     121.605813,
                     23.981831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "建程商號",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國風里０１６鄰林政街８巷２弄６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595303,
+                    23.97709
                 ]
             }
         },
@@ -20925,6 +21401,23 @@
                 "coordinates": [
                     121.604738,
                     23.978387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "山西麵飯館",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主安里中強街４６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599991,
+                    23.970716
                 ]
             }
         },
@@ -21781,6 +22274,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "好家便當企業社",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國魂里建國路２９６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598826,
+                    23.984501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "女王萬歲早午餐",
                 "category": "餐飲",
                 "area": "花蓮市",
@@ -21860,6 +22370,23 @@
                 "coordinates": [
                     121.60922664852,
                     23.976153442057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "奔跑山豬運動事業有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市主睦里成功街１４５號１、２樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605104,
+                    23.972908
                 ]
             }
         },
@@ -21962,6 +22489,23 @@
                 "coordinates": [
                     121.630191,
                     23.993302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "大邱骨道企業社",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國聯里０１８鄰商校街５０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605068,
+                    23.988264
                 ]
             }
         },
@@ -22115,6 +22659,23 @@
                 "coordinates": [
                     121.61802726988,
                     23.982435002112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "多羅滿海上娛樂股份有限公司",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民德里７鄰民權路３７號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.621995,
+                    23.983695
                 ]
             }
         },
@@ -22659,6 +23220,23 @@
                 "coordinates": [
                     121.601733,
                     23.973697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "名昇小吃店",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市國華里建國路７１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603594,
+                    23.983286
                 ]
             }
         },
@@ -23587,7 +24165,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國風里００８鄰林森路１１３號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -23604,7 +24182,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國風里建林街８７號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -23747,6 +24325,23 @@
                 "coordinates": [
                     121.604786,
                     23.979263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亮亮小吃部",
+                "category": "餐飲",
+                "area": "花蓮市",
+                "market_address": "花蓮縣花蓮市民運里００１鄰中美路２５０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629191,
+                    23.994904
                 ]
             }
         },
@@ -24148,7 +24743,7 @@
                 "category": "餐飲",
                 "area": "花蓮市",
                 "market_address": "花蓮縣花蓮市國慶里中山路一段３８６―６號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -24960,6 +25555,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "微海放號",
+                "category": "餐飲",
+                "area": "豐濱鄉",
+                "market_address": "花蓮縣豐濱鄉豐濱村０１０鄰民權街６５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520358,
+                    23.595313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "市民小站商店",
                 "category": "餐飲",
                 "area": "豐濱鄉",
@@ -25073,6 +25685,23 @@
                 "coordinates": [
                     121.445419,
                     23.754065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "野菜野生植物養生館",
+                "category": "餐飲",
+                "area": "鳳林鎮",
+                "market_address": "花蓮縣鳳林鎮鳳信里中正路一段１７４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444699,
+                    23.736166
                 ]
             }
         },

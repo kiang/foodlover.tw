@@ -854,6 +854,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "駱哥港式點心有限公司",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市重慶里海埔路１１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.568686,
+                    23.56597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "馬路益燒肉飯",
                 "category": "餐飲",
                 "area": "馬公市",
@@ -1368,7 +1385,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市光榮里三多路２５３號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1647,6 +1664,23 @@
                 "coordinates": [
                     119.572317,
                     23.573544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "興澄商行",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市朝陽里陽明路６２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.574436,
+                    23.572959
                 ]
             }
         },
@@ -2796,7 +2830,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市中興里文化路１３號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -2813,7 +2847,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市中興里文化路１３號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3119,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市陽明里新生路８６巷１５弄２０號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3357,7 +3391,7 @@
                 "category": "餐飲",
                 "area": "馬公市",
                 "market_address": "澎湖縣馬公市東文里文前街６７號１樓",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3874,6 +3908,23 @@
                 "coordinates": [
                     119.569501,
                     23.570022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "佶肯漢堡炸雞店",
+                "category": "餐飲",
+                "area": "馬公市",
+                "market_address": "澎湖縣馬公市啓明里中山路９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.566824,
+                    23.563441
                 ]
             }
         },

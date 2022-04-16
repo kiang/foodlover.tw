@@ -42,7 +42,7 @@
                 "category": "餐飲",
                 "area": "三灣鄉",
                 "market_address": "苗栗縣三灣鄉頂寮村３鄰祭山湖１５－１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2928,6 +2928,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "南北創意小館",
+                "category": "餐飲",
+                "area": "大湖鄉",
+                "market_address": "苗栗縣大湖鄉富興村００８鄰八寮灣２５―８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.857787,
+                    24.430596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "勻淨湖民宿",
                 "category": "餐飲",
                 "area": "大湖鄉",
@@ -2939,6 +2956,23 @@
                 "coordinates": [
                     120.823414,
                     24.343264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "伊果生技有限公司",
+                "category": "餐飲",
+                "area": "大湖鄉",
+                "market_address": "苗栗縣大湖鄉新開村００５鄰新開８―５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830854,
+                    24.350455
                 ]
             }
         },
@@ -3119,7 +3153,7 @@
                 "category": "餐飲",
                 "area": "後龍鎮",
                 "market_address": "苗栗縣後龍鎮灣寶里００１鄰圪仔內３―５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -3255,7 +3289,7 @@
                 "category": "餐飲",
                 "area": "後龍鎮",
                 "market_address": "苗栗縣後龍鎮北龍里００７鄰中華路２４號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3459,7 +3493,7 @@
                 "category": "餐飲",
                 "area": "泰安鄉",
                 "market_address": "苗栗縣泰安鄉錦水村８鄰橫龍山５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8627,7 +8661,7 @@
                 "category": "餐飲\/糕餅",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市青苗里中正路６３１號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17287,6 +17321,40 @@
                 "coordinates": [
                     120.918514,
                     24.590762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "慕雲想莊園饗旅",
+                "category": "餐飲",
+                "area": "頭屋鄉",
+                "market_address": "苗栗縣頭屋鄉象山村１５鄰濫坑５７之２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.859965,
+                    24.569769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "太和康養國際投資股份有限公司",
+                "category": "餐飲",
+                "area": "頭屋鄉",
+                "market_address": "苗栗縣頭屋鄉明德村４鄰明德路５４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.890009,
+                    24.588321
                 ]
             }
         },

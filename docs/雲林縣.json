@@ -3034,13 +3034,30 @@
                 "category": "餐飲",
                 "area": "大埤鄉",
                 "market_address": "雲林縣大埤鄉豐田村００９鄰延平路３段６―２號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.47396037516,
                     23.6615146045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "品鮮璞食股份有限公司農業文創館",
+                "category": "餐飲",
+                "area": "大埤鄉",
+                "market_address": "雲林縣大埤鄉嘉興村０１５鄰豐田路５７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.466418,
+                    23.639457
                 ]
             }
         },
@@ -3999,6 +4016,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "黃○熙",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市成功里成功路５１７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553483,
+                    23.703423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "麥鋪早餐店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市三平里西平路１１３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536933,
+                    23.71064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "麥當勞斗六雲林分公司",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -4180,6 +4231,23 @@
                 "coordinates": [
                     120.530572,
                     23.702154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "飛翔商行",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中山路３５０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538083,
+                    23.699839
                 ]
             }
         },
@@ -4972,7 +5040,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市社口里中山路３７３號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5274,11 +5342,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "繁盛商行",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮北里鎮北路８６號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543197,
+                    23.713974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "緻麗伯爵企業有限公司",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市信義里中山路６之８１號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5302,6 +5387,23 @@
                 "coordinates": [
                     120.544231,
                     23.700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "維晟企業社",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市忠孝里中華路２２３號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547552,
+                    23.70866
                 ]
             }
         },
@@ -6753,6 +6855,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "星葉商行",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中堅西路５２９號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535396,
+                    23.700665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "星城圓",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6764,6 +6883,23 @@
                 "coordinates": [
                     120.539339,
                     23.705271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "昕釉輕食店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市光興里民生路６２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53872,
+                    23.709516
                 ]
             }
         },
@@ -7127,6 +7263,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "承果商行",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里００５鄰中山路３２４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538158,
+                    23.700901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "戶隱商行",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -7216,7 +7369,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市明德路６３０號",
-                "pay_list": "悠遊卡"
+                "pay_list": "悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7335,7 +7488,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市嘉東里嘉新一路３１號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7376,6 +7529,23 @@
                 "coordinates": [
                     120.537454,
                     23.704165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "巴特茶飲",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮西里雲林路二段２９９號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531865,
+                    23.70215
                 ]
             }
         },
@@ -7505,7 +7675,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市三平里斗六五路３９號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -7886,6 +8056,23 @@
                 "coordinates": [
                     120.531625,
                     23.699477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "喬楓餐飲有限公司",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市公誠里漢口路２２１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541613,
+                    23.713645
                 ]
             }
         },
@@ -8328,6 +8515,23 @@
                 "coordinates": [
                     120.537144,
                     23.701556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "六合院商行",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市信義里民生路２４３號１、２樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542824,
+                    23.712287
                 ]
             }
         },
@@ -8844,6 +9048,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "三好國際酒店股份有限公司",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市三平里１２鄰斗六五路３５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.534287,
+                    23.716995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "三商巧福 雲林店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -9018,7 +9239,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "台灣pay\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -9035,7 +9256,7 @@
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
-                "pay_list": "台灣pay\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10514,7 +10735,7 @@
                 "category": "糕餅",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮中山里１鄰新興路７５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11020,6 +11241,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鈕屋餐飲館",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮東仁里光復路３４６－１號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437693,
+                    23.710319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "金鵬棉織有限公司",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -11313,7 +11551,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮西安里００３鄰中正路２３８號１－２樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11381,7 +11619,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮西安里林森路二段１２５號１樓",
-                "pay_list": "信用卡\/街口"
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -11721,7 +11959,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮中山里林森路一段４９７號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11772,7 +12010,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮西安里中正路２９５號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11806,7 +12044,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮安慶里民主路１號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11823,7 +12061,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮安慶里糖廠民主路１－２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11943,6 +12181,23 @@
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮惠來里２１鄰惠來７５－６號",
                 "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495726,
+                    23.730049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "澄舍餐飲美食館",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮惠來里惠來７５－６號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12605,7 +12860,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮埒內里林森路一段127號",
-                "pay_list": "信用卡\/悠遊卡"
+                "pay_list": "信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -12822,6 +13077,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "家宸飲品行",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮東仁里光復路３４６號1樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.437754,
+                    23.710243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宮本屋日本料理店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -12962,7 +13234,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮新興里福民路１１５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/iPASS 一卡通"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/iPASS 一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13132,7 +13404,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮立仁里１１鄰林森路２段７２號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13166,7 +13438,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮東仁里光復路３１６―２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13353,7 +13625,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮新吉里立德路１３７號",
-                "pay_list": "悠遊卡\/街口"
+                "pay_list": "悠遊卡\/街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13438,7 +13710,7 @@
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮東仁里信義路６９號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -13649,6 +13921,23 @@
                 "coordinates": [
                     120.458528,
                     23.801068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "第二公有零售市場-君容瑄手工皂",
+                "category": "夜市\/市場攤販",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮中和里市後街36號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463424,
+                    23.801786
                 ]
             }
         },
@@ -14679,7 +14968,7 @@
                 "category": "餐飲",
                 "area": "麥寮鄉",
                 "market_address": "雲林縣麥寮鄉橋頭村仁德路２２１號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14992,6 +15281,23 @@
                 "coordinates": [
                     120.250756,
                     23.750132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "兆洋餐飲事業股份有限公司雲林麥寮分公司",
+                "category": "餐飲",
+                "area": "麥寮鄉",
+                "market_address": "雲林縣麥寮鄉麥津村中興路７４號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252153,
+                    23.752099
                 ]
             }
         },

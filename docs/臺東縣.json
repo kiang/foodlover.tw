@@ -2762,7 +2762,7 @@
                 "category": "餐飲",
                 "area": "綠島鄉",
                 "market_address": "臺東縣綠島鄉南寮村南寮路１２８號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2888,6 +2888,23 @@
                 "coordinates": [
                     121.468783,
                     22.672684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "方所國際有限公司",
+                "category": "餐飲",
+                "area": "綠島鄉",
+                "market_address": "臺東縣綠島鄉南寮村南寮路105-6號1樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470524,
+                    22.665665
                 ]
             }
         },
@@ -4241,7 +4258,7 @@
                 "category": "糕餅",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市卑南里更生北路１８１巷４０號２樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -5618,7 +5635,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市豐榮里中華路２段１９９號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6158,6 +6175,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "茶心商行",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中正里光明路１５４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151529,
+                    22.755054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茱麗葉輕飲茶娜路灣店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -6247,7 +6281,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市民生里浙江路３５０號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6634,6 +6668,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "糖果樂園有限公司",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中山里６鄰正氣路２０１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151087,
+                    22.752877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "米巴奈山地美食坊",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -6655,7 +6706,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市成功里大同路２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6713,6 +6764,23 @@
                 "coordinates": [
                     121.149697,
                     22.752352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "稻汪茶莊",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐谷里漢陽北路１６５號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.134499,
+                    22.747031
                 ]
             }
         },
@@ -6815,6 +6883,23 @@
                 "coordinates": [
                     121.142971,
                     22.762203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "福來炸物商行",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐榮里中華路二段８號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.141271,
+                    22.745998
                 ]
             }
         },
@@ -7529,6 +7614,23 @@
                 "coordinates": [
                     121.137185,
                     22.762111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "波籐愛莉創生有限公司",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐原里中華路四段４２８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.107797,
+                    22.729623
                 ]
             }
         },
@@ -8712,7 +8814,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市自強里正氣北路１７０號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8780,7 +8882,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市新生里中興路１段１１０號１－５樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -8929,6 +9031,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "德潤餐飲股份有限公司",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市岩灣里新興路６５１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.125572,
+                    22.793256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "德哥麻辣燙食行",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -9069,7 +9188,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市民生里浙江路３５０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9252,11 +9371,28 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "山姆美式簡餐店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市興國里信義路１８６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148944,
+                    22.753124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "履舍民宿",
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市中山里００１鄰光明路１７０號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9307,7 +9443,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市中正里中正路２４９號１樓",
-                "pay_list": "icash pay\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "icash pay\/悠遊付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9609,6 +9745,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "宗華商行",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中山里正氣路１９０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151216,
+                    22.753019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "安德烈小吃部",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -9711,6 +9864,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "好耶主意工作室",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市民生里開封街４５３號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143154,
+                    22.763211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "好樂迪股份有限公司台東分公司",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -9800,7 +9970,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市新生里更生路６３８號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -9892,6 +10062,23 @@
                 "coordinates": [
                     121.153406,
                     22.756081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "大豐茶行",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市新生里更生路４８２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.141346,
+                    22.763344
                 ]
             }
         },
@@ -10310,7 +10497,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市興國里正氣路２１５‧２１７號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡"
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10735,7 +10922,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市中心里新生路５４４號一樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10810,6 +10997,23 @@
                 "coordinates": [
                     121.152834,
                     22.752534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "南京商號",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市文化里中山路４０８號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.147276,
+                    22.752721
                 ]
             }
         },
@@ -11262,7 +11466,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市自強里正氣北路７６巷６２弄１１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11303,6 +11507,23 @@
                 "coordinates": [
                     121.15255612732,
                     22.756297567777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "京旺手搖飲專賣店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐安里漢陽北路２３２號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.133953,
+                    22.748522
                 ]
             }
         },
@@ -11643,6 +11864,23 @@
                 "coordinates": [
                     121.152579,
                     22.755044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "三分幸福餐館",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市新生里開封街４３５號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.143379,
+                    22.763641
                 ]
             }
         },
@@ -12346,6 +12584,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "烤茶地商行",
+                "category": "餐飲",
+                "area": "長濱鄉",
+                "market_address": "臺東縣長濱鄉長濱村中興２８之１２號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.453485,
+                    23.318956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "柏園美加美店",
                 "category": "餐飲",
                 "area": "長濱鄉",
@@ -12758,7 +13013,7 @@
                 "category": "餐飲",
                 "area": "鹿野鄉",
                 "market_address": "臺東縣鹿野鄉鹿野村中華路一段２６０號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",

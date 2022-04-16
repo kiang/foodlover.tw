@@ -276,6 +276,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "有地股份有限公司",
+                "category": "餐飲",
+                "area": "三星鄉",
+                "market_address": "宜蘭縣三星鄉大隱村００２鄰大埔一路１０２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.723681,
+                    24.662063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "星寶蔥仔餅",
                 "category": "餐飲",
                 "area": "三星鄉",
@@ -637,7 +654,7 @@
                 "category": "餐飲",
                 "area": "五結鄉",
                 "market_address": "宜蘭縣五結鄉協和村公園二路１５號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1062,7 +1079,7 @@
                 "category": "餐飲",
                 "area": "五結鄉",
                 "market_address": "宜蘭縣五結鄉四結村中正路一段１１０及１１２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1177,6 +1194,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "懷念食坊",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉二結村二結路１８７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768319,
+                    24.705745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "悟饕股份有限公司",
                 "category": "餐飲",
                 "area": "五結鄉",
@@ -1215,7 +1249,7 @@
                 "category": "餐飲",
                 "area": "五結鄉",
                 "market_address": "宜蘭縣五結鄉季新村五濱路二段２０１號",
-                "pay_list": "信用卡\/悠遊卡"
+                "pay_list": "信用卡\/悠遊卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1409,6 +1443,23 @@
                 "coordinates": [
                     121.797957,
                     24.685417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "元味小吃部",
+                "category": "餐飲",
+                "area": "五結鄉",
+                "market_address": "宜蘭縣五結鄉四結村中正路一段２巷１２３號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773668,
+                    24.686288
                 ]
             }
         },
@@ -1691,7 +1742,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉大進村梅山路１６８號",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1708,7 +1759,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉冬山村冬山路１８６號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -1878,7 +1929,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉珍珠村富農路１段３１２巷１２０號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2218,7 +2269,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉冬山村安平路廟後巷３０號",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2327,6 +2378,23 @@
                 "coordinates": [
                     121.730169,
                     24.619446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "杰米炸物飲品店",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉順安村義成路二段315號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763386,
+                    24.652868
                 ]
             }
         },
@@ -2473,7 +2541,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉柯林村光華三路１３２巷１２號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2507,7 +2575,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉大進村７鄰大進路４２６巷３２號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -2582,6 +2650,23 @@
                 "coordinates": [
                     121.792174,
                     24.635802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小埤阿水果物工作室",
+                "category": "餐飲",
+                "area": "冬山鄉",
+                "market_address": "宜蘭縣冬山鄉大進村大進路４０２號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.713937,
+                    24.634397
                 ]
             }
         },
@@ -2966,7 +3051,7 @@
                 "category": "餐飲",
                 "area": "冬山鄉",
                 "market_address": "宜蘭縣冬山鄉中山村８鄰中城二路５８巷１１號１樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -3319,6 +3404,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "陽光田園股份有限公司",
+                "category": "餐飲",
+                "area": "員山鄉",
+                "market_address": "宜蘭縣員山鄉員山村００２鄰金古一路５０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737607,
+                    24.743814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "金醄有限公司",
                 "category": "餐飲",
                 "area": "員山鄉",
@@ -3398,6 +3500,23 @@
                 "coordinates": [
                     121.70436332213,
                     24.728595576601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "綠光森活館",
+                "category": "餐飲",
+                "area": "員山鄉",
+                "market_address": "宜蘭縣員山鄉枕山村枕山路１４９―４１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.718639,
+                    24.767955
                 ]
             }
         },
@@ -3918,7 +4037,7 @@
                 "category": "餐飲",
                 "area": "壯圍鄉",
                 "market_address": "宜蘭縣壯圍鄉美福村中興二路１２９號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -11279,7 +11398,7 @@
                 "category": "糕餅",
                 "area": "礁溪鄉",
                 "market_address": "宜蘭縣礁溪鄉健康路５０號１樓之５",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -14454,6 +14573,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "樂香餅舖",
+                "category": "糕餅",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮竹林里復興路２段３３８號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763811,
+                    24.69216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "日日高升國際有限公司",
                 "category": "糕餅",
                 "area": "羅東鎮",
@@ -14866,7 +15002,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮集祥里公正街５６號１樓",
-                "pay_list": "街口\/悠遊付"
+                "pay_list": "街口\/悠遊付\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -15020,6 +15156,23 @@
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮漢民里中山路四段２號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763369,
+                    24.674318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "陽光田園股份有限公司羅東分公司",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮漢民里中山路四段２號",
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -15831,6 +15984,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "聚合豐水餃店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮大新里００５鄰和平路１１１號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772513,
+                    24.677489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "老游牛肉麵",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -15910,6 +16080,23 @@
                 "coordinates": [
                     121.763936,
                     24.677088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "群聚複合式餐飲店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮公正里００２鄰中正北路２７號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772074,
+                    24.67885
                 ]
             }
         },
@@ -16097,6 +16284,23 @@
                 "coordinates": [
                     121.763318,
                     24.677575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "竹軒冷飲站",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮竹林里復興路二段２１５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764708,
+                    24.689826
                 ]
             }
         },
@@ -16307,6 +16511,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "百富小吃部",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮賢文里００７鄰民權路１７６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765333,
+                    24.676748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "白巷子 羅東培英店",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -16494,6 +16715,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "滿寶樓小吃",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮仁和里公園路５８號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768646,
+                    24.674021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "源兵衛餐飲",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -16634,7 +16872,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮南豪里中正南路１３３號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17467,7 +17705,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮國華里公正路３９５號一樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17654,7 +17892,7 @@
                 "category": "餐飲",
                 "area": "羅東鎮",
                 "market_address": "宜蘭縣羅東鎮南豪里興東南路２６號１樓",
-                "pay_list": "街口"
+                "pay_list": "街口\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -17939,6 +18177,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "家聚餐飲行",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮國華里００７鄰尚禮街６１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.759032,
+                    24.679513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宴香天洋食館",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -18154,6 +18409,23 @@
                 "coordinates": [
                     121.761427,
                     24.677394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "天驤茶舖",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮中山里中山路三段２５７號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767786,
+                    24.675142
                 ]
             }
         },
@@ -18636,6 +18908,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "可淳飲料店",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮竹林里復興路二段１１５號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765683,
+                    24.687913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "可可家早午餐",
                 "category": "餐飲",
                 "area": "羅東鎮",
@@ -18698,6 +18987,23 @@
                 "coordinates": [
                     121.769552,
                     24.681795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "千鈺牛排館",
+                "category": "餐飲",
+                "area": "羅東鎮",
+                "market_address": "宜蘭縣羅東鎮漢民里純精路二段１０之１號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.763878,
+                    24.67474
                 ]
             }
         },
