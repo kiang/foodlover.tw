@@ -29567,6 +29567,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "宜家家居股份有限公司高雄分公司(附設瑞典餐廳)",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區忠純里中華五路１２０１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303949,
+                    22.605665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宜品企業行",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -76617,6 +76634,23 @@
                 "coordinates": [
                     120.312191,
                     22.754401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "隆豐阿智茶飲",
+                "category": "餐飲",
+                "area": "橋頭區",
+                "market_address": "高雄市橋頭區隆豐路154號1樓",
+                "pay_list": "iPASS 一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30624,
+                    22.754811
                 ]
             }
         },
