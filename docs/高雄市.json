@@ -61156,14 +61156,14 @@
                 "shop": "歐士達平價異國輕食館",
                 "category": "餐飲",
                 "area": "新興區",
-                "market_address": "高雄市新興區德望里錦田路２１號３樓之２",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "高雄市新興區光耀里錦田路５２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.309988,
-                    22.628858
+                    120.310368,
+                    22.629954
                 ]
             }
         },
@@ -61173,14 +61173,14 @@
                 "shop": "歐士達平價異國輕食館",
                 "category": "餐飲",
                 "area": "新興區",
-                "market_address": "高雄市新興區光耀里錦田路５２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "market_address": "高雄市新興區德望里錦田路２１號３樓之２",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.310368,
-                    22.629954
+                    120.309988,
+                    22.628858
                 ]
             }
         },
@@ -91050,6 +91050,23 @@
                 "coordinates": [
                     120.30148086593,
                     22.612729179035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "芭特芙萊工藝坊",
+                "category": "餐飲\/糕餅",
+                "area": "茂林區",
+                "market_address": "高雄市茂林區茂林里茂林巷１３之５號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663599,
+                    22.887307
                 ]
             }
         },
