@@ -61156,14 +61156,14 @@
                 "shop": "歐士達平價異國輕食館",
                 "category": "餐飲",
                 "area": "新興區",
-                "market_address": "高雄市新興區德望里錦田路２１號３樓之２",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "高雄市新興區光耀里錦田路５２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.309988,
-                    22.628858
+                    120.310368,
+                    22.629954
                 ]
             }
         },
@@ -61173,14 +61173,14 @@
                 "shop": "歐士達平價異國輕食館",
                 "category": "餐飲",
                 "area": "新興區",
-                "market_address": "高雄市新興區光耀里錦田路５２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+                "market_address": "高雄市新興區德望里錦田路２１號３樓之２",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.310368,
-                    22.629954
+                    120.309988,
+                    22.628858
                 ]
             }
         },
@@ -91135,6 +91135,40 @@
                 "coordinates": [
                     120.67591,
                     22.896829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "寶興號",
+                "category": "糕餅",
+                "area": "茄萣區",
+                "market_address": "高雄市茄萣區嘉泰里１３鄰茄萣路２段５３號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183214,
+                    22.89847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 高雄茄萣店",
+                "category": "餐飲\/糕餅",
+                "area": "茄萣區",
+                "market_address": "高雄市茄萣區嘉賜里茄萣路二段３８１號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.183404,
+                    22.905678
                 ]
             }
         },
